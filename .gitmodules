@@ -1,0 +1,3 @@
+[submodule "hugo-files/themes/hugoplate"]
+	path = hugo-files/themes/hugoplate
+	url = https://github.com/zeon-studio/hugoplate.git
