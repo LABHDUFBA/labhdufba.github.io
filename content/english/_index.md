@@ -3,7 +3,7 @@
 banner:
   title: "UFBA Digital Humanities Laboratory - LABHDUFBA"
   content: "Researchers interested in humanities, data, and digital technologies gathered in a space for intellectual exchange, academic research, and scientific production."
-  image: "/images/banner.png"
+  image: "/images/banner-labhd.png"
   button:
     enable: true
     label: "Get in touch"
