@@ -17,7 +17,17 @@ url = "elements/"
 weight = 3
 
 [[main]]
+name = "Team"
+url = "team/"
 weight = 4
+
+[[main]]
+name = "Authors"
+url = "team/"
+weight = 5
+
+[[main]]
+weight = 6
 name = "Pages"
 hasChildren = true
 
@@ -30,11 +40,6 @@ url = "blog/"
 parent = "Pages"
 name = "Contact"
 url = "contact/"
-
-[[main]]
-parent = "Pages"
-name = "Team"
-url = "team/"
 
 [[main]]
 parent = "Pages"
