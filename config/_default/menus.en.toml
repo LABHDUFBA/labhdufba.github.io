@@ -22,6 +22,11 @@ url = "authors/"
 weight = 4
 
 [[main]]
+name = "Contact"
+url = "contact/"
+weight = 5
+
+[[main]]
 weight = 6
 name = "Pages"
 hasChildren = true
@@ -30,11 +35,6 @@ hasChildren = true
 parent = "Pages"
 name = "Blog"
 url = "blog/"
-
-[[main]]
-parent = "Pages"
-name = "Contact"
-url = "contact/"
 
 [[main]]
 parent = "Pages"
