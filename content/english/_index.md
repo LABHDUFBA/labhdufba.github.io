@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Laboratório de Humanidades Digitais da UFBA"
-  content: "Pesquisadores interessados em humanidades, dados e tecnologias digitais"
+  title: "UFBA Digital Humanities Laboratory - LABHDUFBA"
+  content: "Researchers interested in humanities, data, and digital technologies gathered in a space for intellectual exchange, academic research, and scientific production."
   image: "/images/banner.png"
   button:
     enable: true
@@ -22,7 +22,7 @@ features:
     button:
       enable: true
       label: "Explore Our Research"
-      link: "/research/data-mining"
+      link: "/data-mining"
 
   - title: "Digital History and Cultural Analysis"
     image: "/images/research-digital-history.png"
@@ -35,5 +35,19 @@ features:
     button:
       enable: true
       label: "Discover History Projects"
-      link: "/research/digital-history"
+      link: "/digital-history"
+
+  - title: "Join the LABHDUFBA Team"
+    image: "/images/join-us.png"
+    content: "LABHDUFBA invites researchers passionate about Digital Humanities to explore, innovate, and contribute to our dynamic field. With expertise in digital methods and tools, state-of-the-art computing infrastructure, and a vibrant multidisciplinary team, we offer an enriching environment for academic and professional growth."
+    bulletpoints:
+      - "Work with cutting-edge digital methods and tools"
+      - "Access to advanced computers and technological infrastructure"
+      - "Be part of a diverse and multidisciplinary team of experts"
+      - "Engage in innovative research projects with global impact"
+      - "**Opportunities for collaboration and personal development**"
+    button:
+      enable: true
+      label: "Apply Now"
+      link: "/contact"
 ---
