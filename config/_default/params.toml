@@ -38,7 +38,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "get a quote"
+label = "get in touch"
 link = "contact"
 
 # search
@@ -53,11 +53,11 @@ show_tags = true
 show_categories = true
 
 
-# seo meta data for OpenGraph / Twitter Card
+# seo meta data for opengraph / twitter card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
+keywords = ["boilerplate", "hugo"]
+description = "hugo & tailwindcss starter"
 author = "zeon.studio"
 image = "images/og-image.png"
 
@@ -65,19 +65,19 @@ image = "images/og-image.png"
 # site verifications
 # verification module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/site-verifications
 [site_verification]
-google = ""   # Your verification code
-bing = ""     # Your verification code
-baidu = ""    # Your verification code
-facebook = "" # Your verification code
-mastodon = "" # Your verification code
+google = ""   # your verification code
+bing = ""     # your verification code
+baidu = ""    # your verification code
+facebook = "" # your verification code
+mastodon = "" # your verification code
 
 # cookies
 # cookies module: https://github.com/gethugothemes/hugo-modules/tree/master/components/cookie-consent
 [cookies]
 enable = false
 expire_days = 60
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+content = "this site uses cookies. by continuing to use this website, you agree to their use."
+button = "i accept"
 
 ######################## sidebar widgets #########################
 [widgets]
@@ -87,13 +87,13 @@ sidebar = ["categories", "tags"]
 # google map
 [google_map]
 enable = false
-map_api_key = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
+map_api_key = "aizasyccabaamnia6ol5yvyspb3pfmnrxwxnlwu"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 
 
-# Subscription
+# subscription
 [subscription]
 enable = false
 # mailchimp subsciption
