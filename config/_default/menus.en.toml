@@ -18,12 +18,12 @@ weight = 3
 
 [[main]]
 name = "Team"
-url = "team/"
+url = "authors/"
 weight = 4
 
 [[main]]
 name = "Authors"
-url = "team/"
+url = "authors/"
 weight = 5
 
 [[main]]
