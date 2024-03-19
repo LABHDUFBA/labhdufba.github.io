@@ -25,4 +25,4 @@ social:
     link: https://www.instagram.com/ericbrasiln/
 ---
 
-Professor of the undergraduate courses in History and Humanities at the Institute of Humanities and Languages at the University for the International Integration of Afro-Brazilian Lusophony (IHLM/UNILAB), Malês campus, Bahia, Brazil (2017 - current).xPhd (2016) and Master (2011) in History at Universidade Federal Fluminense. Managing Editor of Programming Historian in portuguese.
+Professor of the undergraduate courses in History and Humanities at the Institute of Humanities and Languages at the University for the International Integration of Afro-Brazilian Lusophony (IHLM/UNILAB), Malês campus, Bahia, Brazil (2017 - current). Phd (2016) and Master (2011) in History at Universidade Federal Fluminense. Managing Editor of Programming Historian in portuguese.
