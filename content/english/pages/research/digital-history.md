@@ -12,5 +12,7 @@ draft: false
 
 Digital History
 
+![](/images/research-digital-history.png)
+
 Research in the field of Digital History has been developed in direct partnership between LABHDUFBA and the undergraduate History program of the University for International Integration of Afro-Brazilian Lusophony, Malês campus. We aim to develop empirical research and theoretical discussions based on digitized documentary collections archived in online repositories. The goal is to produce methodological reflections through the use of digital tools that enable new historiographical approaches and the construction of new historical problems for research, teaching, and writing. These reflections seek to directly engage with debates on race, racism, and rights in the Americas. Currently, we work together on the assessment, creation, and enhancement of research tools for historical research, especially R and Python scripts for internet data scraping (web scraping).
 ```
