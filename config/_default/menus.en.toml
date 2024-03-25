@@ -22,12 +22,17 @@ url = "authors/"
 weight = 4
 
 [[main]]
-name = "Contact"
-url = "contact/"
+name = "Publications"
+url = "pages/publications/"
 weight = 5
 
 [[main]]
+name = "Contact"
+url = "contact/"
 weight = 6
+
+[[main]]
+weight = 7
 name = "Pages"
 hasChildren = true
 
