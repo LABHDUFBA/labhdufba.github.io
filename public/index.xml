@@ -1,13 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugoplate</title>
+    <title>LABHDUFBA</title>
     <link>//localhost:1313/</link>
-    <description>Recent content on Hugoplate</description>
+    <description>Recent content on LABHDUFBA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leonardo F. Nascimento</title>
+      <link>//localhost:1313/authors/1_leonardo-nascimento/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/1_leonardo-nascimento/</guid>
+      <description>I am a Chemical Technician, graduated in Psychology, hold a master&amp;rsquo;s degree in Sociology (2007), PhD in Sociology and the coordinator of the Digital Humanities Laboratory at UFBA.</description>
+    </item>
+    <item>
+      <title>Eric Brasil</title>
+      <link>//localhost:1313/authors/2_eric-brasil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/2_eric-brasil/</guid>
+      <description>Professor of the undergraduate courses in History and Humanities at the Institute of Humanities and Languages at the University for the International Integration of Afro-Brazilian Lusophony (IHLM/UNILAB), Malês campus, Bahia, Brazil (2017 - current).</description>
+    </item>
+    <item>
+      <title>Rosana Moore</title>
+      <link>//localhost:1313/authors/3_rosana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/3_rosana/</guid>
+      <description>Possui doutorado (2019) e mestrado (2012) em sociologia pelo Programa de Pós-Graduação do Instituto de Estudos Sociais e Políticos (IESP) da Universidade do Estado do Rio de Janeiro (UERJ) e graduação em Sociologia pela Universidade Federal da Bahia (2007).</description>
+    </item>
+    <item>
+      <title>Letícia Cesarino</title>
+      <link>//localhost:1313/authors/4_leticia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/4_leticia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bruno Durães</title>
+      <link>//localhost:1313/authors/5_bruno/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/5_bruno/</guid>
+      <description>Doutor em Ciências Sociais (Unicamp- 2011), com Mestrado em Sociologia (Unicamp-2006), licenciado em Ciências Sociais (2003) e Bacharel em Sociologia (2004) pela Universidade Federal da Bahia (UFBA).</description>
+    </item>
+    <item>
+      <title>Data Mining for Digital Humanities</title>
+      <link>//localhost:1313/data-mining/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/data-mining/</guid>
+      <description>Data Mining for Digital Humanities&#xA;The acquisition of computational skills in research practice across various fields of the humanities is one of the pillars of what is being called Digital Humanities.</description>
+    </item>
+    <item>
+      <title>Digital History</title>
+      <link>//localhost:1313/digital-history/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/digital-history/</guid>
+      <description>Digital History&#xA;Research in the field of Digital History has been developed in direct partnership between LABHDUFBA and the undergraduate History program of the University for International Integration of Afro-Brazilian Lusophony, Malês campus.</description>
+    </item>
     <item>
       <title>How to build an Application with modern Technology</title>
       <link>//localhost:1313/blog/post-1/</link>
@@ -44,11 +93,18 @@
       <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
     </item>
     <item>
-      <title>John Doe</title>
-      <link>//localhost:1313/authors/john-doe/</link>
+      <title>Elements</title>
+      <link>//localhost:1313/midia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/john-doe/</guid>
-      <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>//localhost:1313/midia/</guid>
+      <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
+    </item>
+    <item>
+      <title>Elements</title>
+      <link>//localhost:1313/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tools/</guid>
+      <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
     </item>
     <item>
       <title>Privacy</title>
@@ -58,6 +114,13 @@
       <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     <item>
+      <title>Publications</title>
+      <link>//localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publications/</guid>
+      <description>2023 L. NASCIMENTO, L.CESARINO, P.FONSECA.Far-right publics on brazilian Telegram a mixed-methods approach to digital anthropology .</description>
+    </item>
+    <item>
       <title>Ready to build your next project with Hugo?</title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -65,25 +128,11 @@
       <description></description>
     </item>
     <item>
-      <title>Sam Wilson</title>
-      <link>//localhost:1313/authors/sam-wilson/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/sam-wilson/</guid>
-      <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    <item>
-      <title>What Users Are Saying About Hugoplate</title>
+      <title>What does our community of researchers and students have to say?</title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid></guid>
       <description></description>
-    </item>
-    <item>
-      <title>William Jacob</title>
-      <link>//localhost:1313/authors/william-jacob/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/william-jacob/</guid>
-      <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
   </channel>
 </rss>
