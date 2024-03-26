@@ -1,14 +1,19 @@
 ############# English navigation ##############
 
-# main menu
-[[main]]
-name = "Home"
-url = "/"
-weight = 1
+# # main menu
+# [[main]]
+# name = "Home"
+# url = "/"
+# weight = 1
 
 [[main]]
 name = "About"
 url = "about/"
+weight = 1
+
+[[main]]
+name = "Team"
+url = "authors/"
 weight = 2
 
 [[main]]
@@ -17,17 +22,27 @@ url = "pages/research/"
 weight = 3
 
 [[main]]
-name = "Team"
-url = "authors/"
+name = "Tools"
+url = "tools/"
 weight = 4
 
 [[main]]
-name = "Contact"
-url = "contact/"
+name = "Publications"
+url = "publications/"
 weight = 5
 
 [[main]]
+name = "Midia Coverage"
+url = "midia/"
 weight = 6
+
+# [[main]]
+# name = "Contact"
+# url = "contact/"
+# weight = 5
+
+[[main]]
+weight = 7
 name = "Pages"
 hasChildren = true
 
