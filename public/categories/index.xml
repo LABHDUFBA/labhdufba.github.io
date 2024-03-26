@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hugoplate</title>
+    <title>Categories on LABHDUFBA</title>
     <link>//localhost:1313/categories/</link>
-    <description>Recent content in Categories on Hugoplate</description>
+    <description>Recent content in Categories on LABHDUFBA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
@@ -27,6 +27,34 @@
       <link>//localhost:1313/categories/data/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       <guid>//localhost:1313/categories/data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Mining</title>
+      <link>//localhost:1313/categories/data-mining/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/data-mining/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital History</title>
+      <link>//localhost:1313/categories/digital-history/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/digital-history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Humanities</title>
+      <link>//localhost:1313/categories/digital-humanities/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/digital-humanities/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Historiography</title>
+      <link>//localhost:1313/categories/historiography/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/historiography/</guid>
       <description></description>
     </item>
     <item>
