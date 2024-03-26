@@ -1,5 +1,6 @@
 ---
 title: Leonardo F. Nascimento
+weight: 1
 email: leofn@ufba.br
 image: "/images/leonardo-nascimento.png"
 description: infos about member

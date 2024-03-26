@@ -1,5 +1,6 @@
 ---
 title: Eric Brasil
+weight: 2
 email: ericbraisln@proton.me
 image: "/images/eric-brasil.png"
 description: infos about member

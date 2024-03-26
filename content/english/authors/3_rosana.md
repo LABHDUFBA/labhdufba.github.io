@@ -1,5 +1,6 @@
 ---
 title: Rosana Moore
+weight: 3
 email: melzana@gmail.com 
 image: "/images/rosana.png"
 description: infos about member

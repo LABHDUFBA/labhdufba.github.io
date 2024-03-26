@@ -8,11 +8,11 @@
     <language>en-us</language>
     <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bruno Durães</title>
-      <link>//localhost:1313/authors/3_bruno-duraes/</link>
+      <title>Leonardo F. Nascimento</title>
+      <link>//localhost:1313/authors/1_leonardo-nascimento/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/3_bruno-duraes/</guid>
-      <description>Doutor em Ciências Sociais (Unicamp- 2011), com Mestrado em Sociologia (Unicamp-2006), licenciado em Ciências Sociais (2003) e Bacharel em Sociologia (2004) pela Universidade Federal da Bahia (UFBA).</description>
+      <guid>//localhost:1313/authors/1_leonardo-nascimento/</guid>
+      <description>I am a Chemical Technician, graduated in Psychology, hold a master&amp;rsquo;s degree in Sociology (2007), PhD in Sociology and the coordinator of the Digital Humanities Laboratory at UFBA.</description>
     </item>
     <item>
       <title>Eric Brasil</title>
@@ -22,25 +22,25 @@
       <description>Professor of the undergraduate courses in History and Humanities at the Institute of Humanities and Languages at the University for the International Integration of Afro-Brazilian Lusophony (IHLM/UNILAB), Malês campus, Bahia, Brazil (2017 - current).</description>
     </item>
     <item>
-      <title>Leonardo F. Nascimento</title>
-      <link>//localhost:1313/authors/1_leonardo-nascimento/</link>
+      <title>Rosana Moore</title>
+      <link>//localhost:1313/authors/3_rosana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/1_leonardo-nascimento/</guid>
-      <description>I am a Chemical Technician, graduated in Psychology, hold a master&amp;rsquo;s degree in Sociology (2007), PhD in Sociology and the coordinator of the Digital Humanities Laboratory at UFBA.</description>
+      <guid>//localhost:1313/authors/3_rosana/</guid>
+      <description>Possui doutorado (2019) e mestrado (2012) em sociologia pelo Programa de Pós-Graduação do Instituto de Estudos Sociais e Políticos (IESP) da Universidade do Estado do Rio de Janeiro (UERJ) e graduação em Sociologia pela Universidade Federal da Bahia (2007).</description>
     </item>
     <item>
       <title>Letícia Cesarino</title>
-      <link>//localhost:1313/authors/leticia/</link>
+      <link>//localhost:1313/authors/4_leticia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/leticia/</guid>
+      <guid>//localhost:1313/authors/4_leticia/</guid>
       <description></description>
     </item>
     <item>
-      <title>Rosana Moore</title>
-      <link>//localhost:1313/authors/rosana/</link>
+      <title>Bruno Durães</title>
+      <link>//localhost:1313/authors/5_bruno/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/rosana/</guid>
-      <description>Possui doutorado (2019) e mestrado (2012) em sociologia pelo Programa de Pós-Graduação do Instituto de Estudos Sociais e Políticos (IESP) da Universidade do Estado do Rio de Janeiro (UERJ) e graduação em Sociologia pela Universidade Federal da Bahia (2007).</description>
+      <guid>//localhost:1313/authors/5_bruno/</guid>
+      <description>Doutor em Ciências Sociais (Unicamp- 2011), com Mestrado em Sociologia (Unicamp-2006), licenciado em Ciências Sociais (2003) e Bacharel em Sociologia (2004) pela Universidade Federal da Bahia (UFBA).</description>
     </item>
   </channel>
 </rss>

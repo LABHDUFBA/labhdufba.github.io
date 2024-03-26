@@ -1,6 +1,7 @@
 ---
 title: Letícia Cesarino
-email: leofn@ufba.br
+weight: 4
+email: letcesar@gmail.com
 image: "/images/leticia.png"
 description: infos about member
 social:
