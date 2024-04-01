@@ -1,48 +1,48 @@
 ############# English navigation ##############
 
-# # main menu
-# [[main]]
-# name = "Home"
-# url = "/"
-# weight = 1
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
 
 [[main]]
 name = "About"
 url = "about/"
-weight = 1
+weight = 2
 
 [[main]]
 name = "Team"
 url = "authors/"
-weight = 2
+weight = 3
 
 [[main]]
 name = "Research"
-url = "pages/research/"
-weight = 3
+url = "research/"
+weight = 4
 
 [[main]]
 name = "Tools"
 url = "tools/"
-weight = 4
+weight = 5
 
 [[main]]
 name = "Publications"
 url = "publications/"
-weight = 5
-
-[[main]]
-name = "Midia Coverage"
-url = "midia/"
 weight = 6
 
-# [[main]]
-# name = "Contact"
-# url = "contact/"
-# weight = 5
+[[main]]
+name = "In the News"
+url = "midia/"
+weight = 7
 
 [[main]]
-weight = 7
+name = "Contact"
+url = "contact/"
+weight = 8
+
+[[main]]
+weight = 9
 name = "Pages"
 hasChildren = true
 
