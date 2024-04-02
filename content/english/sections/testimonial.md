@@ -1,27 +1,22 @@
 ---
 enable: true
-title: "What does our community of researchers and students have to say?"
-description: "What are the benefits of being part of an interdisciplinary digital humanities lab? See what our members and partners have to say."
+title: "Upcoming Events"
+description: "Next events and conferences"
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+  - name: "5ª Conferência Nacional de CT&I"
+    designation: "Conferência Livre: Ciência no Combate à Descinformação"
+    avatar: "/images/gallery/5-cti.jpeg"
+    content: "Participação de Leonardo Nascimento na mesa **Iluminando o Oceano Digital: cooperação científica para a transparência e integridade informacional** que acontecerá no dia 02 de abril de 2024, às 14h, na Capes em Brasília. [*Acesse aqui os detalhes do evento*](https://labhdufba.github.io/publications/)"
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+  - name: "IX Semana de História"
+    designation: "UNIFAL-MG"
+    avatar: "/images/gallery/sem_hist.jpeg"
+    content: "Participação de Eric Brasil na mesa **Somos de humanas? Desafios técnicos e ambientais à profissão do(a) historiador(a)**, no dia 10 de abril de 2024, às 19h."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
-
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Congresso de Iniciação cientítica"
+    designation: "PIBIC"
     avatar: "/images/avatar-sm.png"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
 
