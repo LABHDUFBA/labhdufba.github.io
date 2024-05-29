@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Team on LABHDUFBA</title>
-    <link>//localhost:1313/authors/</link>
+    <link>//localhost:33315/authors/</link>
     <description>Recent content in Team on LABHDUFBA</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:33315/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leonardo F. Nascimento</title>
-      <link>//localhost:1313/authors/1_leonardo-nascimento/</link>
+      <link>//localhost:33315/authors/1_leonardo-nascimento/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/1_leonardo-nascimento/</guid>
+      <guid>//localhost:33315/authors/1_leonardo-nascimento/</guid>
       <description>I am a Chemical Technician, graduated in Psychology, hold a master&amp;rsquo;s degree in Sociology (2007), PhD in Sociology and the coordinator of the Digital Humanities Laboratory at UFBA.</description>
     </item>
     <item>
       <title>Eric Brasil</title>
-      <link>//localhost:1313/authors/2_eric-brasil/</link>
+      <link>//localhost:33315/authors/2_eric-brasil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/2_eric-brasil/</guid>
+      <guid>//localhost:33315/authors/2_eric-brasil/</guid>
       <description>Professor of the undergraduate courses in History and Humanities at the Institute of Humanities and Languages at the University for the International Integration of Afro-Brazilian Lusophony (IHLM/UNILAB), Malês campus, Bahia, Brazil (2017 - current).</description>
     </item>
     <item>
       <title>Rosana Moore</title>
-      <link>//localhost:1313/authors/3_rosana/</link>
+      <link>//localhost:33315/authors/3_rosana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/3_rosana/</guid>
+      <guid>//localhost:33315/authors/3_rosana/</guid>
       <description>Possui doutorado (2019) e mestrado (2012) em sociologia pelo Programa de Pós-Graduação do Instituto de Estudos Sociais e Políticos (IESP) da Universidade do Estado do Rio de Janeiro (UERJ) e graduação em Sociologia pela Universidade Federal da Bahia (2007).</description>
     </item>
     <item>
       <title>Letícia Cesarino</title>
-      <link>//localhost:1313/authors/4_leticia/</link>
+      <link>//localhost:33315/authors/4_leticia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/4_leticia/</guid>
+      <guid>//localhost:33315/authors/4_leticia/</guid>
       <description></description>
     </item>
     <item>
       <title>Bruno Durães</title>
-      <link>//localhost:1313/authors/5_bruno/</link>
+      <link>//localhost:33315/authors/5_bruno/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/5_bruno/</guid>
-      <description>Doutor em Ciências Sociais (Unicamp- 2011), com Mestrado em Sociologia (Unicamp-2006), licenciado em Ciências Sociais (2003) e Bacharel em Sociologia (2004) pela Universidade Federal da Bahia (UFBA).</description>
+      <guid>//localhost:33315/authors/5_bruno/</guid>
+      <description>Ph.D. in Social Sciences (Unicamp-2011), with a Master&amp;rsquo;s degree in Sociology (Unicamp-2006), a degree in Social Sciences (2003), and a Bachelor&amp;rsquo;s degree in Sociology (2004) from the Federal University of Bahia (UFBA).</description>
     </item>
   </channel>
 </rss>

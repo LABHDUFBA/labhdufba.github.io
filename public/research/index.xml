@@ -2,32 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on LABHDUFBA</title>
-    <link>//localhost:1313/research/</link>
+    <link>//localhost:33315/research/</link>
     <description>Recent content in Research on LABHDUFBA</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Data Mining for Digital Humanities</title>
-      <link>//localhost:1313/research/data-mining/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/research/data-mining/</guid>
-      <description>Data Mining for Digital Humanities&#xA;The acquisition of computational skills in research practice across various fields of the humanities is one of the pillars of what is being called Digital Humanities.</description>
-    </item>
-    <item>
-      <title>Digital Democracy</title>
-      <link>//localhost:1313/research/digital-democracy/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/research/digital-democracy/</guid>
-      <description>{ width=300px }&#xA;asdsdsçjldskjdjsdksdkjsdksdksldkg</description>
-    </item>
-    <item>
-      <title>Digital History</title>
-      <link>//localhost:1313/research/digital-history/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/research/digital-history/</guid>
-      <description>Digital History&#xA;Research in the field of Digital History has been developed in direct partnership between LABHDUFBA and the undergraduate History program of the University for International Integration of Afro-Brazilian Lusophony, Malês campus.</description>
-    </item>
+    <atom:link href="//localhost:33315/research/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
