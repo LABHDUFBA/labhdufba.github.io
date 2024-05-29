@@ -45,16 +45,23 @@
     </item>
     <item>
       <title>Data Mining for Digital Humanities</title>
-      <link>//localhost:1313/data-mining/</link>
+      <link>//localhost:1313/research/data-mining/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/data-mining/</guid>
+      <guid>//localhost:1313/research/data-mining/</guid>
       <description>Data Mining for Digital Humanities&#xA;The acquisition of computational skills in research practice across various fields of the humanities is one of the pillars of what is being called Digital Humanities.</description>
     </item>
     <item>
-      <title>Digital History</title>
-      <link>//localhost:1313/digital-history/</link>
+      <title>Digital Democracy</title>
+      <link>//localhost:1313/research/digital-democracy/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/digital-history/</guid>
+      <guid>//localhost:1313/research/digital-democracy/</guid>
+      <description>{ width=300px }&#xA;asdsdsçjldskjdjsdksdkjsdksdksldkg</description>
+    </item>
+    <item>
+      <title>Digital History</title>
+      <link>//localhost:1313/research/digital-history/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/research/digital-history/</guid>
       <description>Digital History&#xA;Research in the field of Digital History has been developed in direct partnership between LABHDUFBA and the undergraduate History program of the University for International Integration of Afro-Brazilian Lusophony, Malês campus.</description>
     </item>
     <item>
@@ -93,18 +100,11 @@
       <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
     </item>
     <item>
-      <title>Elements</title>
+      <title>LABHD in the news</title>
       <link>//localhost:1313/midia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/midia/</guid>
-      <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
-    </item>
-    <item>
-      <title>Elements</title>
-      <link>//localhost:1313/tools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tools/</guid>
-      <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
+      <description>Link Veículo Data ‘‘Plataformas digitais criaram crise permanente’’, diz antropóloga Estado de Minas 28.</description>
     </item>
     <item>
       <title>Privacy</title>
@@ -128,7 +128,21 @@
       <description></description>
     </item>
     <item>
-      <title>What does our community of researchers and students have to say?</title>
+      <title>Research</title>
+      <link>//localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/research/</guid>
+      <description>Table of Contents Data Mining for Digital Humanities Digital History Ethical, Social, and Political Implications of Digital Technoscience The Economy of Affectionate Exchanges: Market, Socialities, and Digital Media Data Mining for Digital Humanities The acquisition of computational skills in research practice across various fields of the humanities is one of the pillars of what is being called Digital Humanities.</description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>//localhost:1313/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tools/</guid>
+      <description>Table of Contents Digital Tools Wiki LABHDUFBA Tools Digital Tools Wiki In 2018, the Networked Laboratory of Digital Humanities at the Brazilian Institute of Information in Science and Technology (IBICT) created the first version of the digital tools wiki.</description>
+    </item>
+    <item>
+      <title>Upcoming Events</title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid></guid>

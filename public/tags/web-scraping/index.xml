@@ -9,10 +9,17 @@
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/web-scraping/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Digital History</title>
-      <link>//localhost:1313/digital-history/</link>
+      <title>Digital Democracy</title>
+      <link>//localhost:1313/research/digital-democracy/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/digital-history/</guid>
+      <guid>//localhost:1313/research/digital-democracy/</guid>
+      <description>{ width=300px }&#xA;asdsdsçjldskjdjsdksdkjsdksdksldkg</description>
+    </item>
+    <item>
+      <title>Digital History</title>
+      <link>//localhost:1313/research/digital-history/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/research/digital-history/</guid>
       <description>Digital History&#xA;Research in the field of Digital History has been developed in direct partnership between LABHDUFBA and the undergraduate History program of the University for International Integration of Afro-Brazilian Lusophony, Malês campus.</description>
     </item>
   </channel>

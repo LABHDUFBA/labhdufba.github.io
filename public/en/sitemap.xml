@@ -59,16 +59,19 @@
     <loc>//localhost:1313/categories/data-mining/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/data-mining/</loc>
+    <loc>//localhost:1313/research/data-mining/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/digital-archives/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/research/digital-democracy/</loc>
+    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/categories/digital-history/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/digital-history/</loc>
+    <loc>//localhost:1313/research/digital-history/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/digital-humanities/</loc>
@@ -98,10 +101,7 @@
     <loc>//localhost:1313/tags/nextjs/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pages/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/pages/research/</loc>
+    <loc>//localhost:1313/research/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/silicon/</loc>
@@ -142,18 +142,22 @@
   </url><url>
     <loc>//localhost:1313/elements/</loc>
   </url><url>
+    <loc>//localhost:1313/about/</loc>
+  </url><url>
     <loc>//localhost:1313/midia/</loc>
   </url><url>
-    <loc>//localhost:1313/tools/</loc>
-  </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>//localhost:1313/pages/</loc>
   </url><url>
     <loc>//localhost:1313/privacy-policy/</loc>
   </url><url>
     <loc>//localhost:1313/publications/</loc>
   </url><url>
+    <loc>//localhost:1313/research/</loc>
+  </url><url>
     <loc>//localhost:1313/sections/</loc>
   </url><url>
     <loc>//localhost:1313/authors/</loc>
+  </url><url>
+    <loc>//localhost:1313/tools/</loc>
   </url>
 </urlset>

@@ -933,7 +933,7 @@ main {
 }
 .form-input:focus {
   --tw-border-opacity: 1;
-  border-color: rgb(36 130 34 / var(--tw-border-opacity));
+  border-color: rgb(18 18 18 / var(--tw-border-opacity));
   --tw-ring-color: transparent;
 }
 :is(.dark .form-input) {
@@ -974,7 +974,7 @@ main {
   justify-content: center;
   border-radius: 0.25rem;
   --tw-bg-opacity: 1;
-  background-color: rgb(36 130 34 / var(--tw-bg-opacity));
+  background-color: rgb(18 18 18 / var(--tw-bg-opacity));
   text-align: center;
   line-height: 2.25rem;
   --tw-text-opacity: 1;
@@ -1008,7 +1008,7 @@ main {
   height: 1rem !important;
   width: 1rem !important;
   --tw-bg-opacity: 1 !important;
-  background-color: rgb(36 130 34 / var(--tw-bg-opacity)) !important;
+  background-color: rgb(18 18 18 / var(--tw-bg-opacity)) !important;
 }
 :is(.dark .swiper-pagination-bullet-active) {
   --tw-bg-opacity: 1 !important;
@@ -1496,7 +1496,7 @@ main {
   border-width: 1px;
   border-left-width: 10px;
   --tw-border-opacity: 1;
-  border-color: rgb(36 130 34 / var(--tw-border-opacity));
+  border-color: rgb(18 18 18 / var(--tw-border-opacity));
   --tw-bg-opacity: 1;
   background-color: rgb(246 246 246 / var(--tw-bg-opacity));
   padding-left: 2rem;
@@ -1552,7 +1552,7 @@ main {
 }
 .content :is(:where(a):not(:where([class~="not-prose"],[class~="not-prose"] *))):hover {
   --tw-text-opacity: 1;
-  color: rgb(36 130 34 / var(--tw-text-opacity));
+  color: rgb(18 18 18 / var(--tw-text-opacity));
 }
 :is(.dark .content) :is(:where(a):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
   --tw-text-opacity: 1;
@@ -1714,7 +1714,7 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .nav-link:hover {
   --tw-text-opacity: 1;
-  color: rgb(36 130 34 / var(--tw-text-opacity));
+  color: rgb(18 18 18 / var(--tw-text-opacity));
 }
 :is(.dark .nav-link) {
   --tw-text-opacity: 1;
@@ -1787,7 +1787,7 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .nav-dropdown-link:hover {
   --tw-text-opacity: 1;
-  color: rgb(36 130 34 / var(--tw-text-opacity));
+  color: rgb(18 18 18 / var(--tw-text-opacity));
 }
 :is(.dark .nav-dropdown-link) {
   --tw-text-opacity: 1;
@@ -1874,9 +1874,9 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .btn-primary {
   --tw-border-opacity: 1;
-  border-color: rgb(36 130 34 / var(--tw-border-opacity));
+  border-color: rgb(18 18 18 / var(--tw-border-opacity));
   --tw-bg-opacity: 1;
-  background-color: rgb(36 130 34 / var(--tw-bg-opacity));
+  background-color: rgb(18 18 18 / var(--tw-bg-opacity));
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
@@ -2152,7 +2152,7 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .bg-primary {
   --tw-bg-opacity: 1;
-  background-color: rgb(36 130 34 / var(--tw-bg-opacity));
+  background-color: rgb(18 18 18 / var(--tw-bg-opacity));
 }
 .bg-theme-light {
   --tw-bg-opacity: 1;
@@ -2306,7 +2306,7 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .text-primary {
   --tw-text-opacity: 1;
-  color: rgb(36 130 34 / var(--tw-text-opacity));
+  color: rgb(18 18 18 / var(--tw-text-opacity));
 }
 .text-red-500 {
   --tw-text-opacity: 1;
@@ -3187,12 +3187,12 @@ input#nav-toggle:checked ~ #nav-menu {
   line-height: 2.25rem;
   border-radius: 6px;
   --tw-bg-opacity: 1;
-  background-color: rgb(36 130 34 / var(--tw-bg-opacity));
+  background-color: rgb(18 18 18 / var(--tw-bg-opacity));
 }
 
 .share-icons .share-link:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(36 130 34 / var(--tw-bg-opacity));
+  background-color: rgb(18 18 18 / var(--tw-bg-opacity));
 }
 
 :is(.dark .share-icons .share-link) {
@@ -3403,7 +3403,7 @@ input#nav-toggle:checked ~ #nav-menu {
 
 .hover\:bg-primary:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(36 130 34 / var(--tw-bg-opacity));
+  background-color: rgb(18 18 18 / var(--tw-bg-opacity));
 }
 
 .hover\:bg-theme-light:hover {
@@ -3413,7 +3413,7 @@ input#nav-toggle:checked ~ #nav-menu {
 
 .hover\:text-primary:hover {
   --tw-text-opacity: 1;
-  color: rgb(36 130 34 / var(--tw-text-opacity));
+  color: rgb(18 18 18 / var(--tw-text-opacity));
 }
 
 .hover\:text-white:hover {
