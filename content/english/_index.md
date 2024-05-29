@@ -22,7 +22,7 @@ features:
     button:
       enable: true
       label: "Explore Our Research"
-      link: "/data-mining"
+      link: "/research"
 
   - title: "Digital History and Cultural Analysis"
     image: "/images/research-digital-history.png"
@@ -35,7 +35,7 @@ features:
     button:
       enable: true
       label: "Discover History Projects"
-      link: "/digital-history"
+      link: "/research"
 
   - title: "Join the LABHDUFBA Team"
     image: "/images/join-us.png"
@@ -51,4 +51,3 @@ features:
       label: "Apply Now"
       link: "/contact"
 ---
-
