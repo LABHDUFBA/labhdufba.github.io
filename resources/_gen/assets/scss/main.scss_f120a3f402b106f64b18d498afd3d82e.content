@@ -580,11 +580,6 @@
     height: 100%;
     margin: auto; }
 
-.share-twitter {
-  background-color: #000000; }
-  .share-twitter:hover {
-    background-color: #0c0c0c; }
-
 .share-pinterest {
   background-color: #bd081c; }
   .share-pinterest:hover {
@@ -605,60 +600,25 @@
   .share-reddit:hover {
     background-color: #3a80c1; }
 
-.share-google {
-  background-color: #dd4b39; }
-  .share-google:hover {
-    background-color: #c23321; }
-
 .share-linkedin {
   background-color: #0077b5; }
   .share-linkedin:hover {
     background-color: #046293; }
-
-.share-email {
-  background-color: #777; }
-  .share-email:hover {
-    background-color: #5e5e5e; }
-
-.share-whatsapp {
-  background-color: #25d366; }
-  .share-whatsapp:hover {
-    background-color: #1da851; }
-
-.share-hackernews {
-  background-color: #ff6600; }
-  .share-hackernews:hover {
-    background-color: #fb6200; }
 
 .share-vk {
   background-color: #507299; }
   .share-vk:hover {
     background-color: #43648c; }
 
-.share-facebook {
-  background-color: #3b5998; }
-  .share-facebook:hover {
-    background-color: #2d4373; }
-
 .share-twitter {
   background-color: #55acee; }
   .share-twitter:hover {
     background-color: #2795e9; }
 
-.share-google {
-  background-color: #dd4b39; }
-  .share-google:hover {
-    background-color: #c23321; }
-
 .share-email {
   background-color: #777777; }
   .share-email:hover {
     background-color: #5e5e5e; }
-
-.share-reddit {
-  background-color: #5f99cf; }
-  .share-reddit:hover {
-    background-color: #3a80c1; }
 
 .share-whatsapp {
   background-color: #25d366; }
