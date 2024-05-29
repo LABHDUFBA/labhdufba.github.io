@@ -13,10 +13,6 @@ social:
     icon: fa-brands fa-twitter
     link: https://twitter.com/ericbrasiln
 
-  - name: linkedin
-    icon: fa-brands fa-linkedin
-    link: https://linkedin.com
-
   - name: youtube
     icon: fa-brands fa-youtube
     link: https://www.youtube.com/channel/UC-tuyLIm7Ww_TDjKdHdnaAg
@@ -24,6 +20,10 @@ social:
   - name: instagram
     icon: fa-brands fa-instagram
     link: https://www.instagram.com/ericbrasiln/
+
+  - name: telegram
+    icon: fa-brands fa-telegram
+    link: https://t.me/ericbrasiln
 ---
 
 Professor of the undergraduate courses in History and Humanities at the Institute of Humanities and Languages at the University for the International Integration of Afro-Brazilian Lusophony (IHLM/UNILAB), Malês campus, Bahia, Brazil (2017 - current). Visiting Researcher at the Digital Humanities Lab, IHC, FSCH-NOVA, Lisbon, Portugal (2022 - 2023). Phd (2016) and Master (2011) in History at Universidade Federal Fluminense. Managing Editor of Programming Historian in portuguese.

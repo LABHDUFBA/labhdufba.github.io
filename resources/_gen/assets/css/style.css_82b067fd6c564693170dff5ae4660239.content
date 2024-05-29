@@ -2107,11 +2107,6 @@ input#nav-toggle:checked ~ #nav-menu {
   margin-right: calc(0.25rem * var(--tw-space-x-reverse));
   margin-left: calc(0.25rem * calc(1 - var(--tw-space-x-reverse)));
 }
-.space-x-3 > :not([hidden]) ~ :not([hidden]) {
-  --tw-space-x-reverse: 0;
-  margin-right: calc(0.75rem * var(--tw-space-x-reverse));
-  margin-left: calc(0.75rem * calc(1 - var(--tw-space-x-reverse)));
-}
 .space-y-4 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-y-reverse: 0;
   margin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse)));
@@ -2149,10 +2144,6 @@ input#nav-toggle:checked ~ #nav-menu {
 .bg-gray-200 {
   --tw-bg-opacity: 1;
   background-color: rgb(229 231 235 / var(--tw-bg-opacity));
-}
-.bg-primary {
-  --tw-bg-opacity: 1;
-  background-color: rgb(18 18 18 / var(--tw-bg-opacity));
 }
 .bg-theme-light {
   --tw-bg-opacity: 1;
@@ -2205,10 +2196,6 @@ input#nav-toggle:checked ~ #nav-menu {
 .py-1 {
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
-}
-.py-1\.5 {
-  padding-top: 0.375rem;
-  padding-bottom: 0.375rem;
 }
 .py-10 {
   padding-top: 2.5rem;
@@ -2311,10 +2298,6 @@ input#nav-toggle:checked ~ #nav-menu {
 .text-red-500 {
   --tw-text-opacity: 1;
   color: rgb(239 68 68 / var(--tw-text-opacity));
-}
-.text-white {
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 .opacity-0 {
   opacity: 0;
@@ -2775,11 +2758,6 @@ input#nav-toggle:checked ~ #nav-menu {
     height: 100%;
     margin: auto; }
 
-.share-twitter {
-  background-color: #000000; }
-  .share-twitter:hover {
-    background-color: #0c0c0c; }
-
 .share-pinterest {
   background-color: #bd081c; }
   .share-pinterest:hover {
@@ -2800,60 +2778,25 @@ input#nav-toggle:checked ~ #nav-menu {
   .share-reddit:hover {
     background-color: #3a80c1; }
 
-.share-google {
-  background-color: #dd4b39; }
-  .share-google:hover {
-    background-color: #c23321; }
-
 .share-linkedin {
   background-color: #0077b5; }
   .share-linkedin:hover {
     background-color: #046293; }
-
-.share-email {
-  background-color: #777; }
-  .share-email:hover {
-    background-color: #5e5e5e; }
-
-.share-whatsapp {
-  background-color: #25d366; }
-  .share-whatsapp:hover {
-    background-color: #1da851; }
-
-.share-hackernews {
-  background-color: #ff6600; }
-  .share-hackernews:hover {
-    background-color: #fb6200; }
 
 .share-vk {
   background-color: #507299; }
   .share-vk:hover {
     background-color: #43648c; }
 
-.share-facebook {
-  background-color: #3b5998; }
-  .share-facebook:hover {
-    background-color: #2d4373; }
-
 .share-twitter {
   background-color: #55acee; }
   .share-twitter:hover {
     background-color: #2795e9; }
 
-.share-google {
-  background-color: #dd4b39; }
-  .share-google:hover {
-    background-color: #c23321; }
-
 .share-email {
   background-color: #777777; }
   .share-email:hover {
     background-color: #5e5e5e; }
-
-.share-reddit {
-  background-color: #5f99cf; }
-  .share-reddit:hover {
-    background-color: #3a80c1; }
 
 .share-whatsapp {
   background-color: #25d366; }
@@ -3406,11 +3349,6 @@ input#nav-toggle:checked ~ #nav-menu {
   background-color: rgb(18 18 18 / var(--tw-bg-opacity));
 }
 
-.hover\:bg-theme-light:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(246 246 246 / var(--tw-bg-opacity));
-}
-
 .hover\:text-primary:hover {
   --tw-text-opacity: 1;
   color: rgb(18 18 18 / var(--tw-text-opacity));
@@ -3431,11 +3369,6 @@ input#nav-toggle:checked ~ #nav-menu {
   background-color: rgb(28 28 28 / var(--tw-bg-opacity));
 }
 
-:is(.dark .dark\:bg-darkmode-primary) {
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
-}
-
 :is(.dark .dark\:bg-darkmode-theme-light) {
   --tw-bg-opacity: 1;
   background-color: rgb(34 34 34 / var(--tw-bg-opacity));
@@ -3449,11 +3382,6 @@ input#nav-toggle:checked ~ #nav-menu {
 
 :is(.dark .dark\:to-darkmode-theme-light) {
   --tw-gradient-to: #222222 var(--tw-gradient-to-position);
-}
-
-:is(.dark .dark\:text-dark) {
-  --tw-text-opacity: 1;
-  color: rgb(4 4 4 / var(--tw-text-opacity));
 }
 
 :is(.dark .dark\:text-darkmode-dark) {
@@ -3487,11 +3415,6 @@ input#nav-toggle:checked ~ #nav-menu {
 :is(.dark .dark\:hover\:bg-darkmode-primary:hover) {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
-}
-
-:is(.dark .dark\:hover\:bg-darkmode-theme-light:hover) {
-  --tw-bg-opacity: 1;
-  background-color: rgb(34 34 34 / var(--tw-bg-opacity));
 }
 
 :is(.dark .dark\:hover\:text-dark:hover) {
