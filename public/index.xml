@@ -2,72 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LABHDUFBA</title>
-    <link>//localhost:33315/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on LABHDUFBA</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:33315/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leonardo F. Nascimento</title>
-      <link>//localhost:33315/authors/1_leonardo-nascimento/</link>
+      <link>//localhost:1313/authors/1_leonardo-nascimento/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:33315/authors/1_leonardo-nascimento/</guid>
+      <guid>//localhost:1313/authors/1_leonardo-nascimento/</guid>
       <description>I am a Chemical Technician, graduated in Psychology, hold a master&amp;rsquo;s degree in Sociology (2007), PhD in Sociology and the coordinator of the Digital Humanities Laboratory at UFBA.</description>
     </item>
     <item>
       <title>Eric Brasil</title>
-      <link>//localhost:33315/authors/2_eric-brasil/</link>
+      <link>//localhost:1313/authors/2_eric-brasil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:33315/authors/2_eric-brasil/</guid>
+      <guid>//localhost:1313/authors/2_eric-brasil/</guid>
       <description>Professor of the undergraduate courses in History and Humanities at the Institute of Humanities and Languages at the University for the International Integration of Afro-Brazilian Lusophony (IHLM/UNILAB), Malês campus, Bahia, Brazil (2017 - current).</description>
     </item>
     <item>
       <title>Rosana Moore</title>
-      <link>//localhost:33315/authors/3_rosana/</link>
+      <link>//localhost:1313/authors/3_rosana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:33315/authors/3_rosana/</guid>
-      <description>Possui doutorado (2019) e mestrado (2012) em sociologia pelo Programa de Pós-Graduação do Instituto de Estudos Sociais e Políticos (IESP) da Universidade do Estado do Rio de Janeiro (UERJ) e graduação em Sociologia pela Universidade Federal da Bahia (2007).</description>
+      <guid>//localhost:1313/authors/3_rosana/</guid>
+      <description>Rosana Silva Chagas, currently Rosana Silva Moore Wedderburn, holds a PhD (2019) and a Master&amp;rsquo;s degree (2012) in Sociology from the Graduate Program of the Institute of Social and Political Studies (IESP) at the Rio de Janeiro State University (UERJ), and a Bachelor&amp;rsquo;s degree in Sociology from the Federal University of Bahia (2007).</description>
     </item>
     <item>
       <title>Letícia Cesarino</title>
-      <link>//localhost:33315/authors/4_leticia/</link>
+      <link>//localhost:1313/authors/4_leticia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:33315/authors/4_leticia/</guid>
+      <guid>//localhost:1313/authors/4_leticia/</guid>
       <description></description>
     </item>
     <item>
       <title>Bruno Durães</title>
-      <link>//localhost:33315/authors/5_bruno/</link>
+      <link>//localhost:1313/authors/5_bruno/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:33315/authors/5_bruno/</guid>
+      <guid>//localhost:1313/authors/5_bruno/</guid>
       <description>Ph.D. in Social Sciences (Unicamp-2011), with a Master&amp;rsquo;s degree in Sociology (Unicamp-2006), a degree in Social Sciences (2003), and a Bachelor&amp;rsquo;s degree in Sociology (2004) from the Federal University of Bahia (UFBA).</description>
     </item>
     <item>
-      <title>Elements</title>
-      <link>//localhost:33315/elements/</link>
+      <title>Ícaro Bernardes dos Santos Coutinho</title>
+      <link>//localhost:1313/authors/8_icaro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:33315/elements/</guid>
+      <guid>//localhost:1313/authors/8_icaro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Graziela de Souza Teixeira</title>
+      <link>//localhost:1313/authors/9_grazi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/9_grazi/</guid>
+      <description>Currently, a student of Anthropology at the Federal University of Santa Catarina (UFSC) since 2019, I hold a Bachelor&amp;rsquo;s degree in Business Administration from the University of Vale do Paraíba (UNIVAP, 1998) and a postgraduate degree in Accounting and Financial Administration from Fundação Armando Álvares Penteado (FAAP, 2000).</description>
+    </item>
+    <item>
+      <title>Leonardo Thibau</title>
+      <link>//localhost:1313/authors/10_thibau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/10_thibau/</guid>
+      <description>Undergraduate student in Social Sciences, and Bachelor of Humanities Interdisciplinary Studies at UFBA (2020), PIBIC scholarship recipient at the Laboratory of Science, Technology, and Society - LABCTS, Was a member of the Seminar on Introduction to Psychoanalytic Theory - SIPSI (2019).</description>
+    </item>
+    <item>
+      <title>Elements</title>
+      <link>//localhost:1313/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/elements/</guid>
       <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
     </item>
     <item>
       <title>LABHD in the news</title>
-      <link>//localhost:33315/midia/</link>
+      <link>//localhost:1313/midia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:33315/midia/</guid>
-      <description>Link Veículo Data ‘‘Plataformas digitais criaram crise permanente’’, diz antropóloga Estado de Minas 28.</description>
+      <guid>//localhost:1313/midia/</guid>
+      <description>&#xD;Made with TimelineJS </description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>//localhost:33315/privacy-policy/</link>
+      <link>//localhost:1313/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:33315/privacy-policy/</guid>
+      <guid>//localhost:1313/privacy-policy/</guid>
       <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>//localhost:33315/publications/</link>
+      <link>//localhost:1313/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:33315/publications/</guid>
+      <guid>//localhost:1313/publications/</guid>
       <description>2023 L. NASCIMENTO, L.CESARINO, P.FONSECA.Far-right publics on brazilian Telegram a mixed-methods approach to digital anthropology .</description>
     </item>
     <item>
@@ -79,17 +100,17 @@
     </item>
     <item>
       <title>Research</title>
-      <link>//localhost:33315/research/</link>
+      <link>//localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:33315/research/</guid>
+      <guid>//localhost:1313/research/</guid>
       <description>Table of Contents Data Mining for Digital Humanities Digital History Ethical, Social, and Political Implications of Digital Technoscience The Economy of Affectionate Exchanges: Market, Socialities, and Digital Media Data Mining for Digital Humanities The acquisition of computational skills in research practice across various fields of the humanities is one of the pillars of what is being called Digital Humanities.</description>
     </item>
     <item>
       <title>Tools</title>
-      <link>//localhost:33315/tools/</link>
+      <link>//localhost:1313/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:33315/tools/</guid>
-      <description>Table of Contents Digital Tools Wiki LABHDUFBA Tools Digital Tools Wiki In 2018, the Networked Laboratory of Digital Humanities at the Brazilian Institute of Information in Science and Technology (IBICT) created the first version of the digital tools wiki.</description>
+      <guid>//localhost:1313/tools/</guid>
+      <description>Table of Contents Scielo tools Anped Scraper COMPOS Scraper Anpuh abstracts Scraper Anpuh Scraper pyHDB Digital Tools Wiki Telegram Group Analysis (under development) Whatsapp Group Analysis (under development) Scielo tools Provides tools for scraping, organizing, and analyzing scientific articles from Scielo.</description>
     </item>
     <item>
       <title>Upcoming Events</title>
@@ -100,9 +121,9 @@
     </item>
     <item>
       <title>Writing a Blog Post with Github Copilot</title>
-      <link>//localhost:33315/blog/post-1/</link>
+      <link>//localhost:1313/blog/post-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:33315/blog/post-1/</guid>
+      <guid>//localhost:1313/blog/post-1/</guid>
       <description>In this post, we will be writing a blog post with Github Copilot.</description>
     </item>
   </channel>

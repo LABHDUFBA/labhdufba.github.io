@@ -2,45 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Team on LABHDUFBA</title>
-    <link>//localhost:33315/authors/</link>
+    <link>//localhost:1313/authors/</link>
     <description>Recent content in Team on LABHDUFBA</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:33315/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leonardo F. Nascimento</title>
-      <link>//localhost:33315/authors/1_leonardo-nascimento/</link>
+      <link>//localhost:1313/authors/1_leonardo-nascimento/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:33315/authors/1_leonardo-nascimento/</guid>
+      <guid>//localhost:1313/authors/1_leonardo-nascimento/</guid>
       <description>I am a Chemical Technician, graduated in Psychology, hold a master&amp;rsquo;s degree in Sociology (2007), PhD in Sociology and the coordinator of the Digital Humanities Laboratory at UFBA.</description>
     </item>
     <item>
       <title>Eric Brasil</title>
-      <link>//localhost:33315/authors/2_eric-brasil/</link>
+      <link>//localhost:1313/authors/2_eric-brasil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:33315/authors/2_eric-brasil/</guid>
+      <guid>//localhost:1313/authors/2_eric-brasil/</guid>
       <description>Professor of the undergraduate courses in History and Humanities at the Institute of Humanities and Languages at the University for the International Integration of Afro-Brazilian Lusophony (IHLM/UNILAB), Malês campus, Bahia, Brazil (2017 - current).</description>
     </item>
     <item>
       <title>Rosana Moore</title>
-      <link>//localhost:33315/authors/3_rosana/</link>
+      <link>//localhost:1313/authors/3_rosana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:33315/authors/3_rosana/</guid>
-      <description>Possui doutorado (2019) e mestrado (2012) em sociologia pelo Programa de Pós-Graduação do Instituto de Estudos Sociais e Políticos (IESP) da Universidade do Estado do Rio de Janeiro (UERJ) e graduação em Sociologia pela Universidade Federal da Bahia (2007).</description>
+      <guid>//localhost:1313/authors/3_rosana/</guid>
+      <description>Rosana Silva Chagas, currently Rosana Silva Moore Wedderburn, holds a PhD (2019) and a Master&amp;rsquo;s degree (2012) in Sociology from the Graduate Program of the Institute of Social and Political Studies (IESP) at the Rio de Janeiro State University (UERJ), and a Bachelor&amp;rsquo;s degree in Sociology from the Federal University of Bahia (2007).</description>
     </item>
     <item>
       <title>Letícia Cesarino</title>
-      <link>//localhost:33315/authors/4_leticia/</link>
+      <link>//localhost:1313/authors/4_leticia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:33315/authors/4_leticia/</guid>
+      <guid>//localhost:1313/authors/4_leticia/</guid>
       <description></description>
     </item>
     <item>
       <title>Bruno Durães</title>
-      <link>//localhost:33315/authors/5_bruno/</link>
+      <link>//localhost:1313/authors/5_bruno/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:33315/authors/5_bruno/</guid>
+      <guid>//localhost:1313/authors/5_bruno/</guid>
       <description>Ph.D. in Social Sciences (Unicamp-2011), with a Master&amp;rsquo;s degree in Sociology (Unicamp-2006), a degree in Social Sciences (2003), and a Bachelor&amp;rsquo;s degree in Sociology (2004) from the Federal University of Bahia (UFBA).</description>
+    </item>
+    <item>
+      <title>Ícaro Bernardes dos Santos Coutinho</title>
+      <link>//localhost:1313/authors/8_icaro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/8_icaro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Graziela de Souza Teixeira</title>
+      <link>//localhost:1313/authors/9_grazi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/9_grazi/</guid>
+      <description>Currently, a student of Anthropology at the Federal University of Santa Catarina (UFSC) since 2019, I hold a Bachelor&amp;rsquo;s degree in Business Administration from the University of Vale do Paraíba (UNIVAP, 1998) and a postgraduate degree in Accounting and Financial Administration from Fundação Armando Álvares Penteado (FAAP, 2000).</description>
+    </item>
+    <item>
+      <title>Leonardo Thibau</title>
+      <link>//localhost:1313/authors/10_thibau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/10_thibau/</guid>
+      <description>Undergraduate student in Social Sciences, and Bachelor of Humanities Interdisciplinary Studies at UFBA (2020), PIBIC scholarship recipient at the Laboratory of Science, Technology, and Society - LABCTS, Was a member of the Seminar on Introduction to Psychoanalytic Theory - SIPSI (2019).</description>
     </item>
   </channel>
 </rss>

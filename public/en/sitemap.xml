@@ -2,86 +2,92 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:33315/authors/1_leonardo-nascimento/</loc>
+    <loc>//localhost:1313/authors/1_leonardo-nascimento/</loc>
   </url><url>
-    <loc>//localhost:33315/authors/2_eric-brasil/</loc>
+    <loc>//localhost:1313/authors/2_eric-brasil/</loc>
   </url><url>
-    <loc>//localhost:33315/authors/3_rosana/</loc>
+    <loc>//localhost:1313/authors/3_rosana/</loc>
   </url><url>
-    <loc>//localhost:33315/authors/4_leticia/</loc>
+    <loc>//localhost:1313/authors/4_leticia/</loc>
   </url><url>
-    <loc>//localhost:33315/authors/5_bruno/</loc>
+    <loc>//localhost:1313/authors/5_bruno/</loc>
   </url><url>
-    <loc>//localhost:33315/</loc>
+    <loc>//localhost:1313/authors/8_icaro/</loc>
+  </url><url>
+    <loc>//localhost:1313/authors/9_grazi/</loc>
+  </url><url>
+    <loc>//localhost:1313/authors/10_thibau/</loc>
+  </url><url>
+    <loc>//localhost:1313/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:33315/pt/"
+                href="//localhost:1313/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:33315/"
+                href="//localhost:1313/"
                 />
   </url><url>
-    <loc>//localhost:33315/tags/ai/</loc>
+    <loc>//localhost:1313/tags/ai/</loc>
   </url><url>
-    <loc>//localhost:33315/categories/artificial-intelligence/</loc>
+    <loc>//localhost:1313/categories/artificial-intelligence/</loc>
   </url><url>
-    <loc>//localhost:33315/blog/</loc>
+    <loc>//localhost:1313/blog/</loc>
   </url><url>
-    <loc>//localhost:33315/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:33315/pt/categories/"
+                href="//localhost:1313/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:33315/categories/"
+                href="//localhost:1313/categories/"
                 />
   </url><url>
-    <loc>//localhost:33315/contact/</loc>
+    <loc>//localhost:1313/contact/</loc>
   </url><url>
-    <loc>//localhost:33315/tags/copilot/</loc>
+    <loc>//localhost:1313/tags/copilot/</loc>
   </url><url>
-    <loc>//localhost:33315/elements/</loc>
+    <loc>//localhost:1313/elements/</loc>
   </url><url>
-    <loc>//localhost:33315/tags/github/</loc>
+    <loc>//localhost:1313/tags/github/</loc>
   </url><url>
-    <loc>//localhost:33315/categories/github/</loc>
+    <loc>//localhost:1313/categories/github/</loc>
   </url><url>
-    <loc>//localhost:33315/about/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>//localhost:33315/midia/</loc>
+    <loc>//localhost:1313/midia/</loc>
   </url><url>
-    <loc>//localhost:33315/pages/</loc>
+    <loc>//localhost:1313/pages/</loc>
   </url><url>
-    <loc>//localhost:33315/privacy-policy/</loc>
+    <loc>//localhost:1313/privacy-policy/</loc>
   </url><url>
-    <loc>//localhost:33315/publications/</loc>
+    <loc>//localhost:1313/publications/</loc>
   </url><url>
-    <loc>//localhost:33315/research/</loc>
+    <loc>//localhost:1313/research/</loc>
   </url><url>
-    <loc>//localhost:33315/sections/</loc>
+    <loc>//localhost:1313/sections/</loc>
   </url><url>
-    <loc>//localhost:33315/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:33315/pt/tags/"
+                href="//localhost:1313/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:33315/tags/"
+                href="//localhost:1313/tags/"
                 />
   </url><url>
-    <loc>//localhost:33315/authors/</loc>
+    <loc>//localhost:1313/authors/</loc>
   </url><url>
-    <loc>//localhost:33315/tools/</loc>
+    <loc>//localhost:1313/tools/</loc>
   </url><url>
-    <loc>//localhost:33315/blog/post-1/</loc>
+    <loc>//localhost:1313/blog/post-1/</loc>
   </url>
 </urlset>

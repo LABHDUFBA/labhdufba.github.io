@@ -3,6 +3,8 @@ title: "Hey, we are the LABHDUFBA"
 meta_title: "About"
 description: "Infos about the LABHDUFBA"
 image: "/images/labhd.png"
+image_width: 400
+image_height: 300
 draft: false
 ---
 
