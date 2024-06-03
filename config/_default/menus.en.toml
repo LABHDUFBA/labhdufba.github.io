@@ -42,19 +42,29 @@ url = "contact/"
 weight = 8
 
 [[main]]
-weight = 9
-name = "Pages"
+weight = 6
+name = "Publications"
 hasChildren = true
 
 [[main]]
-parent = "Pages"
+parent = "Publications"
 name = "Blog"
 url = "blog/"
+weight = 3
 
 [[main]]
-parent = "Pages"
-name = "Categories"
-url = "categories/"
+parent = "Publications"
+name = "Articles"
+url = "publications/"
+weight = 1
+
+[[main]]
+parent = "Publications"
+name = "Reports"
+url = "reports/"
+weight = 2
+
+[[main]]
 
 # footer menu
 [[footer]]
