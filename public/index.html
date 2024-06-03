@@ -5,7 +5,7 @@
   lang="en-us"
   itemtype="http://schema.org/WebPage">
   <head>
-	<meta name="generator" content="Hugo 0.124.1">
+	<meta name="generator" content="Hugo 0.126.1"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     
     <meta charset="utf-8" />
 
@@ -73,6 +73,7 @@
 
 
 
+  <base href="//localhost:1313/" />
 
 
 
@@ -94,11 +95,11 @@
 
 
   
-    <link rel="alternate" hreflang="en" href="/" />
+    <link rel="alternate" hreflang="en" href="//localhost:1313/" />
   
-    <link rel="alternate" hreflang="pt" href="/pt/" />
+    <link rel="alternate" hreflang="pt" href="//localhost:1313/pt/" />
   
-  <link rel="alternate" hreflang="x-default" href="/" />
+  <link rel="alternate" hreflang="x-default" href="//localhost:1313/" />
 
 
 
@@ -163,8 +164,8 @@
       
       
       
-        <meta property="og:image" content="/images/labhd.png" />
-        <meta name="twitter:image" content="/images/labhd.png" />
+        <meta property="og:image" content="//localhost:1313/images/labhd.png" />
+        <meta name="twitter:image" content="//localhost:1313/images/labhd.png" />
         <meta
           name="twitter:card"
           content="summary" />
@@ -191,7 +192,7 @@
 <meta property="og:title" content="LABHDUFBA" />
 <meta property="og:description" content="Laboratório de Humanidades Digitais da UFBA" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="/" />
+<meta property="og:url" content="//localhost:1313/" />
 
 
 <meta name="twitter:title" content="LABHDUFBA" />
@@ -218,7 +219,7 @@
 
 
 <script>
-  let indexURL = "/searchindex.json";
+  let indexURL = "//localhost:1313/searchindex.json";
   let includeSectionsInSearch = ["midia","blog"];
   let search_no_results = "0 results for";
   let search_initial_message = "";
@@ -325,8 +326,8 @@
 
 
 <link
-  href="/css/style.min.681ceb65e7f41294b79d69e48a9676f608d1deda20397c77280dc7d32d0ab2d4.css"
-  integrity="sha256-aBzrZef0EpS3nWnkipZ29gjR3togOXx3KA3H0y0KstQ="
+  href="/css/style.css"
+  integrity=""
   rel="stylesheet" />
 
 
@@ -334,8 +335,8 @@
   defer
   async
   rel="stylesheet"
-  href="/css/style-lazy.min.f1e41b257dc4acfeffddf54d6c40c0202fa85180c05b112a8793aa939f4d031c.css"
-  integrity="sha256-8eQbJX3ErP7/3fVNbEDAIC+oUYDAWxEqh5Oqk59NAxw="
+  href="/css/style-lazy.css"
+  integrity=""
   media="print"
   onload="this.media='all'; this.onload=null;" />
 
@@ -348,7 +349,18 @@
 
 
 
+
+
       
+      <div
+  class="fixed left-0 top-0 z-50 flex w-[30px] items-center justify-center bg-gray-200 py-[2.5px] text-[12px] uppercase text-black sm:bg-red-200 md:bg-yellow-200 lg:bg-green-200 xl:bg-blue-200 2xl:bg-pink-200">
+  <span class="block sm:hidden">all</span>
+  <span class="hidden sm:block md:hidden">sm</span>
+  <span class="hidden md:block lg:hidden">md</span>
+  <span class="hidden lg:block xl:hidden">lg</span>
+  <span class="hidden xl:block 2xl:hidden">xl</span>
+  <span class="hidden 2xl:block">2xl</span>
+</div>
 
     
 
@@ -559,13 +571,64 @@
         
         
         
-          <li class="nav-item">
-            <a
-              class="nav-link "
+          <li class="nav-item nav-dropdown group relative">
+            <span
+              class="nav-link 
+                
+                
+                
               
-              href="/publications/"
-              >Publications</a
-            >
+                
+                
+                
+              
+                
+                
+                
+               inline-flex items-center">
+              Publications
+              <svg class="h-4 w-4 fill-current" viewBox="0 0 20 20">
+                <path
+                  d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+              </svg>
+            </span>
+            <ul
+              class="nav-dropdown-list lg:group-hover:visible lg:group-hover:opacity-100">
+              
+                
+                
+                <li class="nav-dropdown-item">
+                  <a
+                    class="nav-dropdown-link "
+                    
+                    href="/publications/">
+                    Articles
+                  </a>
+                </li>
+              
+                
+                
+                <li class="nav-dropdown-item">
+                  <a
+                    class="nav-dropdown-link "
+                    
+                    href="/reports/">
+                    Reports
+                  </a>
+                </li>
+              
+                
+                
+                <li class="nav-dropdown-item">
+                  <a
+                    class="nav-dropdown-link "
+                    
+                    href="/blog/">
+                    Blog
+                  </a>
+                </li>
+              
+            </ul>
           </li>
         
       
@@ -601,49 +664,13 @@
         
         
         
-          <li class="nav-item nav-dropdown group relative">
-            <span
-              class="nav-link 
-                
-                
-                
+          <li class="nav-item">
+            <a
+              class="nav-link active"
               
-                
-                
-                
-               inline-flex items-center">
-              Pages
-              <svg class="h-4 w-4 fill-current" viewBox="0 0 20 20">
-                <path
-                  d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
-              </svg>
-            </span>
-            <ul
-              class="nav-dropdown-list lg:group-hover:visible lg:group-hover:opacity-100">
-              
-                
-                
-                <li class="nav-dropdown-item">
-                  <a
-                    class="nav-dropdown-link "
-                    
-                    href="/blog/">
-                    Blog
-                  </a>
-                </li>
-              
-                
-                
-                <li class="nav-dropdown-item">
-                  <a
-                    class="nav-dropdown-link "
-                    
-                    href="/categories/">
-                    Categories
-                  </a>
-                </li>
-              
-            </ul>
+              href="/"
+              ></a
+            >
           </li>
         
       
@@ -998,31 +1025,31 @@
         <picture>
           <source
             
-              srcset="/images/banner-labhd_hu8f00abed49ea7f0c92aa3d06cb95de82_1279122_545x0_resize_q80_h2_lanczos_3.webp"
+              srcset="/images/banner-sm_hu819d47b00e52c90b61b054ec237f2009_366953_545x0_resize_q80_h2_lanczos_3.webp"
             
             media="(max-width: 575px)" />
           <source
             
-              srcset="/images/banner-labhd_hu8f00abed49ea7f0c92aa3d06cb95de82_1279122_600x0_resize_q80_h2_lanczos_3.webp"
+              srcset="/images/banner-sm_hu819d47b00e52c90b61b054ec237f2009_366953_600x0_resize_q80_h2_lanczos_3.webp"
             
             media="(max-width: 767px)" />
           <source
             
-              srcset="/images/banner-labhd_hu8f00abed49ea7f0c92aa3d06cb95de82_1279122_700x0_resize_q80_h2_lanczos_3.webp"
+              srcset="/images/banner-sm_hu819d47b00e52c90b61b054ec237f2009_366953_700x0_resize_q80_h2_lanczos_3.webp"
             
             media="(max-width: 991px)" />
           <source
             
-              srcset="/images/banner-labhd_hu8f00abed49ea7f0c92aa3d06cb95de82_1279122_800x0_resize_q80_h2_lanczos_3.webp"
+              srcset="/images/banner-sm_hu819d47b00e52c90b61b054ec237f2009_366953_800x0_resize_q80_h2_lanczos_3.webp"
              />
           <img
             
               loading="eager" decoding="async"
-              src="/images/banner-labhd_hu8f00abed49ea7f0c92aa3d06cb95de82_1279122_800x0_resize_lanczos_3.png"
+              src="/images/banner-sm_hu819d47b00e52c90b61b054ec237f2009_366953_800x0_resize_lanczos_3.png"
             class=" mx-auto lg:!max-w-[800px] img"
             alt="Banner image"
-            width="1024"
-            height="1024" />
+            width="500"
+            height="500" />
         </picture>
       
       
@@ -1197,7 +1224,7 @@
             </ul>
             
               
-                <a class="btn btn-primary mt-6" href="/research">
+                <a class="btn btn-primary mt-6" href="//localhost:1313/research">
                   Explore Our Research
                   <i class="fa fa-arrow-right pl-2"></i>
                 </a>
@@ -1366,7 +1393,7 @@
             </ul>
             
               
-                <a class="btn btn-primary mt-6" href="/research">
+                <a class="btn btn-primary mt-6" href="//localhost:1313/research">
                   Discover History Projects
                   <i class="fa fa-arrow-right pl-2"></i>
                 </a>
@@ -1536,7 +1563,7 @@
             </ul>
             
               
-                <a class="btn btn-primary mt-6" href="/contact">
+                <a class="btn btn-primary mt-6" href="//localhost:1313/contact">
                   Apply Now
                   <i class="fa fa-arrow-right pl-2"></i>
                 </a>
@@ -2248,23 +2275,20 @@
 
 
 
-  
-  
-
 
 
 <script
   crossorigin="anonymous"
-  integrity="sha256-QyKANL8qsiU27xgAU9uCTVC7WUQCnRPb5SSdNFDofSY="
-  src="/js/script.min.43228034bf2ab22536ef180053db824d50bb5944029d13dbe5249d3450e87d26.js"></script>
+  integrity=""
+  src="/js/script.js"></script>
 
 
 <script
   defer
   async
   crossorigin="anonymous"
-  integrity="sha256-w&#43;aS42D2&#43;B&#43;Jix&#43;joZ7pAua1vbu/pRK/IhoP55b8n3w="
-  src="/js/script-lazy.min.c3e692e360f6f81f898b1fa3a19ee902e6b5bdbbbfa512bf221a0fe796fc9f7c.js"></script>
+  integrity=""
+  src="/js/script-lazy.js"></script>
 
 
 

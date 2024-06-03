@@ -4,7 +4,7 @@
   class=""
   lang="en-us"
   itemtype="http://schema.org/WebPage">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     
     <meta charset="utf-8" />
 
@@ -72,6 +72,7 @@
 
 
 
+  <base href="//localhost:1313/tags/" />
 
 
 
@@ -93,11 +94,11 @@
 
 
   
-    <link rel="alternate" hreflang="en" href="/tags/" />
+    <link rel="alternate" hreflang="en" href="//localhost:1313/tags/" />
   
-    <link rel="alternate" hreflang="pt" href="/pt/tags/" />
+    <link rel="alternate" hreflang="pt" href="//localhost:1313/pt/tags/" />
   
-  <link rel="alternate" hreflang="x-default" href="/tags/" />
+  <link rel="alternate" hreflang="x-default" href="//localhost:1313/tags/" />
 
 
 
@@ -162,8 +163,8 @@
       
       
       
-        <meta property="og:image" content="/images/labhd.png" />
-        <meta name="twitter:image" content="/images/labhd.png" />
+        <meta property="og:image" content="//localhost:1313/images/labhd.png" />
+        <meta name="twitter:image" content="//localhost:1313/images/labhd.png" />
         <meta
           name="twitter:card"
           content="summary" />
@@ -190,7 +191,7 @@
 <meta property="og:title" content="LABHDUFBA" />
 <meta property="og:description" content="Laboratório de Humanidades Digitais da UFBA" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="/tags/" />
+<meta property="og:url" content="//localhost:1313/tags/" />
 
 
 <meta name="twitter:title" content="LABHDUFBA" />
@@ -217,7 +218,7 @@
 
 
 <script>
-  let indexURL = "/searchindex.json";
+  let indexURL = "//localhost:1313/searchindex.json";
   let includeSectionsInSearch = ["midia","blog"];
   let search_no_results = "0 results for";
   let search_initial_message = "";
@@ -324,8 +325,8 @@
 
 
 <link
-  href="/css/style.min.681ceb65e7f41294b79d69e48a9676f608d1deda20397c77280dc7d32d0ab2d4.css"
-  integrity="sha256-aBzrZef0EpS3nWnkipZ29gjR3togOXx3KA3H0y0KstQ="
+  href="/css/style.css"
+  integrity=""
   rel="stylesheet" />
 
 
@@ -333,8 +334,8 @@
   defer
   async
   rel="stylesheet"
-  href="/css/style-lazy.min.f1e41b257dc4acfeffddf54d6c40c0202fa85180c05b112a8793aa939f4d031c.css"
-  integrity="sha256-8eQbJX3ErP7/3fVNbEDAIC+oUYDAWxEqh5Oqk59NAxw="
+  href="/css/style-lazy.css"
+  integrity=""
   media="print"
   onload="this.media='all'; this.onload=null;" />
 
@@ -347,7 +348,18 @@
 
 
 
+
+
       
+      <div
+  class="fixed left-0 top-0 z-50 flex w-[30px] items-center justify-center bg-gray-200 py-[2.5px] text-[12px] uppercase text-black sm:bg-red-200 md:bg-yellow-200 lg:bg-green-200 xl:bg-blue-200 2xl:bg-pink-200">
+  <span class="block sm:hidden">all</span>
+  <span class="hidden sm:block md:hidden">sm</span>
+  <span class="hidden md:block lg:hidden">md</span>
+  <span class="hidden lg:block xl:hidden">lg</span>
+  <span class="hidden xl:block 2xl:hidden">xl</span>
+  <span class="hidden 2xl:block">2xl</span>
+</div>
 
     
 
@@ -558,13 +570,64 @@
         
         
         
-          <li class="nav-item">
-            <a
-              class="nav-link "
+          <li class="nav-item nav-dropdown group relative">
+            <span
+              class="nav-link 
+                
+                
+                
               
-              href="/publications/"
-              >Publications</a
-            >
+                
+                
+                
+              
+                
+                
+                
+               inline-flex items-center">
+              Publications
+              <svg class="h-4 w-4 fill-current" viewBox="0 0 20 20">
+                <path
+                  d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+              </svg>
+            </span>
+            <ul
+              class="nav-dropdown-list lg:group-hover:visible lg:group-hover:opacity-100">
+              
+                
+                
+                <li class="nav-dropdown-item">
+                  <a
+                    class="nav-dropdown-link "
+                    
+                    href="/publications/">
+                    Articles
+                  </a>
+                </li>
+              
+                
+                
+                <li class="nav-dropdown-item">
+                  <a
+                    class="nav-dropdown-link "
+                    
+                    href="/reports/">
+                    Reports
+                  </a>
+                </li>
+              
+                
+                
+                <li class="nav-dropdown-item">
+                  <a
+                    class="nav-dropdown-link "
+                    
+                    href="/blog/">
+                    Blog
+                  </a>
+                </li>
+              
+            </ul>
           </li>
         
       
@@ -600,49 +663,13 @@
         
         
         
-          <li class="nav-item nav-dropdown group relative">
-            <span
-              class="nav-link 
-                
-                
-                
+          <li class="nav-item">
+            <a
+              class="nav-link "
               
-                
-                
-                
-               inline-flex items-center">
-              Pages
-              <svg class="h-4 w-4 fill-current" viewBox="0 0 20 20">
-                <path
-                  d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
-              </svg>
-            </span>
-            <ul
-              class="nav-dropdown-list lg:group-hover:visible lg:group-hover:opacity-100">
-              
-                
-                
-                <li class="nav-dropdown-item">
-                  <a
-                    class="nav-dropdown-link "
-                    
-                    href="/blog/">
-                    Blog
-                  </a>
-                </li>
-              
-                
-                
-                <li class="nav-dropdown-item">
-                  <a
-                    class="nav-dropdown-link "
-                    
-                    href="/categories/">
-                    Categories
-                  </a>
-                </li>
-              
-            </ul>
+              href="/"
+              ></a
+            >
           </li>
         
       
@@ -903,7 +930,7 @@
 
 <ul class="mt-6 inline-flex space-x-1 capitalize">
   <li>
-    <a class="text-primary dark:text-darkmode-primary" href="/">
+    <a class="text-primary dark:text-darkmode-primary" href="//localhost:1313/">
       Home
     </a>
     <span class="inlin-block mr-1">/</span>
@@ -934,7 +961,7 @@
           
             <li class="m-3 inline-block">
               <a
-                href="/tags/ai/"
+                href="//localhost:1313/tags/ai/"
                 class="bg-theme-light text-dark dark:bg-darkmode-theme-light dark:text-darkmode-dark block rounded px-4 py-2 text-xl">
                 Ai
                 <span class="bg-body dark:bg-darkmode-body ml-2 rounded px-2">
@@ -945,7 +972,7 @@
           
             <li class="m-3 inline-block">
               <a
-                href="/tags/copilot/"
+                href="//localhost:1313/tags/copilot/"
                 class="bg-theme-light text-dark dark:bg-darkmode-theme-light dark:text-darkmode-dark block rounded px-4 py-2 text-xl">
                 Copilot
                 <span class="bg-body dark:bg-darkmode-body ml-2 rounded px-2">
@@ -956,7 +983,7 @@
           
             <li class="m-3 inline-block">
               <a
-                href="/tags/github/"
+                href="//localhost:1313/tags/github/"
                 class="bg-theme-light text-dark dark:bg-darkmode-theme-light dark:text-darkmode-dark block rounded px-4 py-2 text-xl">
                 Github
                 <span class="bg-body dark:bg-darkmode-body ml-2 rounded px-2">
@@ -1240,23 +1267,20 @@
 
 
 
-  
-  
-
 
 
 <script
   crossorigin="anonymous"
-  integrity="sha256-QyKANL8qsiU27xgAU9uCTVC7WUQCnRPb5SSdNFDofSY="
-  src="/js/script.min.43228034bf2ab22536ef180053db824d50bb5944029d13dbe5249d3450e87d26.js"></script>
+  integrity=""
+  src="/js/script.js"></script>
 
 
 <script
   defer
   async
   crossorigin="anonymous"
-  integrity="sha256-w&#43;aS42D2&#43;B&#43;Jix&#43;joZ7pAua1vbu/pRK/IhoP55b8n3w="
-  src="/js/script-lazy.min.c3e692e360f6f81f898b1fa3a19ee902e6b5bdbbbfa512bf221a0fe796fc9f7c.js"></script>
+  integrity=""
+  src="/js/script-lazy.js"></script>
 
 
 
