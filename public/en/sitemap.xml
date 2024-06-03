@@ -2,102 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/authors/1_leonardo-nascimento/</loc>
+    <loc>//localhost:37865/authors/1_leonardo-nascimento/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/2_eric-brasil/</loc>
+    <loc>//localhost:37865/authors/2_eric-brasil/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/3_rosana/</loc>
+    <loc>//localhost:37865/authors/3_rosana/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/4_leticia/</loc>
+    <loc>//localhost:37865/authors/4_leticia/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/5_bruno/</loc>
+    <loc>//localhost:37865/authors/5_bruno/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/6_tarssio/</loc>
+    <loc>//localhost:37865/authors/6_tarssio/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/7_alan/</loc>
+    <loc>//localhost:37865/authors/7_alan/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/8_icaro/</loc>
+    <loc>//localhost:37865/authors/8_icaro/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/9_grazi/</loc>
+    <loc>//localhost:37865/authors/9_grazi/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/10_thibau/</loc>
+    <loc>//localhost:37865/authors/10_thibau/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/11_arthur/</loc>
+    <loc>//localhost:37865/authors/11_arthur/</loc>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>//localhost:37865/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/"
+                href="//localhost:37865/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/"
+                href="//localhost:37865/"
                 />
   </url><url>
-    <loc>//localhost:1313/reports/</loc>
+    <loc>//localhost:37865/tags/ai/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/ai/</loc>
+    <loc>//localhost:37865/articles/</loc>
   </url><url>
-    <loc>//localhost:1313/articles/</loc>
+    <loc>//localhost:37865/publications/</loc>
   </url><url>
-    <loc>//localhost:1313/publications/</loc>
+    <loc>//localhost:37865/categories/artificial-intelligence/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/artificial-intelligence/</loc>
+    <loc>//localhost:37865/blog/</loc>
   </url><url>
-    <loc>//localhost:1313/blog/</loc>
-  </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>//localhost:37865/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/categories/"
+                href="//localhost:37865/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/categories/"
+                href="//localhost:37865/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>//localhost:37865/contact/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/copilot/</loc>
+    <loc>//localhost:37865/tags/copilot/</loc>
   </url><url>
-    <loc>//localhost:1313/elements/</loc>
+    <loc>//localhost:37865/elements/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/github/</loc>
+    <loc>//localhost:37865/tags/github/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/github/</loc>
+    <loc>//localhost:37865/categories/github/</loc>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>//localhost:37865/about/</loc>
   </url><url>
-    <loc>//localhost:1313/midia/</loc>
+    <loc>//localhost:37865/midia/</loc>
   </url><url>
-    <loc>//localhost:1313/pages/</loc>
+    <loc>//localhost:37865/pages/</loc>
   </url><url>
-    <loc>//localhost:1313/privacy-policy/</loc>
+    <loc>//localhost:37865/privacy-policy/</loc>
   </url><url>
-    <loc>//localhost:1313/research/</loc>
+    <loc>//localhost:37865/reports/</loc>
   </url><url>
-    <loc>//localhost:1313/sections/</loc>
+    <loc>//localhost:37865/research/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>//localhost:37865/sections/</loc>
+  </url><url>
+    <loc>//localhost:37865/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/tags/"
+                href="//localhost:37865/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/tags/"
+                href="//localhost:37865/tags/"
                 />
   </url><url>
-    <loc>//localhost:1313/authors/</loc>
+    <loc>//localhost:37865/authors/</loc>
   </url><url>
-    <loc>//localhost:1313/tools/</loc>
+    <loc>//localhost:37865/tools/</loc>
   </url><url>
-    <loc>//localhost:1313/blog/post-1/</loc>
+    <loc>//localhost:37865/blog/post-1/</loc>
   </url>
 </urlset>
