@@ -27,11 +27,6 @@ url = "tools/"
 weight = 5
 
 [[main]]
-name = "Publications"
-url = "publications/"
-weight = 6
-
-[[main]]
 name = "In the News"
 url = "midia/"
 weight = 7
@@ -76,8 +71,3 @@ weight = 1
 name = "Contact"
 url = "contact/"
 weight = 2
-
-[[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 3
