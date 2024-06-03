@@ -2,7 +2,7 @@
 title: Graziela de Souza Teixeira
 weight: 9
 email: grazistx@gmail.com
-image: "/images/grazi.jpg"
+image: "/images/grazi.jpeg"
 description: infos about member
 social:
   - name: twitter

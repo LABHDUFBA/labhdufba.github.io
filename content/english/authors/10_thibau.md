@@ -2,7 +2,7 @@
 title: Leonardo Thibau
 weight: 10
 email: leonardo_thibau@hotmail.com
-image: "/images/thibau.jpg"
+image: "/images/thibau.jpeg"
 description: infos about member
 social:
   - name: Instagram
