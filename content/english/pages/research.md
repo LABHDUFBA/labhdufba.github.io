@@ -9,7 +9,9 @@ draft: false
 
 ## Data Mining for Digital Humanities
 
-![](/images/research-data-mining.png)
+<div style="text-align: center;">
+    <img src="/images/research-data-mining.png" alt="ilustration of data mining for digital humanities" width="300">
+</div>
 
 The acquisition of computational skills in research practice across various fields of the humanities is one of the pillars of what is being called Digital Humanities. Currently, a multitude of digital tools are available that assist in the extraction and assembly of databases, in the analysis and interpretation of this material, and finally, in the organization and dissemination of results. LABHDUFBA develops data extraction algorithms for the web and digital social networks. Furthermore, it aims to provide critical reflection on how these digital tools may represent new ways of structuring imagination and investigations in different humanities fields, requiring us to evaluate 'how far it is possible to think' within the logics that structure these algorithms.
 
@@ -17,7 +19,9 @@ The acquisition of computational skills in research practice across various fiel
 
 ## Digital History
 
-![](/images/research-digital-history.png)
+<div style="text-align: center;">
+    <img src="/images/research-digital-history.png" alt="ilustration of digital history" width="300">
+</div>
 
 Research in the field of Digital History has been developed in direct partnership between LABHDUFBA and the undergraduate History program of the University for International Integration of Afro-Brazilian Lusophony, Malês campus. We aim to develop empirical research and theoretical discussions based on digitized documentary collections archived in online repositories. The goal is to produce methodological reflections through the use of digital tools that enable new historiographical approaches and the construction of new historical problems for research, teaching, and writing. These reflections seek to directly engage with debates on race, racism, and rights in the Americas. Currently, we work together on the assessment, creation, and enhancement of research tools for historical research, especially R and Python scripts for internet data scraping (web scraping).
 
