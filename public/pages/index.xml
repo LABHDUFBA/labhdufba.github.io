@@ -2,51 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on LABHDUFBA</title>
-    <link>/pages/</link>
+    <link>//localhost:37865/pages/</link>
     <description>Recent content in Pages on LABHDUFBA</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:37865/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Articles</title>
+      <link>//localhost:37865/articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:37865/articles/</guid>
+      <description>2023 L. NASCIMENTO, L.CESARINO, P.FONSECA.Far-right publics on brazilian Telegram a mixed-methods approach to digital anthropology .</description>
+    </item>
+    <item>
+      <title>Articles</title>
+      <link>//localhost:37865/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:37865/publications/</guid>
+      <description>2023 L. NASCIMENTO, L.CESARINO, P.FONSECA.Far-right publics on brazilian Telegram a mixed-methods approach to digital anthropology .</description>
+    </item>
     <item>
       <title>Elements</title>
-      <link>/elements/</link>
+      <link>//localhost:37865/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/elements/</guid>
+      <guid>//localhost:37865/elements/</guid>
       <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
     </item>
     <item>
       <title>LABHD in the news</title>
-      <link>/midia/</link>
+      <link>//localhost:37865/midia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/midia/</guid>
-      <description>&#xD;Made with TimelineJS </description>
+      <guid>//localhost:37865/midia/</guid>
+      <description> Made with TimelineJS </description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>/privacy-policy/</link>
+      <link>//localhost:37865/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/privacy-policy/</guid>
+      <guid>//localhost:37865/privacy-policy/</guid>
       <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     <item>
-      <title>Publications</title>
-      <link>/publications/</link>
+      <title>Reports</title>
+      <link>//localhost:37865/reports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publications/</guid>
-      <description>2023 L. NASCIMENTO, L.CESARINO, P.FONSECA.Far-right publics on brazilian Telegram a mixed-methods approach to digital anthropology .</description>
+      <guid>//localhost:37865/reports/</guid>
+      <description>2023 [Add the list of reports here]</description>
     </item>
     <item>
       <title>Research</title>
-      <link>/research/</link>
+      <link>//localhost:37865/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/research/</guid>
+      <guid>//localhost:37865/research/</guid>
       <description>Table of Contents Data Mining for Digital Humanities Digital History Ethical, Social, and Political Implications of Digital Technoscience The Economy of Affectionate Exchanges: Market, Socialities, and Digital Media Data Mining for Digital Humanities The acquisition of computational skills in research practice across various fields of the humanities is one of the pillars of what is being called Digital Humanities.</description>
     </item>
     <item>
       <title>Tools</title>
-      <link>/tools/</link>
+      <link>//localhost:37865/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tools/</guid>
+      <guid>//localhost:37865/tools/</guid>
       <description>Table of Contents Scielo tools Anped Scraper COMPOS Scraper Anpuh abstracts Scraper Anpuh Scraper pyHDB Digital Tools Wiki Telegram Group Analysis (under development) Whatsapp Group Analysis (under development) Scielo tools Provides tools for scraping, organizing, and analyzing scientific articles from Scielo.</description>
     </item>
   </channel>

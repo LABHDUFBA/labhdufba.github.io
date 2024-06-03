@@ -2,98 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/authors/1_leonardo-nascimento/</loc>
+    <loc>//localhost:37865/authors/1_leonardo-nascimento/</loc>
   </url><url>
-    <loc>/authors/2_eric-brasil/</loc>
+    <loc>//localhost:37865/authors/2_eric-brasil/</loc>
   </url><url>
-    <loc>/authors/3_rosana/</loc>
+    <loc>//localhost:37865/authors/3_rosana/</loc>
   </url><url>
-    <loc>/authors/4_leticia/</loc>
+    <loc>//localhost:37865/authors/4_leticia/</loc>
   </url><url>
-    <loc>/authors/5_bruno/</loc>
+    <loc>//localhost:37865/authors/5_bruno/</loc>
   </url><url>
-    <loc>/authors/6_tarssio/</loc>
+    <loc>//localhost:37865/authors/6_tarssio/</loc>
   </url><url>
-    <loc>/authors/7_alan/</loc>
+    <loc>//localhost:37865/authors/7_alan/</loc>
   </url><url>
-    <loc>/authors/8_icaro/</loc>
+    <loc>//localhost:37865/authors/8_icaro/</loc>
   </url><url>
-    <loc>/authors/9_grazi/</loc>
+    <loc>//localhost:37865/authors/9_grazi/</loc>
   </url><url>
-    <loc>/authors/10_thibau/</loc>
+    <loc>//localhost:37865/authors/10_thibau/</loc>
   </url><url>
-    <loc>/authors/11_arthur/</loc>
+    <loc>//localhost:37865/authors/11_arthur/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:37865/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt/"
+                href="//localhost:37865/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/"
+                href="//localhost:37865/"
                 />
   </url><url>
-    <loc>/tags/ai/</loc>
+    <loc>//localhost:37865/tags/ai/</loc>
   </url><url>
-    <loc>/categories/artificial-intelligence/</loc>
+    <loc>//localhost:37865/articles/</loc>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>//localhost:37865/publications/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:37865/categories/artificial-intelligence/</loc>
+  </url><url>
+    <loc>//localhost:37865/blog/</loc>
+  </url><url>
+    <loc>//localhost:37865/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt/categories/"
+                href="//localhost:37865/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/categories/"
+                href="//localhost:37865/categories/"
                 />
   </url><url>
-    <loc>/contact/</loc>
+    <loc>//localhost:37865/contact/</loc>
   </url><url>
-    <loc>/tags/copilot/</loc>
+    <loc>//localhost:37865/tags/copilot/</loc>
   </url><url>
-    <loc>/elements/</loc>
+    <loc>//localhost:37865/elements/</loc>
   </url><url>
-    <loc>/tags/github/</loc>
+    <loc>//localhost:37865/tags/github/</loc>
   </url><url>
-    <loc>/categories/github/</loc>
+    <loc>//localhost:37865/categories/github/</loc>
   </url><url>
-    <loc>/about/</loc>
+    <loc>//localhost:37865/about/</loc>
   </url><url>
-    <loc>/midia/</loc>
+    <loc>//localhost:37865/midia/</loc>
   </url><url>
-    <loc>/pages/</loc>
+    <loc>//localhost:37865/pages/</loc>
   </url><url>
-    <loc>/privacy-policy/</loc>
+    <loc>//localhost:37865/privacy-policy/</loc>
   </url><url>
-    <loc>/publications/</loc>
+    <loc>//localhost:37865/reports/</loc>
   </url><url>
-    <loc>/research/</loc>
+    <loc>//localhost:37865/research/</loc>
   </url><url>
-    <loc>/sections/</loc>
+    <loc>//localhost:37865/sections/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:37865/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt/tags/"
+                href="//localhost:37865/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/tags/"
+                href="//localhost:37865/tags/"
                 />
   </url><url>
-    <loc>/authors/</loc>
+    <loc>//localhost:37865/authors/</loc>
   </url><url>
-    <loc>/tools/</loc>
+    <loc>//localhost:37865/tools/</loc>
   </url><url>
-    <loc>/blog/post-1/</loc>
+    <loc>//localhost:37865/blog/post-1/</loc>
   </url>
 </urlset>

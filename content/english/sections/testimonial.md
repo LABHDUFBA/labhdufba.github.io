@@ -3,7 +3,6 @@ enable: true
 title: "Upcoming Events"
 description: "Next events and conferences"
 
-# Testimonials
 testimonials:
   - name: "5ª Conferência Nacional de CT&I"
     designation: "Conferência Livre: Ciência no Combate à Descinformação"

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sections on LABHDUFBA</title>
-    <link>/sections/</link>
+    <link>//localhost:37865/sections/</link>
     <description>Recent content in Sections on LABHDUFBA</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="/sections/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:37865/sections/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ready to build your next project with Hugo?</title>
       <link></link>
