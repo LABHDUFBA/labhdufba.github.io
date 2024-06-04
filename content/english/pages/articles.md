@@ -19,6 +19,11 @@ SCHEREN, M. L.; RODRIGUES, V. S.; LÓPEZ ZAMORA, G. D.; CESARINO, L.; NASCIMENTO
 
 L. NASCIMENTO, L.CESARINO, P.FONSECA.**[Far-right publics on brazilian Telegram a mixed-methods approach to digital anthropology](https://unesdoc.unesco.org/ark:/48223/pf0000384901?fbclid=PAAaYTjUhU1xAsgLh-alU1N9HvzRTb81awgiQH0T9qenpXh2MnLbHahM8SBN8_aem_AXd6ekQU0vVsrNXUiJcN7tXeY_ANUn9_V8mus861IZmIPH4s8H5F-f8ihWLFdq86V9o)**. UNESCO, LiiV Center for Innovating Digital Anthropology (USA). 2023.
 
+BRASIL, Eric. Git como ferramenta metodológica em projetos de História (parte 1), *Programming Historian em português 3* (2023), [https://doi.org/10.46430/phpt0045.](https://doi.org/10.46430/phpt0045)
+
+
+SILVEIRA, P. V.; BRASIL, Eric. Métodos e ferramentas digitais na pesquisa em História: Abordagem metodológica na análise do termo pós-abolição nos papers dos Simpósios Nacionais de História da ANPUH (2013 - 2019). *TEKOA*, v. 2, p. 1-22, 2023.
+
 ------
 
 ##### 2022
@@ -28,6 +33,8 @@ NASCIMENTO, L.F., CESARINO, L.M & FONSECA, P.F.C.**[Democracia digital: análise
 L.NASCIMENTO, L.CESARINO, P.FONSECA, T.BARRETO, V. MUSSA.**[Públicos refratados: grupos de extrema-direita brasileiros na plataforma Telegram](https://revista.internetlab.org.br/wp-content/uploads/2023/01/publicos.pdf)**. **Internet&Sociedade**. V. 3 ⁄ N. 1 ⁄ agosto de 2022, páginas 31 a 60.
 
 BRASIL, Eric; NASCIMENTO, Leonardo. [Por uma História Social Digital: o uso do CAQDAS na pesquisa e escrita da História](https://www.amazon.com.br/História-digital-historiografia-recursos-demandas-ebook/dp/B0B5Y63944/ref=sr_1_1). In: BARROS, J. D. **História digital: A historiografia diante dos recursos e demandas de um novo tempo**. Petrópolis. Editora Vozes, 2022.
+
+BRASIL, Eric. [pyHDB - Ferramenta Heurística para a Hemeroteca Digital Brasileira: utilizando técnicas de web scraping para a pesquisa em História.](https://doi.org/10.15848/hh.v15i40.1904) *História da Historiografia: International Journal of Theory and History of Historiography*, Ouro Preto, v. 15, n. 40, p. 186–217, 2022.
 
 ------
 
