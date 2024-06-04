@@ -18,7 +18,7 @@ navbar_fixed = true
 theme_switcher = true
 theme_default = "system" # available options [light/dark/system]
 # Main Sections
-mainSections = ["blog"]
+mainSections = ["blog", "pages", "authors"]
 # contact form action
 contact_form_action = "https://airform.io/labhdufba@gmail.com" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
@@ -27,7 +27,8 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Laboratório de Humanidades da UFBA - 2024"
+copyright = "<br>Parceiros:<br><div class='center-content'><img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/cnpq.png' width='200' class='spaced-img'><img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/internetlab.png' width='200' class='spaced-img'></div><br>UFBA Digital Humanities Laboratory - 2024"
+
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -46,7 +47,7 @@ link = "contact"
 [search]
 enable = true
 primary_color = "#121212"
-include_sections = ["midia", "blog"]
+include_sections = ["pages", "blog", "about"]
 show_image = true
 show_description = true
 show_tags = true
@@ -56,9 +57,9 @@ show_categories = true
 # seo meta data for opengraph / twitter card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["digital humanities", "ufba", "labhd", "laboratório de humanidades digitais"]
-description = "Laboratório de Humanidades Digitais da UFBA"
-author = "Laboratório de Humanidades Digitais da UFBA"
+keywords = ["digital humanities", "ufba", "labhd", "digital humanities lab"]
+description = "UFBA Digital Humanities Laboratory - LABHDUFBA"
+author = "UFBA Digital Humanities Laboratory - LABHDUFBA"
 image = "images/labhd.png"
 
 
