@@ -27,7 +27,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "2024 Laboratório de Humanidades da UFBA"
+copyright = "Laboratório de Humanidades da UFBA - 2024"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -86,12 +86,11 @@ sidebar = ["categories", "tags"]
 
 # google map
 [google_map]
-enable = false
-map_api_key = "aizasyccabaamnia6ol5yvyspb3pfmnrxwxnlwu"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
-map_marker = "images/marker.png"
-
+enable = true
+map_api_key = "AIzaSyDlD3X3qboLn_RM8LUSwAqTozY_rxZ2rWA"
+map_latitude = "-13.003803230122143"
+map_longitude = "-38.509485278929155"
+map_marker = "images/marker.jpg"
 
 # subscription
 [subscription]
