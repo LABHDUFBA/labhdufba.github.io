@@ -3505,10 +3505,6 @@ input#nav-toggle:checked ~ #nav-menu {
     width: auto;
   }
 
-  .lg\:\!max-w-\[800px\] {
-    max-width: 800px !important;
-  }
-
   .lg\:space-x-2 > :not([hidden]) ~ :not([hidden]) {
     --tw-space-x-reverse: 0;
     margin-right: calc(0.5rem * var(--tw-space-x-reverse));
