@@ -1,1 +1,11 @@
 // Add your own custom styles here
+
+.center-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.spaced-img {
+    margin: 0 10px; /* Adiciona 10px de margem à esquerda e à direita */
+}
