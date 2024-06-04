@@ -1,6 +1,6 @@
 ---
 title: Ícaro Bernardes dos Santos Coutinho
-weight: 8
+weight: 15
 email: asaicaro@gmail.com
 image: "/images/icaro.jpg"
 description: [Descrição breve sobre o membro]

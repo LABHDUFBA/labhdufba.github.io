@@ -50,7 +50,7 @@ weight = 3
 [[main]]
 parent = "Publications"
 name = "Articles"
-url = "publications/"
+url = "articles/"
 weight = 1
 
 [[main]]

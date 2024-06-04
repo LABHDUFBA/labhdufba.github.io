@@ -1,6 +1,6 @@
 ---
 title: Bruno Durães
-weight: 5
+weight: 13
 email:
 image: "/images/bruno.jpeg"
 description: infos about member

@@ -8,6 +8,13 @@ description: "LABHDUFBA publications"
 draft: false
 ---
 
+##### 2024
+
+NASCIMENTO, L. F.; FONSECA, P.; CESARINO, L.; WEDDERBURN, R.; BARRETO, T.,   BARRETO; JESUS, J. **["Intankaveis contra o Bostil": racismo, misoginia e antisemitismo em chats do Telegram (2020-2023)](https://cgi.br/media/docs/publicacoes/1/20240522075208/4-coletanea-artigos-tic-governanca-genero-raca-diversidade.pdf)**. 4ª Coletânea de Artigos - TIC, Governança da Internet, Gênero, Raça e Diversidade - Tendências e Desafios. São Paulo : Núcleo de Informação e Coordenação do Ponto BR, 2024.
+
+SCHEREN, M. L.; RODRIGUES, V. S.; LÓPEZ ZAMORA, G. D.; CESARINO, L.; NASCIMENTO, L. F.; FONSECA, P.; BARRETO, T. Métodos mistos para a antropologia digital: um relato de experiência sobre a análise de grupos bolsonaristas na plataforma Telegram. Horizontes Antropológicos, v. 30, p. e680407, 12 fev. 2024. 
+
+
 ##### 2023
 
 L. NASCIMENTO, L.CESARINO, P.FONSECA.**[Far-right publics on brazilian Telegram a mixed-methods approach to digital anthropology](https://unesdoc.unesco.org/ark:/48223/pf0000384901?fbclid=PAAaYTjUhU1xAsgLh-alU1N9HvzRTb81awgiQH0T9qenpXh2MnLbHahM8SBN8_aem_AXd6ekQU0vVsrNXUiJcN7tXeY_ANUn9_V8mus861IZmIPH4s8H5F-f8ihWLFdq86V9o)**. UNESCO, LiiV Center for Innovating Digital Anthropology (USA). 2023.
