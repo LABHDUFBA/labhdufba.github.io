@@ -121,10 +121,17 @@
     </item>
     <item>
       <title>Desirée Vitória Vigas Melo</title>
-      <link>//localhost:1313/authors/16_desiree/</link>
+      <link>//localhost:1313/authors/17_desiree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/16_desiree/</guid>
+      <guid>//localhost:1313/authors/17_desiree/</guid>
       <description>Undergraduate student in Social Sciences at the Federal University of Bahia (UFBA).</description>
+    </item>
+    <item>
+      <title>Daniel Romero</title>
+      <link>//localhost:1313/authors/18_romero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/18_romero/</guid>
+      <description>Holds a Master&amp;rsquo;s degree in Sociology and a Bachelor&amp;rsquo;s degree in Social Sciences from Universidade Estadual de Campinas (1996); has experience in the field of Sociology, with an emphasis on the Fundamentals of Sociology, currently serves as a Professor of Sociology at the higher education level at Instituto Federal da Bahia in Salvador.</description>
     </item>
   </channel>
 </rss>
