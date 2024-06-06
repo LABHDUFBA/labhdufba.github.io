@@ -28,7 +28,7 @@ weight = 5
 
 [[main]]
 name = "In the News"
-url = "midia/"
+url = "inthenews/"
 weight = 7
 
 [[main]]

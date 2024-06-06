@@ -34,7 +34,9 @@
   </url><url>
     <loc>//localhost:1313/authors/16_gui/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/16_desiree/</loc>
+    <loc>//localhost:1313/authors/17_desiree/</loc>
+  </url><url>
+    <loc>//localhost:1313/authors/18_romero/</loc>
   </url><url>
     <loc>//localhost:1313/</loc>
   </url><url>
@@ -62,7 +64,7 @@
   </url><url>
     <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>//localhost:1313/midia/</loc>
+    <loc>//localhost:1313/inthenews/</loc>
   </url><url>
     <loc>//localhost:1313/pages/</loc>
   </url><url>
