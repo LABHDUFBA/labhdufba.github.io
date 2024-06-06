@@ -133,5 +133,12 @@
       <guid>//localhost:1313/authors/18_romero/</guid>
       <description>Holds a Master&amp;rsquo;s degree in Sociology and a Bachelor&amp;rsquo;s degree in Social Sciences from Universidade Estadual de Campinas (1996); has experience in the field of Sociology, with an emphasis on the Fundamentals of Sociology, currently serves as a Professor of Sociology at the higher education level at Instituto Federal da Bahia in Salvador.</description>
     </item>
+    <item>
+      <title>Vítor Mussa</title>
+      <link>//localhost:1313/authors/19_vitor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/19_vitor/</guid>
+      <description>Software engineer and computational social scientist; I have more than 3 years of professional and scientific experience working with Python building the backend of web apps, data pipelines, and data platforms.</description>
+    </item>
   </channel>
 </rss>
