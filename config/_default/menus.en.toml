@@ -45,7 +45,7 @@ hasChildren = true
 parent = "Publications"
 name = "Blog"
 url = "blog/"
-weight = 3
+weight = 4
 
 [[main]]
 parent = "Publications"
@@ -58,6 +58,12 @@ parent = "Publications"
 name = "Reports"
 url = "reports/"
 weight = 2
+
+[[main]]
+parent = "Publications"
+name = "Youtube"
+url = "youtube/"
+weight = 3
 
 [[main]]
 

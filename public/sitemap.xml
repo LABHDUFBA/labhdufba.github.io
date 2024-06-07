@@ -85,5 +85,7 @@
     <loc>//localhost:1313/tools/</loc>
   </url><url>
     <loc>//localhost:1313/blog/post-1/</loc>
+  </url><url>
+    <loc>//localhost:1313/youtube/</loc>
   </url>
 </urlset>
