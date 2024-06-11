@@ -4,7 +4,7 @@
     <title>Pages on LABHDUFBA</title>
     <link>//localhost:1313/pages/</link>
     <description>Recent content in Pages on LABHDUFBA</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="//localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -33,7 +33,7 @@
       <link>//localhost:1313/inthenews/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/inthenews/</guid>
-      <description>&#xD;Made with TimelineJS </description>
+      <description> Access the timeline in a new tab Made with TimelineJS </description>
     </item>
     <item>
       <title>Privacy</title>
@@ -47,7 +47,7 @@
       <link>//localhost:1313/reports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/reports/</guid>
-      <description>2022 O objetivo do relatório é destacar pontos relevantes na dinâmica de mensagens de grupos e canais extremistas no Brasil, analisando o ecossistema multiplataforma mais amplo que tem, no Telegram, uma âncora de organização e disseminação organizada de conteúdos.</description>
+      <description>2024 The report analyzes the dissemination of disinformation and conspiracy theories related to the floods in Rio Grande do Sul within far-right groups and channels on Telegram.</description>
     </item>
     <item>
       <title>Research</title>
