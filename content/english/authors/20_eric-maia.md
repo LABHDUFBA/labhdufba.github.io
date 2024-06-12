@@ -1,5 +1,5 @@
 ---
-title: Eric Francis Mendonça de Castro Maia
+title: Eric Maia
 weight: 20
 email: ericmaia@id.uff.br
 image: "/images/eric-maia.jpg"
