@@ -19,7 +19,7 @@
       <link>//localhost:1313/authors/2_eric-brasil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/authors/2_eric-brasil/</guid>
-      <description>Professor of the undergraduate courses in History and Humanities at the Institute of Humanities and Languages at the University for the International Integration of Afro-Brazilian Lusophony (IHLM/UNILAB), Malês campus, Bahia, Brazil (2017 - current).</description>
+      <description>Professor at the Institute of Humanities and Languages at the University for the International Integration of Afro-Brazilian Lusophony (IHLM/UNILAB); Ph.</description>
     </item>
     <item>
       <title>Rosana Moore</title>
@@ -139,6 +139,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/authors/19_vitor/</guid>
       <description>Software engineer and computational social scientist; I have more than 3 years of professional and scientific experience working with Python building the backend of web apps, data pipelines, and data platforms.</description>
+    </item>
+    <item>
+      <title>Eric Francis Mendonça de Castro Maia</title>
+      <link>//localhost:1313/authors/20_eric-maia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/20_eric-maia/</guid>
+      <description>Historian graduated from the Federal Fluminense University (UFF); Postgraduate in Technologies Applied to Education; Master&amp;rsquo;s student in the Graduate Program in History at UFF; main areas of expertise include Brazilian History, Contemporary History, Visual History, and Present-Day History.</description>
     </item>
   </channel>
 </rss>
