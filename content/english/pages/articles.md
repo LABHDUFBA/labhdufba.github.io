@@ -10,6 +10,8 @@ draft: false
 
 ##### 2024
 
+NASCIMENTO, Leonardo Fernandes. **[Humanidades Digitais e Vigilância pela Democracia](https://drive.google.com/file/d/11jYi4dSKf3qigI05A1KGYv9Y9-sCvmE0/view)**. In: SANTOS JUNIOR, Jorge Luiz dos (Org.). **Nanotecnologia, Sociedade e Meio Ambiente: Convergências, Divergências e Insurgências Tecnológicas**. Editora CRV, Curitiba, 2024. p. 133-144.
+
 NASCIMENTO, L. F.; FONSECA, P.; CESARINO, L.; WEDDERBURN, R.; BARRETO, T.,   BARRETO; JESUS, J. **["Intankaveis contra o Bostil": racismo, misoginia e antisemitismo em chats do Telegram (2020-2023)](https://cgi.br/media/docs/publicacoes/1/20240522075208/4-coletanea-artigos-tic-governanca-genero-raca-diversidade.pdf)**. 4ª Coletânea de Artigos - TIC, Governança da Internet, Gênero, Raça e Diversidade - Tendências e Desafios. São Paulo : Núcleo de Informação e Coordenação do Ponto BR, 2024.
 
 SCHEREN, M. L.; RODRIGUES, V. S.; LÓPEZ ZAMORA, G. D.; CESARINO, L.; NASCIMENTO, L. F.; FONSECA, P.; BARRETO, T. **[Métodos mistos para a antropologia digital: um relato de experiência sobre a análise de grupos bolsonaristas na plataforma Telegram.](https://doi.org/10.1590/1806-9983e680407)** Horizontes Antropológicos, v. 30, p. e680407, 12 fev. 2024. 
@@ -35,6 +37,8 @@ Paulo F. C. Fonseca, Barbara E. Ribeiro & Leonardo F. Nascimento. **[Demarcating
 
 NASCIMENTO, L.F., CESARINO, L.M & FONSECA, P.F.C. **[Democracia digital: análise dos ecossistemas de desinformação no Telegram durante o processo eleitoral brasileiro de 2022](https://internetlab.org.br/wp-content/uploads/2022/08/telegram-01-relatorio-06-1.pdf)**. Vol. 1. São Paulo, 2022.
 
+MACÊDO, P. F. C. et al. **[Weight stigma in the COVID-19 pandemic: a scoping review](https://link.springer.com/article/10.1186/s40337-022-00563-4)**. *Journal of Eating Disorders*, v. 10, n. 1, p. 44, 2022.
+
 L.NASCIMENTO, L.CESARINO, P.FONSECA, T.BARRETO, V. MUSSA. **[Públicos refratados: grupos de extrema-direita brasileiros na plataforma Telegram](https://revista.internetlab.org.br/wp-content/uploads/2023/01/publicos.pdf)**. Internet&Sociedade. V. 3 ⁄ N. 1 ⁄ agosto de 2022, páginas 31 a 60.
 
 BRASIL, Eric; NASCIMENTO, Leonardo. **[Por uma História Social Digital: o uso do CAQDAS na pesquisa e escrita da História](https://www.amazon.com.br/História-digital-historiografia-recursos-demandas-ebook/dp/B0B5Y63944/ref=sr_1_1)**. In: BARROS, J. D. **História digital: A historiografia diante dos recursos e demandas de um novo tempo**. Petrópolis. Editora Vozes, 2022.
@@ -44,6 +48,8 @@ BRASIL, Eric. **[pyHDB - Ferramenta Heurística para a Hemeroteca Digital Brasil
 ------
 
 ##### 2021
+
+Brandão MF, Silva GTR da, Teixeira GA da S, Nascimento LF, Queirós PJP, Peres MA de A, et al.. **[Panorama da imagem social da enfermeira divulgada na mídia impressa](https://doi.org/10.37689/acta-ape/2021AO002935)**. 2021;34:eAPE002935.
 
 NASCIMENTO, L. F.; FONSECA, P. de F. C.; JESUS, J. P. de; OLIVEIRA, J. B. de. **[Poder oracular e ecossistemas digitais de comunicação: a produção de zonas de ignorância durante a pandemia de Covid-19 no Brasil](https://revistas.unisinos.br/index.php/fronteiras/article/view/22620)**. **Revista Fronteiras**: estudos midiáticos, v. 23, n. 2 (2021): maio/agosto.
 
@@ -55,7 +61,11 @@ PARANHOS, M. A. V. O. **[O ofício de sociólogo 2.0: metodologia da pesquisa na
 
 NASCIMENTO, LEONARDO F. **[Sociologia digital: uma breve introdução](https://repositorio.ufba.br/bitstream/ri/32746/5/SociologiaDigitalPDF.pdf)**. Salvador: EDUFBA,. 2020.
 
+NASCIMENTO, Leonardo; CESARINO, Letícia; FONSECA, Paulo. **['Quando se está morrendo afogado, até jacaré é tronco para se agarrar': cloroquina e médicos em grupos de direita do  Telegram](https://lavits.org/lavits_covid19_22-quando-se-esta-morrendo-afogado-ate-jacare-e-tronco-para-se-agarrar1-cloroquina-e-medicos-em-grupos-de-direita-do-telegram/)**. **Lavits – Rede de latino-americana de estudos sobre vigilância, tecnologia e sociedade**, 2020.
+
 BRASIL, E.; NASCIMENTO, L. F. **[História Digital: reflexões a partir da hemeroteca digital brasileira e do uso de CAQDAS na reelaboração da pesquisa histórica](https://www.scielo.br/j/eh/a/XNJJWhFFzPKdkhF6cyj5BJv/?lang=pt)**. **Estudos Históricos** (Rio de Janeiro), v. 33, n. 69, p. 196–219, abr. 2020.
+
+RUSSI, Pedro; NASCIMENTO, Leonardo F. **[Proposta e processos metodológicos](https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/livros/livros/200824_lv_199651_midiatizacao_web.PDF#page=11)**. In: VIANA, André Rego (org.). **A midiatização do refúgio no Brasil (2010-2018)**, p. 9-36, 2020.
 
 MUSSA, Vítor. **[Indústria 4.0 e microtabalho de plataforma: uma análise da gestão digital do processo de trabalho na Amazon Mechanical Turk e seu papel na constituição das fábricas inteligentes](https://www.anpocs2020.sinteseeventos.com.br/trabalho/view?ID_TRABALHO=3347)**. In: 44º Encontro Anual da ANPOCS, 2020. Anais do 44º Encontro Anual da ANPOCS [S.l: s.n.], 2020.
 
@@ -66,6 +76,11 @@ PARANHOS, M. A. V. O.; NERY, M. S. S. **[De olho no boy: aplicativos de relacion
 ------
 
 ##### 2018
+
+
+Nascimento, Leonardo. **[O uso do ATLAS. ti na pesquisa em Ciências Sociais: aspectos metodológicos e epistemológicos](https://www.researchgate.net/profile/Paulo-Cesar-Alves/publication/329629698_Novas_fronteiras_metodologicas_nas_ciencias_sociais/links/628fe8eb6886635d5ca5df7a/Novas-fronteiras-metodologicas-nas-ciencias-sociais.pdf#page=239)**. In: Nascimento, Leonardo & Alves, Paulo Cesar. **Novas fronteiras metodológicas nas ciências sociais**, 239-264.
+
+Nascimento, Leonardo & Alves, Paulo Cesar. **[Novas fronteiras metodológicas nas ciências sociais](https://www.researchgate.net/publication/329629698_Novas_fronteiras_metodologicas_nas_ciencias_sociais)**. EDUFBA, 2018.
 
 NASCIMENTO, L.; ALECRIM, M.; OLIVEIRA, J.; OLIVEIRA, M.; COSTA, S. **[“Não falo o que o povo quer, sou o que o povo quer”: 30 anos (1987-2017) de pautas políticas de Jair Bolsonaro nos jornais brasileiros](https://www.revistas.usp.br/plural/article/view/149019/146180)**. **Plural**: Revista De Ciências Sociais, 25(1), 135-171, 2018.
 
@@ -81,4 +96,6 @@ NASCIMENTO, L. **[Combinando webscraping em R e ATLAS.ti na pesquisa em ciência
 
 NASCIMENTO, L. **[A Sociologia Digital: um desafio para o século XXI](https://www.scielo.br/j/soc/a/y9gtcQSrjjXVyRfryrKpXBk/?format=pdf&lang=pt)**. **Sociologias** (UFRGS), v. 18, p. 216-241, 2016.
 
-NASCIMENTO, L. **[O caso Uber no Brasil: um ensaio de sociologia digital](https://www.crolar.org/index.php/crolar/article/view/253/pdf)**. **CROLAR**: Crticial Reviews in Latin American Research, v. 5, p. 1, 2016. 4
+Alves, Paulo Cesar & Nascimento, Leonardo & Correia, Maria. (2016). **[Health and Traditional Fishing in All Saints Bay, Brazil](https://www.researchgate.net/publication/300442303_Health_and_Traditional_Fishing_in_All_Saints_Bay_Brazil)**. **International Journal of Advances in Social Science and Humanities**. 4. 2347-7474.
+
+NASCIMENTO, L. **[O caso Uber no Brasil: um ensaio de sociologia digital](https://www.crolar.org/index.php/crolar/article/view/253/pdf)**. **CROLAR**: Crticial Reviews in Latin American Research, v. 5, p. 1, 2016. 4.
