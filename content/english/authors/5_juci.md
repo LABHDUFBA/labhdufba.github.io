@@ -10,7 +10,7 @@ social:
     link: https://github.com/jhucyy
 
   - name: lattes
-    icon: fa-brands fa-lattes
+    icon: fa fa-info-circle
     link: http://lattes.cnpq.br/7683949127842338
 
   - name: linkedin
