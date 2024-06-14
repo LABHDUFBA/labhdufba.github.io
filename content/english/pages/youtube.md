@@ -43,7 +43,7 @@ draft: false
         {{< youtube TayHfR72FmQ >}}
     </div>
     <div class="video-item">
-        <div class="event-details">Progamming Historian - 2023/01/27</div>
+        <div class="event-details">Programming Historian - 2023/01/27</div>
         <strong>Programming Historian em português</strong>
         {{< youtube 5M1KX6AeLbQ >}}
     </div>
