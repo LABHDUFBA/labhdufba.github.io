@@ -8,6 +8,10 @@ social:
   - name: Github
     icon: fa-brands fa-github
     link: https://github.com/rsandrade
+    
+  - name: Link
+    icon: fa fa-link
+    link: https://feudo.org
 
 ---
 

@@ -24,6 +24,11 @@ social:
   - name: telegram
     icon: fa-brands fa-telegram
     link: https://t.me/ericbrasiln
+  
+  - name: link
+    icon: fa fa-link
+    link: https://ericbrasil.com.br/
+
 ---
 
 Professor at the Institute of Humanities and Languages at the University for the International Integration of Afro-Brazilian Lusophony (IHLM/UNILAB); Ph.D. (2016) and M.A. (2011) in History from the Federal Fluminense University; Managing Editor of Programming Historian in Portuguese.

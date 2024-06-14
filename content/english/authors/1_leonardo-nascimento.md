@@ -16,7 +16,14 @@ social:
   - name: linkedin
     icon: fa-brands fa-linkedin
     link: https://linkedin.com
-
+    
+  - name: lattes
+    icon: fa fa-info-circle
+    link: http://lattes.cnpq.br/7141811368487014
+    
+  - name: link
+    icon: fa fa-link
+    link: https://leofn.com/
 ---
 
 I am a Chemical Technician, graduated in Psychology, hold a master's degree in Sociology (2007), PhD in Sociology and the coordinator of the Digital Humanities Laboratory at UFBA.

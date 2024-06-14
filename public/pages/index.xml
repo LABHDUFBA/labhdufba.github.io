@@ -4,7 +4,7 @@
     <title>Pages on LABHDUFBA</title>
     <link>//localhost:1313/pages/</link>
     <description>Recent content in Pages on LABHDUFBA</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="//localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -68,7 +68,7 @@
       <link>//localhost:1313/youtube/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/youtube/</guid>
-      <description>Join us at the LABHDUFBA!&#xD;Digital Humanities Hangouts&#xD;Programming Historian em português&#xD;&#34;</description>
+      <description>&#xD;LABHD UFBA - 2020/10/5&#xD;Join us at the LABHDUFBA!&#xD;FGV - 2021/09/16&#xD;Sociologia digital em debate&#xD;Progamming Historian - 2023/01/27&#xD;Programming Historian em português&#xD;SBHC - 2022/09/8&#xD;História da Ciência e da Tecnologia em tempos digitais&#xD;FGV - 2022/05/20&#xD;Criação, manutenção e divulgação de projetos de História em meios digitais&#xD;LAHMED UFRN - 2022/05/17&#xD;Hemeroteca Digital Brasileira e a pesquisa histórica&#xD;Digital Humanities Hub - Lancaster University - 2024/06/10&#xD;Digital Humanities Hangouts&#xD;UNIFAL-MG - 2020/10/8&#xD;Inteligência Artificial e Humanidades&#xD;IFCHdaUFRGS - 2018/07/29&#xD;Criatividade metodológica para desenhos de pesquisa originais e relevantes&#xD;</description>
     </item>
   </channel>
 </rss>
