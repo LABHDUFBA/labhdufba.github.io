@@ -5,94 +5,88 @@ description: "This is meta description"
 draft: false
 ---
 
-{{< toc >}}
+<style>
+.videos-container {
+    display: flex;
+    flex-wrap: wrap; /* Permite que os itens quebrem linha se necessário */
+    gap: 20px; /* Espaçamento entre os itens */
+    align-items: flex-end; /* Alinha os itens na parte inferior */
+}
 
-## Join us at LABHDUFBA!
+.video-item {
+    flex: 1 0 300px; /* Flex-grow, flex-shrink, flex-basis */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end; /* Garante que o conteúdo dentro do item de vídeo seja alinhado na parte inferior */
+    margin-right: 20px; /* Espaçamento entre os itens */
+}
 
-{{< youtube I3zhQIbJ73o >}}
+.event-details {
+    font-size: 0.9em; /* Tamanho menor para os detalhes do evento */
+    margin-top: 5px; /* Pequeno espaçamento acima dos detalhes */
+}
 
-<br>
+.video-content {
+    align-self: flex-end; /* Alinha o vídeo na parte inferior */
+}
+</style>
 
-{{< button label="Back to top" link="/youtube/" style="solid" >}}
-
----
-
-## 2024/06/03 - 'HemDig(pt): A Framework for collecting, organizing, and processing digitized newspaper pages in Portuguese'- Digital Humanities Hangout
-
-{{< youtube S3rRPRfisBk >}}
-
-<br>
-
-{{< button label="Back to top" link="/youtube/" style="solid" >}}
-
----
-
-## 2023/01/27 - "Conheça o Programming Historian em português" - The Programming Historian
-
-{{< youtube 5M1KX6AeLbQ >}}
-
-<br>
-
-{{< button label="Back to top" link="/youtube/" style="solid" >}}
-
----
-
-## 2022/09/08 - Roundtable "História da Ciência e da Tecnologia em tempos digitais" - 18º Seminário Nacional de história da Ciência e da Tecnologia
-
-{{< youtube 91l9LVIFjbo >}}
-
-<br>
-
-{{< button label="Back to top" link="/youtube/" style="solid" >}}
-
----
-
-## 2022/05/20 -  Webinar | "Criação, manutenção e divulgação de projetos de História em meios digitais" - CPDOC/FGV
-
-{{< youtube aJvjkSBETBw >}}
-
-<br>
-
-{{< button label="Back to top" link="/youtube/" style="solid" >}}
+<div class="videos-container">
+    <div class="video-item">
+        <div class="event-details">LABHD UFBA - 2020/10/5</div>
+        <strong>Join us at the LABHDUFBA!</strong>
+        {{< youtube I3zhQIbJ73o >}}
+    </div>
+    <div class="video-item">
+        <div class="event-details">FGV - 2021/09/16</div>
+        <strong>Sociologia digital em debate</strong>
+        {{< youtube TayHfR72FmQ >}}
+    </div>
+    <div class="video-item">
+        <div class="event-details">Progamming Historian - 2023/01/27</div>
+        <strong>Programming Historian em português</strong>
+        {{< youtube 5M1KX6AeLbQ >}}
+    </div>
+</div>
 
 ---
 
-## 2022/05/17 - Talk "Hemeroteca Digital Brasileira e a pesquisa histórica" - E-História da Educação
-
-{{< youtube Uu3I9_a2knc >}}
-
-<br>
-
-{{< button label="Back to top" link="/youtube/" style="solid" >}}
-
----
-
-## 2021/09/16 - Webinar - "Sociologia digital em debate" - CPDOC/FGV
-
-{{< youtube TayHfR72FmQ >}}
-
-<br>
-
-{{< button label="Back to top" link="/youtube/" style="solid" >}}
-
----
-
-## 2020/10/08 - Roundtable "Inteligência Artificial e Humanidades" - Simpósio integrado: Inteligência artificial e humanidades
-
-{{< youtube kW26mFyH6vk >}}
-
-<br>
-
-{{< button label="Back to top" link="/youtube/" style="solid" >}}
+<div class="videos-container">
+    <div class="video-item">
+        <div class="event-details">SBHC - 2022/09/8</div>
+        <strong>História da Ciência e da Tecnologia em tempos digitais</strong>
+        {{< youtube 91l9LVIFjbo >}}
+    </div>
+    <div class="video-item">
+        <div class="event-details">FGV - 2022/05/20</div>
+        <strong>Criação, manutenção e divulgação de projetos de História em meios digitais</strong>
+        {{< youtube aJvjkSBETBw >}}
+    </div>
+    <div class="video-item">
+        <div class="event-details">LAHMED UFRN - 2022/05/17</div>
+        <strong>Hemeroteca Digital Brasileira e a pesquisa histórica</strong>
+        {{< youtube Uu3I9_a2knc >}}
+    </div>
+</div>
 
 ---
 
-## 2018/07/27 - Roundtable “Criatividade metodológica para desenhos de pesquisa originais e relevantes” da I Escola Discente de Métodos e Técnicas de Pesquisa - PPG de Sociologia da UFRGS
-
-{{< youtube EliIFp-oa9w >}}
-
-<br>
-
-{{< button label="Back to top" link="/youtube/" style="solid" >}}
+<div class="videos-container">
+    <div class="video-item">
+        <div class="event-details">Digital Humanities Hub - Lancaster University - 2024/06/10</div>
+        <strong>Digital Humanities Hangouts</strong>
+        {{< youtube S3rRPRfisBk >}}
+    </div>
+    <div class="video-item">
+        <div class="event-details">UNIFAL-MG - 2020/10/8</div>
+        <strong>Inteligência Artificial e Humanidades</strong>
+        {{< youtube kW26mFyH6vk >}}
+    </div>
+    <div class="video-item">
+        <div class="event-details">IFCHdaUFRGS - 2018/07/29</div>
+        <strong>Criatividade metodológica para desenhos de pesquisa originais e relevantes</strong>
+        {{< youtube EliIFp-oa9w >}}
+    </div>
+</div>
 
 ---
