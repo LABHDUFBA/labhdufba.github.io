@@ -22,12 +22,12 @@ mainSections = ["blog", "pages", "authors"]
 # contact form action
 contact_form_action = "https://airform.io/labhdufba@gmail.com" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "" # example: G-XXXXXXXXXX
+google_tag_manager = "G-576FN6TB84" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "<br>Parceiros:<br><div class='center-content'><img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/cnpq.png' width='200' class='spaced-img'><img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/internetlab.png' width='200' class='spaced-img'></div><br>UFBA Digital Humanities Laboratory<br> Av. Milton Santos - Ondina, PAF-V, sala 305a, Salvador/Bahia, CEP:40170110<br>2024"
+copyright = "<br>Parceiros<br><div class='center-content'><img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/cnpq.png' width='200' class='spaced-img'><img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/internetlab.png' width='200' class='spaced-img'></div><br>UFBA Digital Humanities Laboratory<br> Av. Milton Santos - Ondina, PAF-V, sala 305a, Salvador/Bahia, CEP:40170110<br>2024"
 
 
 # Preloader
