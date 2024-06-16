@@ -53,6 +53,25 @@ draft: false
 
 <div class="videos-container">
     <div class="video-item">
+        <div class="event-details">CAPES - 2024/04/2</div>
+        <strong>Conferência Livre: Ciência no Combate à Desinformação</strong>
+        {{< youtube _q43rtkUgrA >}}
+    </div>
+    <div class="video-item">
+        <div class="event-details">Jornal da Cidade (Metro1)- 2022/12/20</div>
+        <strong>Jornal da Cidade - Dra. Gilda Fucs e Leonardo Nascimento</strong>
+        {{< youtube FqeW1BxIiR0 >}}
+    </div>
+    <div class="video-item">
+        <div class="event-details">TV UFBA - 2021/12/6</div>
+        <strong>Plataformização Da Sociedade, Métodos Digitais E Ciência De Dados - Um Olhar Interdisciplinar</strong>
+        {{< youtube j7SCssD3vag >}}
+    </div>
+</div>
+---
+
+<div class="videos-container">
+    <div class="video-item">
         <div class="event-details">SBHC - 2022/09/8</div>
         <strong>História da Ciência e da Tecnologia em tempos digitais</strong>
         {{< youtube 91l9LVIFjbo >}}
