@@ -1,7 +1,7 @@
 ---
 title: "LABHD in the news"
 meta_title: ""
-description: "This is meta description"
+description: "LABHD in the news"
 draft: false
 ---
 
