@@ -46,11 +46,11 @@
   </url><url>
     <loc>//localhost:1313/tags/ai/</loc>
   </url><url>
-    <loc>//localhost:1313/articles/</loc>
-  </url><url>
     <loc>//localhost:1313/publications/</loc>
   </url><url>
     <loc>//localhost:1313/categories/artificial-intelligence/</loc>
+  </url><url>
+    <loc>//localhost:1313/articles/</loc>
   </url><url>
     <loc>//localhost:1313/blog/</loc>
   </url><url>
