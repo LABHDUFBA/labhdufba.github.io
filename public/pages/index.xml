@@ -4,7 +4,7 @@
     <title>Pages on LABHDUFBA</title>
     <link>//localhost:1313/pages/</link>
     <description>Recent content in Pages on LABHDUFBA</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="//localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -61,14 +61,14 @@
       <link>//localhost:1313/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tools/</guid>
-      <description>Table of Contents Scielo tools Anped Scraper COMPOS Scraper Anpuh abstracts Scraper Anpuh Scraper pyHDB Digital Tools Wiki Telegram Group Analysis (under development) Whatsapp Group Analysis (under development) Scielo tools Provides tools for scraping, organizing, and analyzing scientific articles from Scielo.</description>
+      <description>Table of Contents Table of Contents Scielo tools Anped Scraper COMPOS Scraper Anpuh abstracts Scraper Anpuh Scraper pyHDB Digital Tools Wiki Telegram Group Analysis (under development) Whatsapp Group Analysis (under development) Scielo tools Provides tools for scraping, organizing, and analyzing scientific articles from Scielo.</description>
     </item>
     <item>
       <title>YouTube</title>
       <link>//localhost:1313/youtube/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/youtube/</guid>
-      <description>Digital Humanities Hub - Lancaster University - 2024/06/10&#xD;Digital Humanities Hangouts&#xD;CAPES - 2024/04/2&#xD;Conferência Livre: Ciência no Combate à Desinformação&#xD;Programming Historian - 2023/01/27&#xD;Programming Historian em português&#xD;Jornal da Cidade (Metro1) - 2022/12/20&#xD;Jornal da Cidade - Dra.</description>
+      <description>LABHD UFBA - 2020/10/5&#xD;Join us at the LABHDUFBA!&#xD;CAPES - 2024/04/2&#xD;Conferência Livre: Ciência no Combate à Desinformação&#xD;Programming Historian - 2023/01/27&#xD;Programming Historian em português&#xD;Jornal da Cidade (Metro1) - 2022/12/20&#xD;Jornal da Cidade - Dra.</description>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,16 @@ description: "Page with ongoing research"
 draft: false
 ---
 
+<style>
+    :target::before {
+      content: "";
+      display: block;
+      height: 120px;
+      margin-top: -120px;
+      visibility: hidden;
+    }
+  </style>
+
 {{< toc >}}
 
 ## Data Mining for Digital Humanities
