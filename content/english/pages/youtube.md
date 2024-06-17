@@ -1,7 +1,7 @@
 ---
 title: "YouTube"
 meta_title: "LABHD Youtube Channel"
-description: "This is meta description"
+description: "Youtube Videos"
 draft: false
 ---
 
