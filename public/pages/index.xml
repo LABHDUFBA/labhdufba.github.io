@@ -4,22 +4,22 @@
     <title>Pages on LABHDUFBA</title>
     <link>//localhost:1313/pages/</link>
     <description>Recent content in Pages on LABHDUFBA</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="//localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Articles</title>
+      <link>//localhost:1313/articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/articles/</guid>
+      <description>2024 NASCIMENTO, Leonardo Fernandes. Humanidades Digitais e Vigilância pela Democracia .</description>
+    </item>
     <item>
       <title>Articles</title>
       <link>//localhost:1313/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/publications/</guid>
       <description>2023 L. NASCIMENTO, L.CESARINO, P.FONSECA.Far-right publics on brazilian Telegram a mixed-methods approach to digital anthropology .</description>
-    </item>
-    <item>
-      <title>Artigos</title>
-      <link>//localhost:1313/articles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/articles/</guid>
-      <description>2024 NASCIMENTO, Leonardo Fernandes. Humanidades Digitais e Vigilância pela Democracia .</description>
     </item>
     <item>
       <title>Elements</title>
@@ -34,13 +34,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/inthenews/</guid>
       <description>&#xD;Access the timeline in a new tab Made with TimelineJS </description>
-    </item>
-    <item>
-      <title>Privacy</title>
-      <link>//localhost:1313/privacy-policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/privacy-policy/</guid>
-      <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     <item>
       <title>Reports</title>

@@ -44,13 +44,9 @@
   </url><url>
     <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/ai/</loc>
+    <loc>//localhost:1313/articles/</loc>
   </url><url>
     <loc>//localhost:1313/publications/</loc>
-  </url><url>
-    <loc>//localhost:1313/categories/artificial-intelligence/</loc>
-  </url><url>
-    <loc>//localhost:1313/articles/</loc>
   </url><url>
     <loc>//localhost:1313/blog/</loc>
   </url><url>
@@ -58,21 +54,13 @@
   </url><url>
     <loc>//localhost:1313/contact/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/copilot/</loc>
-  </url><url>
     <loc>//localhost:1313/elements/</loc>
-  </url><url>
-    <loc>//localhost:1313/tags/github/</loc>
-  </url><url>
-    <loc>//localhost:1313/categories/github/</loc>
   </url><url>
     <loc>//localhost:1313/about/</loc>
   </url><url>
     <loc>//localhost:1313/inthenews/</loc>
   </url><url>
     <loc>//localhost:1313/pages/</loc>
-  </url><url>
-    <loc>//localhost:1313/privacy-policy/</loc>
   </url><url>
     <loc>//localhost:1313/reports/</loc>
   </url><url>
@@ -85,8 +73,6 @@
     <loc>//localhost:1313/authors/</loc>
   </url><url>
     <loc>//localhost:1313/tools/</loc>
-  </url><url>
-    <loc>//localhost:1313/blog/post-1/</loc>
   </url><url>
     <loc>//localhost:1313/youtube/</loc>
   </url>
