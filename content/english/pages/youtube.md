@@ -38,9 +38,9 @@ draft: false
         {{< youtube I3zhQIbJ73o >}}
     </div>
     <div class="video-item">
-        <div class="event-details">FGV - 2021/09/16</div>
-        <strong>Sociologia digital em debate</strong>
-        {{< youtube TayHfR72FmQ >}}
+        <div class="event-details">CAPES - 2024/04/2</div>
+        <strong>Conferência Livre: Ciência no Combate à Desinformação</strong>
+        {{< youtube _q43rtkUgrA >}}
     </div>
     <div class="video-item">
         <div class="event-details">Programming Historian - 2023/01/27</div>
@@ -53,24 +53,10 @@ draft: false
 
 <div class="videos-container">
     <div class="video-item">
-        <div class="event-details">CAPES - 2024/04/2</div>
-        <strong>Conferência Livre: Ciência no Combate à Desinformação</strong>
-        {{< youtube _q43rtkUgrA >}}
-    </div>
-    <div class="video-item">
-        <div class="event-details">Jornal da Cidade (Metro1)- 2022/12/20</div>
+        <div class="event-details">Jornal da Cidade (Metro1) - 2022/12/20</div>
         <strong>Jornal da Cidade - Dra. Gilda Fucs e Leonardo Nascimento</strong>
         {{< youtube FqeW1BxIiR0 >}}
     </div>
-    <div class="video-item">
-        <div class="event-details">TV UFBA - 2021/12/6</div>
-        <strong>Plataformização Da Sociedade, Métodos Digitais E Ciência De Dados - Um Olhar Interdisciplinar</strong>
-        {{< youtube j7SCssD3vag >}}
-    </div>
-</div>
----
-
-<div class="videos-container">
     <div class="video-item">
         <div class="event-details">SBHC - 2022/09/8</div>
         <strong>História da Ciência e da Tecnologia em tempos digitais</strong>
@@ -81,10 +67,25 @@ draft: false
         <strong>Criação, manutenção e divulgação de projetos de História em meios digitais</strong>
         {{< youtube aJvjkSBETBw >}}
     </div>
+</div>
+
+---
+
+<div class="videos-container">
     <div class="video-item">
         <div class="event-details">LAHMED UFRN - 2022/05/17</div>
         <strong>Hemeroteca Digital Brasileira e a pesquisa histórica</strong>
         {{< youtube Uu3I9_a2knc >}}
+    </div>
+    <div class="video-item">
+        <div class="event-details">TV UFBA - 2021/12/6</div>
+        <strong>Plataformização Da Sociedade, Métodos Digitais E Ciência De Dados - Um Olhar Interdisciplinar</strong>
+        {{< youtube j7SCssD3vag >}}
+    </div>
+    <div class="video-item">
+        <div class="event-details">FGV - 2021/09/16</div>
+        <strong>Sociologia digital em debate</strong>
+        {{< youtube TayHfR72FmQ >}}
     </div>
 </div>
 
@@ -107,5 +108,4 @@ draft: false
         {{< youtube EliIFp-oa9w >}}
     </div>
 </div>
-
 ---
