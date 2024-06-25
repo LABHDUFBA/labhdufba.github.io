@@ -25,7 +25,7 @@ contact_form_action = "https://airform.io/labhdufba@gmail.com" # contact form wo
 google_tag_manager = "G-576FN6TB84" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
-custom_script = ""
+custom_script = "<!-- Google tag (gtag.js) --> <script async src='https://www.googletagmanager.com/gtag/js?id=G-576FN6TB84'> <\\/script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-576FN6TB84'); </script>"
 # copyright
 copyright = "<br>Parceiros<br><div class='center-content'><img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/cnpq.png' width='200' class='spaced-img'><img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/internetlab.png' width='200' class='spaced-img'></div><br>UFBA Digital Humanities Laboratory<br> Av. Milton Santos - Ondina, PAF-V, sala 305a, Salvador/Bahia, CEP:40170110<br>2024"
 
