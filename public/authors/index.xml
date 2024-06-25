@@ -147,5 +147,12 @@
       <guid>//localhost:1313/authors/20_eric-maia/</guid>
       <description>Historian graduated from the Federal Fluminense University (UFF); Postgraduate in Technologies Applied to Education; Master&amp;rsquo;s student in the Graduate Program in History at UFF; main areas of expertise include Brazilian History, Contemporary History, Visual History, and Present-Day History.</description>
     </item>
+    <item>
+      <title>Alisson Magalhães Soares</title>
+      <link>//localhost:1313/authors/21_alisson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/21_alisson/</guid>
+      <description>Bachelor in Social Sciences, specialist in the History of Science, Master&amp;rsquo;s and PhD in Sociology at UFMG, Post-Doctorate in Political Science at UFPE.</description>
+    </item>
   </channel>
 </rss>
