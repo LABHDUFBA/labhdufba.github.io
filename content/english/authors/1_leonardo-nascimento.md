@@ -12,10 +12,6 @@ social:
   - name: twitter
     icon: fa-brands fa-twitter
     link: https://twitter.com/leofn3
-
-  - name: linkedin
-    icon: fa-brands fa-linkedin
-    link: https://linkedin.com
     
   - name: lattes
     icon: fa fa-info-circle
