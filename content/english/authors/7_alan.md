@@ -4,11 +4,7 @@ weight: 7
 email: a.mocellim@gmail.com 
 image: "/images/alan.jpg"
 description: infos about member
-social:
-  - name: linkedin
-    icon: fa-brands fa-linkedin
-    link: https://linkedin.com
-    
+social:    
   - name: Youtube
     icon: fa-brands fa-youtube
     link: https://www.youtube.com/c/AlanMocellim
