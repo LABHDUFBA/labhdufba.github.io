@@ -5,8 +5,8 @@ email: contatoguilhermekau@gmail.com
 image: "/images/gui.jpg"
 description: 
 social:
-  - name: linkedin
-    icon: fa-brands fa-linkedin
+  - name: lattes
+    icon: fa fa-info-circle
     link: http://lattes.cnpq.br/9645559480441525
 ---
 

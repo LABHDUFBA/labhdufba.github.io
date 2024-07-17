@@ -5,10 +5,10 @@ email: a.mocellim@gmail.com
 image: "/images/alan.jpg"
 description: infos about member
 social:
-  - name: linkedin
-    icon: fa-brands fa-linkedin
-    link: https://linkedin.com
-    
+  - name: lattes
+    icon: fa fa-info-circle
+    link: http://lattes.cnpq.br/0264933519544511
+
   - name: Youtube
     icon: fa-brands fa-youtube
     link: https://www.youtube.com/c/AlanMocellim
