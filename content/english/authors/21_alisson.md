@@ -18,7 +18,7 @@ social:
     link: https://fosstodon.org/@alissonmasoares
     
   - name: bluesky
-    icon: fa fa-info-circle
+    icon: fa fa-link
     link: https://bsky.app/profile/alissonmasoares.bsky.social
 ---
 
