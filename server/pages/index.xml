@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on LABHDUFBA</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on LABHDUFBA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Articles</title>
+      <link>/articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/articles/</guid>
+      <description>2024 NASCIMENTO, Leonardo Fernandes. Humanidades Digitais e Vigilância pela Democracia .</description>
+    </item>
+    <item>
+      <title>Articles</title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publications/</guid>
+      <description>2023 L. NASCIMENTO, L.CESARINO, P.FONSECA.Far-right publics on brazilian Telegram a mixed-methods approach to digital anthropology .</description>
+    </item>
+    <item>
+      <title>Elements</title>
+      <link>/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/elements/</guid>
+      <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
+    </item>
+    <item>
+      <title>LABHD in the news</title>
+      <link>/inthenews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/inthenews/</guid>
+      <description>&#xD;Access the timeline in a new tab Made with TimelineJS </description>
+    </item>
+    <item>
+      <title>Reports</title>
+      <link>/reports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/reports/</guid>
+      <description>2024 The report analyzes the dissemination of disinformation and conspiracy theories related to the floods in Rio Grande do Sul within far-right groups and channels on Telegram.</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/research/</guid>
+      <description>Table of Contents Data Mining for Digital Humanities Analysis of Multi-Platform Ecosystems of Disinformation and Radicalization through Telegram Digital History Ethical, Social, and Political Implications of Digital Technoscience The Economy of Affectionate Exchanges: Market, Socialities, and Digital Media Data Mining for Digital Humanities The acquisition of computational skills in research practice across various fields of the humanities is one of the pillars of what is being called Digital Humanities.</description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tools/</guid>
+      <description>Table of Contents Scielo tools Anped Scraper COMPOS Scraper Anpuh abstracts Scraper Anpuh Scraper pyHDB Digital Tools Wiki Telegram Group Analysis (under development) Whatsapp Group Analysis (under development) Scielo tools Provides tools for scraping, organizing, and analyzing scientific articles from Scielo.</description>
+    </item>
+    <item>
+      <title>YouTube</title>
+      <link>/youtube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/youtube/</guid>
+      <description>LABHD UFBA - 2020/10/5&#xD;Join us at the LABHDUFBA!&#xD;CAPES - 2024/04/2&#xD;Conferência Livre: Ciência no Combate à Desinformação&#xD;Programming Historian - 2023/01/27&#xD;Programming Historian em português&#xD;Jornal da Cidade (Metro1) - 2022/12/20&#xD;Jornal da Cidade - Dra.</description>
+    </item>
+  </channel>
+</rss>

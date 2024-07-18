@@ -4,7 +4,7 @@
     <title>Hello, we are the Digital Humanities Laboratory at UFBA on LABHDUFBA</title>
     <link>//localhost:1313/about/</link>
     <description>Recent content in Hello, we are the Digital Humanities Laboratory at UFBA on LABHDUFBA</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="//localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
