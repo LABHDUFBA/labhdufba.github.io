@@ -51,7 +51,7 @@ Research in the field of Digital History has been developed in direct partnershi
 ## Ethical, Social, and Political Implications of Digital Technoscience
 
 <div style="text-align: center;">
-    <img src="/images/sts.jpg" alt="ilustration of digital history" width="300">
+    <img src="/images/sts.jpg" alt="Ilustration of digital history" width="300">
 </div>
 
 Understanding the ethical, social, and political implications of new digital practices has become an urgent mission of the social sciences in contemporary times. Through the integration of conceptual and methodological frameworks from Digital Humanities and Studies on Science, Technology, and Society (STS), our team seeks to generate reflections that contribute to understanding the co-production between Digital Technoscience and social, political, and cultural transformations in Brazil. Digital Technoscience, in our conception, refers not only to the practices and knowledge embedded in the complex networks of hardware, software, and humans involved in the production of knowledge about computing and digital technology but also to the entanglement of these networks with various dimensions of social life. Through digital ethnographies and the use of mixed methods of quantitative and qualitative analysis of web-scraped data, LABHDUFBA conducts case studies that support reflections on the co-production between the digital order and social life, as well as on the opportunities and risks involved with innovations in digital platforms. Currently, research has focused on dimensions such as: post-truth and digital populism, digital activism and democracy, regulation, and data accountability.
