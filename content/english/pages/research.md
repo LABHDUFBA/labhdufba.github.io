@@ -61,7 +61,7 @@ Understanding the ethical, social, and political implications of new digital pra
 ## The Economy of Affectionate Exchanges: Market, Socialities, and Digital Media
 
 <div style="text-align: center;">
-    <img src="/images/affect.jpg" alt="ilustration of digital history" width="300">
+    <img src="/images/affect.jpg" alt="The Economy of Affectionate Exchanges" width="300">
 </div>
 
 The dominance of affective relationships surrounding the constitution of a symbolic social field, coupled with the analysis of recent shifts in relation to structures and practices, brought about by the advent of new digital media, particularly in the migration from old websites to contemporary dating apps. As lines are drawn on the development and promotion of these new affective-sexual dynamics, empirical investigation stems from the conception of consumption established through technological mediation, as well as the consequent transformation of users into commodities available within this affective market, primarily through online services. The emergence of the proposed sociological debate revolves around the incessant production of digital data by users and developing companies, through the articulation between networked social actors and these devices, as new relational spaces, as well as at the intersection between various changes in the realm of affectivity and gender and sexuality relations.
