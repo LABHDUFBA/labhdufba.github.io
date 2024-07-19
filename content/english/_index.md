@@ -26,7 +26,7 @@ features:
       
   - title: "Analysis of Multi-Platform Ecosystems of Disinformation and Radicalization through Telegram"
     image: "/images/telegram.jpg"
-    content: "Since 2021, LABHDUFBA has been developing this research in partnership with InternetLab. This project establishes a multi-method framework to map and analyze the multi-platform ecosystem of political extremism networks through the Telegram app. It monitors computational propaganda activities, coordinated influence operations, and hate speech (misogyny, racism, LGBTQIA+phobia) using corpus linguistics (CL), natural language processing (NLP), discourse analysis, and online ethnography."
+    content: "Since 2021, LABHDUFBA has been developing this research in partnership with [InternetLab](https://internetlab.org.br/pt/). This project establishes a multi-method framework to map and analyze the multi-platform ecosystem of political extremism networks through the Telegram app. It monitors computational propaganda activities, coordinated influence operations, and hate speech (misogyny, racism, LGBTQIA+phobia) using corpus linguistics (CL), natural language processing (NLP), discourse analysis, and online ethnography."
     bulletpoints:
       - "Monitoring computational propaganda and influence operations"
       - "Analyzing hate speech: misogyny, racism, LGBTQIA+phobia"
