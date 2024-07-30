@@ -362,6 +362,18 @@
                 href="//localhost:1313/pt/elements/"
                 />
   </url><url>
+    <loc>//localhost:1313/pt/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="//localhost:1313/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="//localhost:1313/pt/authors/"
+                />
+  </url><url>
     <loc>//localhost:1313/pt/tools/</loc>
     <xhtml:link
                 rel="alternate"
@@ -410,18 +422,6 @@
                 href="//localhost:1313/pt/pages/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt/reports/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/reports/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt/reports/"
-                />
-  </url><url>
     <loc>//localhost:1313/pt/research/</loc>
     <xhtml:link
                 rel="alternate"
@@ -432,6 +432,18 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="//localhost:1313/pt/research/"
+                />
+  </url><url>
+    <loc>//localhost:1313/pt/reports/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="//localhost:1313/reports/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="//localhost:1313/pt/reports/"
                 />
   </url><url>
     <loc>//localhost:1313/pt/sections/</loc>
@@ -456,18 +468,6 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="//localhost:1313/pt/tags/"
-                />
-  </url><url>
-    <loc>//localhost:1313/pt/authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt/authors/"
                 />
   </url><url>
     <loc>//localhost:1313/pt/youtube/</loc>

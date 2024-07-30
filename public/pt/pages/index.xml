@@ -33,28 +33,28 @@
       <link>//localhost:1313/pt/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/pt/tools/</guid>
-      <description>Table of Contents Scielo tools Anped Scraper COMPOS Scraper Anpuh abstracts Scraper Anpuh Scraper pyHDB Digital Tools Wiki Telegram Group Analysis (under development) Whatsapp Group Analysis (under development) Scielo tools Provides tools for scraping, organizing, and analyzing scientific articles from Scielo.</description>
+      <description>Table of Contents Ferramentas Scielo Anped Scraper COMPOS Scraper Anpuh abstracts Scraper Anpuh Scraper pyHDB Wiki de Ferramentas Digitais Análise de Grupos do Telegram (em desenvolvimento) Análise de Grupos do Whatsapp (em desenvolvimento) Ferramentas Scielo Fornece ferramentas para raspagem, organização e análise de artigos científicos do Scielo.</description>
     </item>
     <item>
       <title>LABHD na mídia</title>
       <link>//localhost:1313/pt/inthenews/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/pt/inthenews/</guid>
-      <description> Access the timeline in a new tab Made with TimelineJS </description>
+      <description> Acesse a linha do tempo em nova aba Feito com TimelineJS </description>
     </item>
     <item>
-      <title>Reports</title>
-      <link>//localhost:1313/pt/reports/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pt/reports/</guid>
-      <description>2024 The report analyzes the dissemination of disinformation and conspiracy theories related to the floods in Rio Grande do Sul within far-right groups and channels on Telegram.</description>
-    </item>
-    <item>
-      <title>Research</title>
+      <title>Pesquisa</title>
       <link>//localhost:1313/pt/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/pt/research/</guid>
-      <description>Table of Contents Data Mining for Digital Humanities Analysis of Multi-Platform Ecosystems of Disinformation and Radicalization through Telegram Digital History Ethical, Social, and Political Implications of Digital Technoscience The Economy of Affectionate Exchanges: Market, Socialities, and Digital Media Data Mining for Digital Humanities The acquisition of computational skills in research practice across various fields of the humanities is one of the pillars of what is being called Digital Humanities.</description>
+      <description>Table of Contents Mineração de Dados para Humanidades Digitais Análise de Ecossistemas Multi-Plataforma de Desinformação e Radicalização através do Telegram História Digital Implicações Éticas, Sociais e Políticas da Tecno-ciência Digital A Economia das Trocas Afetivas: Mercado, Sociabilidades e Mídias Digitais Mineração de Dados para Humanidades Digitais A aquisição de habilidades computacionais na prática de pesquisa em vários campos das humanidades é um dos pilares do que está sendo chamado de Humanidades Digitais.</description>
+    </item>
+    <item>
+      <title>Relatórios</title>
+      <link>//localhost:1313/pt/reports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/reports/</guid>
+      <description>2024 O relatório analisa a disseminação de desinformação e teorias da conspiração relacionadas às enchentes no Rio Grande do Sul dentro de grupos e canais de extrema direita no Telegram.</description>
     </item>
     <item>
       <title>YouTube</title>
