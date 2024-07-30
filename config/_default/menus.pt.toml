@@ -1,0 +1,74 @@
+############# Portuguese navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Sobre"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Equipe"
+url = "authors/"
+weight = 3
+
+[[main]]
+name = "Pesquisa"
+url = "research/"
+weight = 4
+
+[[main]]
+name = "Ferramentas"
+url = "tools/"
+weight = 5
+
+[[main]]
+name = "Na Mídia"
+url = "inthenews/"
+weight = 7
+
+[[main]]
+name = "Contato"
+url = "contact/"
+weight = 8
+
+[[main]]
+weight = 6
+name = "Publicações"
+hasChildren = true
+
+[[main]]
+parent = "Publicações"
+name = "Artigos"
+url = "articles/"
+weight = 1
+
+[[main]]
+parent = "Publicações"
+name = "Relatórios"
+url = "reports/"
+weight = 2
+
+[[main]]
+parent = "Publicações"
+name = "Youtube"
+url = "youtube/"
+weight = 3
+
+[[main]]
+
+# footer menu
+[[footer]]
+name = "Sobre"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Contato"
+url = "contact/"
+weight = 2
+

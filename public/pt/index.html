@@ -5,7 +5,7 @@
   lang="pt-br"
   itemtype="http://schema.org/WebPage">
   <head>
-	<meta name="generator" content="Hugo 0.124.1"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta name="generator" content="Hugo 0.126.1"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     
     <meta charset="utf-8" />
 
@@ -107,18 +107,18 @@
 
   <meta
     name="keywords"
-    content="digital humanities, ufba, labhd, laboratório de humanidades digitais" />
+    content="digital humanities, ufba, labhd, digital humanities lab" />
 
 
 
 
 <meta
   name="description"
-  content="Laboratório de Humanidades Digitais da UFBA" />
+  content="UFBA Digital Humanities Laboratory - LABHDUFBA" />
 
 
 
-  <meta name="author" content="Laboratório de Humanidades Digitais da UFBA" />
+  <meta name="author" content="UFBA Digital Humanities Laboratory - LABHDUFBA" />
 
 
 
@@ -190,13 +190,13 @@
 
 
 <meta property="og:title" content="LABHDUFBA" />
-<meta property="og:description" content="Laboratório de Humanidades Digitais da UFBA" />
+<meta property="og:description" content="UFBA Digital Humanities Laboratory - LABHDUFBA" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="//localhost:1313/pt/" />
 
 
 <meta name="twitter:title" content="LABHDUFBA" />
-<meta name="twitter:description" content="Laboratório de Humanidades Digitais da UFBA" />
+<meta name="twitter:description" content="UFBA Digital Humanities Laboratory - LABHDUFBA" />
 
 
 
@@ -209,8 +209,25 @@
 
 
 
-
-
+  
+  
+    
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-576FN6TB84"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-576FN6TB84');
+        }
+      </script>
+    
+  
 
 
 
@@ -219,8 +236,44 @@
 
 
 <script>
+  !(function () {
+    let t = 0;
+    document.addEventListener("mousemove", function () {
+      1 == ++t && gtmLoader();
+    }),
+      (window.onscroll = function (n) {
+        1 == ++t &&gtmLoader();
+      }),
+      setTimeout(function () {
+        0 === t && (t++, gtmLoader());
+      }, 5e3);
+  })();
+
+  function gtmLoader() {
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        "gtm.start": new Date().getTime(),
+        event: "gtm.js",
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != "dataLayer" ? "&l=" + l : "";
+      j.async = true;
+      j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, "script", "dataLayer", "G-576FN6TB84");
+  }
+</script>
+
+
+
+
+
+
+<script>
   let indexURL = "//localhost:1313/pt/searchindex.json";
-  let includeSectionsInSearch = ["midia","blog"];
+  let includeSectionsInSearch = ["pages","about"];
   let search_no_results = "0 results for";
   let search_initial_message = "";
 </script>
@@ -497,6 +550,183 @@
       class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8">
       
       
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link active"
+              
+              href="/pt/"
+              >Home</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              
+              href="/pt/about/"
+              >Sobre</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              
+              href="/pt/authors/"
+              >Equipe</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              
+              href="/pt/research/"
+              >Pesquisa</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              
+              href="/pt/tools/"
+              >Ferramentas</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item nav-dropdown group relative">
+            <span
+              class="nav-link 
+                
+                
+                
+              
+                
+                
+                
+              
+                
+                
+                
+               inline-flex items-center">
+              Publicações
+              <svg class="h-4 w-4 fill-current" viewBox="0 0 20 20">
+                <path
+                  d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+              </svg>
+            </span>
+            <ul
+              class="nav-dropdown-list lg:group-hover:visible lg:group-hover:opacity-100">
+              
+                
+                
+                <li class="nav-dropdown-item">
+                  <a
+                    class="nav-dropdown-link "
+                    
+                    href="/pt/articles/">
+                    Artigos
+                  </a>
+                </li>
+              
+                
+                
+                <li class="nav-dropdown-item">
+                  <a
+                    class="nav-dropdown-link "
+                    
+                    href="/pt/reports/">
+                    Relatórios
+                  </a>
+                </li>
+              
+                
+                
+                <li class="nav-dropdown-item">
+                  <a
+                    class="nav-dropdown-link "
+                    
+                    href="/pt/youtube/">
+                    Youtube
+                  </a>
+                </li>
+              
+            </ul>
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              
+              href="/pt/inthenews/"
+              >Na Mídia</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              
+              href="/pt/contact/"
+              >Contato</a
+            >
+          </li>
+        
+      
+        
+        
+        
+        
+          <li class="nav-item">
+            <a
+              class="nav-link active"
+              
+              href="/pt/"
+              ></a
+            >
+          </li>
+        
+      
       
         <li class="mt-4 inline-block lg:hidden">
           <a
@@ -744,13 +974,1193 @@
       
   
   
+    <section class="section pt-14">
+      <div class="container">
+        <div class="row justify-center">
+          <div class="lg:col-7 md:col-9 mb-8 text-center">
+            <h1 class="mb-4 text-h3 lg:text-h1">
+              Laboratório de Humanidades Digitais da UFBA - LABHDUFBA
+            </h1>
+            <p class="mb-8">
+              Pesquisadores interessados em humanidades, dados e tecnologias digitais reunidos em um espaço para troca intelectual, pesquisa acadêmica e produção científica.
+            </p>
+            
+              
+                <a
+                  class="btn btn-primary"
+                  href="https://labhdufba.github.io/contact/"
+                  
+                    target="_blank" rel="noopener"
+                  >
+                  Entre em contato
+                  <i class="fa fa-arrow-right pl-2"></i>
+                </a>
+              
+            
+          </div>
+          <div class="col-12">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
   
   
+
+
+  
+
+
+          </div>
+        </div>
+      </div>
+    </section>
+  
   
 
   
+  
+    <section class="section-sm bg-gradient">
+      <div class="container">
+        <div class="row items-center justify-between">
+          <div
+            class="mb:md-0  md:col-5 mb-6">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+  
+    
+      
+    
+
+
+    
+    
+
+
+    
+    
+      
+      
+    
+    
+    
+
+
+    
+    
+      
+      
+        
+
+        
+        
+        
+        
+        
+        
+        
+
+
+        
+        
+
+
+        <picture>
+          <source
+            
+              srcset="/images/research-data-mining_hua70488d1e7b8882800772bc91161d288_985726_545x0_resize_q80_h2_lanczos_3.webp"
+            
+            media="(max-width: 575px)" />
+          <source
+            
+              srcset="/images/research-data-mining_hua70488d1e7b8882800772bc91161d288_985726_360x0_resize_q80_h2_lanczos_3.webp"
+            
+            media="(max-width: 767px)" />
+          <source
+            
+              srcset="/images/research-data-mining_hua70488d1e7b8882800772bc91161d288_985726_425x0_resize_q80_h2_lanczos_3.webp"
+            
+            media="(max-width: 991px)" />
+          <source
+            
+              srcset="/images/research-data-mining_hua70488d1e7b8882800772bc91161d288_985726_520x0_resize_q80_h2_lanczos_3.webp"
+             />
+          <img
+            
+              loading="lazy" decoding="async"
+              src="/images/research-data-mining_hua70488d1e7b8882800772bc91161d288_985726_520x0_resize_lanczos_3.png"
+            class="  img"
+            alt="feature image"
+            width="1024"
+            height="1024" />
+        </picture>
+      
+      
+    
+    
+  
+
+
+  
+
+
+          </div>
+          <div
+            class=" md:col-7 lg:col-6">
+            <h2 class="mb-4">
+              Mineração de Dados para Humanidades Digitais
+            </h2>
+            <p class="mb-8 text-lg">
+              O LABHDUFBA é especializado no desenvolvimento de algoritmos de extração de dados para a web e redes sociais digitais, focando na integração de habilidades computacionais na pesquisa em humanidades. Esta iniciativa visa avaliar criticamente como as ferramentas digitais moldam a imaginação e as investigações nas humanidades, explorando os limites da lógica algorítmica.
+            </p>
+            <ul>
+              
+                <li class="relative mb-4 pl-6">
+                  <i class="fa fa-check absolute left-0 top-1.5"></i>
+                  Desenvolvimento de algoritmos de extração de dados para web e redes sociais
+                </li>
+              
+                <li class="relative mb-4 pl-6">
+                  <i class="fa fa-check absolute left-0 top-1.5"></i>
+                  Reflexão crítica sobre os impactos das ferramentas digitais na pesquisa em humanidades
+                </li>
+              
+                <li class="relative mb-4 pl-6">
+                  <i class="fa fa-check absolute left-0 top-1.5"></i>
+                  Exploração do &lsquo;pensável&rsquo; dentro das estruturas algorítmicas
+                </li>
+              
+                <li class="relative mb-4 pl-6">
+                  <i class="fa fa-check absolute left-0 top-1.5"></i>
+                  Promoção de metodologias digitais nas disciplinas de humanidades
+                </li>
+              
+            </ul>
+            
+              
+                <a class="btn btn-primary mt-6" href="//localhost:1313/research">
+                  Explore Nossa Pesquisa
+                  <i class="fa fa-arrow-right pl-2"></i>
+                </a>
+              
+            
+          </div>
+        </div>
+      </div>
+    </section>
+  
+    <section class="section-sm ">
+      <div class="container">
+        <div class="row items-center justify-between">
+          <div
+            class="mb:md-0 
+              md:order-2
+             md:col-5 mb-6">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+  
+    
+      
+    
+
+
+    
+    
+
+
+    
+    
+      
+      
+    
+    
+    
+
+
+    
+    
+      
+      
+        
+
+        
+        
+        
+        
+        
+        
+        
+
+
+        
+        
+
+
+        <picture>
+          <source
+            
+              srcset="/images/telegram_hu563415283c33193648ee026f20f1cf29_194782_545x0_resize_q80_h2_lanczos.webp"
+            
+            media="(max-width: 575px)" />
+          <source
+            
+              srcset="/images/telegram_hu563415283c33193648ee026f20f1cf29_194782_360x0_resize_q80_h2_lanczos.webp"
+            
+            media="(max-width: 767px)" />
+          <source
+            
+              srcset="/images/telegram_hu563415283c33193648ee026f20f1cf29_194782_425x0_resize_q80_h2_lanczos.webp"
+            
+            media="(max-width: 991px)" />
+          <source
+            
+              srcset="/images/telegram_hu563415283c33193648ee026f20f1cf29_194782_520x0_resize_q80_h2_lanczos.webp"
+             />
+          <img
+            
+              loading="lazy" decoding="async"
+              src="/images/telegram_hu563415283c33193648ee026f20f1cf29_194782_520x0_resize_q80_lanczos.jpg"
+            class="  img"
+            alt="feature image"
+            width="1024"
+            height="1024" />
+        </picture>
+      
+      
+    
+    
+  
+
+
+  
+
+
+          </div>
+          <div
+            class="
+              md:order-1
+             md:col-7 lg:col-6">
+            <h2 class="mb-4">
+              Análise de Ecossistemas Multi-Plataforma de Desinformação e Radicalização através do Telegram
+            </h2>
+            <p class="mb-8 text-lg">
+              Desde 2021, o LABHDUFBA vem desenvolvendo esta pesquisa em parceria com o <a href="https://internetlab.org.br/pt/"
+
+
+
+
+ target="_blank"
+ 
+
+
+>InternetLab</a>
+. Este projeto estabelece uma estrutura multimétodo para mapear e analisar o ecossistema multi-plataforma de redes de extremismo político através do aplicativo Telegram. Ele monitora atividades de propaganda computacional, operações coordenadas de influência e discurso de ódio (misoginia, racismo, LGBTQIA+fobia) usando linguística de corpus (CL), processamento de linguagem natural (NLP), análise de discurso e etnografia online.
+            </p>
+            <ul>
+              
+                <li class="relative mb-4 pl-6">
+                  <i class="fa fa-check absolute left-0 top-1.5"></i>
+                  Monitoramento de propaganda computacional e operações de influência
+                </li>
+              
+                <li class="relative mb-4 pl-6">
+                  <i class="fa fa-check absolute left-0 top-1.5"></i>
+                  Análise de discurso de ódio: misoginia, racismo, LGBTQIA+fobia
+                </li>
+              
+                <li class="relative mb-4 pl-6">
+                  <i class="fa fa-check absolute left-0 top-1.5"></i>
+                  Combinação de métodos de pesquisa computacionais e qualitativos
+                </li>
+              
+                <li class="relative mb-4 pl-6">
+                  <i class="fa fa-check absolute left-0 top-1.5"></i>
+                  Compreensão do impacto sócio-antropológico do conteúdo radical
+                </li>
+              
+            </ul>
+            
+              
+                <a class="btn btn-primary mt-6" href="//localhost:1313/research">
+                  Explore Nossa Pesquisa
+                  <i class="fa fa-arrow-right pl-2"></i>
+                </a>
+              
+            
+          </div>
+        </div>
+      </div>
+    </section>
+  
+    <section class="section-sm bg-gradient">
+      <div class="container">
+        <div class="row items-center justify-between">
+          <div
+            class="mb:md-0  md:col-5 mb-6">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+  
+    
+      
+    
+
+
+    
+    
+
+
+    
+    
+      
+      
+    
+    
+    
+
+
+    
+    
+      
+      
+        
+
+        
+        
+        
+        
+        
+        
+        
+
+
+        
+        
+
+
+        <picture>
+          <source
+            
+              srcset="/images/research-digital-history_huc5339c0a40a94f6dd51f7079f1fbb048_379886_545x0_resize_q80_h2_lanczos_3.webp"
+            
+            media="(max-width: 575px)" />
+          <source
+            
+              srcset="/images/research-digital-history_huc5339c0a40a94f6dd51f7079f1fbb048_379886_360x0_resize_q80_h2_lanczos_3.webp"
+            
+            media="(max-width: 767px)" />
+          <source
+            
+              srcset="/images/research-digital-history_huc5339c0a40a94f6dd51f7079f1fbb048_379886_425x0_resize_q80_h2_lanczos_3.webp"
+            
+            media="(max-width: 991px)" />
+          <source
+            
+              srcset="/images/research-digital-history_huc5339c0a40a94f6dd51f7079f1fbb048_379886_520x0_resize_q80_h2_lanczos_3.webp"
+             />
+          <img
+            
+              loading="lazy" decoding="async"
+              src="/images/research-digital-history_huc5339c0a40a94f6dd51f7079f1fbb048_379886_520x0_resize_lanczos_3.png"
+            class="  img"
+            alt="feature image"
+            width="1024"
+            height="1024" />
+        </picture>
+      
+      
+    
+    
+  
+
+
+  
+
+
+          </div>
+          <div
+            class=" md:col-7 lg:col-6">
+            <h2 class="mb-4">
+              História Digital e Análise Cultural
+            </h2>
+            <p class="mb-8 text-lg">
+              Em colaboração com a Universidade da Integração Internacional da Lusofonia Afro-Brasileira, o LABHDUFBA explora a história digital, focando em coleções documentais digitalizadas e repositórios online. O laboratório busca desenvolver novas abordagens historiográficas e engajar-se em reflexões metodológicas, particularmente no que diz respeito a raça, racismo e direitos nas Américas.
+            </p>
+            <ul>
+              
+                <li class="relative mb-4 pl-6">
+                  <i class="fa fa-check absolute left-0 top-1.5"></i>
+                  Pesquisa colaborativa em história digital
+                </li>
+              
+                <li class="relative mb-4 pl-6">
+                  <i class="fa fa-check absolute left-0 top-1.5"></i>
+                  Inovações metodológicas na pesquisa e ensino de história
+                </li>
+              
+                <li class="relative mb-4 pl-6">
+                  <i class="fa fa-check absolute left-0 top-1.5"></i>
+                  Engajamento com temas sociopolíticos, especialmente raça e direitos
+                </li>
+              
+                <li class="relative mb-4 pl-6">
+                  <i class="fa fa-check absolute left-0 top-1.5"></i>
+                  Uso de ferramentas digitais para avanços historiográficos
+                </li>
+              
+            </ul>
+            
+              
+                <a class="btn btn-primary mt-6" href="//localhost:1313/research">
+                  Descubra Projetos de História
+                  <i class="fa fa-arrow-right pl-2"></i>
+                </a>
+              
+            
+          </div>
+        </div>
+      </div>
+    </section>
+  
+    <section class="section-sm ">
+      <div class="container">
+        <div class="row items-center justify-between">
+          <div
+            class="mb:md-0 
+              md:order-2
+             md:col-5 mb-6">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+  
+    
+      
+    
+
+
+    
+    
+
+
+    
+    
+      
+      
+    
+    
+    
+
+
+    
+    
+      
+      
+        
+
+        
+        
+        
+        
+        
+        
+        
+
+
+        
+        
+
+
+        <picture>
+          <source
+            
+              srcset="/images/join-us_hub5d0a7511be792d923b4bd7ff3f76706_767299_545x0_resize_q80_h2_lanczos_3.webp"
+            
+            media="(max-width: 575px)" />
+          <source
+            
+              srcset="/images/join-us_hub5d0a7511be792d923b4bd7ff3f76706_767299_360x0_resize_q80_h2_lanczos_3.webp"
+            
+            media="(max-width: 767px)" />
+          <source
+            
+              srcset="/images/join-us_hub5d0a7511be792d923b4bd7ff3f76706_767299_425x0_resize_q80_h2_lanczos_3.webp"
+            
+            media="(max-width: 991px)" />
+          <source
+            
+              srcset="/images/join-us_hub5d0a7511be792d923b4bd7ff3f76706_767299_520x0_resize_q80_h2_lanczos_3.webp"
+             />
+          <img
+            
+              loading="lazy" decoding="async"
+              src="/images/join-us_hub5d0a7511be792d923b4bd7ff3f76706_767299_520x0_resize_lanczos_3.png"
+            class="  img"
+            alt="feature image"
+            width="1024"
+            height="1024" />
+        </picture>
+      
+      
+    
+    
+  
+
+
+  
+
+
+          </div>
+          <div
+            class="
+              md:order-1
+             md:col-7 lg:col-6">
+            <h2 class="mb-4">
+              Junte-se à Equipe do LABHDUFBA
+            </h2>
+            <p class="mb-8 text-lg">
+              O LABHDUFBA convida pesquisadores apaixonados por Humanidades Digitais a explorar, inovar e contribuir para nosso campo dinâmico. Com expertise em métodos e ferramentas digitais, infraestrutura computacional de ponta e uma equipe multidisciplinar vibrante, oferecemos um ambiente enriquecedor para crescimento acadêmico e profissional.
+            </p>
+            <ul>
+              
+                <li class="relative mb-4 pl-6">
+                  <i class="fa fa-check absolute left-0 top-1.5"></i>
+                  Trabalhe com métodos e ferramentas digitais de ponta
+                </li>
+              
+                <li class="relative mb-4 pl-6">
+                  <i class="fa fa-check absolute left-0 top-1.5"></i>
+                  Acesso a computadores avançados e infraestrutura tecnológica
+                </li>
+              
+                <li class="relative mb-4 pl-6">
+                  <i class="fa fa-check absolute left-0 top-1.5"></i>
+                  Faça parte de uma equipe diversa e multidisciplinar de especialistas
+                </li>
+              
+                <li class="relative mb-4 pl-6">
+                  <i class="fa fa-check absolute left-0 top-1.5"></i>
+                  Engaje-se em projetos de pesquisa inovadores com impacto global
+                </li>
+              
+                <li class="relative mb-4 pl-6">
+                  <i class="fa fa-check absolute left-0 top-1.5"></i>
+                  <strong>Oportunidades de colaboração e desenvolvimento pessoal</strong>
+                </li>
+              
+            </ul>
+            
+              
+                <a class="btn btn-primary mt-6" href="//localhost:1313/contact">
+                  Inscreva-se Agora
+                  <i class="fa fa-arrow-right pl-2"></i>
+                </a>
+              
+            
+          </div>
+        </div>
+      </div>
+    </section>
+  
+  
+
+  
+  
+    
+      <section class="section">
+        <div class="container">
+          <div class="row">
+            <div class="md:col-10 lg:col-8 xl:col-6 mx-auto mb-12 text-center">
+              <h2 class="mb-4">
+                Eventos recentes
+              </h2>
+              <p>
+                Eventos e Conferências
+              </p>
+            </div>
+            <div class="col-12">
+              <div class="swiper testimonial-slider">
+                <div class="swiper-wrapper">
+                  
+                    <div class="swiper-slide">
+                      <div
+                        class="bg-theme-light dark:bg-darkmode-theme-light rounded-lg px-7 py-10">
+                        <div class="text-dark dark:text-white">
+                          <svg
+                            width="33"
+                            height="20"
+                            viewBox="0 0 33 20"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path
+                              d="M1.28375 19.41L0.79375 18.64C1.21375 17.0067 1.75042 15.07 2.40375 12.83C3.05708 10.5433 3.75708 8.28 4.50375 6.04C5.29708 3.75333 6.06708 1.77 6.81375 0.0899959H15.3538C14.9338 2.09666 14.4904 4.26667 14.0238 6.6C13.5571 8.88666 13.1371 11.15 12.7638 13.39C12.4371 15.5833 12.1571 17.59 11.9238 19.41H1.28375ZM31.69 0.0899959L32.18 0.859998C31.76 2.54 31.2233 4.5 30.57 6.74C29.9167 8.98 29.2167 11.2433 28.47 13.53C27.7233 15.77 26.9533 17.73 26.16 19.41H17.69C18.0167 17.9167 18.3433 16.33 18.67 14.65C18.9967 12.9233 19.3 11.22 19.58 9.54C19.9067 7.81333 20.1867 6.15667 20.42 4.57C20.7 2.93666 20.91 1.44333 21.05 0.0899959H31.69Z"
+                              fill="currentColor" />
+                          </svg>
+                        </div>
+                        <blockquote class="mt-8">
+                          Participação de Leonardo Nascimento na mesa <strong>Iluminando o Oceano Digital: cooperação científica para a transparência e integridade informacional</strong> que acontecerá no dia 02 de abril de 2024, às 14h, na Capes em Brasília. <a href="https://labhdufba.github.io/publications/"
+
+
+
+
+ target="_blank"
+ 
+
+
+><em>Acesse aqui os detalhes do evento</em></a>
+                        </blockquote>
+                        <div class="mt-11 flex items-center">
+                          <div class="text-dark dark:text-white">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+  
+    
+      
+    
+
+
+    
+    
+
+
+    
+    
+      
+      
+    
+    
+    
+
+
+    
+    
+      
+      
+        
+        
+        
+        
+        
+        
+
+
+        
+        
+
+
+        <img
+          
+            src="/images/gallery/5-cti_hu08aaf642d5e5f3f85a4b98f3eb1b37a6_140074_50x50_resize_q80_h2_lanczos.webp" loading="lazy"
+            decoding="async"
+          
+
+          alt="5ª Conferência Nacional de CT&amp;I"
+          class=" rounded-full img"
+          width="50"
+          height="50"
+          onerror="this.onerror='null';
+          this.src='\/images\/gallery\/5-cti_hu08aaf642d5e5f3f85a4b98f3eb1b37a6_140074_50x50_resize_q80_lanczos.jpeg';" />
+
+        
+      
+      
+    
+    
+  
+
+
+  
+
+
+                          </div>
+                          <div class="ml-4">
+                            <h3 class="h5 font-primary font-semibold">
+                              5ª Conferência Nacional de CT&amp;I
+                            </h3>
+                            <p class="text-dark dark:text-white">
+                              Conferência Livre: Ciência no Combate à Descinformação
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  
+                    <div class="swiper-slide">
+                      <div
+                        class="bg-theme-light dark:bg-darkmode-theme-light rounded-lg px-7 py-10">
+                        <div class="text-dark dark:text-white">
+                          <svg
+                            width="33"
+                            height="20"
+                            viewBox="0 0 33 20"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path
+                              d="M1.28375 19.41L0.79375 18.64C1.21375 17.0067 1.75042 15.07 2.40375 12.83C3.05708 10.5433 3.75708 8.28 4.50375 6.04C5.29708 3.75333 6.06708 1.77 6.81375 0.0899959H15.3538C14.9338 2.09666 14.4904 4.26667 14.0238 6.6C13.5571 8.88666 13.1371 11.15 12.7638 13.39C12.4371 15.5833 12.1571 17.59 11.9238 19.41H1.28375ZM31.69 0.0899959L32.18 0.859998C31.76 2.54 31.2233 4.5 30.57 6.74C29.9167 8.98 29.2167 11.2433 28.47 13.53C27.7233 15.77 26.9533 17.73 26.16 19.41H17.69C18.0167 17.9167 18.3433 16.33 18.67 14.65C18.9967 12.9233 19.3 11.22 19.58 9.54C19.9067 7.81333 20.1867 6.15667 20.42 4.57C20.7 2.93666 20.91 1.44333 21.05 0.0899959H31.69Z"
+                              fill="currentColor" />
+                          </svg>
+                        </div>
+                        <blockquote class="mt-8">
+                          Participação de Eric Brasil na mesa <strong>Somos de humanas? Desafios técnicos e ambientais à profissão do(a) historiador(a)</strong>, no dia 10 de abril de 2024, às 19h.
+                        </blockquote>
+                        <div class="mt-11 flex items-center">
+                          <div class="text-dark dark:text-white">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+  
+    
+      
+    
+
+
+    
+    
+
+
+    
+    
+      
+      
+    
+    
+    
+
+
+    
+    
+      
+      
+        
+        
+        
+        
+        
+        
+
+
+        
+        
+
+
+        <img
+          
+            src="/images/gallery/sem_hist_hu1b63ed088018f1396fb219f044e457e6_192150_50x50_resize_q80_h2_lanczos.webp" loading="lazy"
+            decoding="async"
+          
+
+          alt="IX Semana de História"
+          class=" rounded-full img"
+          width="50"
+          height="50"
+          onerror="this.onerror='null';
+          this.src='\/images\/gallery\/sem_hist_hu1b63ed088018f1396fb219f044e457e6_192150_50x50_resize_q80_lanczos.jpeg';" />
+
+        
+      
+      
+    
+    
+  
+
+
+  
+
+
+                          </div>
+                          <div class="ml-4">
+                            <h3 class="h5 font-primary font-semibold">
+                              IX Semana de História
+                            </h3>
+                            <p class="text-dark dark:text-white">
+                              UNIFAL-MG
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  
+                    <div class="swiper-slide">
+                      <div
+                        class="bg-theme-light dark:bg-darkmode-theme-light rounded-lg px-7 py-10">
+                        <div class="text-dark dark:text-white">
+                          <svg
+                            width="33"
+                            height="20"
+                            viewBox="0 0 33 20"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path
+                              d="M1.28375 19.41L0.79375 18.64C1.21375 17.0067 1.75042 15.07 2.40375 12.83C3.05708 10.5433 3.75708 8.28 4.50375 6.04C5.29708 3.75333 6.06708 1.77 6.81375 0.0899959H15.3538C14.9338 2.09666 14.4904 4.26667 14.0238 6.6C13.5571 8.88666 13.1371 11.15 12.7638 13.39C12.4371 15.5833 12.1571 17.59 11.9238 19.41H1.28375ZM31.69 0.0899959L32.18 0.859998C31.76 2.54 31.2233 4.5 30.57 6.74C29.9167 8.98 29.2167 11.2433 28.47 13.53C27.7233 15.77 26.9533 17.73 26.16 19.41H17.69C18.0167 17.9167 18.3433 16.33 18.67 14.65C18.9967 12.9233 19.3 11.22 19.58 9.54C19.9067 7.81333 20.1867 6.15667 20.42 4.57C20.7 2.93666 20.91 1.44333 21.05 0.0899959H31.69Z"
+                              fill="currentColor" />
+                          </svg>
+                        </div>
+                        <blockquote class="mt-8">
+                          Participação do professor Leonardo Nascimento na live do Instituto Conhecimento Liberta a respeito da <strong>desinformação na plataforma Telegram</strong> em fevereiro de 2024.
+                        </blockquote>
+                        <div class="mt-11 flex items-center">
+                          <div class="text-dark dark:text-white">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+  
+    
+      
+    
+
+
+    
+    
+
+
+    
+    
+      
+      
+    
+    
+    
+
+
+    
+    
+      
+      
+        
+        
+        
+        
+        
+        
+
+
+        
+        
+
+
+        <img
+          
+            src="/images/avatar-sm_hu9f327c832418412c3223cac273682ad9_4005_50x50_resize_q80_h2_lanczos_3.webp" loading="lazy"
+            decoding="async"
+          
+
+          alt="ICL Notícias"
+          class=" rounded-full img"
+          width="50"
+          height="50"
+          onerror="this.onerror='null';
+          this.src='\/images\/avatar-sm_hu9f327c832418412c3223cac273682ad9_4005_50x50_resize_lanczos_3.png';" />
+
+        
+      
+      
+    
+    
+  
+
+
+  
+
+
+                          </div>
+                          <div class="ml-4">
+                            <h3 class="h5 font-primary font-semibold">
+                              ICL Notícias
+                            </h3>
+                            <p class="text-dark dark:text-white">
+                              ICL
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  
+                </div>
+                <div
+                  class="testimonial-slider-pagination mt-9 flex items-center justify-center text-center"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    
   
   
 
@@ -869,6 +2279,26 @@
       <div class="lg:col-6 mb-8 text-center lg:mb-0">
         <ul>
           
+            <li class="m-3 inline-block">
+              <a
+                
+                href="
+                  /pt/about/
+                "
+                >Sobre</a
+              >
+            </li>
+          
+            <li class="m-3 inline-block">
+              <a
+                
+                href="
+                  /pt/contact/
+                "
+                >Contato</a
+              >
+            </li>
+          
         </ul>
       </div>
       <div class="lg:col-3 mb-8 text-center lg:mb-0 lg:mt-0 lg:text-right">
@@ -899,7 +2329,7 @@
                 target="_blank"
                 aria-label="telegram"
                 rel="nofollow noopener"
-                href="https://t.me/labhdufba">
+                href="https://t.me/labhdufba_labhdufrj">
                 <i class="fab fa-telegram"></i>
               </a>
             </li>
@@ -921,12 +2351,20 @@
   <div class="border-border dark:border-darkmode-border border-t py-7">
     <div class="text-light dark:text-darkmode-light container text-center">
       <p>
-        Laboratório de Humanidades da UFBA - 2024
+        Parceiros<br>
+        <div class='center-content'>
+          <a href="https://www.cnpq.br/" target="_blank">
+            <img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/cnpq.png' width='200' class='spaced-img'>
+          </a>
+          <a href="https://www.internetlab.org.br/" target="_blank">
+            <img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/internetlab.png' width='200' class='spaced-img'>
+          </a>
+        </div>
+        <br>UFBA Digital Humanities Laboratory<br> Av. Milton Santos - Ondina, PAF-V, sala 305a, Salvador/Bahia, CEP:40170110<br>2024
       </p>
     </div>
   </div>
 </footer>
-
       
 
 

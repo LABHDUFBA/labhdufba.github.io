@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contato on LABHDUFBA</title>
+    <link>//localhost:1313/pt/contact/</link>
+    <description>Recent content in Contato on LABHDUFBA</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <atom:link href="//localhost:1313/pt/contact/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

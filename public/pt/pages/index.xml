@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on LABHDUFBA</title>
+    <link>//localhost:1313/pt/pages/</link>
+    <description>Recent content in Pages on LABHDUFBA</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <atom:link href="//localhost:1313/pt/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Articles</title>
+      <link>//localhost:1313/pt/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/publications/</guid>
+      <description>2023 L. NASCIMENTO, L.CESARINO, P.FONSECA.Far-right publics on brazilian Telegram a mixed-methods approach to digital anthropology .</description>
+    </item>
+    <item>
+      <title>Artigos</title>
+      <link>//localhost:1313/pt/articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/articles/</guid>
+      <description>2024 NASCIMENTO, Leonardo Fernandes. Humanidades Digitais e Vigilância pela Democracia .</description>
+    </item>
+    <item>
+      <title>Elements</title>
+      <link>//localhost:1313/pt/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/elements/</guid>
+      <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
+    </item>
+    <item>
+      <title>Ferramentas</title>
+      <link>//localhost:1313/pt/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/tools/</guid>
+      <description>Table of Contents Ferramentas Scielo Anped Scraper COMPOS Scraper Anpuh abstracts Scraper Anpuh Scraper pyHDB Wiki de Ferramentas Digitais Análise de Grupos do Telegram (em desenvolvimento) Análise de Grupos do Whatsapp (em desenvolvimento) Ferramentas Scielo Fornece ferramentas para raspagem, organização e análise de artigos científicos do Scielo.</description>
+    </item>
+    <item>
+      <title>LABHD na mídia</title>
+      <link>//localhost:1313/pt/inthenews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/inthenews/</guid>
+      <description> Acesse a linha do tempo em nova aba Feito com TimelineJS </description>
+    </item>
+    <item>
+      <title>Pesquisa</title>
+      <link>//localhost:1313/pt/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/research/</guid>
+      <description>Table of Contents Mineração de Dados para Humanidades Digitais Análise de Ecossistemas Multi-Plataforma de Desinformação e Radicalização através do Telegram História Digital Implicações Éticas, Sociais e Políticas da Tecno-ciência Digital A Economia das Trocas Afetivas: Mercado, Sociabilidades e Mídias Digitais Mineração de Dados para Humanidades Digitais A aquisição de habilidades computacionais na prática de pesquisa em vários campos das humanidades é um dos pilares do que está sendo chamado de Humanidades Digitais.</description>
+    </item>
+    <item>
+      <title>Relatórios</title>
+      <link>//localhost:1313/pt/reports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/reports/</guid>
+      <description>2024 O relatório analisa a disseminação de desinformação e teorias da conspiração relacionadas às enchentes no Rio Grande do Sul dentro de grupos e canais de extrema direita no Telegram.</description>
+    </item>
+    <item>
+      <title>YouTube</title>
+      <link>//localhost:1313/pt/youtube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/youtube/</guid>
+      <description>LABHD UFBA - 2020/10/5 Join us at the LABHDUFBA! CAPES - 2024/04/2 Conferência Livre: Ciência no Combate à Desinformação Programming Historian - 2023/01/27 Programming Historian em português Jornal da Cidade (Metro1) - 2022/12/20 Jornal da Cidade - Dra.</description>
+    </item>
+  </channel>
+</rss>
