@@ -10,4 +10,4 @@ social:
     link: http://lattes.cnpq.br/2546352728913607
 ---
 
-Rosana Silva Chagas, currently Rosana Silva Moore Wedderburn, holds a PhD (2019) and a Master's degree (2012) in Sociology from the Graduate Program of the Institute of Social and Political Studies (IESP) at the Rio de Janeiro State University (UERJ), and a Bachelor's degree in Sociology from the Federal University of Bahia (2007). She has experience in the field of Sociology, with an emphasis on racial relations, urban sociology, and criminology, focusing primarily on the topics of violence, genocide, homicides, and racial inequalities.
+Rosana Silva Chagas, atualmente Rosana Silva Moore Wedderburn, possui doutorado (2019) e mestrado (2012) em Sociologia pelo Programa de Pós-Graduação do Instituto de Estudos Sociais e Políticos (IESP) da Universidade do Estado do Rio de Janeiro (UERJ), e bacharelado em Sociologia pela Universidade Federal da Bahia (2007); Tem experiência na área de Sociologia, com ênfase em relações raciais, sociologia urbana e criminologia, focando principalmente nos temas de violência, genocídio, homicídios e desigualdades raciais.

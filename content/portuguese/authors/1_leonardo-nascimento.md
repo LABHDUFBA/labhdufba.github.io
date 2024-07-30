@@ -22,4 +22,4 @@ social:
     link: https://leofn.com/
 ---
 
-I am a Chemical Technician, graduated in Psychology, hold a master's degree in Sociology (2007), PhD in Sociology and the coordinator of the Digital Humanities Laboratory at UFBA.
+Sou Técnico em Química, graduado em Psicologia, possuo mestrado em Sociologia (2007), doutorado em Sociologia e sou coordenador do Laboratório de Humanidades Digitais da UFBA.

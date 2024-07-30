@@ -10,4 +10,4 @@ social:
     link: http://lattes.cnpq.br/9645559480441525
 ---
 
-Undergraduate student in Social Sciences at the Federal University of Bahia (UFBA) and a member of the Administrative-Financial Directorate of the Social Sciences Consulting at UFBA (CONCISO-UFBA). My main interests focus on urban sociology, political sociology, and the sociology of violence, as well as the analysis of social and political data from modern contexts.
+Estudante de graduação em Ciências Sociais na Universidade Federal da Bahia (UFBA) e membro da Diretoria Administrativo-Financeira da Consultoria em Ciências Sociais da UFBA (CONCISO-UFBA); Meus principais interesses estão focados em sociologia urbana, sociologia política e sociologia da violência, bem como na análise de dados sociais e políticos de contextos modernos.

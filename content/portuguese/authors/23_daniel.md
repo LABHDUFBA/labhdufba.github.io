@@ -14,4 +14,4 @@ social:
     link: https://www.linkedin.com/in/daniel-bastos-0055861b3
 ---
 
-Undergraduate in Science, Technology, and Innovation.
+Graduando em Ciência, Tecnologia e Inovação.

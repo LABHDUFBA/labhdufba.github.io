@@ -15,4 +15,4 @@ social:
 
 ---
 
-Leader of the Research Group on Culture, Representation, and Digital Information (CRIDI) at the Federal University of Bahia (UFBA); Holds a Master's degree in Information Science from the Graduate Program in Information Science at UFBA (PPGCI/UFBA) and a Bachelor's degree in Archival Science from UFBA. Currently serving as an Archivist at the Federal University of Bahia since 2009. Previously worked as Technology Advisor at the Public Archive of Bahia (2007-2009) and was a Scientific Initiation Scholar under PIBIC/UFBA/CNPq from 2004 to 2007.
+Líder do Grupo de Pesquisa em Cultura, Representação e Informação Digital (CRIDI) na Universidade Federal da Bahia (UFBA); Possui Mestrado em Ciência da Informação pelo Programa de Pós-Graduação em Ciência da Informação da UFBA (PPGCI/UFBA) e Bacharelado em Arquivologia pela UFBA; Atua como Arquivista na Universidade Federal da Bahia desde 2009; Anteriormente, trabalhou como Assessor de Tecnologia no Arquivo Público da Bahia (2007-2009) e foi Bolsista de Iniciação Científica pelo PIBIC/UFBA/CNPq de 2004 a 2007.

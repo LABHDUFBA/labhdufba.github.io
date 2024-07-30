@@ -1,7 +1,7 @@
 ---
-title: "Reports"
-meta_title: "Reports - LABHDUFBA pub"
-description: "LABHDUFBA publications"
+title: "Relatórios"
+meta_title: "Relatórios - Publicações LABHDUFBA"
+description: "Publicações do LABHDUFBA"
 draft: false
 ---
 
@@ -9,26 +9,26 @@ draft: false
 
 <div style="text-align: justify;">
 
-- The report analyzes the dissemination of  disinformation and conspiracy theories related to the floods in Rio Grande do Sul within far-right groups and channels on Telegram. As a result, we present a classification of the main themes and arguments that underpin these narratives, along with a mapping of key spokespersons involved in disseminating fake news. Additionally, we examine the multiplatform ecosystem of disinformation and radicalization, highlighting the migration of content posted on Telegram to more mainstream networks such as YouTube, Instagram, and Twitter.
+- O relatório analisa a disseminação de desinformação e teorias da conspiração relacionadas às enchentes no Rio Grande do Sul dentro de grupos e canais de extrema direita no Telegram. Como resultado, apresentamos uma classificação dos principais temas e argumentos que sustentam essas narrativas, juntamente com um mapeamento dos principais porta-vozes envolvidos na disseminação de notícias falsas. Além disso, examinamos o ecossistema multiplataforma de desinformação e radicalização, destacando a migração de conteúdo postado no Telegram para redes mais convencionais, como YouTube, Instagram e Twitter.
 
 </div>
 
 
 <div style="text-align: center;">
 
-[**Click to access Report on misinformation related to the floods in Rio Grande do Sul**](https://drive.google.com/file/d/1tckxBCix13I9gA_UNIW-RKpyyebZuo-Q/view?usp=sharing)
+[**Clique para acessar o Relatório sobre desinformação relacionada às enchentes no Rio Grande do Sul**](https://drive.google.com/file/d/1tckxBCix13I9gA_UNIW-RKpyyebZuo-Q/view?usp=sharing)
 
 </div>
 
 <div style="text-align: justify;">
 
-- The report describes the spread of misinformation and conspiracy theories related to vaccination within extremist groups and channels on Telegram. As a result, we present a preliminary classification of themes, arguments, and spokespersons, along with the connection of content posted on Telegram to the broader multiplatform ecosystem of other networks like YouTube and Twitter.
+- O relatório descreve a disseminação de desinformação e teorias da conspiração relacionadas à vacinação dentro de grupos e canais extremistas no Telegram. Como resultado, apresentamos uma classificação preliminar de temas, argumentos e porta-vozes, juntamente com a conexão do conteúdo postado no Telegram ao ecossistema multiplataforma mais amplo de outras redes como YouTube e Twitter.
 
 </div>
 
 <div style="text-align: center;">
 
-[**Click to access Report on misinformation and conspiracy theories related to vaccination**](https://drive.google.com/file/d/1OWrhQFYah651cyMC0IfQ-Wgrc8I06xH2/view?usp=sharing)
+[**Clique para acessar o Relatório sobre desinformação e teorias da conspiração relacionadas à vacinação**](https://drive.google.com/file/d/1OWrhQFYah651cyMC0IfQ-Wgrc8I06xH2/view?usp=sharing)
 
 </div>
 
@@ -36,14 +36,14 @@ draft: false
 
 <div style="text-align: justify;">
 
-- In light of the severe attack on democracy carried out by far-right militants on **January 8, 2023**, the team conducted an analysis of some of the communications transmitted by the organizers, participants, and supporters of the coup acts, in 228 groups and 437 channels on the Telegram app.
+- Em face do severo ataque à democracia realizado por militantes de extrema direita em **8 de janeiro de 2023**, a equipe conduziu uma análise de algumas das comunicações transmitidas pelos organizadores, participantes e apoiadores dos atos golpistas, em 228 grupos e 437 canais no aplicativo Telegram.
 
 </div>
 
 
 <div style="text-align: center;">
 
-[**Click to access Report 04**](https://drive.google.com/file/d/19Ku5YeQY6gK4vgIm8_ODGLiijc9d2jV5/view?usp=sharing)
+[**Clique para acessar o Relatório 04**](https://drive.google.com/file/d/19Ku5YeQY6gK4vgIm8_ODGLiijc9d2jV5/view?usp=sharing)
 
 </div>
 
@@ -52,35 +52,36 @@ draft: false
 
 <div style="text-align: justify;">
 
-- The purpose of the report is to highlight relevant points in the dynamics of messages from extremist groups and channels in Brazil, analyzing the broader multiplatform ecosystem that has, in Telegram, an anchor for the organized dissemination of content. The analysis covers the time span from **January to June 2022** and emphasizes the possible blocking of Telegram by a Supreme Federal Court decision.
+- O objetivo do relatório é destacar pontos relevantes na dinâmica das mensagens de grupos e canais extremistas no Brasil, analisando o ecossistema multiplataforma mais amplo que tem, no Telegram, uma âncora para a disseminação organizada de conteúdo. A análise abrange o período de **janeiro a junho de 2022** e enfatiza o possível bloqueio do Telegram por decisão do Supremo Tribunal Federal.
+
 </div>
 
 <div style="text-align: center;">
 
-[**Click to access Report 01**](https://drive.google.com/file/d/18yztt8v4Qi4P2D_Xa-kCex2Nt4MRG9bT/view?usp=sharing)
+[**Clique para acessar o Relatório 01**](https://drive.google.com/file/d/18yztt8v4Qi4P2D_Xa-kCex2Nt4MRG9bT/view?usp=sharing)
 
 </div>
 
 <div style="text-align: justify;">
 
-- The second report presents preliminary results of the research "Digital Democracy: Analysis of Disinformation Ecosystems on Telegram during the 2022 Brazilian Electoral Process," highlighting relevant points observed between **August 1 and September 15, 2022**. Telegram continues to be an anchor for the dissemination of disinformation on various topics, fostering political radicalization processes, and taking a leading role in this year's elections.
+- O segundo relatório apresenta resultados preliminares da pesquisa "Democracia Digital: Análise dos Ecossistemas de Desinformação no Telegram durante o Processo Eleitoral Brasileiro de 2022", destacando pontos relevantes observados entre **1º de agosto e 15 de setembro de 2022**. O Telegram continua a ser uma âncora para a disseminação de desinformação sobre vários tópicos, fomentando processos de radicalização política e assumindo um papel de destaque nas eleições deste ano.
 
 </div>
 
 <div style="text-align: center;">
 
-[**Click to access Report 02**](https://drive.google.com/file/d/1cEjfyGhqlQ5ET_5j4hWcWPXtMiWsDZmE/view?usp=sharing)
+[**Clique para acessar o Relatório 02**](https://drive.google.com/file/d/1cEjfyGhqlQ5ET_5j4hWcWPXtMiWsDZmE/view?usp=sharing)
 
 </div>
 
 <div style="text-align: justify;">
 
-- In this third report, we highlight analyses from **September 30 to November 15, 2022**. As pointed out in previous reports, Telegram has served as the backbone of a multiplatform ecosystem of disinformation and radicalization, and during the 2022 elections, it hosted the organization of anti-democratic movements.
+- Neste terceiro relatório, destacamos análises de **30 de setembro a 15 de novembro de 2022**. Como apontado nos relatórios anteriores, o Telegram tem servido como espinha dorsal de um ecossistema multiplataforma de desinformação e radicalização, e durante as eleições de 2022, ele abrigou a organização de movimentos antidemocráticos.
 
 </div>
 
 <div style="text-align: center;">
 
-[**Click to access Report 03**](https://drive.google.com/file/d/1yYkKNbtSIfkr1Uxk9daf_zmVVGwfnEy1/view?usp=sharing)
+[**Clique para acessar o Relatório 03**](https://drive.google.com/file/d/1yYkKNbtSIfkr1Uxk9daf_zmVVGwfnEy1/view?usp=sharing)
 
 </div>

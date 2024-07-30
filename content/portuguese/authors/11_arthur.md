@@ -11,4 +11,4 @@ social:
 
 ---
 
-Currently, an undergraduate student of Social Sciences at the Federal University of Bahia (UFBA), I have research interests in Epistemology, Gender and Identity Studies, Sociology of Religion, Sociology of Crime, and the Far Right.
+Atualmente, estudante de graduação em Ciências Sociais na Universidade Federal da Bahia (UFBA), tenho interesse de pesquisa em Epistemologia, Estudos de Gênero e Identidade, Sociologia da Religião, Sociologia do Crime e Extrema Direita.

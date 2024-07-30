@@ -11,5 +11,5 @@ social:
 
 ---
 
-Undergraduate student in Social Sciences, and Bachelor of Humanities Interdisciplinary Studies at UFBA (2020), PIBIC scholarship recipient at the Laboratory of Science, Technology, and Society - LABCTS, Was a member of the Seminar on Introduction to Psychoanalytic Theory - SIPSI (2019). Has experience in education, with an internship at Lua Nova School (2019) and in the Teaching Initiation Program - PIBID (2023).
+Estudante de graduação em Ciências Sociais e Bacharel em Estudos Interdisciplinares em Humanidades pela UFBA (2020), bolsista PIBIC no Laboratório de Ciência, Tecnologia e Sociedade - LABCTS. Foi membro do Seminário de Introdução à Teoria Psicanalítica - SIPSI (2019). Tem experiência em educação, com estágio na Escola Lua Nova (2019) e no Programa de Iniciação à Docência - PIBID (2023).
 

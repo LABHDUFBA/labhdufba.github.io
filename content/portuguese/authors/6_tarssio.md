@@ -18,4 +18,5 @@ social:
     link: https://www.linkedin.com/in/tarssio-brito-barreto-9646b817b
 
 ---
-Graduated in Sanitary and Environmental Engineering and holds a Master's in Environment, Water, and Sanitation, Currently, I develop data-driven products at BIT Analytics, I have a strong interest in partnerships for innovation and data-oriented product development. Additionally, I consider myself a data activist and am open to projects with Institutes and Foundations involving socio-environmental issues, On a personal note, I am passionate about the 7-string guitar and am dedicated to learning it.
+
+Graduado em Engenharia Sanitária e Ambiental e mestre em Meio Ambiente, Água e Saneamento. Atualmente, desenvolvo produtos orientados por dados na BIT Analytics. Tenho um forte interesse em parcerias para inovação e desenvolvimento de produtos orientados por dados. Além disso, considero-me um ativista de dados e estou aberto a projetos com Institutos e Fundações envolvendo questões socioambientais. Pessoalmente, sou apaixonado pelo violão de 7 cordas e estou dedicado a aprendê-lo.

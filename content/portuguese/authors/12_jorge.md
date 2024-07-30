@@ -10,4 +10,4 @@ social:
       link: http://lattes.cnpq.br/1661372950139188
 ---
 
-I graduated in Social Sciences and hold a Master's degree in Sociology. I am currently a PhD candidate in the Graduate Program in Social Sciences at the Federal University of Bahia (PPGCS/UFBA, I have been a member of LABHDUFBA since 2020.
+Sou graduado em Ciências Sociais e possuo Mestrado em Sociologia. Atualmente, sou doutorando no Programa de Pós-Graduação em Ciências Sociais da Universidade Federal da Bahia (PPGCS/UFBA). Sou membro do LABHDUFBA desde 2020.

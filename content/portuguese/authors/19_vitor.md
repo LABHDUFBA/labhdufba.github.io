@@ -19,4 +19,4 @@ social:
     link: https://www.linkedin.com/in/vmussa/
 ---
 
-Software engineer and computational social scientist; I have more than 3 years of professional and scientific experience working with Python building the backend of web apps, data pipelines, and data platforms.
+Engenheiro de software e cientista social computacional; Tenho mais de 3 anos de experiência profissional e científica trabalhando com Python, construindo o backend de aplicativos web, pipelines de dados e plataformas de dados.

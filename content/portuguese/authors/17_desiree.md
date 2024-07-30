@@ -10,4 +10,4 @@ social:
     link: https://www.linkedin.com/in/desirée-melo-1447a1193/
 ---
 
-Bachelor's degree in Humanities (2023), undergraduate student in Social Sciences. Interested in sociology of religion, misinformation, and digital sociology. She was a teaching assistant for the ACCS Pluralism and Religious Rights (2022), and volunteered at the CRH - Center for Studies and Research in Humanities at UFBA (2023). Currently, she is a researcher at LABHD and LABCTS.
+Bacharel em Humanidades (2023), estudante de graduação em Ciências Sociais; Interessada em sociologia da religião, desinformação e sociologia digital; Foi assistente de ensino na ACCS Pluralismo e Direitos Religiosos (2022) e voluntária no CRH - Centro de Estudos e Pesquisas em Humanidades da UFBA (2023); Atualmente, é pesquisadora no LABHD e no LABCTS.

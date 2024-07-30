@@ -18,4 +18,4 @@ social:
     link: https://www.linkedin.com/in/icarobsc/
 ---
 
-I am a data scientist with a strong focus on data analysis, modeling, and visualization; I have experience in academic research, starting from high school, and client projects, which I have recently acquired. My work spans a broad spectrum, including optimization using heuristic methods, loss analysis in the blood derivatives supply chain, and impact assessment of social projects. The latter is the subject of my master's project at UFBA.
+Sou cientista de dados com forte foco em análise, modelagem e visualização de dados; Tenho experiência em pesquisa acadêmica, desde o ensino médio, e em projetos para clientes, que adquiri recentemente; Meu trabalho abrange um amplo espectro, incluindo otimização usando métodos heurísticos, análise de perdas na cadeia de suprimentos de derivados do sangue e avaliação de impacto de projetos sociais; Este último é o tema do meu projeto de mestrado na UFBA.

@@ -22,4 +22,4 @@ social:
     link: https://www.linkedin.com/in/eric-maia-105831255/
 ---
 
-Historian graduated from the Federal Fluminense University (UFF); Postgraduate in Technologies Applied to Education; Master's student in the Graduate Program in History at UFF; main areas of expertise include Brazilian History, Contemporary History, Visual History, and Present-Day History.
+Historiador graduado pela Universidade Federal Fluminense (UFF); Pós-graduado em Tecnologias Aplicadas à Educação; Mestrando no Programa de Pós-Graduação em História da UFF; as principais áreas de atuação incluem História do Brasil, História Contemporânea, História Visual e História do Tempo Presente.

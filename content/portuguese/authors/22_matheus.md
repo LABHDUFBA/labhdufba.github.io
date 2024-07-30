@@ -10,4 +10,4 @@ social:
     link: http://lattes.cnpq.br/7357622400836467
 ---
 
-Born in Santos, São Paulo, he is an undergraduate student in Social Sciences at the Federal University of Santa Catarina. Additionally, he is a Scientific Initiation scholarship holder (PIBIC) under the supervision of professor Dr. Letícia Cesarino, focusing on the thematic area of the far-right and social networks. He participates as a researcher at the Laboratory of Digital Humanities (LABHD/UFBA) and at the University Laboratory of Politics, Rights, Conflicts, and Anthropology (LUPA/UFSC).
+Nascido em Santos, São Paulo, é estudante de graduação em Ciências Sociais na Universidade Federal de Santa Catarina; Além disso, é bolsista de Iniciação Científica (PIBIC) sob a supervisão da professora Dra. Letícia Cesarino, com foco na área temática da extrema direita e redes sociais; Participa como pesquisador no Laboratório de Humanidades Digitais (LABHD/UFBA) e no Laboratório Universitário de Política, Direitos, Conflitos e Antropologia (LUPA/UFSC).
