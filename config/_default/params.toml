@@ -43,7 +43,6 @@ copyright = "<br>Parceiros<br><div class='center-content'><img src='https://raw.
 [preloader]
 enable = false
 preloader = "" # use jpg, png, svg or gif format.
-
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]

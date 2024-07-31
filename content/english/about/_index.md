@@ -1,5 +1,5 @@
 ---
-title: "Hello, we are the Digital Humanities Laboratory at UFBA"
+title: "We are the Digital Humanities Laboratory at UFBA"
 meta_title: "About"
 description: "Infos about the LABHDUFBA"
 image: "/images/banner-labhd.png"
