@@ -6,8 +6,8 @@ banner:
   image: false
   button:
     enable: true
-    label: "Entre em contato"
-    link: "https://labhdufba.github.io/contact/"
+    label: "Conheça-nos"
+    link: https://labhdufba.github.io/pt/about/
 
 # Features
 features:
@@ -22,7 +22,7 @@ features:
     button:
       enable: true
       label: "Explore Nossa Pesquisa"
-      link: "/research"
+      link: "pt/research"
       
   - title: "Análise de Ecossistemas Multi-Plataforma de Desinformação e Radicalização através do Telegram"
     image: "/images/telegram.jpg"
@@ -35,7 +35,7 @@ features:
     button:
       enable: true
       label: "Explore Nossa Pesquisa"
-      link: "/research"
+      link: "pt/research"
 
   - title: "História Digital e Análise Cultural"
     image: "/images/research-digital-history.png"
@@ -48,7 +48,7 @@ features:
     button:
       enable: true
       label: "Descubra Projetos de História"
-      link: "/research"
+      link: "pt/research"
 
   - title: "Junte-se à Equipe do LABHDUFBA"
     image: "/images/join-us.png"
@@ -62,5 +62,5 @@ features:
     button:
       enable: true
       label: "Inscreva-se Agora"
-      link: "/contact"
+      link: "pt/contact"
 ---

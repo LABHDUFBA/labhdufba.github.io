@@ -44,12 +44,6 @@ copyright = "<br>Parceiros<br><div class='center-content'><img src='https://raw.
 enable = false
 preloader = "" # use jpg, png, svg or gif format.
 
-# Navigation button
-[navigation_button]
-enable = true
-label = "get in touch"
-link = "contact"
-
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]
