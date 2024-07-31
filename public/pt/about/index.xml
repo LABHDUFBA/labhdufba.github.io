@@ -4,7 +4,11 @@
     <title>Somos o Laboratório de Humanidades Digitais da UFBA on LABHDUFBA</title>
     <link>//localhost:1313/pt/about/</link>
     <description>Recent content in Somos o Laboratório de Humanidades Digitais da UFBA on LABHDUFBA</description>
+<<<<<<< HEAD
     <generator>Hugo</generator>
+=======
+    <generator>Hugo -- gohugo.io</generator>
+>>>>>>> main
     <language>pt-br</language>
     <atom:link href="//localhost:1313/pt/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>

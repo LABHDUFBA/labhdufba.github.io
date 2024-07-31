@@ -6,7 +6,7 @@ banner:
   image: false
   button:
     enable: true
-    label: "Conheça-nos"
+    label: "Saiba mais"
     link: https://labhdufba.github.io/pt/about/
 
 # Features

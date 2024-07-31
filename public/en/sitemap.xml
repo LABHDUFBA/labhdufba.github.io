@@ -362,18 +362,6 @@
                 href="//localhost:1313/elements/"
                 />
   </url><url>
-    <loc>//localhost:1313/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/about/"
-                />
-  </url><url>
     <loc>//localhost:1313/inthenews/</loc>
     <xhtml:link
                 rel="alternate"
@@ -468,6 +456,18 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="//localhost:1313/tools/"
+                />
+  </url><url>
+    <loc>//localhost:1313/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="//localhost:1313/pt/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="//localhost:1313/about/"
                 />
   </url><url>
     <loc>//localhost:1313/youtube/</loc>

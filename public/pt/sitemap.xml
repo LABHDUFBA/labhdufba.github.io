@@ -398,18 +398,6 @@
                 href="//localhost:1313/pt/inthenews/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt/about/"
-                />
-  </url><url>
     <loc>//localhost:1313/pt/pages/</loc>
     <xhtml:link
                 rel="alternate"
@@ -456,6 +444,18 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="//localhost:1313/pt/sections/"
+                />
+  </url><url>
+    <loc>//localhost:1313/pt/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="//localhost:1313/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="//localhost:1313/pt/about/"
                 />
   </url><url>
     <loc>//localhost:1313/pt/tags/</loc>
