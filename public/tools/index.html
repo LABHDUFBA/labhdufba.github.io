@@ -1017,13 +1017,68 @@
           <div class="content">
             <style>
     :target::before {
-      content: "";
-      display: block;
-      height: 120px;
-      margin-top: -120px;
-      visibility: hidden;
+        content: "";
+        display: block;
+        height: 120px;
+        margin-top: -120px;
+        visibility: hidden;
     }
-  </style>
+    .btn {
+        display: inline-block;
+        padding: 8px 12px;
+        margin: 5px 0;
+        background-color: black;
+        color: white;
+        text-decoration: none;
+        border-radius: 7px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+    }
+    .btn:hover {
+        background-color: #858585;
+    }
+    .upcoming-tools {
+        padding: 20px;
+        margin-top: 20px;
+        border: 1px solid #444;
+        background-color: #1a1a1a;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+    .upcoming-tools h3 {
+        font-family: Arial, sans-serif;
+        color: #f9f9f9;
+        margin-bottom: 15px;
+    }
+    .upcoming-tools p {
+        font-family: Arial, sans-serif;
+        color: #cccccc;
+        margin-bottom: 20px;
+    }
+    .highlight-box {
+        background-color: #2a2a2a;
+        padding: 15px;
+        border-radius: 10px;
+        font-family: Arial, sans-serif;
+        color: #cccccc;
+    }
+    .highlight-box p {
+        margin: 0;
+    }
+    @media (prefers-color-scheme: dark) {
+        .highlight-box {
+            background-color: #333333;
+            color: #f9f9f9;
+        }
+        .upcoming-tools {
+            background-color: #1a1a1a;
+            border: 1px solid #444444;
+        }
+        .upcoming-tools h3, .upcoming-tools p {
+            color: #f9f9f9;
+        }
+    }
+</style>
 
 <details class="table-of-content ">
   <summary>
@@ -1040,25 +1095,12 @@
     <li><a href="#anpuh-scraper">Anpuh Scraper</a></li>
     <li><a href="#pyhdb">pyHDB</a></li>
     <li><a href="#digital-tools-wiki">Digital Tools Wiki</a></li>
-    <li><a href="#telegram-group-analysis-under-development">Telegram Group Analysis (under development)</a></li>
-    <li><a href="#whatsapp-group-analysis-under-development">Whatsapp Group Analysis (under development)</a></li>
   </ol>
 </nav>
 </details>
 
 <h2 id="scielo-tools">Scielo tools</h2>
 <p>Provides tools for scraping, organizing, and analyzing scientific articles from Scielo.br. The ferramentas_scielo_v2 allows scraping by knowledge area or journal, offering options for XML only or XML and PDFs. Includes a tool to convert XMLs to CSV.</p>
-<p><a href="https://labhdufba.github.io/ferramentas_scielo_v2/"
-
-
-
-
- target="_blank"
- 
-
-
->Link to the site</a>
-</p>
 
 
 
@@ -1106,21 +1148,10 @@
 
 
 
-<a href="//localhost:1313/tools/" class="btn btn-primary "  rel="" >Back to top</a>
+<a href="https://labhdufba.github.io/ferramentas_scielo_v2/" class="btn btn-primary "  target="_blank" rel="noopener " >Learn More</a>
 
 <h2 id="anped-scraper">Anped Scraper</h2>
 <p>A script for web scraping the proceedings of the National Association of Graduate Studies and Research in Education - Anped. It scrapes PDF papers from the 38th, 39th, and 40th national meetings (2017, 2019, 2021) for the Digital Humanities Repository.</p>
-<p><a href="https://github.com/LABHDUFBA/anais_anped"
-
-
-
-
- target="_blank"
- 
-
-
->Link to the site</a>
-</p>
 
 
 
@@ -1168,21 +1199,10 @@
 
 
 
-<a href="//localhost:1313/tools/" class="btn btn-primary "  rel="" >Back to top</a>
+<a href="https://github.com/LABHDUFBA/anais_anped" class="btn btn-primary "  target="_blank" rel="noopener " >Learn More</a>
 
 <h2 id="compos-scraper">COMPOS Scraper</h2>
 <p>A script for web scraping the proceedings of the National Association of Graduate Programs in Communication - COMPÓS. It scrapes PDF papers from meetings between 2000 and 2020, creating a database with COMPÓS edition, authors, titles, and PDF links.</p>
-<p><a href="https://github.com/LABHDUFBA/Anais-COMPOS-scraper"
-
-
-
-
- target="_blank"
- 
-
-
->Link to the site</a>
-</p>
 
 
 
@@ -1230,21 +1250,10 @@
 
 
 
-<a href="//localhost:1313/tools/" class="btn btn-primary "  rel="" >Back to top</a>
+<a href="https://github.com/LABHDUFBA/Anais-COMPOS-scraper" class="btn btn-primary "  target="_blank" rel="noopener " >Learn More</a>
 
 <h2 id="anpuh-abstracts-scraper">Anpuh abstracts Scraper</h2>
 <p>A scraper for abstracts from the National History Symposia of the National Association of History - Anpuh. It scrapes abstracts from the 27th to the 31st symposia (2013, 2015, 2017, 2019, 2021).</p>
-<p><a href="https://github.com/LABHDUFBA/anpuh-scraper"
-
-
-
-
- target="_blank"
- 
-
-
->Link to the site</a>
-</p>
 
 
 
@@ -1292,21 +1301,10 @@
 
 
 
-<a href="//localhost:1313/tools/" class="btn btn-primary "  rel="" >Back to top</a>
+<a href="https://github.com/LABHDUFBA/anpuh-scraper" class="btn btn-primary "  target="_blank" rel="noopener " >Learn More</a>
 
 <h2 id="anpuh-scraper">Anpuh Scraper</h2>
 <p>A script for web scraping the proceedings of the National Association of History - Anpuh. It scrapes PDF papers from all National Symposia of Anpuh from 1963 to 2017.</p>
-<p><a href="https://github.com/LABHDUFBA/Anais-Anpuh"
-
-
-
-
- target="_blank"
- 
-
-
->Link to the site</a>
-</p>
 
 
 
@@ -1354,21 +1352,10 @@
 
 
 
-<a href="//localhost:1313/tools/" class="btn btn-primary "  rel="" >Back to top</a>
+<a href="https://github.com/LABHDUFBA/Anais-Anpuh" class="btn btn-primary "  target="_blank" rel="noopener " >Learn More</a>
 
 <h2 id="pyhdb">pyHDB</h2>
 <p>A tool for aiding research in the Brazilian Digital Newspapers Library of the National Library. It helps document and record research stages precisely, ensuring methodological rigor.</p>
-<p><a href="https://ericbrasiln.github.io/pyHDB/"
-
-
-
-
- target="_blank"
- 
-
-
->Link to the site</a>
-</p>
 
 
 
@@ -1416,23 +1403,12 @@
 
 
 
-<a href="//localhost:1313/tools/" class="btn btn-primary "  rel="" >Back to top</a>
+<a href="https://ericbrasiln.github.io/pyHDB/" class="btn btn-primary "  target="_blank" rel="noopener " >Learn More</a>
 
 <h2 id="digital-tools-wiki">Digital Tools Wiki</h2>
 <p>In 2018, the Networked Laboratory of Digital Humanities at the Brazilian Institute of Information in Science and Technology (IBICT) created the first version of the digital tools wiki. The goal was to serve as a reference base and information hub for the dissemination of knowledge in the digital environment aimed at researchers in the field of Information Science (interested in the topic of Digital Humanities) and humanities in general in the Portuguese language.</p>
 <p>Starting from 2020, the Larhud Wiki now has the partnership of the Digital Humanities Laboratory at UFBA (LABHD-UFBA), becoming the Wiki of tutorials for digital humanities tools from these two laboratories!</p>
 <p>The wiki is entirely in Portuguese, with a glossary and a list of the most commonly used tools for research in digital humanities.</p>
-<p><a href="http://www.larhud.ibict.br/index.php?title=P%c3%a1gina_principal"
-
-
-
-
- target="_blank"
- 
-
-
->Link to the site</a>
-</p>
 
 
 
@@ -1480,10 +1456,16 @@
 
 
 
-<a href="//localhost:1313/tools/" class="btn btn-primary "  rel="" >Back to top</a>
+<a href="http://www.larhud.ibict.br/index.php?title=P%c3%a1gina_principal" class="btn btn-primary "  target="_blank" rel="noopener " >Learn More</a>
 
-<h2 id="telegram-group-analysis-under-development">Telegram Group Analysis (under development)</h2>
-<h2 id="whatsapp-group-analysis-under-development">Whatsapp Group Analysis (under development)</h2>
+<div class="upcoming-tools">
+    <h3>Under development</h3>
+    <p>We are actively working on creating and refining new tools and features. Stay tuned for updates on the following projects:</p>
+    <div class="highlight-box">
+        <p>Telegram Group Analysis</p>
+        <p>Whatsapp Group Analysis</p>
+    </div>
+</div>
 
           </div>
         </div>
