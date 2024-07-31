@@ -1,5 +1,5 @@
 ---
-title: "Olá, nós somos o Laboratório de Humanidades Digitais da UFBA"
+title: "Somos o Laboratório de Humanidades Digitais da UFBA"
 meta_title: "Sobre"
 description: "Informações sobre o LABHDUFBA"
 image: "/images/banner-labhd.png"
