@@ -1,11 +1,45 @@
 // Add your own custom styles here
 
-.center-content {
+/* Certifique-se de que a barra de navegação está usando flexbox */
+.navbar {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
-}
-
-.spaced-img {
-    margin: 0 10px; /* Adiciona 10px de margem à esquerda e à direita */
-}
+  }
+  
+  /* Ajuste os itens do menu para garantir que estejam alinhados corretamente */
+  .navbar ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .navbar ul li {
+    margin: 0 10px;
+  }
+  
+  /* Adicione estilo para o botão de contato */
+  .navbar .get-in-touch {
+    margin-left: auto; /* Empurra o botão para o lado direito */
+  }
+  
+  /* Certifique-se de que os itens do menu têm um tamanho de fonte e espaçamento consistentes */
+  .navbar ul li a {
+    font-size: 16px;
+    padding: 10px 5px;
+  }
+  
+  /* Ajuste para diferentes tamanhos de tela */
+  @media (max-width: 768px) {
+    .navbar ul {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .navbar .get-in-touch {
+      margin-left: 0;
+      margin-top: 10px;
+    }
+  }
+  
