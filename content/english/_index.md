@@ -6,8 +6,8 @@ banner:
   image: false
   button:
     enable: true
-    label: "Get in touch"
-    link: "https://labhdufba.github.io/contact/"
+    label: "Discover Us"
+    link: "https://labhdufba.github.io/about/"
 
 # Features
 features:
