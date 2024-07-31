@@ -983,3 +983,21 @@
 .spaced-img {
   margin: 0 10px;
   /* Adiciona 10px de margem à esquerda e à direita */ }
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto; }
+
+.row {
+  display: flex;
+  flex-wrap: wrap; }
+
+.lg\:col-3, .lg\:col-6 {
+  flex: 1;
+  padding: 15px; }
+
+.mb-8 {
+  margin-bottom: 0; }
+
+.text-center {
+  text-align: center; }

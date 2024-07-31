@@ -4,7 +4,7 @@
     <title>Categories on LABHDUFBA</title>
     <link>//localhost:1313/pt/categories/</link>
     <description>Recent content in Categories on LABHDUFBA</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <atom:link href="//localhost:1313/pt/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>

@@ -213,25 +213,16 @@
 
 
   
-  
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-576FN6TB84"></script>
-      <script>
-        var doNotTrack = false;
-        if ( false ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-576FN6TB84');
-        }
-      </script>
-    
-  
-
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-576FN6TB84"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-576FN6TB84', { 'anonymize_ip': false });
+}
+</script>
 
 
 
@@ -732,14 +723,6 @@
         
       
       
-        <li class="mt-4 inline-block lg:hidden">
-          <a
-            class="btn btn-outline-primary btn-sm"
-            href="/pt/contact">
-            get in touch
-          </a>
-        </li>
-      
     </ul>
 
     <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
@@ -851,12 +834,6 @@
 
 
       
-      
-        <a
-          href="/pt/contact"
-          class="btn btn-outline-primary btn-sm hidden lg:inline-block">
-          get in touch
-        </a>
       
     </div>
   </nav>
