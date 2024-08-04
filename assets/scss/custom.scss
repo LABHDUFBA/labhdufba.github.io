@@ -35,3 +35,27 @@
 .btn-primary {
   margin-top: 20px; /* Ajuste o valor conforme necessário */
 }
+/* Exemplo de CSS para espaçar os ícones de redes sociais */
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 10px; /* Ajuste o valor conforme necessário */
+}
+
+.social-icons a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px; /* Ajuste o valor conforme necessário */
+  height: 40px; /* Ajuste o valor conforme necessário */
+  border-radius: 50%;
+  background-color: #f0f0f0; /* Cor de fundo, ajuste conforme necessário */
+  color: #000; /* Cor do ícone, ajuste conforme necessário */
+}
+
+@media (max-width: 600px) {
+  .social-icons {
+    flex-direction: row;
+    gap: 15px; /* Ajuste o valor conforme necessário */
+  }
+}
