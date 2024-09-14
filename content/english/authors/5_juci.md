@@ -20,4 +20,4 @@ social:
 ---
 
 Bachelor's degree in Social Sciences (2022) from the Federal University of Bahia (UFBA), undergraduate student in Sociology (re-entry/UFBA) 
-and master's student in the postgraduate program in Social Sciences (PPGCS/UFBA), member and researcher at the Laboratory of Digital Humanities (LabHD/UFBA). Research topics include Digital Sociology, Digital Research Methods, Social Networks, Health-related Disinformation, and the Far-right in Brazil.
+and master's student in the postgraduate program in Social Sciences (PPGCS/UFBA), member and researcher at the Laboratory of Digital Humanities (LabHD/UFBA); Research topics include Digital Sociology, Digital Research Methods, Social Networks, Health-related Disinformation, and the Far-right in Brazil.
