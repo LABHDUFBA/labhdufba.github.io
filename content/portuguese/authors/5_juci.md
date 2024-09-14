@@ -19,4 +19,4 @@ social:
 
 ---
 
-Bacharel em Ciências Sociais (2022) pela Universidade Federal da Bahia (UFBA), estudante de graduação em Sociologia (reingresso/UFBA) e mestrando no programa de pós-graduação em Ciências Sociais (PPGCS/UFBA), membro e pesquisador no Laboratório de Humanidades Digitais (LabHD/UFBA). Seus temas de pesquisa incluem Sociologia Digital, Métodos de Pesquisa Digital, Redes Sociais, Desinformação Relacionada à Saúde e a Extrema Direita no Brasil.
+Bacharel em Ciências Sociais (2022) pela Universidade Federal da Bahia (UFBA), estudante de graduação em Sociologia (reingresso/UFBA) e mestrando no programa de pós-graduação em Ciências Sociais (PPGCS/UFBA), membro e pesquisador no Laboratório de Humanidades Digitais (LabHD/UFBA); Seus temas de pesquisa incluem Sociologia Digital, Métodos de Pesquisa Digital, Redes Sociais, Desinformação Relacionada à Saúde e a Extrema Direita no Brasil.

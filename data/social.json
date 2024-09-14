@@ -3,22 +3,26 @@
     {
       "name": "twitter",
       "icon": "fab fa-twitter",
-      "link": "https://twitter.com/labhdufba"
+      "link": "https://twitter.com/labhdufba",
+      "class": "social-icons"
     },
     {
       "name": "github",
       "icon": "fab fa-github",
-      "link": "https://www.github.com/LABHDUFBA"
+      "link": "https://www.github.com/LABHDUFBA",
+      "class": "social-icons"
     },
     {
       "name": "telegram",
       "icon": "fab fa-telegram",
-      "link": "https://t.me/labhdufba_labhdufrj"
+      "link": "https://t.me/labhdufba_labhdufrj",
+      "class": "social-icons"
     },
     {
-    "name": "instagram",
-    "icon": "fab fa-instagram",
-    "link": "https://www.instagram.com/labhdufba/"
-  }
+      "name": "instagram",
+      "icon": "fab fa-instagram",
+      "link": "https://www.instagram.com/labhdufba/",
+      "class": "social-icons"
+    }
   ]
 }
