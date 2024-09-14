@@ -22,4 +22,4 @@ social:
     link: https://bsky.app/profile/alissonmasoares.bsky.social
 ---
 
-Bacharel em Ciências Sociais, especialista em História da Ciência, Mestre e Doutor em Sociologia pela UFMG, Pós-Doutorado em Ciência Política pela UFPE. Atualmente, tem interesse em desinformação, teorias da conspiração, Ciências Sociais Computacionais, análise de texto/mineração de texto e Processamento de Linguagem Natural.
+Bacharel em Ciências Sociais, especialista em História da Ciência, Mestre e Doutor em Sociologia pela UFMG, Pós-Doutorado em Ciência Política pela UFPE; Atualmente, tem interesse em desinformação, teorias da conspiração, Ciências Sociais Computacionais, análise de texto/mineração de texto e Processamento de Linguagem Natural.
