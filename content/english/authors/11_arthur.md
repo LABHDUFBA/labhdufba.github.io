@@ -2,7 +2,7 @@
 title: Ruan Arthur Lima Santos
 weight: 11
 email: arthurlimareserva@gmail.com
-image: "/images/arthur.jpeg"
+image: "/images/arthur.jpg"
 description: infos about member
 social:
   - name: tutzlima
@@ -15,4 +15,4 @@ social:
 
 ---
 
-Currently, an undergraduate student of Social Sciences at the Federal University of Bahia (UFBA), I have research interests in Epistemology, Gender and Identity Studies, Sociology of Religion, Sociology of Crime, and the Far Right.
+Currently, i am pursuing a degree in Social Sciences at the Federal University of Bahia (UFBA). My research interests include Epistemology, Gender and Identity Studies, Sociology of Religion, Sociology of Crime, and the Far Right.
