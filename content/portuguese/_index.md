@@ -70,6 +70,6 @@ features:
       - "**Oportunidades de colaboração e desenvolvimento pessoal**"
     button:
       enable: true
-      label: "Inscreva-se Agora"
+      label: "Se inscreva"
       link: "pt/contact"
 ---
