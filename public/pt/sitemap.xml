@@ -182,16 +182,16 @@
                 href="//localhost:1313/pt/authors/15_icaro/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt/authors/16_gui/</loc>
+    <loc>//localhost:1313/pt/authors/16_indianara/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/authors/16_gui/"
+                href="//localhost:1313/authors/16_indianara/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/authors/16_gui/"
+                href="//localhost:1313/pt/authors/16_indianara/"
                 />
   </url><url>
     <loc>//localhost:1313/pt/authors/17_desiree/</loc>
