@@ -17,7 +17,7 @@ features:
 
     button:
       enable: true
-      label: "Incriçoes em breve"
+      label: "Inscriçoes em breve"
       link: ""
 
   - title: "Mineração de Dados para Humanidades Digitais"
