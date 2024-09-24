@@ -13,12 +13,12 @@ banner:
 features:
   - title: "Semana de Humanidades Digitais"
     image: "/images/CARD 1 SEMANA.jpg"
-    content: "O evento oferecerá uma oportunidade única para se familiarizar com ferramentas digitais essenciais, voltadas tanto para o mercado de trabalho quanto para o ambiente acadêmico. Além disso, será possível obter 35 horas complementares através dos diversos workshops que serão ministrados. Para mais informações, [*acesse o link*](https://tinyurl.com/semana-labhdufba) ou escaneie o QR code disponível."
+    content: "O evento oferecerá uma oportunidade única para se familiarizar com ferramentas digitais essenciais, voltadas tanto para o mercado de trabalho quanto para o ambiente acadêmico. Para mais informações, [*acesse o link*](https://tinyurl.com/semana-labhdufba) ou escaneie o QR code disponível."
 
     button:
       enable: true
-      label: "Se inscreva"
-      link: "https://forms.gle/xccNGjcuNXyeZKKQ6"
+      label: "Incriçoes em breve"
+      link: ""
 
   - title: "Mineração de Dados para Humanidades Digitais"
     image: "/images/research-data-mining.png"
