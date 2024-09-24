@@ -13,12 +13,12 @@ banner:
 features:
   - title: "Digital Humanities Week"
     image: "/images/CARD 1 SEMANA.jpg"
-    content: "The event will offer a unique opportunity to become familiar with essential digital tools, aimed at both the job market and the academic environment. Additionally, participants will be able to earn 35 complementary hours through various workshops. For more information, [*access the link*](https://tinyurl.com/semana-labhdufba) or scan the available QR code."
+    content: "The event will offer a unique opportunity to become familiar with essential digital tools, aimed at both the job market and the academic environment. For more information, [*access the link*](https://tinyurl.com/semana-labhdufba) or scan the available QR code."
 
     button:
      enable: true
-     label: "Register"
-     link: "https://forms.gle/xccNGjcuNXyeZKKQ6"
+     label: "Registration Opens Soon"
+     link: ""
 
 
   - title: "Data Mining for Digital Humanities"
