@@ -11,6 +11,16 @@ banner:
 
 # Features
 features:
+  - title: "Digital Humanities Week"
+    image: "/images/CARD 1 SEMANA.jpg"
+    content: "The event will offer a unique opportunity to become familiar with essential digital tools, aimed at both the job market and the academic environment. Additionally, participants will be able to earn 35 complementary hours through various workshops. For more information, [*access the link*](https://tinyurl.com/semana-labhdufba) or scan the available QR code."
+
+    button:
+     enable: true
+     label: "Register"
+     link: "https://forms.gle/xccNGjcuNXyeZKKQ6"
+
+
   - title: "Data Mining for Digital Humanities"
     image: "/images/research-data-mining.png"
     content: "LABHDUFBA specializes in developing data extraction algorithms for web and digital social networks, focusing on the integration of computational skills in humanities research. This initiative aims to critically assess how digital tools shape imagination and investigations in humanities, exploring the boundaries of algorithmic logic."

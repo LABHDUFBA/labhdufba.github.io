@@ -7,7 +7,7 @@ testimonials:
   - name: "1° Semana de Humanidades Digitais da UFBA"
     designation: "Evento Acadêmico"
     avatar: "/images/CARD 1 SEMANA.jpg"
-    content: "Uma oportunidade única para se familiarizar com ferramentas digitais essenciais, voltadas tanto para o mercado de trabalho quanto para o ambiente acadêmico. [*Acesse aqui os detalhes do evento*](https://forms.gle/xccNGjcuNXyeZKKQ6)"
+    content: "Uma oportunidade única para se familiarizar com ferramentas digitais essenciais, voltadas tanto para o mercado de trabalho quanto para o ambiente acadêmico. [*Acesse aqui os detalhes do evento*](https://tinyurl.com/semana-labhdufba)"
 
 
   - name: "5ª Conferência Nacional de CT&I"
