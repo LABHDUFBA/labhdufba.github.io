@@ -4,8 +4,14 @@ title: "Eventos recentes"
 description: "Eventos e Conferências"
 
 testimonials:
+  - name: "1° Semana de Humanidades Digitais da UFBA"
+    designation: "Evento Acadêmico"
+    avatar: "/images/CARD 1 SEMANA.jpg"
+    content: "Uma oportunidade única para se familiarizar com ferramentas digitais essenciais, voltadas tanto para o mercado de trabalho quanto para o ambiente acadêmico. [*Acesse aqui os detalhes do evento*](https://forms.gle/xccNGjcuNXyeZKKQ6)"
+
+
   - name: "5ª Conferência Nacional de CT&I"
-    designation: "Conferência Livre: Ciência no Combate à Descinformação"
+    designation: "Conferência Livre: Ciência no Combate à Desinformação"
     avatar: "/images/gallery/5-cti.jpeg"
     content: "Participação de Leonardo Nascimento na mesa **Iluminando o Oceano Digital: cooperação científica para a transparência e integridade informacional** que acontecerá no dia 02 de abril de 2024, às 14h, na Capes em Brasília. [*Acesse aqui os detalhes do evento*](https://labhdufba.github.io/publications/)"
 

@@ -11,7 +11,7 @@ banner:
 
 # Features
 features:
-  - title: "1° Semana de Humanidades Digitais da UFBA"
+  - title: "Semana de Humanidades Digitais"
     image: "/images/CARD 1 SEMANA.jpg"
     content: "O evento oferecerá uma oportunidade única para se familiarizar com ferramentas digitais essenciais, voltadas tanto para o mercado de trabalho quanto para o ambiente acadêmico. Além disso, será possível obter 35 horas complementares através dos diversos workshops que serão ministrados. Para mais informações, acesse o link ou escaneie o QR code disponível."
 
