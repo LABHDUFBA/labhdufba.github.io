@@ -4,6 +4,10 @@ title: "Recent Events"
 description: "Events and conferences"
 
 testimonials:
+  - name: "1st UFBA Digital Humanities Week"
+    designation: "Academic Event"
+    avatar: "/images/CARD 1 SEMANA.jpg"
+    content: "A unique opportunity to become familiar with essential digital tools, aimed at both the job market and the academic environment. [*Click here for event details*](https://tinyurl.com/semana-labhdufba)"
   - name: "5th National Conference on ST&I"
     designation: "National Conference on Science, Technology, and Innovation"
     avatar: "/images/gallery/5-cti.jpeg"

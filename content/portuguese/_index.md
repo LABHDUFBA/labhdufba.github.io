@@ -11,6 +11,15 @@ banner:
 
 # Features
 features:
+  - title: "Semana de Humanidades Digitais"
+    image: "/images/CARD 1 SEMANA.jpg"
+    content: "O evento oferecerá uma oportunidade única para se familiarizar com ferramentas digitais essenciais, voltadas tanto para o mercado de trabalho quanto para o ambiente acadêmico. Para mais informações, [*acesse o link*](https://tinyurl.com/semana-labhdufba) ou escaneie o QR code disponível."
+
+    button:
+      enable: true
+      label: "Inscriçoes em breve"
+      link: ""
+
   - title: "Mineração de Dados para Humanidades Digitais"
     image: "/images/research-data-mining.png"
     content: "O LABHDUFBA é especializado no desenvolvimento de algoritmos de extração de dados para a web e redes sociais digitais, focando na integração de habilidades computacionais na pesquisa em humanidades. Esta iniciativa visa avaliar criticamente como as ferramentas digitais moldam a imaginação e as investigações nas humanidades, explorando os limites da lógica algorítmica."
@@ -61,6 +70,6 @@ features:
       - "**Oportunidades de colaboração e desenvolvimento pessoal**"
     button:
       enable: true
-      label: "Inscreva-se Agora"
+      label: "Se inscreva"
       link: "pt/contact"
 ---
