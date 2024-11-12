@@ -17,6 +17,6 @@ social:
     icon: fa-brands fa-youtube
     link: https://youtube.com/@africaxxi?si=qUJQemoBKBcKF0lo
     
----
+--- 
 
-Student representative of the Interdisciplinary Bachelor’s Degree in Humanities at the Institute of Humanities and Letters of the University for International Integration of the Afro-Brazilian Lusophony (IHLM/UNILAB); I have completed teacher training in the field of history and geografy in Angola; Additionally, I have extensive experience in audiovisuals and information and communication technologies.
+Student representative of the Interdisciplinary Bachelor’s Degree in Humanities at the Institute of Humanities and Letters of the University for International Integration of the Afro-Brazilian Lusophony (IHLM/UNILAB); I have completed teacher training in the field of history and geografy in Angola; Additionally, I have extensive experience in audiovisuals and information and communication technologies. 
