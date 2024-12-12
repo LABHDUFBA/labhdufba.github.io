@@ -4,7 +4,7 @@
     <title>LABHDUFBA</title>
     <link>//localhost:1313/</link>
     <description>Recent content on LABHDUFBA</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -82,7 +82,7 @@
       <link>//localhost:1313/authors/11_arthur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/authors/11_arthur/</guid>
-      <description>Currently, an undergraduate student of Social Sciences at the Federal University of Bahia (UFBA), I have research interests in Epistemology, Gender and Identity Studies, Sociology of Religion, Sociology of Crime, and the Far Right.</description>
+      <description>Currently, i am pursuing a degree in Social Sciences at the Federal University of Bahia (UFBA).</description>
     </item>
     <item>
       <title>Jorge Henrique Silvestre Barbosa</title>
@@ -174,6 +174,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/authors/24_jefte/</guid>
       <description>Bachelor in Social Sciences from the Federal University of Bahia (UFBA).</description>
+    </item>
+    <item>
+      <title>Jaime Cativa</title>
+      <link>//localhost:1313/authors/25_jaime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/25_jaime/</guid>
+      <description>Student representative of the Interdisciplinary Bachelor’s Degree in Humanities at the Institute of Humanities and Letters of the University for International Integration of the Afro-Brazilian Lusophony (IHLM/UNILAB); I have completed teacher training in the field of history and geografy in Angola; Additionally, I have extensive experience in audiovisuals and information and communication technologies.</description>
+    </item>
+    <item>
+      <title>Aparicio Muemede</title>
+      <link>//localhost:1313/authors/26_aparicio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/26_aparicio/</guid>
+      <description>Bachelor&amp;rsquo;s degree student in History at the University for International Integration of the Afro-Brazilian Lusophony (UNILAB); Incomplete Bachelor&amp;rsquo;s degree in Geography Teaching at Rovuma University - Nampula (UNIROVUMA).</description>
     </item>
     <item>
       <title>Articles</title>

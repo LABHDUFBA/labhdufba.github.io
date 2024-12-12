@@ -4,7 +4,7 @@
     <title>Blog Posts on LABHDUFBA</title>
     <link>//localhost:1313/pt/blog/</link>
     <description>Recent content in Blog Posts on LABHDUFBA</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>pt-br</language>
     <atom:link href="//localhost:1313/pt/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
