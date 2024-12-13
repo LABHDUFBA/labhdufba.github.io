@@ -4,7 +4,7 @@
     <title>LABHDUFBA</title>
     <link>//localhost:1313/pt/</link>
     <description>Recent content on LABHDUFBA</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>pt-br</language>
     <atom:link href="//localhost:1313/pt/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -82,7 +82,7 @@
       <link>//localhost:1313/pt/authors/11_arthur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/pt/authors/11_arthur/</guid>
-      <description>Atualmente, estudante de graduação em Ciências Sociais na Universidade Federal da Bahia (UFBA), tenho interesse de pesquisa em Epistemologia, Estudos de Gênero e Identidade, Sociologia da Religião, Sociologia do Crime e Extrema Direita.</description>
+      <description>Atualmente, estou cursando a graduação em Ciências Sociais na Universidade Federal da Bahia (UFBA).</description>
     </item>
     <item>
       <title>Jorge Henrique Silvestre Barbosa</title>
@@ -167,6 +167,27 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/pt/authors/23_daniel/</guid>
       <description>Graduando em Ciência, Tecnologia e Inovação.</description>
+    </item>
+    <item>
+      <title>Jéfte Batista de Oliveira</title>
+      <link>//localhost:1313/pt/authors/24_jefte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/authors/24_jefte/</guid>
+      <description>Bacharel em Ciências Sociais pela Universidade Federal da Bahia (UFBA). Atualmente, mestrando no Programa de Pós-Graduação em Ciências Sociais (PPGCS) da UFBA e professor de Sociologia na Secretaria de Educação do Estado da Bahia.</description>
+    </item>
+    <item>
+      <title>Jaime Cativa</title>
+      <link>//localhost:1313/pt/authors/25_jaime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/authors/25_jaime/</guid>
+      <description>Estudante e representante estudantil do Curso de Bacharelado Interdisciplinar em Humanidades no Instituto de Humanidades e Letras da Universidade da Integração Internacional da Lusofonia Afro-Brasileira (IHLM/UNILAB); Fiz formação de professores pela área de história e geografia em Angola; Tenho Forte experiência com áudio visuais e tecnologias de informação e comunicação.</description>
+    </item>
+    <item>
+      <title>Aparicio Muemede</title>
+      <link>//localhost:1313/pt/authors/26_aparicio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/authors/26_aparicio/</guid>
+      <description>Licenciando em História na Universidade da Integração Internacional da Lusofonia Afro-brasileira( UNILAB); Licenciatura em Ensino de Geografia não terminada na Universidade Rovuma-Nampula(UNIROVUMA).</description>
     </item>
     <item>
       <title>Articles</title>

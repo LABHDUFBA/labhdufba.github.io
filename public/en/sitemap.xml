@@ -279,6 +279,40 @@
                 />
   </url><url>
     <loc>//localhost:1313/authors/24_jefte/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="//localhost:1313/pt/authors/24_jefte/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="//localhost:1313/authors/24_jefte/"
+                />
+  </url><url>
+    <loc>//localhost:1313/authors/25_jaime/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="//localhost:1313/pt/authors/25_jaime/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="//localhost:1313/authors/25_jaime/"
+                />
+  </url><url>
+    <loc>//localhost:1313/authors/26_aparicio/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="//localhost:1313/pt/authors/26_aparicio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="//localhost:1313/authors/26_aparicio/"
+                />
   </url><url>
     <loc>//localhost:1313/</loc>
     <xhtml:link

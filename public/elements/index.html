@@ -212,16 +212,25 @@
 
 
   
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-576FN6TB84"></script>
-<script>
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-	gtag('config', 'G-576FN6TB84', { 'anonymize_ip': false });
-}
-</script>
+  
+    
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-576FN6TB84"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-576FN6TB84');
+        }
+      </script>
+    
+  
+
 
 
 
@@ -3123,9 +3132,12 @@ example.com (but not on Github, for example).</p>
 <hr>
 <h3 id="youtube-video">Youtube video</h3>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/ResipmZmpDU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ResipmZmpDU?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
 
 <hr>
 <h3 id="custom-video">Custom video</h3>
@@ -3367,12 +3379,12 @@ example.com (but not on Github, for example).</p>
           <a href="https://www.internetlab.org.br/" target="_blank">
             <img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/internetlab.png' width='200' class='spaced-img'>
           </a>
+          <a href="https://labhdufrj.github.io/" target="_blank">
+            <img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/labhdufrj.jpg' width='200' class='spaced-img'>
+          </a>
         </div>
         <br>UFBA Digital Humanities Laboratory<br> Av. Milton Santos - Ondina, PAF-V, sala 305a, Salvador/Bahia, CEP:40170110<br>2024
-      </p>
-    </div>
-  </div>
-</footer>
+        
       
 
 

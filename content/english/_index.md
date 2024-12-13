@@ -17,7 +17,7 @@ features:
 
     button:
      enable: true
-     label: "Registration Opens Soon"
+     label: "Closed for Registration"
      link: ""
 
 
