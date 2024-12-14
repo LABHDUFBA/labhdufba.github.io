@@ -22,4 +22,4 @@ social:
     link: https://www.linkedin.com/in/eric-maia-105831255/
 ---
 
-Historiador graduado pela Universidade Federal Fluminense (UFF); Pós-graduado em Tecnologias Aplicadas à Educação; Mestrando no Programa de Pós-Graduação em História da UFF; as principais áreas de atuação incluem História do Brasil, História Contemporânea, História Visual e História do Tempo Presente.
+Historiador graduado pela Universidade Federal Fluminense (UFF); Pós-graduado em Tecnologias Aplicadas à Educação; Mestrando no Programa de Pós-Graduação em História da UFF. Sua principais áreas de atuação incluem História do Brasil, História Contemporânea, História Visual e História do Tempo Presente.

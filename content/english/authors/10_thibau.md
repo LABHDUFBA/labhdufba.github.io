@@ -10,9 +10,8 @@ social:
     link: https://www.instagram.com/l.thibau/
 
   - name: lattes
-    icon: fa fa-info-circle
+    icon: fa-regular fa-user
     link: https://lattes.cnpq.br/3404425891739700
 ---
 
-Undergraduate student in Social Sciences, and Bachelor of Humanities Interdisciplinary Studies at UFBA (2020), PIBIC scholarship recipient at the Laboratory of Science, Technology, and Society - LABCTS; Was a member of the Seminar on Introduction to Psychoanalytic Theory - SIPSI (2019); Has experience in education, with an internship at Lua Nova School (2019) and in the Teaching Initiation Program - PIBID (2023).
-
+Undergraduate student in Social Sciences and Bachelor in Interdisciplinary Studies in Humanities at UFBA (2020); Was a PIBIC fellow at the Science, Technology, and Society Laboratory - LABCTS and a member of the Introduction to Psychoanalytic Theory Seminar - SIPSI (2019). He has experience in education, with an internship at Escola Lua Nova (2019) and in the Teaching Initiation Program - PIBID (2023).

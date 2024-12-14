@@ -6,7 +6,7 @@ image: "/images/romero.jpg"
 description: 
 social:
   - name: lattes
-    icon: fa fa-info-circle
+    icon: fa-regular fa-user
     link: http://lattes.cnpq.br/6908390678539380
 ---
 

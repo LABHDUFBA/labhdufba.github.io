@@ -19,4 +19,4 @@ social:
     
 ---
 
-Estudante e representante estudantil do Curso de Bacharelado Interdisciplinar em Humanidades no Instituto de Humanidades e Letras da Universidade da Integração Internacional da Lusofonia Afro-Brasileira (IHLM/UNILAB); Fiz formação de professores pela área de história e geografia em Angola; Tenho Forte experiência com áudio visuais e tecnologias de informação e comunicação.
+Estudante e representante estudantil do Curso de Bacharelado Interdisciplinar em Humanidades no Instituto de Humanidades e Letras da Universidade da Integração Internacional da Lusofonia Afro-Brasileira (IHLM/UNILAB). Fiz formação de professores pela área de história e geografia em Angola; Tenho Forte experiência com áudio visuais e tecnologias de informação e comunicação.

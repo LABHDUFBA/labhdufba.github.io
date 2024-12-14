@@ -18,4 +18,4 @@ social:
     link: https://www.linkedin.com/in/icarobsc/
 ---
 
-Sou cientista de dados com forte foco em análise, modelagem e visualização de dados; Tenho experiência em pesquisa acadêmica, desde o ensino médio, e em projetos para clientes, que adquiri recentemente; Meu trabalho abrange um amplo espectro, incluindo otimização usando métodos heurísticos, análise de perdas na cadeia de suprimentos de derivados do sangue e avaliação de impacto de projetos sociais; Este último é o tema do meu projeto de mestrado na UFBA.
+Cientista de dados com forte foco em análise, modelagem e visualização de dados; Tem experiência em pesquisa acadêmica, e em projetos para clientes. Seu trabalho abrange um amplo espectro, incluindo otimização usando métodos heurísticos, análise de perdas na cadeia de suprimentos de derivados do sangue e avaliação de impacto de projetos sociais; Este último é o tema do meu projeto de mestrado na UFBA.
