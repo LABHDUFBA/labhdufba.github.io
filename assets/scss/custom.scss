@@ -1,4 +1,4 @@
-// Add your own custom styles here
+/* Estilos customizados */
 
 .center-content {
   display: flex;
@@ -10,6 +10,96 @@
   margin: 0 10px; /* Adiciona 10px de margem à esquerda e à direita */
 }
 
+/* Definição das cores no tema claro */
+:root {
+  --button-bg-light: #e0e0e0; /* Fundo claro para botões */
+  --button-text-light: #242b32; /* Texto escuro */
+  --button-hover-bg-light: #242b32; /* Fundo no hover */
+  --button-hover-text-light: #ffffff; /* Texto branco no hover */
+  --social-bg-light: #f0f0f0; /* Fundo claro dos ícones sociais */
+  --social-text-light: #000; /* Cor do texto dos ícones sociais */
+  --social-hover-bg-light: #242b32; /* Fundo no hover para ícones sociais */
+  --social-hover-text-light: #fff; /* Texto no hover para ícones sociais */
+}
+
+/* Definição das cores no tema escuro */
+:root.dark {
+  --button-bg-light: #3c3c3c; /* Fundo mais escuro para botões */
+  --button-text-light: #f0f0f0; /* Texto claro */
+  --button-hover-bg-light: #ffffff; /* Fundo no hover */
+  --button-hover-text-light: #000000; /* Texto preto no hover */
+  --social-bg-light: #444444; /* Fundo mais escuro dos ícones sociais */
+  --social-text-light: #f0f0f0; /* Texto claro para ícones sociais */
+  --social-hover-bg-light: #ffffff; /* Fundo no hover para ícones sociais */
+  --social-hover-text-light: #000000; /* Texto no hover para ícones sociais */
+}
+
+/* Ajuste do contêiner principal */
+.bg-theme-light, .dark:bg-darkmode-theme-light {
+  margin-bottom: 20px; /* Espaço entre cards */
+  padding: 24px; /* Espaçamento interno */
+  border-radius: 8px; /* Bordas arredondadas */
+}
+
+/* Botão do Nome do Autor */
+.author-button {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 16px;
+  margin-bottom: 10px; /* Espaço entre o botão e os ícones sociais */
+  background-color: var(--button-bg-light);
+  color: var(--button-text-light);
+  font-weight: bold;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.author-button:hover {
+  background-color: var(--button-hover-bg-light);
+  color: var(--button-hover-text-light);
+  cursor: pointer;
+}
+
+/* Ajuste nos ícones sociais */
+.social-icons {
+  display: flex;
+  gap: 12px; /* Espaçamento entre os ícones */
+  justify-content: center; /* Centraliza os ícones */
+  margin-top: 10px; /* Espaço acima dos ícones */
+}
+
+.social-icons a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px; /* Tamanho dos botões */
+  height: 44px;
+  border-radius: 50%;
+  background-color: var(--social-bg-light);
+  color: var(--social-text-light);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.social-icons a:hover {
+  background-color: var(--social-hover-bg-light);
+  color: var(--social-hover-text-light);
+  cursor: pointer;
+}
+
+/* Ajuste do resumo */
+.author-summary {
+  margin-top: 16px; /* Espaço acima do texto */
+  text-align: justify; /* Justifica o texto */
+  line-height: 1.6; /* Aumenta o espaçamento entre linhas */
+}
+
+/* Estilo para ícones dentro dos botões */
+.social-icons i {
+  font-size: 20px; /* Tamanho do ícone */
+}
+
+/* Layout responsivo */
 .container {
   max-width: 1200px;
   margin: 0 auto;
@@ -32,30 +122,15 @@
 .text-center {
   text-align: center;
 }
+
 .btn-primary {
   margin-top: 20px; /* Ajuste o valor conforme necessário */
 }
-/* Exemplo de CSS para espaçar os ícones de redes sociais */
-.social-icons {
-  display: flex;
-  justify-content: center;
-  gap: 10px; /* Ajuste o valor conforme necessário */
-}
 
-.social-icons a {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 40px; /* Ajuste o valor conforme necessário */
-  height: 40px; /* Ajuste o valor conforme necessário */
-  border-radius: 50%;
-  background-color: #f0f0f0; /* Cor de fundo, ajuste conforme necessário */
-  color: #000; /* Cor do ícone, ajuste conforme necessário */
-}
-
+/* Estilo responsivo para ícones sociais em telas menores */
 @media (max-width: 600px) {
   .social-icons {
     flex-direction: row;
-    gap: 15px; /* Ajuste o valor conforme necessário */
+    gap: 15px; /* Ajuste do espaçamento */
   }
 }

@@ -11,4 +11,4 @@ social:
 
 ---
 
-Atualmente, estou cursando a graduação em Ciências Sociais na Universidade Federal da Bahia (UFBA). Meus interesses de pesquisa incluem Epistemologia, Estudos de Gênero e Identidade, Sociologia da Religião, Sociologia do Crime e Extrema Direita.
+Graduando em Ciências Sociais na Universidade Federal da Bahia (UFBA). Meus interesses de pesquisa incluem Epistemologia, Estudos de Gênero e Identidade, Sociologia da Religião, Sociologia do Crime e Extrema Direita.

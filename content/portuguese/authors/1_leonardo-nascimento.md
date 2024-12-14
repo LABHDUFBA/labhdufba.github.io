@@ -14,7 +14,7 @@ social:
     link: https://twitter.com/leofn3
     
   - name: lattes
-    icon: fa fa-info-circle
+    icon: fa-regular fa-user
     link: http://lattes.cnpq.br/7141811368487014
     
   - name: link

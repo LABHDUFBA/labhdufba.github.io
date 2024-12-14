@@ -19,4 +19,4 @@ social:
 
 ---
 
-Graduado em Engenharia Sanitária e Ambiental e mestre em Meio Ambiente, Água e Saneamento; Atualmente, desenvolvo produtos orientados por dados na BIT Analytics; Tenho um forte interesse em parcerias para inovação e desenvolvimento de produtos orientados por dados; Além disso, considero-me um ativista de dados e estou aberto a projetos com Institutos e Fundações envolvendo questões socioambientais. Pessoalmente, sou apaixonado pelo violão de 7 cordas e estou dedicado a aprendê-lo.
+Graduado em Engenharia Sanitária e Ambiental e mestre em Meio Ambiente, Água e Saneamento; Atualmente, desenvolvo produtos orientados por dados na BIT Analytics; Tenho um forte interesse em parcerias para inovação e desenvolvimento de produtos orientados por dados. Além disso, considero-me um ativista de dados e estou aberto a projetos com Institutos e Fundações envolvendo questões socioambientais. Pessoalmente, sou apaixonado pelo violão de 7 cordas e estou dedicado a aprendê-lo.
