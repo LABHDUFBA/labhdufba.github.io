@@ -12,7 +12,7 @@ testimonials:
   - name: "Seminário Latino-Americano de Ciências Sociais Computaconais"
     designation: "IFICS-RJ"
     avatar: "/images/seminariolatino.jpg"
-    content: "🌐 Nosso parceiro, LABHDUFRJ, celebra a interdisciplinaridade entre ciências humanas e computacionais e convida para o Seminário Latino-Americano de Ciências Sociais Computacionais, no IFCS/UFRJ, de 4 a 6 de dezembro. Especialistas do Brasil, Argentina, México e Colômbia debaterão temas como análise de mídias sociais, impacto dos algoritmos e métodos inovadores de pesquisa."
+    content: "🌐 Nosso parceiro, o LABHDUFRJ, promove a interdisciplinaridade entre ciências humanas e computacionais no evento de 4 a 6 de dezembro. O LABHDUFBA participa com Eric Brasil e Leonardo Nascimento, ao lado de especialistas do Brasil, Argentina, México e Colômbia, que discutirão temas como análise de mídias sociais, impacto dos algoritmos e métodos inovadores de pesquisa."
     
   - name: "1° Semana de Humanidades Digitais da UFBA"
     designation: "Evento Acadêmico"

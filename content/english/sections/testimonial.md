@@ -8,11 +8,11 @@ testimonials:
     designation: "UFMG"
     avatar: "/images/UFMGcoloquiosociabilidades.PNG"
     content: "In Panel 3, we had insightful discussions led by Leonardo Nascimento (LABHDUFBA), Marco Bastos (University of London), and Felipe Nunes (UFMG and Quaest). On December 10, 2024, the panel explored the role of Digital Humanities and the importance of collaborations in interdisciplinary research."
-    
+
   - name: "Latin American Seminar on Computational Social Sciences"
     designation: "IFCS-UFRJ"   
     avatar: "/images/seminariolatino.jpg"
-    content: "🌐 Our partner, LABHDUFRJ, celebrates the interdisciplinarity between the humanities and computational sciences and invites you to the Latin American Seminar on Computational Social Sciences at IFCS/UFRJ, from December 4 to 6. Experts from Brazil, Argentina, Mexico, and Colombia will discuss topics such as social media analysis, the impact of algorithms, and innovative research methods."
+    content: "🌐 Our partner, LABHDUFRJ, promotes interdisciplinarity between the humanities and computational sciences at the event from December 4 to 6. LABHDUFBA participates with Eric Brasil and Leonardo Nascimento, alongside experts from Brazil, Argentina, Mexico, and Colombia, who will discuss topics such as social media analysis, the impact of algorithms, and innovative research methods."
 
   - name: "1st UFBA Digital Humanities Week"
     designation: "Academic Event"
