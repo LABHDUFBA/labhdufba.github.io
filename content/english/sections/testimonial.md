@@ -4,10 +4,16 @@ title: "Recent Events"
 description: "Events and conferences"
 
 testimonials:
+  - name: "Latin American Seminar on Computational Social Sciences"
+    designation: "IFCS-UFRJ"   
+    avatar: "/images/seminariolatino.jpg"
+    content: "🌐 Our partner, LABHDUFRJ, celebrates the interdisciplinarity between the humanities and computational sciences and invites you to the Latin American Seminar on Computational Social Sciences at IFCS/UFRJ, from December 4 to 6. Experts from Brazil, Argentina, Mexico, and Colombia will discuss topics such as social media analysis, the impact of algorithms, and innovative research methods."
+
   - name: "1st UFBA Digital Humanities Week"
     designation: "Academic Event"
     avatar: "/images/CARD 1 SEMANA.jpg"
     content: "A unique opportunity to become familiar with essential digital tools, aimed at both the job market and the academic environment. [*Click here for event details*](https://tinyurl.com/semana-labhdufba)"
+
   - name: "5th National Conference on ST&I"
     designation: "National Conference on Science, Technology, and Innovation"
     avatar: "/images/gallery/5-cti.jpeg"
