@@ -4,6 +4,11 @@ title: "Recent Events"
 description: "Events and conferences"
 
 testimonials:
+  - name: "Colloquium on Digital Sociabilities"
+    designation: "UFMG"
+    avatar: "/images/UFMGcoloquiosociabilidades.PNG"
+    content: "In Panel 3, we had insightful discussions led by Leonardo Nascimento (LABHDUFBA), Marco Bastos (University of London), and Felipe Nunes (UFMG and Quaest). On December 10, 2024, the panel explored the role of Digital Humanities and the importance of collaborations in interdisciplinary research."
+    
   - name: "Latin American Seminar on Computational Social Sciences"
     designation: "IFCS-UFRJ"   
     avatar: "/images/seminariolatino.jpg"

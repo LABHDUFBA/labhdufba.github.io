@@ -4,6 +4,11 @@ title: "Eventos recentes"
 description: "Eventos e Conferências"
 
 testimonials:
+  - name: "Colóquio Sociabilidades Digitais"
+    designation: "UFMG"
+    avatar: "/images/UFMGcoloquiosociabilidades.PNG"
+    content: "Na Mesa 3, contamos com discussões conduzidas por Leonardo Nascimento (LABHDUFBA), Marco Bastos (University of London) e Felipe Nunes (UFMG e Quaest). Em 10 de dezembro de 2024, discutiu-se acerca do papel das Humanidades Digitais e a importância das colaborações na pesquisa interdisciplinar. "
+
   - name: "Seminário Latino-Americano de Ciências Sociais Computaconais"
     designation: "IFICS-RJ"
     avatar: "/images/seminariolatino.jpg"
