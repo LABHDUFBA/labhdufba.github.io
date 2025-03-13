@@ -1,7 +1,7 @@
 ---
 title: Gilberto Sassi
 weight: 26
-email: 
+email: sassi.pereira.gilberto@gmail.com
 image: "/images/gilberto.jpg"
 description: informações sobre o membro
 social:
@@ -11,9 +11,9 @@ social:
   - name: instagram
     icon: fa-brands fa-instagram
     link: https://www.instagram.com/gpsassi/
-  - name: email
-    icon: fa-solid fa-envelope
-    link: mailto:sassi.pereira.gilberto@gmail.com
+  - name: lattes
+    icon: fa-brands fa-linkedin
+    link: http://lattes.cnpq.br/7008457711842107
 
 --- 
 
