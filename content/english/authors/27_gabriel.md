@@ -12,9 +12,9 @@ social:
     icon: fa-brands fa-linkedin
     link: https://www.linkedin.com/in/gabriel-andrade-633996108/
   - name: bluesky
-    icon: fa-brands fa-link
+    icon: fa fa-link
     link: https://bsky.app/profile/gabriel-andrade.bsky.social
 
 --- 
 
-Currently, pursuing a degree in Computer Engineering at Federal University of Bahia (UFBA); I work as a Software Engineer with a large experience in Software Development using modern technologies as Python, Node.js, PHP, Docker and so on.
+Currently, pursuing a degree in Computer Engineering at Federal University of Bahia (UFBA); I work as a Software Engineer with a large experience in Software Development using modern technologies as Python, Node, PHP, Docker and so on.
