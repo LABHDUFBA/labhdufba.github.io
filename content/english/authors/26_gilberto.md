@@ -5,14 +5,13 @@ email: sassi.pereira.gilberto@gmail.com
 image: "/images/gilberto.jpg"
 description: Information about the member
 social:
-
   - name: github
-  icon: fa-brands fa-github
-  link: https://github.com/gilberto-sassi
+    icon: fa-brands fa-github
+    link: https://github.com/gilberto-sassi
 
   - name: instagram
-  icon: fa-brands fa-instagram
-  link: https://www.instagram.com/gpsassi/
+    icon: fa-brands fa-instagram
+    link: https://www.instagram.com/gpsassi/
 
 ---
 
