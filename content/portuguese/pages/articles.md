@@ -10,6 +10,10 @@ draft: false
 
 ##### 2024
 
+WEDDERBURN, Rosana Silva Moore; JESUS, Juciane Pereira de; TEIXEIRA, Graziela de Souza; NASCIMENTO, Leonardo Fernandes; CESARINO, Leticia Maria Costa da Nobrega; BARRETO, Tarssio Brito. **[Representações meméticas de “nós e eles”: humor e discurso de ódio em chats do Telegram](https://revistas.pucsp.br/index.php/aurora/article/view/66490/45721)**. **Aurora. Revista de Arte, Mídia e Política**, São Paulo, v. 17, n. 49, p. 136–173, 2024.
+
+JESUS, Juciane Pereira de; NASCIMENTO, Leonardo Fernandes; CESARINO, Leticia Maria Costa da Nobrega; FONSECA, Paulo de Freitas Castro; BARRETO, Tarssio Brito. **[Tradições de pensamento anticomunista: as teorias da conspiração e o modus operandi do golpismo em grupos bolsonaristas do Telegram](https://apd.org.br/anexo-tradicoes-de-pensamento-anticomunista-as-teorias-da-conspiracao-e-o-modus-operandi-do-golpismo-em-grupos-bolsonaristas-do-telegram-traditions-of-anti-communist-thought-cons/)**. **Polifonia: Revista Internacional da Academia Paulista de Direito**, n. 13, Nova Série, 2024, Outono/Inverno.
+
 NASCIMENTO, Leonardo Fernandes. **[Humanidades Digitais e Vigilância pela Democracia](https://drive.google.com/file/d/11jYi4dSKf3qigI05A1KGYv9Y9-sCvmE0/view)**. In: SANTOS JUNIOR, Jorge Luiz dos (Org.). **Nanotecnologia, Sociedade e Meio Ambiente: Convergências, Divergências e Insurgências Tecnológicas**. Curitiba: Editora CRV, 2024. p. 133-144.
 
 NASCIMENTO, L. F.; FONSECA, P.; CESARINO, L.; WEDDERBURN, R.; BARRETO, T.; JESUS, J. **["Intankáveis contra o Bostil": racismo, misoginia e antisemitismo em chats do Telegram (2020-2023)](https://cgi.br/media/docs/publicacoes/1/20240522075208/4-coletanea-artigos-tic-governanca-genero-raca-diversidade.pdf)**. In: **4ª Coletânea de Artigos - TIC, Governança da Internet, Gênero, Raça e Diversidade - Tendências e Desafios**. São Paulo: Núcleo de Informação e Coordenação do Ponto BR, 2024.
