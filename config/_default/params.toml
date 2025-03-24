@@ -26,6 +26,13 @@ google_tag_manager = "G-576FN6TB84" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 [params]
+  [params.social]
+    twitter = "https://x.com/labhdufba"
+    github = "https://github.com/LABHDUFBA/labhdufba.github.io"
+
+  [params.author]
+    name = "LABHDUFBA"
+    bio = "Researchers interested in humanities, data, and digital technologies gathered in a space for intellectual exchange, academic research, and scientific production."
   custom_script = """
   <!-- Google tag (gtag.js) -->
   <script async src='https://www.googletagmanager.com/gtag/js?id=G-576FN6TB84'></script>
@@ -53,6 +60,10 @@ show_image = true
 show_description = true
 show_tags = true
 show_categories = true
+
+# adding paginate (test) 
+[pagination]
+pagerSize = 10  # or however many items you want per page
 
 
 # seo meta data for opengraph / twitter card

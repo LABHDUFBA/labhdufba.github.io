@@ -62,7 +62,10 @@ jobs:
         with:
           name: github-pages
           path: ./public
-          
+      - name: Sanity check on file names
+        run: |
+          find public -type f | grep -E '[^a-zA-Z0-9._/-]' || echo "No suspicious characters"
+
 
   deploy:
     environment:
@@ -73,8 +76,7 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4 # Ensure this is the latest version
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+        uses: actions/deploy-pages@v4
         env:
-          DEBUG: true
+        DEBUG: true
+    

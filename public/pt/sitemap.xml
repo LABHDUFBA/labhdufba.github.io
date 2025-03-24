@@ -302,16 +302,28 @@
                 href="//localhost:1313/pt/authors/25_jaime/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt/authors/26_aparicio/</loc>
+    <loc>//localhost:1313/pt/authors/26_gilberto/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/authors/26_aparicio/"
+                href="//localhost:1313/authors/26_gilberto/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/authors/26_aparicio/"
+                href="//localhost:1313/pt/authors/26_gilberto/"
+                />
+  </url><url>
+    <loc>//localhost:1313/pt/authors/27_gabriel/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="//localhost:1313/authors/27_gabriel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="//localhost:1313/pt/authors/27_gabriel/"
                 />
   </url><url>
     <loc>//localhost:1313/pt/</loc>
