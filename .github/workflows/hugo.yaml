@@ -78,5 +78,5 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
         env:
-        DEBUG: true
+         DEBUG: true
     
