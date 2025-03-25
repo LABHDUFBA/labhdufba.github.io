@@ -821,7 +821,12 @@ main {
   padding-bottom: 1rem;
   --tw-text-opacity: 1;
   color: rgb(4 4 4 / var(--tw-text-opacity));
-  border-radius: 6px;
+  margin-bottom: 20px;
+  /* Espaço entre cards */
+  padding: 24px;
+  /* Espaçamento interno */
+  border-radius: 8px;
+  /* Bordas arredondadas */
 }
 .form-input::placeholder{
   --tw-text-opacity: 1;
@@ -895,6 +900,12 @@ main {
   --tw-bg-opacity: 1 !important;
   background-color: rgb(246 246 246 / var(--tw-bg-opacity)) !important;
   opacity: 1 !important;
+  margin-bottom: 20px !important;
+  /* Espaço entre cards */
+  padding: 24px !important;
+  /* Espaçamento interno */
+  border-radius: 8px !important;
+  /* Bordas arredondadas */
 }
 :is(.dark .swiper-pagination-bullet){
   --tw-bg-opacity: 1 !important;
@@ -1867,6 +1878,12 @@ input#nav-toggle:checked ~ #nav-menu{
 }
 .mt-11{
   margin-top: 2.75rem;
+}
+.mt-2{
+  margin-top: 0.5rem;
+}
+.mt-4{
+  margin-top: 1rem;
 }
 .mt-6{
   margin-top: 1.5rem;
@@ -2964,6 +2981,12 @@ input#nav-toggle:checked ~ #nav-menu{
   --tw-bg-opacity: 1;
   background-color: rgb(246 246 246 / var(--tw-bg-opacity));
   padding-left: 1rem;
+  margin-bottom: 20px;
+  /* Espaço entre cards */
+  padding: 24px;
+  /* Espaçamento interno */
+  border-radius: 8px;
+  /* Bordas arredondadas */
 }
   :is(.dark .tab-nav){
   --tw-border-opacity: 1;
@@ -3006,7 +3029,12 @@ input#nav-toggle:checked ~ #nav-menu{
   border-color: rgb(234 234 234 / var(--tw-border-opacity));
   --tw-bg-opacity: 1;
   background-color: rgb(246 246 246 / var(--tw-bg-opacity));
-  border-radius: 12px;
+  margin-bottom: 20px;
+  /* Espaço entre cards */
+  padding: 24px;
+  /* Espaçamento interno */
+  border-radius: 8px;
+  /* Bordas arredondadas */
 }
 
 :is(.dark .accordion){
@@ -3033,6 +3061,7 @@ input#nav-toggle:checked ~ #nav-menu{
   margin-left: 0px !important;
 }
 
+/* Estilos customizados */
 .center-content {
   display: flex;
   justify-content: center;
@@ -3042,6 +3071,114 @@ input#nav-toggle:checked ~ #nav-menu{
   margin: 0 10px;
   /* Adiciona 10px de margem à esquerda e à direita */ }
 
+/* Definição das cores no tema claro */
+:root {
+  --button-bg-light: #e0e0e0;
+  /* Fundo claro para botões */
+  --button-text-light: #242b32;
+  /* Texto escuro */
+  --button-hover-bg-light: #242b32;
+  /* Fundo no hover */
+  --button-hover-text-light: #ffffff;
+  /* Texto branco no hover */
+  --social-bg-light: #f0f0f0;
+  /* Fundo claro dos ícones sociais */
+  --social-text-light: #000;
+  /* Cor do texto dos ícones sociais */
+  --social-hover-bg-light: #242b32;
+  /* Fundo no hover para ícones sociais */
+  --social-hover-text-light: #fff;
+  /* Texto no hover para ícones sociais */ }
+
+/* Definição das cores no tema escuro */
+:root.dark {
+  --button-bg-light: #3c3c3c;
+  /* Fundo mais escuro para botões */
+  --button-text-light: #f0f0f0;
+  /* Texto claro */
+  --button-hover-bg-light: #ffffff;
+  /* Fundo no hover */
+  --button-hover-text-light: #000000;
+  /* Texto preto no hover */
+  --social-bg-light: #444444;
+  /* Fundo mais escuro dos ícones sociais */
+  --social-text-light: #f0f0f0;
+  /* Texto claro para ícones sociais */
+  --social-hover-bg-light: #ffffff;
+  /* Fundo no hover para ícones sociais */
+  --social-hover-text-light: #000000;
+  /* Texto no hover para ícones sociais */ }
+
+/* Ajuste do contêiner principal */
+.bg-theme-light, .dark:bg-darkmode-theme-light {
+  margin-bottom: 20px;
+  /* Espaço entre cards */
+  padding: 24px;
+  /* Espaçamento interno */
+  border-radius: 8px;
+  /* Bordas arredondadas */ }
+
+/* Botão do Nome do Autor */
+.author-button {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 16px;
+  margin-bottom: 10px;
+  /* Espaço entre o botão e os ícones sociais */
+  background-color: var(--button-bg-light);
+  color: var(--button-text-light);
+  font-weight: bold;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background-color 0.3s ease, color 0.3s ease; }
+
+.author-button:hover {
+  background-color: var(--button-hover-bg-light);
+  color: var(--button-hover-text-light);
+  cursor: pointer; }
+
+/* Ajuste nos ícones sociais */
+.social-icons {
+  display: flex;
+  gap: 12px;
+  /* Espaçamento entre os ícones */
+  justify-content: center;
+  /* Centraliza os ícones */
+  margin-top: 10px;
+  /* Espaço acima dos ícones */ }
+
+.social-icons a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  /* Tamanho dos botões */
+  height: 44px;
+  border-radius: 50%;
+  background-color: var(--social-bg-light);
+  color: var(--social-text-light);
+  transition: background-color 0.3s ease, color 0.3s ease; }
+
+.social-icons a:hover {
+  background-color: var(--social-hover-bg-light);
+  color: var(--social-hover-text-light);
+  cursor: pointer; }
+
+/* Ajuste do resumo */
+.author-summary {
+  margin-top: 16px;
+  /* Espaço acima do texto */
+  text-align: justify;
+  /* Justifica o texto */
+  line-height: 1.6;
+  /* Aumenta o espaçamento entre linhas */ }
+
+/* Estilo para ícones dentro dos botões */
+.social-icons i {
+  font-size: 20px;
+  /* Tamanho do ícone */ }
+
+/* Layout responsivo */
 .container {
   max-width: 1200px;
   margin: 0 auto; }
@@ -3064,40 +3201,18 @@ input#nav-toggle:checked ~ #nav-menu{
   margin-top: 20px;
   /* Ajuste o valor conforme necessário */ }
 
-/* Exemplo de CSS para espaçar os ícones de redes sociais */
-.social-icons {
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-  /* Ajuste o valor conforme necessário */ }
-
-.social-icons a {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 40px;
-  /* Ajuste o valor conforme necessário */
-  height: 40px;
-  /* Ajuste o valor conforme necessário */
-  border-radius: 50%;
-  background-color: #f0f0f0;
-  /* Cor de fundo, ajuste conforme necessário */
-  color: #000;
-  /* Cor do ícone, ajuste conforme necessário */ }
-
+/* Estilo responsivo para ícones sociais em telas menores */
 @media (max-width: 600px) {
   .social-icons {
     flex-direction: row;
     gap: 15px;
-    /* Ajuste o valor conforme necessário */ } }
-
+    /* Ajuste do espaçamento */ } }
 @media (min-width: 540px){
   .sm\:col-10{
     flex: 0 0 auto;
     width: 83.33333333333334%;
   }
 }
-
 @media (min-width: 768px){
   .md\:col-5{
     flex: 0 0 auto;
@@ -3130,7 +3245,6 @@ input#nav-toggle:checked ~ #nav-menu{
     order: 2;
   }
 }
-
 @media (min-width: 1024px){
   .lg\:col-3{
     flex: 0 0 auto;
@@ -3160,72 +3274,58 @@ input#nav-toggle:checked ~ #nav-menu{
     order: 1;
   }
 }
-
 @media (min-width: 1280px){
   .xl\:col-6{
     flex: 0 0 auto;
     width: 50%;
   }
 }
-
 .hover\:text-primary:hover{
   --tw-text-opacity: 1;
   color: rgb(18 18 18 / var(--tw-text-opacity));
 }
-
 :is(.dark .dark\:border-darkmode-border){
   --tw-border-opacity: 1;
   border-color: rgb(62 62 62 / var(--tw-border-opacity));
 }
-
 :is(.dark .dark\:bg-darkmode-theme-light){
   --tw-bg-opacity: 1;
   background-color: rgb(34 34 34 / var(--tw-bg-opacity));
 }
-
 :is(.dark .dark\:from-darkmode-body){
   --tw-gradient-from: #1c1c1c var(--tw-gradient-from-position);
   --tw-gradient-to: rgb(28 28 28 / 0) var(--tw-gradient-to-position);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
-
 :is(.dark .dark\:to-darkmode-theme-light){
   --tw-gradient-to: #222222 var(--tw-gradient-to-position);
 }
-
 :is(.dark .dark\:text-darkmode-dark){
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
-
 :is(.dark .dark\:text-darkmode-light){
   --tw-text-opacity: 1;
   color: rgb(180 175 182 / var(--tw-text-opacity));
 }
-
 :is(.dark .dark\:text-darkmode-primary){
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
-
 :is(.dark .dark\:text-white){
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
-
 :is(.dark .dark\:opacity-0){
   opacity: 0;
 }
-
 :is(.dark .dark\:opacity-100){
   opacity: 1;
 }
-
 :is(.dark .dark\:hover\:text-darkmode-primary:hover){
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
-
 @media (min-width: 540px){
   .sm\:block{
     display: block;
@@ -3238,7 +3338,6 @@ input#nav-toggle:checked ~ #nav-menu{
     background-color: rgb(254 202 202 / var(--tw-bg-opacity));
   }
 }
-
 @media (min-width: 768px){
   .md\:order-1{
     order: 1;
@@ -3257,7 +3356,6 @@ input#nav-toggle:checked ~ #nav-menu{
     background-color: rgb(254 240 138 / var(--tw-bg-opacity));
   }
 }
-
 @media (min-width: 1024px){
   .lg\:order-1{
     order: 1;
@@ -3311,7 +3409,6 @@ input#nav-toggle:checked ~ #nav-menu{
     opacity: 1;
   }
 }
-
 @media (min-width: 1280px){
   .xl\:block{
     display: block;
@@ -3329,7 +3426,6 @@ input#nav-toggle:checked ~ #nav-menu{
     background-color: rgb(191 219 254 / var(--tw-bg-opacity));
   }
 }
-
 @media (min-width: 1536px){
   .\32xl\:block{
     display: block;

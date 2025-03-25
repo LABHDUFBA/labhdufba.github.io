@@ -23,7 +23,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.123.7
+      HUGO_VERSION: 0.130.0
     steps:
       - name: Install Hugo CLI
         run: |
@@ -51,13 +51,21 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"  
       - name: Check public folder exists
-        run: test -d public && echo "Public folder exists" || (echo "Public folder missing" && exit 1)         
+        run: test -d public && echo "Public folder exists" || (echo "Public folder missing" && exit 1) 
+      - name: List contents of public directory
+        run: |
+          echo "Listing files in public/"
+          find public -type f -exec ls -l {} \;
+                
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
           path: ./public
-          
+      - name: Sanity check on file names
+        run: |
+          find public -type f | grep -E '[^a-zA-Z0-9._/-]' || echo "No suspicious characters"
+
 
   deploy:
     environment:
@@ -68,8 +76,7 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4 # Ensure this is the latest version
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+        uses: actions/deploy-pages@v4
         env:
-          DEBUG: true
+         DEBUG: true
+    
