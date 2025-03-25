@@ -1,6 +1,6 @@
 # Repositório do website do Laboratório de Humanidades Digitais da Universidade Federal da Bahia (LABHDUFBA)
 
-## Desenvolvedores
+## Desenvolvedores 
 
 - [Eric Brasil](https://github.com/ericbrasiln)
 - [Arthur](https://github.com/tutzlima)
