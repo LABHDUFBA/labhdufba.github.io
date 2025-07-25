@@ -2,8 +2,7 @@ name: Deploy Hugo site to Pages
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -12,7 +11,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
+  group: pages
   cancel-in-progress: false
 
 defaults:
@@ -21,76 +20,103 @@ defaults:
 
 jobs:
   build:
-    name: Build site
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.148.1
+
     steps:
-      - name: Install Hugo CLI
-        run: |
-          wget -O ${{ runner.temp }}/hugo.deb \
-            https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+    # ---------------------------------------------------------------------
+    # SETUP
+    # ---------------------------------------------------------------------
+    - name: Install Hugo
+      run: |
+        wget -O ${{ runner.temp }}/hugo.deb \
+          https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb
+        sudo dpkg -i ${{ runner.temp }}/hugo.deb
 
-      - name: Install Dart Sass
-        run: sudo snap install dart-sass
+    - name: Install Dart Sass
+      run: sudo snap install dart-sass
 
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          submodules: recursive
-          fetch-depth: 0
+    - name: Checkout repo (w/ submodules)
+      uses: actions/checkout@v4
+      with:
+        submodules: recursive
+        fetch-depth: 0
 
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v4
+    - name: Setup Pages
+      id: pages
+      uses: actions/configure-pages@v4
 
-      - name: Vendor Hugo modules
-        run: hugo mod vendor
+    - name: Vendor Hugo modules (avoid build‑time symlinks)
+      run: hugo mod vendor
 
-      - name: Install Node.js dependencies
-        run: |
-          [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
+    - name: Install Node deps (if any)
+      run: |
+        [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
 
-      - name: Build with Hugo
-        env:
-          HUGO_ENV: production
-          HUGO_ENVIRONMENT: production
-        run: |
-          hugo \
-            --gc \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+    # ---------------------------------------------------------------------
+    # BUILD
+    # ---------------------------------------------------------------------
+    - name: Build with Hugo
+      env:
+        HUGO_ENVIRONMENT: production
+        HUGO_ENV: production
+      run: |
+        hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 
-      - name: Check public folder exists
-        run: |
-          test -d public && echo "✔ public/ exists" || (echo "❌ public/ missing" && exit 1)
+    # ---------------------------------------------------------------------
+    # DIAGNOSTICS ─ antes de “achatar”
+    # ---------------------------------------------------------------------
+    - name: List residual symlinks in public/ (fail if any)
+      run: |
+        echo "=== Symlinks in public/ BEFORE flatten ==="
+        if find public -type l | tee /dev/stderr | grep -q .; then
+          echo "❌ Symlinks ainda presentes. Interrompendo build." && exit 1
+        else
+          echo "✔ Nenhum symlink encontrado em public/"
+        fi
+    # (Se falhar aqui, você já terá a lista completa no log.)
 
-      - name: List contents of public directory
-        run: |
-          echo "---- listing public/ files ----"
-          find public -type f -exec ls -l {} \;
+    # ---------------------------------------------------------------------
+    # FLATTEN 100 % (tar -h segue links)
+    # ---------------------------------------------------------------------
+    - name: Flatten public/ → public-flat/ (tar ‑ch)
+      run: |
+        rm -rf public-flat
+        mkdir public-flat
+        tar -C public -chf - . | tar -C public-flat -xf -
 
-      - name: Flatten public into public-flat (dereference any remaining symlinks)
-        run: |
-          rm -rf public-flat
-          rsync -aL public/ public-flat/
+    # ---------------------------------------------------------------------
+    # DIAGNÓSTICS ─ depois de “achatar”
+    # ---------------------------------------------------------------------
+    - name: Verifica symlinks em public-flat/ (deve ser zero)
+      run: |
+        echo "=== Symlinks em public-flat/ DEPOIS do flatten ==="
+        if find public-flat -type l | tee /dev/stderr | grep -q .; then
+          echo "❌ Ainda há symlinks em public-flat/" && exit 1
+        else
+          echo "✔ Zero symlinks em public-flat/"
+        fi
+        echo "=== Tamanho final do artifact ==="
+        du -sh public-flat
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: github-pages
-          path: ./public-flat
+    # ---------------------------------------------------------------------
+    # UPLOAD ARTIFACT
+    # ---------------------------------------------------------------------
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: github-pages
+        path: public-flat
 
   deploy:
-    name: Deploy to GitHub Pages
     needs: build
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Deploy
+      - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
         env:
