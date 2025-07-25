@@ -35,6 +35,6 @@ testimonials:
     content: "Participation of Professor Leonardo Nascimento in the Instituto Conhecimento Liberta livestream about **disinformation on the Telegram platform** in February 2024."
 
 # don't create a separate page
-_build:
+build:
   render: "never"
 ---
