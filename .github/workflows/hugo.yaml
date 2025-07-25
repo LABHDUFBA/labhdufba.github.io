@@ -31,13 +31,13 @@ jobs:
     - name: Install Hugo
       run: |
         wget -O ${{ runner.temp }}/hugo.deb \
-          https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb
+          "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
         sudo dpkg -i ${{ runner.temp }}/hugo.deb
 
     - name: Install Dart Sass
       run: sudo snap install dart-sass
 
-    - name: Checkout repo (w/ submodules)
+    - name: Checkout repo (with submodules)
       uses: actions/checkout@v4
       with:
         submodules: recursive
@@ -47,7 +47,7 @@ jobs:
       id: pages
       uses: actions/configure-pages@v4
 
-    - name: Vendor Hugo modules (avoid build‑time symlinks)
+    - name: Vendor Hugo modules (avoid build‑time links)
       run: hugo mod vendor
 
     - name: Install Node deps (if any)
@@ -65,39 +65,50 @@ jobs:
         hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 
     # ---------------------------------------------------------------------
-    # DIAGNOSTICS ─ antes de “achatar”
+    # DIAGNOSTICS ─ BEFORE FLATTEN
     # ---------------------------------------------------------------------
     - name: List residual symlinks in public/ (fail if any)
       run: |
         echo "=== Symlinks in public/ BEFORE flatten ==="
         if find public -type l | tee /dev/stderr | grep -q .; then
-          echo "❌ Symlinks ainda presentes. Interrompendo build." && exit 1
+          echo "❌ Symlinks ainda presentes." && exit 1
         else
-          echo "✔ Nenhum symlink encontrado em public/"
+          echo "✔ Nenhum symlink em public/"
         fi
-    # (Se falhar aqui, você já terá a lista completa no log.)
+
+    - name: List residual hard‑links in public/ (fail if any)
+      run: |
+        echo "=== Hard‑links in public/ BEFORE flatten ==="
+        if find public -type f -links +1 | tee /dev/stderr | grep -q .; then
+          echo "❌ Hard‑links ainda presentes." && exit 1
+        else
+          echo "✔ Nenhum hard‑link em public/"
+        fi
 
     # ---------------------------------------------------------------------
-    # FLATTEN 100 % (tar -h segue links)
+    # FLATTEN (dereference ALL links)
     # ---------------------------------------------------------------------
-    - name: Flatten public/ → public-flat/ (tar ‑ch)
+    - name: Flatten public → public-flat (tar ‑ch --hard-dereference)
       run: |
         rm -rf public-flat
         mkdir public-flat
-        tar -C public -chf - . | tar -C public-flat -xf -
+        tar -C public --hard-dereference -chf - . | tar -C public-flat -xf -
 
     # ---------------------------------------------------------------------
-    # DIAGNÓSTICS ─ depois de “achatar”
+    # DIAGNOSTICS ─ AFTER FLATTEN
     # ---------------------------------------------------------------------
-    - name: Verifica symlinks em public-flat/ (deve ser zero)
+    - name: Verify links in public-flat/ (must be zero)
       run: |
-        echo "=== Symlinks em public-flat/ DEPOIS do flatten ==="
-        if find public-flat -type l | tee /dev/stderr | grep -q .; then
-          echo "❌ Ainda há symlinks em public-flat/" && exit 1
+        echo "=== Symlinks in public-flat/ ==="
+        find public-flat -type l
+        echo "=== Hard‑links in public-flat/ ==="
+        find public-flat -type f -links +1
+        if find public-flat -type l -o -type f -links +1 | grep -q .; then
+          echo "❌ Ainda há links em public-flat/" && exit 1
         else
-          echo "✔ Zero symlinks em public-flat/"
+          echo "✔ public-flat/ livre de links"
         fi
-        echo "=== Tamanho final do artifact ==="
+        echo "=== Artifact size ==="
         du -sh public-flat
 
     # ---------------------------------------------------------------------
