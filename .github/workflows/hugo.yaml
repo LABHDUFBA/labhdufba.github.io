@@ -68,19 +68,17 @@ jobs:
           echo "---- listing public/ files ----"
           find public -type f -exec ls -l {} \;
 
-      - name: Detect symlinks in public
+      - name: Flatten public into public-flat (dereference symlinks)
         run: |
-          echo "---- symlinks in public/ ----"
-          find public -type l -exec ls -l {} \; || true
-
-      - name: Remove symlinks in public
-        run: find public -type l -delete
+          rm -rf public-flat
+          # -a = archive mode, -L = follow symlinks
+          rsync -aL public/ public-flat/
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
-          path: ./public
+          path: ./public-flat
 
   deploy:
     name: Deploy to GitHub Pages
