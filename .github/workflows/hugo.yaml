@@ -45,6 +45,9 @@ jobs:
         id: pages
         uses: actions/configure-pages@v4
 
+      - name: Vendor Hugo modules
+        run: hugo mod vendor
+
       - name: Install Node.js dependencies
         run: |
           [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
@@ -68,10 +71,9 @@ jobs:
           echo "---- listing public/ files ----"
           find public -type f -exec ls -l {} \;
 
-      - name: Flatten public into public-flat (dereference symlinks)
+      - name: Flatten public into public-flat (dereference any remaining symlinks)
         run: |
           rm -rf public-flat
-          # -a = archive mode, -L = follow symlinks
           rsync -aL public/ public-flat/
 
       - name: Upload artifact
