@@ -25,14 +25,14 @@ jobs:
       HUGO_VERSION: 0.148.1
 
     steps:
-      # ---------- Setup ----------
+      # ------------------------------------------------- setup -------------------------------------------------
       - name: Install Hugo
         run: |
           wget -O ${{ runner.temp }}/hugo.deb \
             "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
           sudo dpkg -i ${{ runner.temp }}/hugo.deb
 
-      - name: Install Dart Sass
+      - name: Install Dart Sass
         run: sudo snap install dart-sass
 
       - name: Checkout repo (with submodules)
@@ -52,7 +52,7 @@ jobs:
         run: |
           [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
 
-      # ---------- Build ----------
+      # ------------------------------------------------- build -------------------------------------------------
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
@@ -60,11 +60,11 @@ jobs:
         run: |
           hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 
-      # ---------- Upload artifact (Pages‑aware) ----------
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v2
+      # ------------------------------------------------ upload artifact ---------------------------------------
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          path: public       # ← diretório gerado pelo Hugo
+          path: public
 
   deploy:
     needs: build
