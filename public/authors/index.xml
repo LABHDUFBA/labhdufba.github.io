@@ -2,199 +2,171 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Team on LABHDUFBA</title>
-    <link>//localhost:1313/authors/</link>
+    <link>/authors/</link>
     <description>Recent content in Team on LABHDUFBA</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leonardo F. Nascimento</title>
-      <link>//localhost:1313/authors/1_leonardo-nascimento/</link>
+      <link>/authors/1_leonardo-nascimento/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/1_leonardo-nascimento/</guid>
+      <guid>/authors/1_leonardo-nascimento/</guid>
       <description>&lt;p&gt;I am a Chemical Technician, graduated in Psychology, hold a master&amp;rsquo;s degree in Sociology (2007), PhD in Sociology and the coordinator of the Digital Humanities Laboratory at UFBA.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Eric Brasil</title>
-      <link>//localhost:1313/authors/2_eric-brasil/</link>
+      <link>/authors/2_eric-brasil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/2_eric-brasil/</guid>
+      <guid>/authors/2_eric-brasil/</guid>
       <description>&lt;p&gt;Professor at the Institute of Humanities and Languages at the University for the International Integration of Afro-Brazilian Lusophony (IHLM/UNILAB); PhD (2016) and MA (2011) in History from the Federal Fluminense University; Managing Editor of Programming Historian in Portuguese.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rosana Moore</title>
-      <link>//localhost:1313/authors/3_rosana/</link>
+      <link>/authors/3_rosana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/3_rosana/</guid>
+      <guid>/authors/3_rosana/</guid>
       <description>&lt;p&gt;Rosana Silva Chagas, currently Rosana Silva Moore Wedderburn, holds a PhD (2019) and a master&amp;rsquo;s degree (2012) in Sociology from the Postgraduate Program at the Institute of Social and Political Studies (IESP) of the State University of Rio de Janeiro (UERJ). She holds a bachelor&amp;rsquo;s degree in Sociology from the Federal University of Bahia (2007). Her experience is in the field of Sociology, with an emphasis on racial relations, urban sociology, and criminology, focusing mainly on themes such as violence, genocide, homicides, and racial inequalities.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Letícia Cesarino</title>
-      <link>//localhost:1313/authors/4_leticia/</link>
+      <link>/authors/4_leticia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/4_leticia/</guid>
+      <guid>/authors/4_leticia/</guid>
       <description>&lt;p&gt;Professor and researcher at UFSC, she graduated in Social Sciences from UFMG in 2003 and completed her Master&amp;rsquo;s in Social Anthropology at UNB in 2006; Obtained her PhD in Anthropology from UC Berkeley in 2013, conducting field research in Brazil, Mali, Ghana, and Burkina Faso. Specializing in social studies of science and technology, with a recent focus on digital anthropology, she co-coordinates a project on disinformation on Telegram in partnership with the Digital Humanities Laboratory at UFBA and InternetLab. Additionally, she writes for &lt;em&gt;Carta Capital&lt;/em&gt; and &lt;em&gt;Jacobin Brasil&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Juciane Pereira de Jesus</title>
-      <link>//localhost:1313/authors/5_juci/</link>
+      <link>/authors/5_juci/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/5_juci/</guid>
+      <guid>/authors/5_juci/</guid>
       <description>&lt;p&gt;Bachelor&amp;rsquo;s in Social Sciences (2022) from the Federal University of Bahia (UFBA), undergraduate student in Sociology (re-admission/UFBA), and Master&amp;rsquo;s student in the Graduate Program in Social Sciences (PPGCS/UFBA). Member and researcher at the Digital Humanities Laboratory (LABHDUFBA). Her research topics include Digital Sociology, Digital Research Methods, Social Networks, Health-Related Disinformation, and the Far Right in Brazil.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tarssio Barreto</title>
-      <link>//localhost:1313/authors/6_tarssio/</link>
+      <link>/authors/6_tarssio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/6_tarssio/</guid>
+      <guid>/authors/6_tarssio/</guid>
       <description>&lt;p&gt;Graduated in Sanitary and Environmental Engineering with a Master&amp;rsquo;s in Environment, Water, and Sanitation; Currently, develop data-driven products at BIT Analytics. I have a strong interest in partnerships for innovation and the development of data-oriented products. Additionally, I consider myself a data activist and am open to projects with Institutes and Foundations addressing socio-environmental issues. Personally, I am passionate about the 7-string guitar and am dedicated to learning it.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Alan Mocellim</title>
-      <link>//localhost:1313/authors/7_alan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/7_alan/</guid>
-      <description>&lt;p&gt;Associate Professor in the Department of Sociology at the Federal University of Bahia (UFBA) and the Graduate Program in Social Sciences at the same institution; Holds a PhD in Sociology from the University of São Paulo (USP) and serves as vice-coordinator of the Digital Humanities Laboratory at UFBA (LABHD) and member of the Cultural Psychology Research Group (CULTS). He has a degree in Social Sciences from the Federal University of Santa Catarina (UFSC) and in Psychology from UFBA, with a Master’s in Political Sociology from UFSC. His research and teaching interests include Sociological Theory, Sociology of Emotions, Sociology of Knowledge, Political Psychology, Cultural Psychology, and the Epistemology of the Human Sciences. He focuses on topics such as theories of modernization, rationalization, individualization, agency, rationality, self and personality, the relationship between sociology and psychology, epistemological issues in the human sciences, denialism, anti-science, pseudoscience, conflicts between religion and science, digital sociability, emotions and cognition in politics, collective narcissism, intergroup hostility, emotional suffering, cultural trauma, collective suffering, and romantic relationships. Additionally, he leads an outreach project producing digital content on emotional education and psychoeducation.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Ricardo Sodré Andrade</title>
-      <link>//localhost:1313/authors/8_ric/</link>
+      <link>/authors/8_ric/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/8_ric/</guid>
+      <guid>/authors/8_ric/</guid>
       <description>&lt;p&gt;Leader of the Research Group on Culture, Representation, and Digital Information (CRIDI) at the Federal University of Bahia (UFBA); Holds a Master’s in Information Science from the Graduate Program in Information Science at UFBA (PPGCI/UFBA) and a Bachelor’s degree in Archival Science from UFBA. He has been an Archivist at the Federal University of Bahia since 2009. Previously, he worked as a Technology Advisor at the Bahia Public Archive (2007–2009) and was a Scientific Initiation Fellow under the PIBIC/UFBA/CNPq program from 2004 to 2007.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Graziela de Souza Teixeira</title>
-      <link>//localhost:1313/authors/9_grazi/</link>
+      <link>/authors/9_grazi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/9_grazi/</guid>
+      <guid>/authors/9_grazi/</guid>
       <description>&lt;p&gt;Currently an Anthropology student at the Federal University of Santa Catarina (UFSC) since 2019; Hold a Bachelor’s degree in Business Administration from the University of Vale do Paraíba (UNIVAP, 1998) and a postgraduate degree in Accounting and Financial Management from Fundação Armando Álvares Penteado (FAAP, 2000). With twelve years of experience in the traditional financial market, my research interests include digital anthropology, blockchain data infrastructures, digital currencies, and new forms of identity and social organization in Web3. I am currently involved in a Scientific Initiation project with the Digital Humanities Laboratory at UFBA, focusing on monitoring masculinist segments on Telegram.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Leonardo Thibau</title>
-      <link>//localhost:1313/authors/10_thibau/</link>
+      <link>/authors/10_thibau/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/10_thibau/</guid>
+      <guid>/authors/10_thibau/</guid>
       <description>&lt;p&gt;Master&amp;rsquo;s student in Sociology (PPGCS/UFBA). Undergraduate in Social Sciences and a Bachelor&amp;rsquo;s in Humanities from UFBA (2020), was a PIBIC scholarship holder at the Laboratory of Science, Technology, and Society - LABCTS. Was a member of the Seminar on Introduction to Psychoanalytic Theory - SIPSI (2019). Has experience in education, with internships at Escola Lua Nova (2019) and the Teaching Initiation Program - PIBID (2023).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ruan Arthur Lima Santos</title>
-      <link>//localhost:1313/authors/11_arthur/</link>
+      <link>/authors/11_arthur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/11_arthur/</guid>
+      <guid>/authors/11_arthur/</guid>
       <description>&lt;p&gt;Currently, pursuing a degree in Social Sciences at the Federal University of Bahia (UFBA). My research interests include Epistemology, Gender and Identity Studies, Sociology of Religion, Sociology of Crime, and the Far Right.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jorge Henrique Silvestre Barbosa</title>
-      <link>//localhost:1313/authors/12_jorge/</link>
+      <link>/authors/12_jorge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/12_jorge/</guid>
+      <guid>/authors/12_jorge/</guid>
       <description>&lt;p&gt;I graduated in Social Sciences and hold a Master&amp;rsquo;s degree in Sociology; I am currently a PhD candidate in the Graduate Program in Social Sciences at the Federal University of Bahia (PPGCS/UFBA). I have been a member of LABHDUFBA since 2020.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bruno Durães</title>
-      <link>//localhost:1313/authors/13_bruno/</link>
+      <link>/authors/13_bruno/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/13_bruno/</guid>
+      <guid>/authors/13_bruno/</guid>
       <description>&lt;p&gt;Associate Professor of Sociology at UFRJ (Department of Sociology/IFCS); Coordinator of the Digital Humanities Laboratory at UFRJ; Holds a PhD in Social Sciences (Unicamp-2011). Master&amp;rsquo;s in Sociology (Unicamp-2006), a teaching degree in Social Sciences (2003), and a Bachelor&amp;rsquo;s degree in Sociology (2004) from the Federal University of Bahia (UFBA). His expertise lies in Sociology, with an emphasis on Sociology of Work, focusing on the following topics: labor, informality, Marxist theory, sociology teaching, and digital labor.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jonatã Bittencourt</title>
-      <link>//localhost:1313/authors/14_jonata/</link>
+      <link>/authors/14_jonata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/14_jonata/</guid>
+      <guid>/authors/14_jonata/</guid>
       <description>&lt;p&gt;I am conducting doctoral research on Innovation Policies guiding the management of actions and projects in publicly owned ICTs, focusing on a civic-democratic approach to Social Innovation. My other research interests include Sociological and Post-Colonial Perspectives in Science, Technology, and Innovation (ST&amp;amp;I), the role of Digital Humanities in driving innovations within publicly owned ICTs, and the interrelation between Ethics, Citizenship, and Human Rights in ST&amp;amp;I. Additionally, I explore the roles, uses, and meanings of Sociology in scientific production and in the development of technologies and innovations within the Federal Network of Professional and Technological Education.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ícaro Bernardes dos Santos Coutinho</title>
-      <link>//localhost:1313/authors/15_icaro/</link>
+      <link>/authors/15_icaro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/15_icaro/</guid>
+      <guid>/authors/15_icaro/</guid>
       <description>&lt;p&gt;Data scientist with a strong focus on data analysis, modeling, and visualization; Has experience in academic research and client-oriented projects. His work spans a broad spectrum, including optimization using heuristic methods, analysis of losses in the supply chain of blood derivatives, and impact assessment of social projects, the latter being the subject of his master&amp;rsquo;s project at UFBA.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Indianara Lima Silva</title>
-      <link>//localhost:1313/authors/16_indianara/</link>
+      <link>/authors/16_indianara/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/16_indianara/</guid>
+      <guid>/authors/16_indianara/</guid>
       <description>&lt;p&gt;Indianara Silva is a Full Professor in the Physics Department at UEFS and a member of the Graduate Program in Science Teaching, Philosophy, and History (UFBA-UEFS); Completed her postdoctoral studies at the Department of the History of Science at Harvard University and was elected History of Physics Editor for the Revista Brasileira de Ensino de Física in 2024. Received the Carolina Nemes Award from the Brazilian Physics Society in 2022 and conducted research at prestigious institutions such as Harvard, MIT, and the Royal Society.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Desirée Vitória Vigas Melo</title>
-      <link>//localhost:1313/authors/17_desiree/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/17_desiree/</guid>
-      <description>&lt;p&gt;Bachelor&amp;rsquo;s degree in Humanities (2023), undergraduate student in Social Sciences. Interested in sociology of religion, misinformation, and digital sociology; She was a teaching assistant for the ACCS Pluralism and Religious Rights (2022), and volunteered at the CRH - Center for Studies and Research in Humanities at UFBA (2023); She was a researcher at LABCTS.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Daniel Romero</title>
-      <link>//localhost:1313/authors/18_romero/</link>
+      <link>/authors/18_romero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/18_romero/</guid>
+      <guid>/authors/18_romero/</guid>
       <description>&lt;p&gt;Holds a Master&amp;rsquo;s degree in Sociology and a Bachelor&amp;rsquo;s degree in Social Sciences from Universidade Estadual de Campinas (1996); has experience in the field of Sociology, with an emphasis on the Fundamentals of Sociology, currently serves as a Professor of Sociology at the higher education level at Instituto Federal da Bahia in Salvador.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Vítor Mussa</title>
-      <link>//localhost:1313/authors/19_vitor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/19_vitor/</guid>
-      <description>&lt;p&gt;Software engineer and computational social scientist; I have more than 3 years of professional and scientific experience working with Python building the backend of web apps, data pipelines, and data platforms.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Eric Maia</title>
-      <link>//localhost:1313/authors/20_eric-maia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/20_eric-maia/</guid>
-      <description>&lt;p&gt;Historian graduated from the Federal Fluminense University (UFF); Postgraduate in Technologies Applied to Education; Master&amp;rsquo;s student in the Graduate Program in History at UFF; main areas of expertise include Brazilian History, Contemporary History, Visual History, and Present-Day History.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Alisson Magalhães Soares</title>
-      <link>//localhost:1313/authors/21_alisson/</link>
+      <link>/authors/21_alisson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/21_alisson/</guid>
+      <guid>/authors/21_alisson/</guid>
       <description>&lt;p&gt;Bachelor in Social Sciences, specialist in the History of Science, Master&amp;rsquo;s and PhD in Sociology at UFMG, Post-Doctorate in Political Science at UFPE. Currently interested in disinformation, conspiracy theories, Computational Social Sciences, text analysis/text mining, and Natural Language Processing.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Matheus da Costa Martins</title>
-      <link>//localhost:1313/authors/22_matheus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/22_matheus/</guid>
-      <description>&lt;p&gt;Born in Santos, São Paulo, he is an undergraduate student in Social Sciences at the Federal University of Santa Catarina; Additionally, he is a Scientific Initiation scholarship holder (PIBIC). Under the supervision of professor Dr Letícia Cesarino, his study focus on the thematic area of the far-right and social networks; He participates as a researcher at the Laboratory of Digital Humanities (LABHD/UFBA) and at the University Laboratory of Politics, Rights, Conflicts, and Anthropology (LUPA/UFSC).&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Daniel de Sena Bastos</title>
-      <link>//localhost:1313/authors/23_daniel/</link>
+      <link>/authors/23_daniel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/23_daniel/</guid>
+      <guid>/authors/23_daniel/</guid>
       <description>&lt;p&gt;Undergraduate in Science, Technology, and Innovation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jéfte Batista de Oliveira</title>
-      <link>//localhost:1313/authors/24_jefte/</link>
+      <link>/authors/24_jefte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/24_jefte/</guid>
+      <guid>/authors/24_jefte/</guid>
       <description>&lt;p&gt;Bachelor in Social Sciences from the Federal University of Bahia (UFBA); Currently, a master&amp;rsquo;s student in the Graduate Program in Social Sciences (PPGCS) at UFBA and a Sociology teacher for the Department of Education of the State of Bahia.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jaime Cativa</title>
-      <link>//localhost:1313/authors/25_jaime/</link>
+      <link>/authors/25_jaime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/25_jaime/</guid>
+      <guid>/authors/25_jaime/</guid>
       <description>&lt;p&gt;Student representative of the Interdisciplinary Bachelor’s Degree in Humanities at the Institute of Humanities and Letters of the University for International Integration of the Afro-Brazilian Lusophony (IHLM/UNILAB). I have completed teacher training in the field of history and geografy in Angola; Additionally, I have extensive experience in audiovisuals and information and communication technologies.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gilberto Sassi</title>
-      <link>//localhost:1313/authors/26_gilberto/</link>
+      <link>/authors/26_gilberto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/26_gilberto/</guid>
+      <guid>/authors/26_gilberto/</guid>
       <description>&lt;p&gt;Data Scientist and Natural Language Processing (NLP) specialist at the Department of Statistics of the Institute of Mathematics and Statistics at UFBA. Holds a Bachelor&amp;rsquo;s degree in Mathematics and a Master&amp;rsquo;s degree in Statistics from the Institute of Mathematical and Computational Sciences at the University of São Paulo (USP), with a Ph.D. in Statistics from the same institute. Currently, he is an Adjunct Professor at the Federal University of Bahia (UFBA), with research focused on Functional Data Analysis, Copulas, and Item Response Theory. He has extensive experience in data analysis, statistical modeling, and artificial intelligence applications.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gabriel Andrade</title>
-      <link>//localhost:1313/authors/27_gabriel/</link>
+      <link>/authors/27_gabriel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/27_gabriel/</guid>
+      <guid>/authors/27_gabriel/</guid>
       <description>&lt;p&gt;Currently, pursuing a degree in Computer Engineering at Federal University of Bahia (UFBA); I work as a Software Engineer with a large experience in Software Development using modern technologies as Python, Node, PHP, Docker and so on.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lidia Belas</title>
+      <link>/authors/28_lidia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/28_lidia/</guid>
+      <description>&lt;p&gt;Currently pursuing a degree in Social Sciences at the Federal University of Bahia (UFBA), with a focus on Epistemology, Gender and Identity Studies, Sociology of Religion, Sociology of Crime, and the Far Right. Passionate about understanding social dynamics through a critical and interdisciplinary lens.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
   "lang": "en-us",
   "display": "fullscreen",
   "orientation" : "portrait",
-  "start_url": "//localhost:1313/?utm_source=web_app_manifest",
+  "start_url": "/?utm_source=web_app_manifest",
   "background_color": "#fff",
   "theme_color": "#000",
 
