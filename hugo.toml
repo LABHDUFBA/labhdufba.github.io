@@ -29,7 +29,7 @@ shortname = 'themefisher-template' # we use disqus to show comments in blog post
 
 ########################## Permalinks ############################
 [permalinks]
-pages = "/:slugorcontentbasename/"
+post = "/:slug/"
 
 
 ############################# Modules ############################
