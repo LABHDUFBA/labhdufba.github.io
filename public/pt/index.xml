@@ -2,220 +2,213 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LABHDUFBA</title>
-    <link>/pt/</link>
+    <link>//localhost:1313/pt/</link>
     <description>Recent content on LABHDUFBA</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <atom:link href="/pt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/pt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leonardo F. Nascimento</title>
-      <link>/pt/authors/1_leonardo-nascimento/</link>
+      <link>//localhost:1313/pt/authors/1_leonardo-nascimento/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/1_leonardo-nascimento/</guid>
-      <description>&lt;p&gt;Sou Técnico em Química, graduado em Psicologia, possuo mestrado em Sociologia (2007), doutorado em Sociologia e sou coordenador do Laboratório de Humanidades Digitais da UFBA.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/1_leonardo-nascimento/</guid>
+      <description>Sou Técnico em Química, graduado em Psicologia, possuo mestrado em Sociologia (2007), doutorado em Sociologia e sou coordenador do Laboratório de Humanidades Digitais da UFBA.</description>
     </item>
     <item>
       <title>Eric Brasil</title>
-      <link>/pt/authors/2_eric-brasil/</link>
+      <link>//localhost:1313/pt/authors/2_eric-brasil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/2_eric-brasil/</guid>
-      <description>&lt;p&gt;Professor no Instituto de Humanidades e Letras da Universidade da Integração Internacional da Lusofonia Afro-Brasileira (IHLM/UNILAB); Doutor (2016) e Mestre (2011) em História pela Universidade Federal Fluminense; Editor-chefe do Programming Historian em Português.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/2_eric-brasil/</guid>
+      <description>Professor no Instituto de Humanidades e Letras da Universidade da Integração Internacional da Lusofonia Afro-Brasileira (IHLM/UNILAB); Doutor (2016) e Mestre (2011) em História pela Universidade Federal Fluminense; Editor-chefe do Programming Historian em Português.</description>
     </item>
     <item>
       <title>Rosana Moore</title>
-      <link>/pt/authors/3_rosana/</link>
+      <link>//localhost:1313/pt/authors/3_rosana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/3_rosana/</guid>
-      <description>&lt;p&gt;Rosana Silva Chagas, atualmente Rosana Silva Moore Wedderburn, possui doutorado (2019) e mestrado (2012) em Sociologia pelo Programa de Pós-Graduação do Instituto de Estudos Sociais e Políticos (IESP) da Universidade do Estado do Rio de Janeiro (UERJ). Possui bacharelado em Sociologia pela Universidade Federal da Bahia (2007); Tem experiência na área de Sociologia, com ênfase em relações raciais, sociologia urbana e criminologia, focando principalmente nos temas de violência, genocídio, homicídios e desigualdades raciais.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/3_rosana/</guid>
+      <description>Rosana Silva Chagas, atualmente Rosana Silva Moore Wedderburn, possui doutorado (2019) e mestrado (2012) em Sociologia pelo Programa de Pós-Graduação do Instituto de Estudos Sociais e Políticos (IESP) da Universidade do Estado do Rio de Janeiro (UERJ).</description>
     </item>
     <item>
       <title>Letícia Cesarino</title>
-      <link>/pt/authors/4_leticia/</link>
+      <link>//localhost:1313/pt/authors/4_leticia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/4_leticia/</guid>
-      <description>&lt;p&gt;Professora e pesquisadora na UFSC, graduou-se em Ciências Sociais pela UFMG em 2003 e concluiu seu Mestrado em Antropologia Social na UNB em 2006; Obteve seu doutorado em Antropologia pela UC Berkeley em 2013, realizando pesquisas de campo no Brasil, Mali, Gana e Burkina Faso. Especializada em estudos sociais da ciência e tecnologia, com foco recente em antropologia digital; Co-coordena um projeto sobre desinformação no Telegram com o Laboratório de Humanidades Digitais da UFBA e o InternetLab; Além disso, escreve para a Carta Capital e Jacobin Brasil.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/4_leticia/</guid>
+      <description>Professora e pesquisadora na UFSC, graduou-se em Ciências Sociais pela UFMG em 2003 e concluiu seu Mestrado em Antropologia Social na UNB em 2006; Obteve seu doutorado em Antropologia pela UC Berkeley em 2013, realizando pesquisas de campo no Brasil, Mali, Gana e Burkina Faso.</description>
     </item>
     <item>
       <title>Juciane Pereira de Jesus</title>
-      <link>/pt/authors/5_juci/</link>
+      <link>//localhost:1313/pt/authors/5_juci/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/5_juci/</guid>
-      <description>&lt;p&gt;Bacharel em Ciências Sociais (2022) pela Universidade Federal da Bahia (UFBA), estudante de graduação em Sociologia (reingresso/UFBA) e mestrando no programa de pós-graduação em Ciências Sociais (PPGCS/UFBA), membro e pesquisador no Laboratório de Humanidades Digitais (LABHDUFBA). Seus temas de pesquisa incluem Sociologia Digital, Métodos de Pesquisa Digital, Redes Sociais, Desinformação Relacionada à Saúde e a Extrema Direita no Brasil.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/5_juci/</guid>
+      <description>Doutoranda em Sociologia pela Universidade de São Paulo (USP); Bacharel em Ciências Sociais (2022) pela Universidade Federal da Bahia (UFBA), licenciada em Sociologia (reingresso/UFBA) e mestre no programa de pós-graduação em Ciências Sociais (PPGCS/UFBA).</description>
     </item>
     <item>
       <title>Tarssio Barreto</title>
-      <link>/pt/authors/6_tarssio/</link>
+      <link>//localhost:1313/pt/authors/6_tarssio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/6_tarssio/</guid>
-      <description>&lt;p&gt;Graduado em Engenharia Sanitária e Ambiental e mestre em Meio Ambiente, Água e Saneamento; Atualmente, desenvolvo produtos orientados por dados na BIT Analytics; Tenho um forte interesse em parcerias para inovação e desenvolvimento de produtos orientados por dados. Além disso, considero-me um ativista de dados e estou aberto a projetos com Institutos e Fundações envolvendo questões socioambientais. Pessoalmente, sou apaixonado pelo violão de 7 cordas e estou dedicado a aprendê-lo.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Alan Mocellim</title>
-      <link>/pt/authors/7_alan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/7_alan/</guid>
-      <description>&lt;p&gt;Professor Associado do Departamento de Sociologia da Universidade Federal da Bahia (UFBA) e do Programa de Pós-Graduação em Ciências Sociais da mesma instituição; Doutor em Sociologia pela Universidade de São Paulo (USP); É vice-coordenador do Laboratório de Humanidades Digitais da UFBA (LABHD) e membro do Grupo de Pesquisa em Psicologia Cultural (CULTS). Possui graduação em Ciências Sociais pela Universidade Federal de Santa Catarina (UFSC) e em Psicologia pela UFBA, com Mestrado em Sociologia Política pela UFSC. Seus interesses de pesquisa e ensino incluem Teoria Sociológica, Sociologia das Emoções, Sociologia do Conhecimento, Psicologia Política, Psicologia Cultural e Epistemologia das Ciências Humanas; Foca em temas como teorias da modernização, racionalização, individualização, agência, racionalidade, self e personalidade, a relação entre sociologia e psicologia, questões epistemológicas nas ciências humanas, negacionismo, anti-ciência, pseudociência, conflitos entre religião e ciência, sociabilidade digital, emoções e cognição na política, narcisismo coletivo, hostilidade intergrupal, sofrimento emocional, trauma cultural, sofrimento coletivo e relacionamentos amorosos; Além disso, lidera um projeto de extensão que produz conteúdo digital sobre educação emocional e psicoeducação.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/6_tarssio/</guid>
+      <description>Graduado em Engenharia Sanitária e Ambiental e mestre em Meio Ambiente, Água e Saneamento; Atualmente, desenvolvo produtos orientados por dados na BIT Analytics; Tenho um forte interesse em parcerias para inovação e desenvolvimento de produtos orientados por dados.</description>
     </item>
     <item>
       <title>Ricardo Sodré Andrade</title>
-      <link>/pt/authors/8_ric/</link>
+      <link>//localhost:1313/pt/authors/8_ric/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/8_ric/</guid>
-      <description>&lt;p&gt;Líder do Grupo de Pesquisa em Cultura, Representação e Informação Digital (CRIDI) na Universidade Federal da Bahia (UFBA); Possui Mestrado em Ciência da Informação pelo Programa de Pós-Graduação em Ciência da Informação da UFBA (PPGCI/UFBA) e Bacharelado em Arquivologia pela UFBA; Atua como Arquivista na Universidade Federal da Bahia desde 2009. Anteriormente, trabalhou como Assessor de Tecnologia no Arquivo Público da Bahia (2007-2009) e foi Bolsista de Iniciação Científica pelo PIBIC/UFBA/CNPq de 2004 a 2007.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/8_ric/</guid>
+      <description>Líder do Grupo de Pesquisa em Cultura, Representação e Informação Digital (CRIDI) na Universidade Federal da Bahia (UFBA); Possui Mestrado em Ciência da Informação pelo Programa de Pós-Graduação em Ciência da Informação da UFBA (PPGCI/UFBA) e Bacharelado em Arquivologia pela UFBA; Atua como Arquivista na Universidade Federal da Bahia desde 2009.</description>
     </item>
     <item>
       <title>Graziela de Souza Teixeira</title>
-      <link>/pt/authors/9_grazi/</link>
+      <link>//localhost:1313/pt/authors/9_grazi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/9_grazi/</guid>
-      <description>&lt;p&gt;Atualmente, estudante de Antropologia na Universidade Federal de Santa Catarina (UFSC) desde 2019; Possuo Bacharelado em Administração de Empresas pela Universidade do Vale do Paraíba (UNIVAP, 1998) e pós-graduação em Administração Contábil e Financeira pela Fundação Armando Álvares Penteado (FAAP, 2000). Com doze anos de experiência no mercado financeiro tradicional, meus interesses de pesquisa incluem antropologia digital, infraestruturas de dados blockchain, moedas digitais e novas formas de identidade e organização social no Web3. Atualmente, estou envolvido em um projeto de Iniciação Científica com o Laboratório de Humanidades Digitais da UFBA, focando no monitoramento de segmentos masculinistas no Telegram.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/9_grazi/</guid>
+      <description>Atualmente, estudante de Antropologia na Universidade Federal de Santa Catarina (UFSC) desde 2019; Possuo Bacharelado em Administração de Empresas pela Universidade do Vale do Paraíba (UNIVAP, 1998) e pós-graduação em Administração Contábil e Financeira pela Fundação Armando Álvares Penteado (FAAP, 2000).</description>
     </item>
     <item>
       <title>Leonardo Thibau</title>
-      <link>/pt/authors/10_thibau/</link>
+      <link>//localhost:1313/pt/authors/10_thibau/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/10_thibau/</guid>
-      <description>&lt;p&gt;Mestrando em Sociologia (PPGCS/UFBA). Estudante de graduação em Ciências Sociais e Bacharel em Humanidades pela UFBA (2020), foi bolsista PIBIC no Laboratório de Ciência, Tecnologia e Sociedade - LABCTS; Foi membro do Seminário de Introdução à Teoria Psicanalítica - SIPSI (2019). Tem experiência em educação, com estágio na Escola Lua Nova (2019) e no Programa de Iniciação à Docência - PIBID (2023).&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/10_thibau/</guid>
+      <description>Mestrando em Sociologia (PPGCS/UFBA). Estudante de graduação em Ciências Sociais e Bacharel em Humanidades pela UFBA (2020), foi bolsista PIBIC no Laboratório de Ciência, Tecnologia e Sociedade - LABCTS; Foi membro do Seminário de Introdução à Teoria Psicanalítica - SIPSI (2019).</description>
     </item>
     <item>
       <title>Ruan Arthur Lima Santos</title>
-      <link>/pt/authors/11_arthur/</link>
+      <link>//localhost:1313/pt/authors/11_arthur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/11_arthur/</guid>
-      <description>&lt;p&gt;Graduando em Ciências Sociais na Universidade Federal da Bahia (UFBA). Meus interesses de pesquisa incluem Epistemologia, Estudos de Gênero e Identidade, Sociologia da Religião, Sociologia do Crime e Extrema Direita.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/11_arthur/</guid>
+      <description>Graduando em Ciências Sociais na Universidade Federal da Bahia (UFBA). Meus interesses de pesquisa incluem Epistemologia, Estudos de Gênero e Identidade, Sociologia da Religião, Sociologia do Crime e Extrema Direita.</description>
     </item>
     <item>
       <title>Jorge Henrique Silvestre Barbosa</title>
-      <link>/pt/authors/12_jorge/</link>
+      <link>//localhost:1313/pt/authors/12_jorge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/12_jorge/</guid>
-      <description>&lt;p&gt;Graduado em Ciências Sociais, com Mestrado em Sociologia; Atualmente, doutorando no Programa de Pós-Graduação em Ciências Sociais da Universidade Federal da Bahia (PPGCS/UFBA). Membro do LABHDUFBA desde 2020.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/12_jorge/</guid>
+      <description>Graduado em Ciências Sociais, com Mestrado em Sociologia; Atualmente, doutorando no Programa de Pós-Graduação em Ciências Sociais da Universidade Federal da Bahia (PPGCS/UFBA).</description>
     </item>
     <item>
       <title>Bruno Durães</title>
-      <link>/pt/authors/13_bruno/</link>
+      <link>//localhost:1313/pt/authors/13_bruno/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/13_bruno/</guid>
-      <description>&lt;p&gt;Professor Associado de Sociologia na UFRJ (Departamento de Sociologia/IFCS); Coordenador do Laboratório de Humanidades Digitais na UFRJ; Doutor em Ciências Sociais (Unicamp-2011). Mestrado em Sociologia (Unicamp-2006), licenciatura em Ciências Sociais (2003) e Bacharelado em Sociologia (2004) pela Universidade Federal da Bahia (UFBA). Tem experiência na área de Sociologia, com ênfase em Sociologia do Trabalho, atuando nos seguintes temas: trabalho, informalidade, teoria marxista, ensino de sociologia e trabalho digital.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/13_bruno/</guid>
+      <description>Professor Associado de Sociologia na UFRJ (Departamento de Sociologia/IFCS); Coordenador do Laboratório de Humanidades Digitais na UFRJ; Doutor em Ciências Sociais (Unicamp-2011).</description>
     </item>
     <item>
       <title>Jonatã Bittencourt</title>
-      <link>/pt/authors/14_jonata/</link>
+      <link>//localhost:1313/pt/authors/14_jonata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/14_jonata/</guid>
-      <description>&lt;p&gt;Estou conduzindo uma pesquisa de doutorado sobre Políticas de Inovação que orientam a gestão de ações e projetos em ICTs de direito público, com foco em uma abordagem cívico-democrática da Inovação Social. Meus outros interesses de pesquisa incluem Perspectivas Sociológicas e Pós-Coloniais em Ciência, Tecnologia e Inovação (CT&amp;amp;I), o papel das Humanidades Digitais na produção de inovações dentro de ICTs de direito público, e a inter-relação entre Ética, Cidadania e Direitos Humanos em CT&amp;amp;I; Além disso, exploro os papéis, usos e significados da Sociologia na produção científica e no desenvolvimento de tecnologias e inovações dentro da Rede Federal de Educação Profissional e Tecnológica.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/14_jonata/</guid>
+      <description>Estou conduzindo uma pesquisa de doutorado sobre Políticas de Inovação que orientam a gestão de ações e projetos em ICTs de direito público, com foco em uma abordagem cívico-democrática da Inovação Social.</description>
     </item>
     <item>
       <title>Ícaro Bernardes dos Santos Coutinho</title>
-      <link>/pt/authors/15_icaro/</link>
+      <link>//localhost:1313/pt/authors/15_icaro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/15_icaro/</guid>
-      <description>&lt;p&gt;Cientista de dados com forte foco em análise, modelagem e visualização de dados; Tem experiência em pesquisa acadêmica, e em projetos para clientes. Seu trabalho abrange um amplo espectro, incluindo otimização usando métodos heurísticos, análise de perdas na cadeia de suprimentos de derivados do sangue e avaliação de impacto de projetos sociais; Este último é o tema do meu projeto de mestrado na UFBA.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/15_icaro/</guid>
+      <description>Cientista de dados com forte foco em análise, modelagem e visualização de dados; Tem experiência em pesquisa acadêmica, e em projetos para clientes.</description>
     </item>
     <item>
       <title>Indianara Lima Silva</title>
-      <link>/pt/authors/16_indianara/</link>
+      <link>//localhost:1313/pt/authors/16_indianara/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/16_indianara/</guid>
-      <description>&lt;p&gt;Indianara Silva é Professora Titular no Departamento de Física da UEFS e atua no Programa de Pós-Graduação em Ensino, Filosofia e História das Ciências (UFBA-UEFS). Pós-doutora pelo Department of the History of Science da Harvard University, foi eleita Editora de História da Física da Revista Brasileira de Ensino de Física em 2024; Recebeu o Prêmio Carolina Nemes da Sociedade Brasileira de Física em 2022 e realizou pesquisas em instituições de prestígio como Harvard, MIT e Royal Society.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Desirée Vitória Vigas Melo</title>
-      <link>/pt/authors/17_desiree/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/17_desiree/</guid>
-      <description>&lt;p&gt;Bacharel em Humanidades (2023), estudante de graduação em Ciências Sociais; Interessada em sociologia da religião, desinformação e sociologia digital. Foi assistente de ensino na ACCS Pluralismo e Direitos Religiosos (2022) e voluntária no CRH - Centro de Estudos e Pesquisas em Humanidades da UFBA (2023); Já foi pesquisadora do LABCTS.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/16_indianara/</guid>
+      <description>Indianara Silva é Professora Titular no Departamento de Física da UEFS e atua no Programa de Pós-Graduação em Ensino, Filosofia e História das Ciências (UFBA-UEFS).</description>
     </item>
     <item>
       <title>Daniel Romero</title>
-      <link>/pt/authors/18_romero/</link>
+      <link>//localhost:1313/pt/authors/18_romero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/18_romero/</guid>
-      <description>&lt;p&gt;Possui Mestrado em Sociologia e Bacharelado em Ciências Sociais pela Universidade Estadual de Campinas (1996); tem experiência na área de Sociologia, com ênfase nos Fundamentos da Sociologia. Atualmente, atua como Professor de Sociologia no ensino superior no Instituto Federal da Bahia em Salvador.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vítor Mussa</title>
-      <link>/pt/authors/19_vitor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/19_vitor/</guid>
-      <description>&lt;p&gt;Engenheiro de software e cientista social computacional; Tenho mais de 3 anos de experiência profissional e científica trabalhando com Python, construindo o backend de aplicativos web, pipelines de dados e plataformas de dados.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Eric Maia</title>
-      <link>/pt/authors/20_eric-maia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/20_eric-maia/</guid>
-      <description>&lt;p&gt;Historiador graduado pela Universidade Federal Fluminense (UFF); Pós-graduado em Tecnologias Aplicadas à Educação; Mestrando no Programa de Pós-Graduação em História da UFF. Sua principais áreas de atuação incluem História do Brasil, História Contemporânea, História Visual e História do Tempo Presente.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/18_romero/</guid>
+      <description>Possui Mestrado em Sociologia e Bacharelado em Ciências Sociais pela Universidade Estadual de Campinas (1996); tem experiência na área de Sociologia, com ênfase nos Fundamentos da Sociologia.</description>
     </item>
     <item>
       <title>Alisson Magalhães Soares</title>
-      <link>/pt/authors/21_alisson/</link>
+      <link>//localhost:1313/pt/authors/21_alisson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/21_alisson/</guid>
-      <description>&lt;p&gt;Bacharel em Ciências Sociais, especialista em História da Ciência, Mestre e Doutor em Sociologia pela UFMG, Pós-Doutorado em Ciência Política pela UFPE. Atualmente, tem interesse em desinformação, teorias da conspiração, Ciências Sociais Computacionais, análise de texto/mineração de texto e Processamento de Linguagem Natural.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Matheus da Costa Martins</title>
-      <link>/pt/authors/22_matheus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/22_matheus/</guid>
-      <description>&lt;p&gt;Nascido em Santos, São Paulo, é estudante de graduação em Ciências Sociais na Universidade Federal de Santa Catarina; Além disso, é bolsista de Iniciação Científica (PIBIC) sob a supervisão da professora Letícia Cesarino, com foco na área temática da extrema direita e redes sociais; Participa como pesquisador no Laboratório de Humanidades Digitais (LABHD/UFBA) e no Laboratório Universitário de Política, Direitos, Conflitos e Antropologia (LUPA/UFSC).&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/21_alisson/</guid>
+      <description>Bacharel em Ciências Sociais, especialista em História da Ciência, Mestre e Doutor em Sociologia pela UFMG, Pós-Doutorado em Ciência Política pela UFPE.</description>
     </item>
     <item>
       <title>Daniel de Sena Bastos</title>
-      <link>/pt/authors/23_daniel/</link>
+      <link>//localhost:1313/pt/authors/23_daniel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/23_daniel/</guid>
-      <description>&lt;p&gt;Graduando em Ciência, Tecnologia e Inovação.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/23_daniel/</guid>
+      <description>Graduando em Ciência, Tecnologia e Inovação.</description>
     </item>
     <item>
       <title>Jéfte Batista de Oliveira</title>
-      <link>/pt/authors/24_jefte/</link>
+      <link>//localhost:1313/pt/authors/24_jefte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/24_jefte/</guid>
-      <description>&lt;p&gt;Bacharel em Ciências Sociais pela Universidade Federal da Bahia (UFBA). Atualmente, mestrando no Programa de Pós-Graduação em Ciências Sociais (PPGCS) da UFBA e professor de Sociologia na Secretaria de Educação do Estado da Bahia.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/24_jefte/</guid>
+      <description>Bacharel em Ciências Sociais pela Universidade Federal da Bahia (UFBA). Atualmente, mestrando no Programa de Pós-Graduação em Ciências Sociais (PPGCS) da UFBA e professor de Sociologia na Secretaria de Educação do Estado da Bahia.</description>
     </item>
     <item>
       <title>Jaime Cativa</title>
-      <link>/pt/authors/25_jaime/</link>
+      <link>//localhost:1313/pt/authors/25_jaime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/25_jaime/</guid>
-      <description>&lt;p&gt;Estudante e representante estudantil do Curso de Bacharelado Interdisciplinar em Humanidades no Instituto de Humanidades e Letras da Universidade da Integração Internacional da Lusofonia Afro-Brasileira (IHLM/UNILAB). Fiz formação de professores pela área de história e geografia em Angola; Tenho Forte experiência com áudio visuais e tecnologias de informação e comunicação.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/25_jaime/</guid>
+      <description>Estudante e representante estudantil do Curso de Bacharelado Interdisciplinar em Humanidades no Instituto de Humanidades e Letras da Universidade da Integração Internacional da Lusofonia Afro-Brasileira (IHLM/UNILAB).</description>
     </item>
     <item>
       <title>Gilberto Sassi</title>
-      <link>/pt/authors/26_gilberto/</link>
+      <link>//localhost:1313/pt/authors/26_gilberto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/26_gilberto/</guid>
-      <description>&lt;p&gt;Cientista de Dados e especialista em Processamento de Linguagem Natural (NLP) no Departamento de Estatística do Instituto de Matemática e Estatística da UFBA. Bacharel em Matemática e mestre em Estatística pelo Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo (USP), com doutorado em Estatística pelo mesmo instituto. Atualmente, é Professor Adjunto da Universidade Federal da Bahia (UFBA), com pesquisas focadas em Análise de Dados Funcionais, Cópulas e Teoria de Resposta ao Item. Possui ampla experiência em análise de dados, modelagem estatística e aplicações de inteligência artificial.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/26_gilberto/</guid>
+      <description>Cientista de Dados e especialista em Processamento de Linguagem Natural (NLP) no Departamento de Estatística do Instituto de Matemática e Estatística da UFBA.</description>
     </item>
     <item>
       <title>Gabriel Andrade</title>
-      <link>/pt/authors/27_gabriel/</link>
+      <link>//localhost:1313/pt/authors/27_gabriel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/authors/27_gabriel/</guid>
-      <description>&lt;p&gt;Graduando em Engenharia de Computação pela Universidade Federal da Bahia (UFBA); Atuo como Engenheiro de Software e possuo experiência em desenvolvimento de sistemas web e de scripts utilizando tecnologias como Python, Node, PHP, Docker, entre outras.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/authors/27_gabriel/</guid>
+      <description>Graduando em Engenharia de Computação pela Universidade Federal da Bahia (UFBA); Atuo como Engenheiro de Software e possuo experiência em desenvolvimento de sistemas web e de scripts utilizando tecnologias como Python, Node, PHP, Docker, entre outras.</description>
+    </item>
+    <item>
+      <title>Raíssa Nothaft</title>
+      <link>//localhost:1313/pt/authors/29_raissa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/authors/29_raissa/</guid>
+      <description>Doutora em Ciências Humanas na área de concentração estudos de gênero pelas Universidade Federal de Santa Catarina, mestre em Ciência Política e bacharela em Ciências Jurídicas e Sociais (Direito) pela Universidade Federal do Rio Grande do Sul.</description>
+    </item>
+    <item>
+      <title>Lidia Belas</title>
+      <link>//localhost:1313/pt/authors/28_lidia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/authors/28_lidia/</guid>
+      <description>Atualmente cursa Ciências Sociais na Universidade Federal da Bahia (UFBA), com foco em Epistemologia, Estudos de Gênero e Identidade, Sociologia da Religião, Sociologia do Crime e Extrema Direita.</description>
     </item>
     <item>
       <title>Articles</title>
-      <link>/pt/publications/</link>
+      <link>//localhost:1313/pt/pages/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/publications/</guid>
-      <description>&lt;h5 id=&#34;2023&#34;&gt;2023&lt;/h5&gt;&#xA;&lt;p&gt;L. NASCIMENTO, L.CESARINO, P.FONSECA.&lt;strong&gt;&lt;a href=&#34;https://unesdoc.unesco.org/ark:/48223/pf0000384901?fbclid=PAAaYTjUhU1xAsgLh-alU1N9HvzRTb81awgiQH0T9qenpXh2MnLbHahM8SBN8_aem_AXd6ekQU0vVsrNXUiJcN7tXeY_ANUn9_V8mus861IZmIPH4s8H5F-f8ihWLFdq86V9o&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;Far-right publics on brazilian Telegram a mixed-methods approach to digital anthropology&lt;/a&gt;&lt;/strong&gt;. UNESCO, LiiV Center for Innovating Digital Anthropology (USA). 2023.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/pages/publications/</guid>
+      <description>2024 JESUS, Juciane Pereira de. Resgatar bons valores, ideias e sentimentos no coração dos brasileiros: o Brasil Paralelo e seu projeto de contrarrevolução cultural.</description>
+    </item>
+    <item>
+      <title>Articles</title>
+      <link>//localhost:1313/pt/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/publications/</guid>
+      <description>2024 JESUS, Juciane Pereira de. Resgatar bons valores, ideias e sentimentos no coração dos brasileiros: o Brasil Paralelo e seu projeto de contrarrevolução cultural.</description>
     </item>
     <item>
       <title>Artigos</title>
-      <link>/pt/articles/</link>
+      <link>//localhost:1313/pt/articles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/articles/</guid>
-      <description>&lt;h5 id=&#34;2024&#34;&gt;2024&lt;/h5&gt;&#xA;&lt;p&gt;WEDDERBURN, Rosana Silva Moore; JESUS, Juciane Pereira de; TEIXEIRA, Graziela de Souza; NASCIMENTO, Leonardo Fernandes; CESARINO, Leticia Maria Costa da Nobrega; BARRETO, Tarssio Brito. &lt;strong&gt;&lt;a href=&#34;https://revistas.pucsp.br/index.php/aurora/article/view/66490/45721&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;Representações meméticas de “nós e eles”: humor e discurso de ódio em chats do Telegram&lt;/a&gt;&lt;/strong&gt;. &lt;strong&gt;Aurora. Revista de Arte, Mídia e Política&lt;/strong&gt;, São Paulo, v. 17, n. 49, p. 136–173, 2024.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/articles/</guid>
+      <description>2024 WEDDERBURN, Rosana Silva Moore; JESUS, Juciane Pereira de; TEIXEIRA, Graziela de Souza; NASCIMENTO, Leonardo Fernandes; CESARINO, Leticia Maria Costa da Nobrega; BARRETO, Tarssio Brito.</description>
+    </item>
+    <item>
+      <title>Artigos</title>
+      <link>//localhost:1313/pt/pages/articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/pages/articles/</guid>
+      <description>2024 WEDDERBURN, Rosana Silva Moore; JESUS, Juciane Pereira de; TEIXEIRA, Graziela de Souza; NASCIMENTO, Leonardo Fernandes; CESARINO, Leticia Maria Costa da Nobrega; BARRETO, Tarssio Brito.</description>
     </item>
     <item>
       <title>Elements</title>
-      <link>/pt/elements/</link>
+      <link>//localhost:1313/pt/pages/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/elements/</guid>
-      <description>&lt;details class=&#34;table-of-content &#34;&gt;&#xA;  &lt;summary&gt;&#xA;    &#xA;      Tópicos&#xA;    &#xA;  &lt;/summary&gt;&#xA;  &lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ol&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#heading-2&#34;&gt;Heading 2&lt;/a&gt;&#xA;      &lt;ol&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#heading-3&#34;&gt;Heading 3&lt;/a&gt;&#xA;          &lt;ol&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#heading-4&#34;&gt;Heading 4&lt;/a&gt;&#xA;              &lt;ol&gt;&#xA;                &lt;li&gt;&lt;a href=&#34;#heading-5&#34;&gt;Heading 5&lt;/a&gt;&lt;/li&gt;&#xA;              &lt;/ol&gt;&#xA;            &lt;/li&gt;&#xA;          &lt;/ol&gt;&#xA;        &lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#emphasis&#34;&gt;Emphasis&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#button&#34;&gt;Button&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#link&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#paragraph&#34;&gt;Paragraph&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#ordered-list&#34;&gt;Ordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#unordered-list&#34;&gt;Unordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#notice&#34;&gt;Notice&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tab&#34;&gt;Tab&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#accordions&#34;&gt;Accordions&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#code-and-syntax-highlighting&#34;&gt;Code and Syntax Highlighting&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#blockquote&#34;&gt;Blockquote&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tables&#34;&gt;Tables&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#image&#34;&gt;Image&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#gallery&#34;&gt;Gallery&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#slider&#34;&gt;Slider&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#youtube-video&#34;&gt;Youtube video&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#custom-video&#34;&gt;Custom video&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ol&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ol&gt;&#xA;&lt;/nav&gt;&#xA;&lt;/details&gt;&#xA;&#xA;&lt;p&gt;Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code&gt;#&lt;/code&gt; for heading 1 and use &lt;code&gt;######&lt;/code&gt; for heading 6.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/pages/elements/</guid>
+      <description>Tópicos Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
     </item>
     <item>
       <title>Eventos recentes</title>
@@ -226,24 +219,45 @@
     </item>
     <item>
       <title>Ferramentas</title>
-      <link>/pt/tools/</link>
+      <link>//localhost:1313/pt/pages/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/tools/</guid>
-      <description>&lt;style&gt;&#xA;    :target::before {&#xA;        content: &#34;&#34;;&#xA;        display: block;&#xA;        height: 120px;&#xA;        margin-top: -120px;&#xA;        visibility: hidden;&#xA;    }&#xA;    .btn {&#xA;        display: inline-block;&#xA;        padding: 8px 12px;&#xA;        margin: 5px 0;&#xA;        background-color: black;&#xA;        color: white;&#xA;        text-decoration: none;&#xA;        border-radius: 7px;&#xA;        font-family: Arial, sans-serif;&#xA;        font-size: 14px;&#xA;    }&#xA;    .btn:hover {&#xA;        background-color: #858585;&#xA;    }&#xA;    .upcoming-tools {&#xA;        padding: 20px;&#xA;        margin-top: 20px;&#xA;        border: 1px solid #444;&#xA;        background-color: #1a1a1a;&#xA;        border-radius: 10px;&#xA;        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);&#xA;    }&#xA;    .upcoming-tools h3 {&#xA;        font-family: Arial, sans-serif;&#xA;        color: #f9f9f9;&#xA;        margin-bottom: 15px;&#xA;    }&#xA;    .upcoming-tools p {&#xA;        font-family: Arial, sans-serif;&#xA;        color: #cccccc;&#xA;        margin-bottom: 20px;&#xA;    }&#xA;    .highlight-box {&#xA;        background-color: #2a2a2a;&#xA;        padding: 15px;&#xA;        border-radius: 10px;&#xA;        font-family: Arial, sans-serif;&#xA;        color: #cccccc;&#xA;    }&#xA;    .highlight-box p {&#xA;        margin: 0;&#xA;    }&#xA;    @media (prefers-color-scheme: dark) {&#xA;        .highlight-box {&#xA;            background-color: #333333;&#xA;            color: #f9f9f9;&#xA;        }&#xA;        .upcoming-tools {&#xA;            background-color: #1a1a1a;&#xA;            border: 1px solid #444444;&#xA;        }&#xA;        .upcoming-tools h3, .upcoming-tools p {&#xA;            color: #f9f9f9;&#xA;        }&#xA;    }&#xA;&lt;/style&gt;&#xA;&#xA;&lt;details class=&#34;table-of-content &#34;&gt;&#xA;  &lt;summary&gt;&#xA;    &#xA;      Tópicos&#xA;    &#xA;  &lt;/summary&gt;&#xA;  &lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ol&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#ferramentas-scielo&#34;&gt;Ferramentas Scielo&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#anped-scraper&#34;&gt;Anped Scraper&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#compos-scraper&#34;&gt;COMPOS Scraper&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#anpuh-abstracts-scraper&#34;&gt;Anpuh abstracts Scraper&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#anpuh-scraper&#34;&gt;Anpuh Scraper&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#pyhdb&#34;&gt;pyHDB&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#wiki-de-ferramentas-digitais&#34;&gt;Wiki de Ferramentas Digitais&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;/ol&gt;&#xA;&lt;/nav&gt;&#xA;&lt;/details&gt;&#xA;&#xA;&lt;h2 id=&#34;ferramentas-scielo&#34;&gt;Ferramentas Scielo&lt;/h2&gt;&#xA;&lt;p&gt;Fornece ferramentas para raspagem, organização e análise de artigos científicos do Scielo.br. O ferramentas_scielo_v2 permite a raspagem por área do conhecimento ou periódico, oferecendo opções para XML somente ou XML e PDFs. Inclui uma ferramenta para converter XMLs para CSV.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/pages/tools/</guid>
+      <description>Tópicos Ferramentas Scielo Anped Scraper COMPOS Scraper Anpuh abstracts Scraper Anpuh Scraper pyHDB Wiki de Ferramentas Digitais Ferramentas Scielo Fornece ferramentas para raspagem, organização e análise de artigos científicos do Scielo.</description>
+    </item>
+    <item>
+      <title>Ferramentas</title>
+      <link>//localhost:1313/pt/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/tools/</guid>
+      <description>Tópicos Ferramentas Scielo Anped Scraper COMPOS Scraper Anpuh abstracts Scraper Anpuh Scraper pyHDB Wiki de Ferramentas Digitais Ferramentas Scielo Fornece ferramentas para raspagem, organização e análise de artigos científicos do Scielo.</description>
     </item>
     <item>
       <title>LABHD na mídia</title>
-      <link>/pt/inthenews/</link>
+      <link>//localhost:1313/pt/inthenews/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/inthenews/</guid>
-      <description>&lt;iframe src=&#39;https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=12V60Nxmzd7JZHXalW0Fet-6S5Knl0inpU-WVTZHaweI&amp;font=Lustria-Lato&amp;lang=en&amp;initial_zoom=2&amp;height=650&#39; width=&#39;100%&#39; height=&#39;650&#39; webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder=&#39;0&#39;&gt;&lt;/iframe&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA; &#xA;  &#xA;  &#xA; &#xA;  &#xA;  &#xA; &#xA;  &#xA;  &#xA; &#xA;&#xA;&#xA;&lt;a href=&#34;https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=12V60Nxmzd7JZHXalW0Fet-6S5Knl0inpU-WVTZHaweI&amp;amp;font=Lustria-Lato&amp;amp;lang=en&amp;amp;initial_zoom=2&amp;amp;height=650&#34; class=&#34;btn btn-primary &#34;  target=&#34;_blank&#34; rel=&#34;noopener &#34; &gt;Acesse a linha do tempo em nova aba&lt;/a&gt;&#xA;&#xA;&lt;p&gt;Feito com &lt;a href=&#34;https://timeline.knightlab.com/&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;TimelineJS&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/inthenews/</guid>
+      <description>Acesse a linha do tempo em nova aba Feito com TimelineJS</description>
+    </item>
+    <item>
+      <title>LABHD na mídia</title>
+      <link>//localhost:1313/pt/pages/inthenews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/pages/inthenews/</guid>
+      <description>Acesse a linha do tempo em nova aba Feito com TimelineJS</description>
     </item>
     <item>
       <title>Pesquisa</title>
-      <link>/pt/research/</link>
+      <link>//localhost:1313/pt/pages/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/research/</guid>
-      <description>&lt;style&gt;&#xA;    :target::before {&#xA;      content: &#34;&#34;;&#xA;      display: block;&#xA;      height: 120px;&#xA;      margin-top: -120px;&#xA;      visibility: hidden;&#xA;    }&#xA;  &lt;/style&gt;&#xA;&#xA;&lt;details class=&#34;table-of-content &#34;&gt;&#xA;  &lt;summary&gt;&#xA;    &#xA;      Tópicos&#xA;    &#xA;  &lt;/summary&gt;&#xA;  &lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ol&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#mineração-de-dados-para-humanidades-digitais&#34;&gt;Mineração de Dados para Humanidades Digitais&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#análise-de-ecossistemas-multi-plataforma-de-desinformação-e-radicalização-através-do-telegram&#34;&gt;Análise de Ecossistemas Multi-Plataforma de Desinformação e Radicalização através do Telegram&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#história-digital&#34;&gt;História Digital&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#implicações-éticas-sociais-e-políticas-da-tecno-ciência-digital&#34;&gt;Implicações Éticas, Sociais e Políticas da Tecno-ciência Digital&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#a-economia-das-trocas-afetivas-mercado-sociabilidades-e-mídias-digitais&#34;&gt;A Economia das Trocas Afetivas: Mercado, Sociabilidades e Mídias Digitais&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;/ol&gt;&#xA;&lt;/nav&gt;&#xA;&lt;/details&gt;&#xA;&#xA;&lt;h2 id=&#34;mineração-de-dados-para-humanidades-digitais&#34;&gt;Mineração de Dados para Humanidades Digitais&lt;/h2&gt;&#xA;&lt;div style=&#34;text-align: center;&#34;&gt;&#xA;    &lt;img src=&#34;/images/research-data-mining.png&#34; alt=&#34;ilustração de mineração de dados para humanidades digitais&#34; width=&#34;300&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;A aquisição de habilidades computacionais na prática de pesquisa em vários campos das humanidades é um dos pilares do que está sendo chamado de Humanidades Digitais. Atualmente, uma multiplicidade de ferramentas digitais está disponível para auxiliar na extração e montagem de bancos de dados, na análise e interpretação desse material e, finalmente, na organização e disseminação dos resultados. O LABHDUFBA desenvolve algoritmos de extração de dados para a web e redes sociais digitais. Além disso, visa fornecer uma reflexão crítica sobre como essas ferramentas digitais podem representar novas formas de estruturar a imaginação e as investigações em diferentes campos das humanidades, exigindo que avaliemos &amp;lsquo;até onde é possível pensar&amp;rsquo; dentro das lógicas que estruturam esses algoritmos.&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/pages/research/</guid>
+      <description>Tópicos Mineração de Dados para Humanidades Digitais Análise de Ecossistemas Multi-Plataforma de Desinformação e Radicalização através do Telegram História Digital Implicações Éticas, Sociais e Políticas da Tecno-ciência Digital A Economia das Trocas Afetivas: Mercado, Sociabilidades e Mídias Digitais Mineração de Dados para Humanidades Digitais A aquisição de habilidades computacionais na prática de pesquisa em vários campos das humanidades é um dos pilares do que está sendo chamado de Humanidades Digitais.</description>
+    </item>
+    <item>
+      <title>Pesquisa</title>
+      <link>//localhost:1313/pt/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/research/</guid>
+      <description>Tópicos Mineração de Dados para Humanidades Digitais Análise de Ecossistemas Multi-Plataforma de Desinformação e Radicalização através do Telegram História Digital Implicações Éticas, Sociais e Políticas da Tecno-ciência Digital A Economia das Trocas Afetivas: Mercado, Sociabilidades e Mídias Digitais Mineração de Dados para Humanidades Digitais A aquisição de habilidades computacionais na prática de pesquisa em vários campos das humanidades é um dos pilares do que está sendo chamado de Humanidades Digitais.</description>
     </item>
     <item>
       <title>Ready to build your next project with Hugo?</title>
@@ -253,18 +267,32 @@
       <description></description>
     </item>
     <item>
-      <title>Relatórios</title>
-      <link>/pt/reports/</link>
+      <title>Reports</title>
+      <link>//localhost:1313/pt/pages/reports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/reports/</guid>
-      <description>&lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;&#xA;&lt;div style=&#34;text-align: justify;&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;O relatório analisa a disseminação de desinformação e teorias da conspiração relacionadas às enchentes no Rio Grande do Sul dentro de grupos e canais de extrema direita no Telegram. Como resultado, apresentamos uma classificação dos principais temas e argumentos que sustentam essas narrativas, juntamente com um mapeamento dos principais porta-vozes envolvidos na disseminação de notícias falsas. Além disso, examinamos o ecossistema multiplataforma de desinformação e radicalização, destacando a migração de conteúdo postado no Telegram para redes mais convencionais, como YouTube, Instagram e Twitter.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;text-align: center;&#34;&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1tckxBCix13I9gA_UNIW-RKpyyebZuo-Q/view?usp=sharing&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;&lt;strong&gt;Clique para acessar o Relatório sobre desinformação relacionada às enchentes no Rio Grande do Sul&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>//localhost:1313/pt/pages/reports/</guid>
+      <description>2025 Discursos de ódio, violência política e narrativas de gênero no Telegram (2025) – O relatório analisa a circulação de discursos de ódio e violência política, com ênfase em narrativas de gênero, em grupos públicos do Telegram durante o período eleitoral, identificando padrões linguísticos e dinâmicas de radicalização.</description>
+    </item>
+    <item>
+      <title>Reports</title>
+      <link>//localhost:1313/pt/reports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/reports/</guid>
+      <description>2025 Discursos de ódio, violência política e narrativas de gênero no Telegram (2025) – O relatório analisa a circulação de discursos de ódio e violência política, com ênfase em narrativas de gênero, em grupos públicos do Telegram durante o período eleitoral, identificando padrões linguísticos e dinâmicas de radicalização.</description>
     </item>
     <item>
       <title>YouTube</title>
-      <link>/pt/youtube/</link>
+      <link>//localhost:1313/pt/pages/youtube/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/pt/youtube/</guid>
-      <description>&lt;style&gt;&#xA;.videos-container {&#xA;    display: flex;&#xA;    flex-wrap: wrap; /* Permite que os itens quebrem linha se necessário */&#xA;    gap: 20px; /* Espaçamento entre os itens */&#xA;    align-items: flex-end; /* Alinha os itens na parte inferior */&#xA;}&#xA;&#xA;.video-item {&#xA;    flex: 1 0 300px; /* Flex-grow, flex-shrink, flex-basis */&#xA;    display: flex;&#xA;    flex-direction: column;&#xA;    justify-content: flex-end; /* Garante que o conteúdo dentro do item de vídeo seja alinhado na parte inferior */&#xA;    margin-right: 20px; /* Espaçamento entre os itens */&#xA;}&#xA;&#xA;.event-details {&#xA;    font-size: 0.9em; /* Tamanho menor para os detalhes do evento */&#xA;    margin-top: 5px; /* Pequeno espaçamento acima dos detalhes */&#xA;}&#xA;&#xA;.video-content {&#xA;    align-self: flex-end; /* Alinha o vídeo na parte inferior */&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;videos-container&#34;&gt;&#xA;    &lt;div class=&#34;video-item&#34;&gt;&#xA;        &lt;div class=&#34;event-details&#34;&gt;LABHD UFBA - 2020/10/5&lt;/div&gt;&#xA;        &lt;strong&gt;Join us at the LABHDUFBA!&lt;/strong&gt;&#xA;        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;              &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/I3zhQIbJ73o?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;            &lt;/div&gt;&#xA;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;video-item&#34;&gt;&#xA;        &lt;div class=&#34;event-details&#34;&gt;CAPES - 2024/04/2&lt;/div&gt;&#xA;        &lt;strong&gt;Conferência Livre: Ciência no Combate à Desinformação&lt;/strong&gt;&#xA;        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;              &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/_q43rtkUgrA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;            &lt;/div&gt;&#xA;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;video-item&#34;&gt;&#xA;        &lt;div class=&#34;event-details&#34;&gt;Programming Historian - 2023/01/27&lt;/div&gt;&#xA;        &lt;strong&gt;Programming Historian em português&lt;/strong&gt;&#xA;        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;              &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/5M1KX6AeLbQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;            &lt;/div&gt;&#xA;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;hr&gt;&#xA;&lt;div class=&#34;videos-container&#34;&gt;&#xA;    &lt;div class=&#34;video-item&#34;&gt;&#xA;        &lt;div class=&#34;event-details&#34;&gt;Jornal da Cidade (Metro1) - 2022/12/20&lt;/div&gt;&#xA;        &lt;strong&gt;Jornal da Cidade - Dra. Gilda Fucs e Leonardo Nascimento&lt;/strong&gt;&#xA;        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;              &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/FqeW1BxIiR0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;            &lt;/div&gt;&#xA;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;video-item&#34;&gt;&#xA;        &lt;div class=&#34;event-details&#34;&gt;SBHC - 2022/09/8&lt;/div&gt;&#xA;        &lt;strong&gt;História da Ciência e da Tecnologia em tempos digitais&lt;/strong&gt;&#xA;        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;              &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/91l9LVIFjbo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;            &lt;/div&gt;&#xA;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;video-item&#34;&gt;&#xA;        &lt;div class=&#34;event-details&#34;&gt;FGV - 2022/05/20&lt;/div&gt;&#xA;        &lt;strong&gt;Criação, manutenção e divulgação de projetos de História em meios digitais&lt;/strong&gt;&#xA;        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;              &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/aJvjkSBETBw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;            &lt;/div&gt;&#xA;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;hr&gt;&#xA;&lt;div class=&#34;videos-container&#34;&gt;&#xA;    &lt;div class=&#34;video-item&#34;&gt;&#xA;        &lt;div class=&#34;event-details&#34;&gt;LAHMED UFRN - 2022/05/17&lt;/div&gt;&#xA;        &lt;strong&gt;Hemeroteca Digital Brasileira e a pesquisa histórica&lt;/strong&gt;&#xA;        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;              &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Uu3I9_a2knc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;            &lt;/div&gt;&#xA;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;video-item&#34;&gt;&#xA;        &lt;div class=&#34;event-details&#34;&gt;TV UFBA - 2021/12/6&lt;/div&gt;&#xA;        &lt;strong&gt;Plataformização Da Sociedade, Métodos Digitais E Ciência De Dados - Um Olhar Interdisciplinar&lt;/strong&gt;&#xA;        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;              &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/j7SCssD3vag?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;            &lt;/div&gt;&#xA;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;video-item&#34;&gt;&#xA;        &lt;div class=&#34;event-details&#34;&gt;FGV - 2021/09/16&lt;/div&gt;&#xA;        &lt;strong&gt;Sociologia digital em debate&lt;/strong&gt;&#xA;        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;              &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/TayHfR72FmQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;            &lt;/div&gt;&#xA;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;hr&gt;&#xA;&lt;div class=&#34;videos-container&#34;&gt;&#xA;    &lt;div class=&#34;video-item&#34;&gt;&#xA;        &lt;div class=&#34;event-details&#34;&gt;Digital Humanities Hub - Lancaster University - 2024/06/10&lt;/div&gt;&#xA;        &lt;strong&gt;Digital Humanities Hangouts&lt;/strong&gt;&#xA;        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;              &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/S3rRPRfisBk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;            &lt;/div&gt;&#xA;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;video-item&#34;&gt;&#xA;        &lt;div class=&#34;event-details&#34;&gt;UNIFAL-MG - 2020/10/8&lt;/div&gt;&#xA;        &lt;strong&gt;Inteligência Artificial e Humanidades&lt;/strong&gt;&#xA;        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;              &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/kW26mFyH6vk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;            &lt;/div&gt;&#xA;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;video-item&#34;&gt;&#xA;        &lt;div class=&#34;event-details&#34;&gt;IFCHdaUFRGS - 2018/07/29&lt;/div&gt;&#xA;        &lt;strong&gt;Criatividade metodológica para desenhos de pesquisa originais e relevantes&lt;/strong&gt;&#xA;        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;              &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/EliIFp-oa9w?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;            &lt;/div&gt;&#xA;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;---</description>
+      <guid>//localhost:1313/pt/pages/youtube/</guid>
+      <description>LABHD UFBA - 2020/10/5&#xD;Join us at the LABHDUFBA!&#xD;CAPES - 2024/04/2&#xD;Conferência Livre: Ciência no Combate à Desinformação&#xD;Programming Historian - 2023/01/27&#xD;Programming Historian em português&#xD;Jornal da Cidade (Metro1) - 2022/12/20&#xD;Jornal da Cidade - Dra.</description>
+    </item>
+    <item>
+      <title>YouTube</title>
+      <link>//localhost:1313/pt/youtube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/youtube/</guid>
+      <description>LABHD UFBA - 2020/10/5&#xD;Join us at the LABHDUFBA!&#xD;CAPES - 2024/04/2&#xD;Conferência Livre: Ciência no Combate à Desinformação&#xD;Programming Historian - 2023/01/27&#xD;Programming Historian em português&#xD;Jornal da Cidade (Metro1) - 2022/12/20&#xD;Jornal da Cidade - Dra.</description>
     </item>
   </channel>
 </rss>

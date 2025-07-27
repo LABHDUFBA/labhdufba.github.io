@@ -4,7 +4,7 @@
   class=""
   lang="pt-br"
   itemtype="http://schema.org/WebPage">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     
     <meta charset="utf-8" />
 
@@ -30,11 +30,11 @@
 
 
 
-<link rel="shortcut icon" href="/images/favicon_hu_329adca87ddf3d25.png" type="image/x-icon">
-<link rel="icon" href="/images/favicon_hu_329adca87ddf3d25.png" type="image/x-icon">
-<link rel="icon" type="image/png" sizes="48x48" href="/images/favicon_hu_4e5de643d5889308.png">
-<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon_hu_329adca87ddf3d25.png">
-<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon_hu_bb3241c4e6f607b5.png">
+<link rel="shortcut icon" href="/images/favicon_huab2173b1a1a9c750c0c8c660ef8f996e_17011_96x0_resize_lanczos_3.png" type="image/x-icon">
+<link rel="icon" href="/images/favicon_huab2173b1a1a9c750c0c8c660ef8f996e_17011_96x0_resize_lanczos_3.png" type="image/x-icon">
+<link rel="icon" type="image/png" sizes="48x48" href="/images/favicon_huab2173b1a1a9c750c0c8c660ef8f996e_17011_48x0_resize_lanczos_3.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon_huab2173b1a1a9c750c0c8c660ef8f996e_17011_96x0_resize_lanczos_3.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon_huab2173b1a1a9c750c0c8c660ef8f996e_17011_144x0_resize_lanczos_3.png">
 
 
 
@@ -72,6 +72,7 @@
 
 
 
+  <base href="//localhost:1313/pt/research/" />
 
 
 
@@ -95,11 +96,11 @@
 
 
   
-    <link rel="alternate" hreflang="en" href="/research/" />
+    <link rel="alternate" hreflang="en" href="//localhost:1313/research/" />
   
-    <link rel="alternate" hreflang="pt" href="/pt/research/" />
+    <link rel="alternate" hreflang="pt" href="//localhost:1313/pt/research/" />
   
-  <link rel="alternate" hreflang="x-default" href="/pt/research/" />
+  <link rel="alternate" hreflang="x-default" href="//localhost:1313/pt/research/" />
 
 
 
@@ -165,8 +166,8 @@
       
       
       
-        <meta property="og:image" content="/images/labhd.png" />
-        <meta name="twitter:image" content="/images/labhd.png" />
+        <meta property="og:image" content="//localhost:1313/images/labhd.png" />
+        <meta name="twitter:image" content="//localhost:1313/images/labhd.png" />
         <meta
           name="twitter:card"
           content="summary" />
@@ -193,7 +194,7 @@
 <meta property="og:title" content="Pesquisa" />
 <meta property="og:description" content="Página com pesquisas em andamento" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="/pt/research/" />
+<meta property="og:url" content="//localhost:1313/pt/research/" />
 
 
 <meta name="twitter:title" content="Pesquisa" />
@@ -213,6 +214,8 @@
 
 
   
+  
+    
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-576FN6TB84"></script>
       <script>
         var doNotTrack = false;
@@ -227,6 +230,10 @@
           gtag('config', 'G-576FN6TB84');
         }
       </script>
+    
+  
+
+
 
 
 
@@ -269,7 +276,7 @@
 
 
 <script>
-  let indexURL = "/pt/searchindex.json";
+  let indexURL = "//localhost:1313/pt/searchindex.json";
   let includeSectionsInSearch = ["pages","about"];
   let search_no_results = "0 results for";
   let search_initial_message = "";
@@ -376,8 +383,8 @@
 
 
 <link
-  href="/css/style.min.046182ef9d3c96cde8860e24dac1e34a6ee422779dca0decb6457f20a49c3b6c.css"
-  integrity="sha256-BGGC7508ls3ohg4k2sHjSm7kInedyg3stkV/IKScO2w="
+  href="/css/style.css"
+  integrity=""
   rel="stylesheet" />
 
 
@@ -385,8 +392,8 @@
   defer
   async
   rel="stylesheet"
-  href="/css/style-lazy.min.fc06ad88b7cf404d1d7f9250788afcded33b94210873ed2998cfb6cb1829dd63.css"
-  integrity="sha256-/AatiLfPQE0df5JQeIr83tM7lCEIc+0pmM+2yxgp3WM="
+  href="/css/style-lazy.css"
+  integrity=""
   media="print"
   onload="this.media='all'; this.onload=null;" />
 
@@ -399,15 +406,18 @@
 
 
 
-      
-  <noscript
-    ><iframe
-      src="https://www.googletagmanager.com/ns.html?id=G-576FN6TB84"
-      height="0"
-      width="0"
-      style="display:none;visibility:hidden"></iframe
-  ></noscript>
 
+
+      
+      <div
+  class="fixed left-0 top-0 z-50 flex w-[30px] items-center justify-center bg-gray-200 py-[2.5px] text-[12px] uppercase text-black sm:bg-red-200 md:bg-yellow-200 lg:bg-green-200 xl:bg-blue-200 2xl:bg-pink-200">
+  <span class="block sm:hidden">all</span>
+  <span class="hidden sm:block md:hidden">sm</span>
+  <span class="hidden md:block lg:hidden">md</span>
+  <span class="hidden lg:block xl:hidden">lg</span>
+  <span class="hidden xl:block 2xl:hidden">xl</span>
+  <span class="hidden 2xl:block">2xl</span>
+</div>
 
     
 
@@ -502,9 +512,9 @@
       class="img img-light"
       width="32"
       height="32"
-      src="/images/labhd_hu_f740b91ea7236ce2.webp"
+      src="/images/labhd_hu28e147ebcd4423a34fde5e726c692797_202805_64x0_resize_q80_h2_lanczos_3.webp"
       alt="LABHDUFBA"
-      onerror="this.onerror=null;this.src='\/images\/labhd_hu_f0ba8aa0a4280591.png';" />
+      onerror="this.onerror=null;this.src='\/images\/labhd_hu28e147ebcd4423a34fde5e726c692797_202805_64x0_resize_lanczos_3.png';" />
 
     <img
       fetchpriority="high"
@@ -512,9 +522,9 @@
       class="img img-dark"
       width="32"
       height="32"
-      src="/images/labhd_hu_f740b91ea7236ce2.webp"
+      src="/images/labhd_hu28e147ebcd4423a34fde5e726c692797_202805_64x0_resize_q80_h2_lanczos_3.webp"
       alt="LABHDUFBA"
-      onerror="this.onerror=null;this.src='\/images\/labhd_hu_f0ba8aa0a4280591.png';" />
+      onerror="this.onerror=null;this.src='\/images\/labhd_hu28e147ebcd4423a34fde5e726c692797_202805_64x0_resize_lanczos_3.png';" />
   
   
 
@@ -965,13 +975,11 @@
 
 <ul class="mt-6 inline-flex space-x-1 capitalize">
   <li>
-    <a class="text-primary dark:text-darkmode-primary" href="/pt/">
+    <a class="text-primary dark:text-darkmode-primary" href="//localhost:1313/pt/">
       Início
     </a>
     <span class="inlin-block mr-1">/</span>
   </li>
-  
-    
   
     
   
@@ -1022,12 +1030,12 @@
 
 <h2 id="mineração-de-dados-para-humanidades-digitais">Mineração de Dados para Humanidades Digitais</h2>
 <div style="text-align: center;">
-    <img src="/images/research-data-mining.png" alt="ilustração de mineração de dados para humanidades digitais" width="300">
+    <img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/research-data-mining.png' alt="ilustração de mineração de dados para humanidades digitais" width="300">
 </div>
 <p>A aquisição de habilidades computacionais na prática de pesquisa em vários campos das humanidades é um dos pilares do que está sendo chamado de Humanidades Digitais. Atualmente, uma multiplicidade de ferramentas digitais está disponível para auxiliar na extração e montagem de bancos de dados, na análise e interpretação desse material e, finalmente, na organização e disseminação dos resultados. O LABHDUFBA desenvolve algoritmos de extração de dados para a web e redes sociais digitais. Além disso, visa fornecer uma reflexão crítica sobre como essas ferramentas digitais podem representar novas formas de estruturar a imaginação e as investigações em diferentes campos das humanidades, exigindo que avaliemos &lsquo;até onde é possível pensar&rsquo; dentro das lógicas que estruturam esses algoritmos.</p>
 <h2 id="análise-de-ecossistemas-multi-plataforma-de-desinformação-e-radicalização-através-do-telegram">Análise de Ecossistemas Multi-Plataforma de Desinformação e Radicalização através do Telegram</h2>
 <div style="text-align: center;">
-    <img src="/images/telegram.jpg" alt="Projeto Telegram" width="300">
+    <img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/telegram.jpg' alt="Projeto Telegram" width="300">
 </div>
 <p>Este projeto estabelece uma estrutura multimétodo para mapear e analisar o ecossistema multi-plataforma de redes de extremismo político através do aplicativo Telegram. Ele monitora atividades de propaganda computacional, operações coordenadas de influência e discurso de ódio (misoginia, racismo, LGBTQIA+fobia) usando linguística de corpus (CL), processamento de linguagem natural (NLP), análise de discurso e etnografia online.</p>
 
@@ -1048,11 +1056,11 @@
  
 
 
-<a href="pt/research/" class="btn btn-primary "  rel="" >Voltar ao topo</a>
+<a href="//localhost:1313/pt/research/" class="btn btn-primary "  rel="" >Voltar ao topo</a>
 
 <h2 id="história-digital">História Digital</h2>
 <div style="text-align: center;">
-    <img src="/images/research-digital-history.png" alt="ilustração de história digital" width="300">
+    <img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/research-digital-history.png' alt="ilustração de história digital" width="300">
 </div>
 <p>A pesquisa no campo da História Digital tem sido desenvolvida em parceria direta entre o LABHDUFBA e o curso de graduação em História da Universidade da Integração Internacional da Lusofonia Afro-Brasileira, campus dos Malês. Nosso objetivo é desenvolver pesquisas empíricas e discussões teóricas baseadas em coleções documentais digitalizadas arquivadas em repositórios online. O objetivo é produzir reflexões metodológicas por meio do uso de ferramentas digitais que possibilitem novas abordagens historiográficas e a construção de novos problemas históricos para pesquisa, ensino e escrita. Essas reflexões buscam engajar-se diretamente com debates sobre raça, racismo e direitos nas Américas. Atualmente, trabalhamos juntos na avaliação, criação e aprimoramento de ferramentas de pesquisa para pesquisa histórica, especialmente scripts em R e Python para raspagem de dados da internet (web scraping).</p>
 
@@ -1073,11 +1081,11 @@
  
 
 
-<a href="pt/research/" class="btn btn-primary "  rel="" >Voltar ao topo</a>
+<a href="//localhost:1313/pt/research/" class="btn btn-primary "  rel="" >Voltar ao topo</a>
 
 <h2 id="implicações-éticas-sociais-e-políticas-da-tecno-ciência-digital">Implicações Éticas, Sociais e Políticas da Tecno-ciência Digital</h2>
 <div style="text-align: center;">
-    <img src="/images/sts.jpg" alt="Ilustração de história digital" width="300">
+    <img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/sts.jpg' alt="Ilustração de história digital" width="300">
 </div>
 <p>Compreender as implicações éticas, sociais e políticas das novas práticas digitais tornou-se uma missão urgente das ciências sociais contemporâneas. Por meio da integração de quadros conceituais e metodológicos das Humanidades Digitais e dos Estudos sobre Ciência, Tecnologia e Sociedade (STS), nossa equipe busca gerar reflexões que contribuam para a compreensão da coprodução entre Tecno-ciência Digital e transformações sociais, políticas e culturais no Brasil. Tecno-ciência Digital, em nossa concepção, refere-se não apenas às práticas e conhecimentos incorporados nas complexas redes de hardware, software e humanos envolvidos na produção de conhecimento sobre computação e tecnologia digital, mas também ao entrelaçamento dessas redes com várias dimensões da vida social. Por meio de etnografias digitais e do uso de métodos mistos de análise quantitativa e qualitativa de dados raspados da web, o LABHDUFBA realiza estudos de caso que sustentam reflexões sobre a coprodução entre a ordem digital e a vida social, bem como sobre as oportunidades e riscos envolvidos com inovações em plataformas digitais. Atualmente, a pesquisa tem se concentrado em dimensões como: pós-verdade e populismo digital, ativismo digital e democracia, regulação e responsabilidade de dados.</p>
 
@@ -1098,11 +1106,11 @@
  
 
 
-<a href="pt/research/" class="btn btn-primary "  rel="" >Voltar ao topo</a>
+<a href="//localhost:1313/pt/research/" class="btn btn-primary "  rel="" >Voltar ao topo</a>
 
 <h2 id="a-economia-das-trocas-afetivas-mercado-sociabilidades-e-mídias-digitais">A Economia das Trocas Afetivas: Mercado, Sociabilidades e Mídias Digitais</h2>
 <div style="text-align: center;">
-    <img src="/images/affect.jpg" alt="A Economia das Trocas Afetivas" width="300">
+    <img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/affect.jpg' alt="A Economia das Trocas Afetivas" width="300">
 </div>
 <p>A predominância das relações afetivas em torno da constituição de um campo social simbólico, aliada à análise das mudanças recentes em relação às estruturas e práticas, trazidas pelo advento das novas mídias digitais, particularmente na migração de antigos sites para aplicativos de namoro contemporâneos. À medida que se delineiam as linhas de desenvolvimento e promoção dessas novas dinâmicas afetivo-sexuais, a investigação empírica decorre da concepção de consumo estabelecida através da mediação tecnológica, bem como da consequente transformação dos usuários em mercadorias disponíveis dentro deste mercado afetivo, principalmente por meio de serviços online. A emergência do debate sociológico proposto gira em torno da incessante produção de dados digitais por usuários e empresas desenvolvedoras, através da articulação entre atores sociais em rede e esses dispositivos, como novos espaços relacionais, bem como na interseção entre várias mudanças no domínio da afetividade e das relações de gênero e sexualidade.</p>
 
@@ -1123,7 +1131,7 @@
  
 
 
-<a href="pt/research/" class="btn btn-primary "  rel="" >Voltar ao topo</a>
+<a href="//localhost:1313/pt/research/" class="btn btn-primary "  rel="" >Voltar ao topo</a>
 
 
           </div>
@@ -1226,9 +1234,9 @@
       class="img img-light"
       width="32"
       height="32"
-      src="/images/labhd_hu_f740b91ea7236ce2.webp"
+      src="/images/labhd_hu28e147ebcd4423a34fde5e726c692797_202805_64x0_resize_q80_h2_lanczos_3.webp"
       alt="LABHDUFBA"
-      onerror="this.onerror=null;this.src='\/images\/labhd_hu_f0ba8aa0a4280591.png';" />
+      onerror="this.onerror=null;this.src='\/images\/labhd_hu28e147ebcd4423a34fde5e726c692797_202805_64x0_resize_lanczos_3.png';" />
 
     <img
       fetchpriority="high"
@@ -1236,9 +1244,9 @@
       class="img img-dark"
       width="32"
       height="32"
-      src="/images/labhd_hu_f740b91ea7236ce2.webp"
+      src="/images/labhd_hu28e147ebcd4423a34fde5e726c692797_202805_64x0_resize_q80_h2_lanczos_3.webp"
       alt="LABHDUFBA"
-      onerror="this.onerror=null;this.src='\/images\/labhd_hu_f0ba8aa0a4280591.png';" />
+      onerror="this.onerror=null;this.src='\/images\/labhd_hu28e147ebcd4423a34fde5e726c692797_202805_64x0_resize_lanczos_3.png';" />
   
   
 
@@ -1331,8 +1339,14 @@
           <a href="https://labhdufrj.github.io/" target="_blank">
             <img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/labhdufrj.png' width='120' class='spaced-img'>
           </a>
+          <a href="https://labhdufba.github.io/" target="_blank">
+            <img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/labhdufop.png' width='120' class='spaced-img'>
+          </a>
+          <a href="https://labhdufba.github.io/" target="_blank">
+            <img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/labhdufsc.png' width='120' class='spaced-img'>
+          </a>
         </div>
-        <br>UFBA Digital Humanities Laboratory<br> Av. Milton Santos - Ondina, PAF-V, sala 305a, Salvador/Bahia, CEP:40170110<br>2024
+        <br>UFBA Digital Humanities Laboratory<br> Av. Milton Santos - Ondina, PAF-V, sala 305a, Salvador/Bahia, CEP: 40170110<br>2024
         
       
 
@@ -1401,23 +1415,20 @@
 
 
 
-  
-  
-
 
 
 <script
   crossorigin="anonymous"
-  integrity="sha256-NoqgJlugD&#43;mB4Hf8AueiiPBQSb7ASin&#43;oZS0fYEdtiA="
-  src="/js/script.min.368aa0265ba00fe981e077fc02e7a288f05049bec04a29fea194b47d811db620.js"></script>
+  integrity=""
+  src="/js/script.js"></script>
 
 
 <script
   defer
   async
   crossorigin="anonymous"
-  integrity="sha256-GrJYek7lbMIWuRNCD5ImM6PNBJ72jzIDo/urKVLfPDk="
-  src="/js/script-lazy.min.1ab2587a4ee56cc216b913420f922633a3cd049ef68f3203a3fbab2952df3c39.js"></script>
+  integrity=""
+  src="/js/script-lazy.js"></script>
 
 
 

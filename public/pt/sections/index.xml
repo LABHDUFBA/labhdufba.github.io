@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sections on LABHDUFBA</title>
-    <link>/pt/sections/</link>
+    <link>//localhost:1313/pt/sections/</link>
     <description>Recent content in Sections on LABHDUFBA</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <atom:link href="/pt/sections/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/pt/sections/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eventos recentes</title>
       <link></link>
