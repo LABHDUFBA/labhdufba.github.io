@@ -8,12 +8,6 @@ description: "LABHDUFBA publications"
 draft: false
 ---
 
-##### 2025
-
-JESUS, J. P.; WEDDERBURN, R. S. M. ; NASCIMENTO, L. . Discursos de ódio, violência política e narrativas de gênero no Telegram: análise de ocorrências textuais durante o período eleitoral. 2025. (Relatório de pesquisa).
-
-MOCELLIM, A. D. ; BASTOS, D. S. ; MELO, D. V. V. ; GUERRA, E. ; TEIXEIRA, G. S. ; JESUS, J. P. ; NASCIMENTO, L. F. ; MORAES, L. T. T. ; CESARINO, L. M. C. N. ; CARREIRO, R. ; WEDDERBURN, R. S. M. ; SANTOS, R. A. L. ; BARRETO, T. B. . Do Meme ao Ódio: Como o racismo se manifesta nas plataformas digitais. 2025. (Relatório de pesquisa).
-
 ##### 2024
 
 JESUS, Juciane Pereira de. Resgatar bons valores, ideias e sentimentos no coração dos brasileiros: o Brasil Paralelo e seu projeto de contrarrevolução cultural. 2024. 178 f. Dissertação (Mestrado em Ciências Sociais) – Universidade Federal da Bahia, Salvador, 2024.
