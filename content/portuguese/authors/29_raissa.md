@@ -1,8 +1,8 @@
 ---
 title: Raíssa Nothaft
-weight: 27
+weight: 29
 email: 
-image: "/images/RAISSA.png"
+image: "/images/raissa.jpg"
 description: informações sobre o membro
 social:
   - name: Instagram
@@ -10,7 +10,7 @@ social:
     link: https://www.instagram.com/raissapesquisa/
   - name: linkedin
     icon: fa-brands fa-linkedin
-    link: https://www.linkedin.com/in/raissajeaninenothaft/
+    link: https://br.linkedin.com/in/raissanothaft
   - name: lattes
     icon: fa-regular fa-user
     link: http://lattes.cnpq.br/6359075103555349
