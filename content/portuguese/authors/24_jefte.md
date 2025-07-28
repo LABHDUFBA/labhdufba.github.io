@@ -11,4 +11,4 @@ social:
 
 ---
 
-Bacharel em Ciências Sociais pela Universidade Federal da Bahia (UFBA). Atualmente, mestrando no Programa de Pós-Graduação em Ciências Sociais (PPGCS) da UFBA e professor de Sociologia na Secretaria de Educação do Estado da Bahia.
+Bacharel em Ciências Sociais pela Universidade Federal da Bahia (UFBA); Mestre, no Programa de Pós-Graduação em Ciências Sociais (PPGCS) da UFBA e professor de Sociologia na Secretaria de Educação do Estado da Bahia.
