@@ -694,16 +694,16 @@
   max-width: 100%;
   height: auto; }
 
-.logo-light {
+.img-light {
   display: initial; }
 
-.logo-dark {
+.img-dark {
   display: none; }
 
-.dark .logo-light {
+.dark .img-light {
   display: none; }
 
-.dark .logo-dark {
+.dark .img-dark {
   display: initial; }
 
 .content img {
@@ -811,7 +811,7 @@
 
 .tab-content .tab-content-panel {
   display: none;
-  padding: 1rem 0.5rem; }
+  padding: 1rem; }
 
 .tab-content .tab-content-panel p {
   margin-bottom: 0 !important; }
@@ -847,7 +847,7 @@
   transform: rotate(0deg); }
 
 .accordion.active .accordion-content {
-  max-height: 100vh; }
+  max-height: max-content; }
 
 .modal {
   position: fixed;
@@ -898,8 +898,9 @@
 
 .notice {
   margin-bottom: 1.5rem;
-  border: 1px solid #e5e7eb;
-  padding: 1.5rem; }
+  border: 1px solid;
+  padding: 1.5rem;
+  border-color: currentColor; }
 
 .notice-head {
   display: flex;
@@ -922,20 +923,56 @@
   margin: 0; }
 
 .notice.note {
-  color: #1b83e2;
-  border-color: currentColor; }
+  color: #293df2;
+  background-color: rgba(41, 61, 242, 0.15); }
 
-.notice.tip {
-  color: #40d294;
-  border-color: currentColor; }
+.notice.abstract {
+  color: #0ca68c;
+  background-color: rgba(12, 166, 140, 0.15); }
 
 .notice.info {
-  color: #e3a72c;
-  border-color: currentColor; }
+  color: #09c3ed;
+  background-color: rgba(9, 195, 237, 0.15); }
+
+.notice.todo {
+  color: #8d05a8;
+  background-color: rgba(141, 5, 168, 0.15); }
+
+.notice.tip {
+  color: #19cfb0;
+  background-color: rgba(25, 207, 176, 0.15); }
+
+.notice.success {
+  color: #04d904;
+  background-color: rgba(4, 217, 4, 0.15); }
+
+.notice.question {
+  color: #e38902;
+  background-color: rgba(227, 137, 2, 0.15); }
 
 .notice.warning {
-  color: #db2c23;
-  border-color: currentColor; }
+  color: #e38902;
+  background-color: rgba(227, 137, 2, 0.15); }
+
+.notice.failure {
+  color: #e31a00;
+  background-color: rgba(227, 26, 0, 0.15); }
+
+.notice.danger {
+  color: #e31a00;
+  background-color: rgba(227, 26, 0, 0.15); }
+
+.notice.bug {
+  color: #e31a00;
+  background-color: rgba(227, 26, 0, 0.15); }
+
+.notice.example {
+  color: #b83acf;
+  background-color: rgba(184, 58, 207, 0.15); }
+
+.notice.quote {
+  color: #918e91;
+  background-color: rgba(145, 142, 145, 0.15); }
 
 .dark .notice-head p {
   color: #d1d5db; }
