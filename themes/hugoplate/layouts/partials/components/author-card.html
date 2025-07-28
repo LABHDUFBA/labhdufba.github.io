@@ -1,25 +1,23 @@
 <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center">
-  <!-- Imagem do autor -->
-  {{ $image:= .Params.image }}
+  {{ $params := .Params }}
+  {{ $image := $params.image }}
+
   {{ if $image }}
     {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mx-auto mb-6 rounded" "size" "120x120") }}
-  {{ else if .Params.Email }}
+  {{ else if $params.email }}
     <img
       class="mx-auto mb-6 rounded"
       alt="{{ .Title }}"
       height="120"
       width="120"
-      src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon" />
+      src="https://www.gravatar.com/avatar/{{ md5 $params.email }}?s=128&pg&d=identicon" />
   {{ end }}
 
-  <!-- Contêiner dos botões (Título e Social) -->
   <div class="author-buttons mb-4">
-    <!-- Botão do Nome do Autor -->
     <a href="{{ .RelPermalink }}" class="author-button mb-3">{{ .Title }}</a>
 
-    <!-- Botões Sociais -->
     <div class="social-icons mt-2">
-      {{ range .Params.social }}
+      {{ range $params.social }}
         <a href="{{ .link | safeURL }}" target="_blank" rel="noopener nofollow" class="social-button">
           <i class="{{ .icon }}"></i>
         </a>
@@ -27,8 +25,9 @@
     </div>
   </div>
 
-  <!-- Resumo do autor -->
+  <!-- Resumo: primeira frase de .Content -->
   <p class="author-summary mt-4">
-    {{ .Summary }}
+    {{ $summary := .Content | plainify }}
+    {{ replaceRE `(?s)^([^\.]+\.).*` "$1" $summary }}
   </p>
 </div>
