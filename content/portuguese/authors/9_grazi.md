@@ -15,4 +15,4 @@ social:
 
 ---
 
-  Graduada em Antropologia pela Universidade Federal de Santa Catarina (UFSC, 2025) e em Administração de Empresas pela Universidade do Vale do Paraíba (UNIVAP, 1998). Pós-graduada em Administração Contábil e Financeira pela Fundação Armando Álvares Penteado (FAAP, 2000)
+  Graduada em Antropologia pela Universidade Federal de Santa Catarina (UFSC, 2025) e em Administração de Empresas pela Universidade do Vale do Paraíba (UNIVAP, 1998); Pós-graduada em Administração Contábil e Financeira pela Fundação Armando Álvares Penteado (FAAP, 2000)
