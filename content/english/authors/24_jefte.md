@@ -11,4 +11,4 @@ social:
 
 ---
 
-Bachelor in Social Sciences from the Federal University of Bahia (UFBA); Currently, a master's student in the Graduate Program in Social Sciences (PPGCS) at UFBA and a Sociology teacher for the Department of Education of the State of Bahia.
+Bachelor in Social Sciences from the Federal University of Bahia (UFBA); Master in Social Sciences from the Graduate Program in Social Sciences (PPGCS/UFBA); Sociology teacher for the Department of Education of the State of Bahia.

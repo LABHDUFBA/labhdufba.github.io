@@ -19,4 +19,4 @@ social:
 
 ---
 
-Doctoral student in Sociology at the University of São Paulo (USP); Holds a Bachelor's degree in Social Sciences (2022) from the Federal University of Bahia (UFBA), a teaching degree in Sociology (UFBA), and a Master’s degree from the Graduate Program in Social Sciences (PPGCS/UFBA). She is a researcher at the Digital Humanities Laboratory (LABHDUFBA). Her research interests include Digital Sociology, Digital Research Methods, Social Media, Health-Related Misinformation, and the Far Right in Brazil.
+Doctoral student in Sociology at the University of São Paulo (USP); holds a degree in Social Sciences (2022) from the Federal University of Bahia (UFBA), a teaching degree in Sociology (UFBA), and a Master in Social Sciences from the Graduate Program in Social Sciences (PPGCS/UFBA). She is a researcher at the Digital Humanities Laboratory (LABHDUFBA). Her research interests include Digital Sociology, Digital Research Methods, Social Media, Health-Related Misinformation, and the Far Right in Brazil.

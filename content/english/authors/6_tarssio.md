@@ -19,4 +19,4 @@ social:
 
 ---
 
-Graduated in Sanitary and Environmental Engineering with a Master's in Environment, Water, and Sanitation; Currently, develop data-driven products at BIT Analytics. I have a strong interest in partnerships for innovation and the development of data-oriented products. Additionally, I consider myself a data activist and am open to projects with Institutes and Foundations addressing socio-environmental issues. Personally, I am passionate about the 7-string guitar and am dedicated to learning it.
+Graduated in Sanitary and Environmental Engineering with a Master in Environment, Water, and Sanitation; currently develops data-driven products at BIT Analytics. Has a strong interest in partnerships for innovation and the development of data-oriented products. Also considers himself a data activist and is open to projects with institutes and foundations addressing socio-environmental issues. Personally, is passionate about the 7-string guitar and is dedicated to learning it.
