@@ -9,6 +9,20 @@ draft: false
 
 <div style="text-align: justify;">
 
+**Report on Global Warming in Telegram Groups and Channels (2025)** – This report analyzes the debate on global warming in Telegram groups and channels from July 1, 2023, to July 1, 2025, identifying key narratives and arguments, as well as disinformation dynamics.
+
+NASCIMENTO, L.; NOTHAFT, R. J.; SANTOS, A. L.; VIEIRA, L. M. S. B. *Report on Global Warming in Telegram Groups and Channels* [Research Report]. Salvador: LABHDUFBA, 2025.
+
+</div>
+
+<div style="text-align: center;">
+
+[**Click here to access the full report**](https://drive.google.com/file/d/1nom9TZT7F6KRAHEiDaf8U6yH6d73Sck9/view?usp=drive_link)
+
+</div>
+
+<div style="text-align: justify;">
+
 Hate Speech, Political Violence, and Gender Narratives on Telegram (2025) – This report analyzes the circulation of hate speech and political violence, with a focus on gender narratives, in public Telegram groups during the electoral period, identifying linguistic patterns and dynamics of radicalization.
 
 JESUS, J. P.; WEDDERBURN, R. S. M. ; NASCIMENTO, L. . Discursos de ódio, violência política e narrativas de gênero no Telegram: análise de ocorrências textuais durante o período eleitoral. 2025. (Relatório de pesquisa).
