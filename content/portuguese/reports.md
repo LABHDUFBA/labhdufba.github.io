@@ -9,6 +9,20 @@ draft: false
 
 <div style="text-align: justify;">
 
+**Relatório sobre aquecimento global em grupos e canais do Telegram (2025)** - O relatório analisa o debate sobre aquecimento global em grupos e canais do Telegram no período de 1º de julho de 2023 a 1º de julho de 2025, identificando principais narrativas e argumentos, assim como dinâmicas de desinformação.
+
+NASCIMENTO, L.; NOTHAFT, R. J.; SANTOS, A. L.; VIEIRA, L. M. S. B. Relatório sobre aquecimento global em grupos e canais do Telegram [Relatório de Pesquisa]. Salvador: LABHDUFBA, 2025.
+
+</div>
+
+<div style="text-align: center;">
+
+[**Clique para acessar o relatório completo**](https://drive.google.com/file/d/1nom9TZT7F6KRAHEiDaf8U6yH6d73Sck9/view?usp=drive_link)
+
+</div>
+
+<div style="text-align: justify;">
+
 **Discursos de ódio, violência política e narrativas de gênero no Telegram (2025)** – O relatório analisa a circulação de discursos de ódio e violência política, com ênfase em narrativas de gênero, em grupos públicos do Telegram durante o período eleitoral, identificando padrões linguísticos e dinâmicas de radicalização.
 
 JESUS, J. P.; WEDDERBURN, R. S. M.; NASCIMENTO, L. *Discursos de ódio, violência política e narrativas de gênero no Telegram: análise de ocorrências textuais durante o período eleitoral.* 2025. (Relatório de pesquisa).
