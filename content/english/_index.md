@@ -11,6 +11,15 @@ banner:
 
 # Features
 features:
+  - title: "2° Digital Humanities Week"
+    image: "/images/CARD 2 SEMANA.jpg"
+    content: "The 2nd Digital Humanities Week at the Federal University of Bahia (UFBA) is a scientific, educational, and outreach event aimed at promoting the integration between the humanities and digital technologies, with an emphasis on learning programming languages and artificial intelligence techniques, thereby expanding access to innovative tools. The Week brings together roundtables, workshops, and activities focused on the critical and technical training of students, researchers, and civil society on the ethical, innovative, and socially responsible use of technology."
+
+    button:
+     enable: true
+     label: "Click for Registration"
+     link: "https://qrto.org/LV90Ey"
+
   - title: "Digital Humanities Week"
     image: "/images/CARD 1 SEMANA.jpg"
     content: "The event will offer a unique opportunity to become familiar with essential digital tools, aimed at both the job market and the academic environment. For more information, [*access the link*](https://tinyurl.com/semana-labhdufba) or scan the available QR code."
