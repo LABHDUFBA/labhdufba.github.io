@@ -18,7 +18,7 @@ features:
     button:
      enable: true
      label: "Click for Registration"
-     link: "https://qrto.org/LV90Ey"
+     link: "https://www.even3.com.br/2-semana-de-humanidade-digitais-da-ufba-626669/"
 
   - title: "Digital Humanities Week"
     image: "/images/CARD 1 SEMANA.jpg"
