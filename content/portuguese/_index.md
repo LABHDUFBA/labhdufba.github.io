@@ -11,6 +11,25 @@ banner:
 
 # Features
 features:
+  - title: "Rastro de Dados Digitais"
+    image: "/images/Data_Trace.jpg"
+    content: "O Laboratório de Humanidades Digitais da Universidade Federal da Bahia (LABHDUFBA) abriga a maior coleção de rastros digitais do Brasil, oferecendo uma infraestrutura única para pesquisas acadêmicas sobre dinâmicas sociotécnicas em plataformas online.  
+     <br> <br>
+     A coleção reúne mais de 900 milhões de vídeos do YouTube compartilhados no Telegram e no WhatsApp, mais de 30 mil grupos públicos do WhatsApp e cinco anos de coleta ininterrupta de dados de mais de 40 mil canais e grupos públicos do Telegram. Além disso, o laboratório realiza o monitoramento em tempo real de milhares de perfis públicos no Instagram e o acompanhamento contínuo de mais de 200 servidores ativos no Discord.
+      <br><br>
+      Todos os dados são coletados e mantidos exclusivamente para fins de pesquisa científica, constituindo uma base inédita para investigações sobre comunicação digital, redes sociais, fluxos de desinformação e fenômenos sociopolíticos contemporâneos."
+    button:
+     enable: true
+     label: "Acessar a publicação"
+     link: "https://www.instagram.com/p/DOV5FDxDlbw/?img_index=1"
+  - title: "2° Semana de Humanidades Digitais da UFBA"
+    image: "/images/CARD 2 SEMANA.jpg"
+    content: "A 2ª Semana de Humanidades Digitais da Universidade Federal da Bahia (UFBA) é um evento de caráter científico, formativo e extensionista, que tem como propósito promover a integração entre ciências humanas e tecnologias digitais, com ênfase no aprendizado de linguagens de programação e técnicas de inteligência artificial, ampliando o acesso a ferramentas inovadoras. A Semana reúne mesas-redondas, oficinas e atividades voltadas à formação crítica e técnica de estudantes, pesquisadores e da sociedade civil sobre o uso ético, inovador e socialmente responsável das tecnologias."
+
+    button:
+     enable: true
+     label: "Clique para Inscrição"
+     link: "https://www.even3.com.br/2-semana-de-humanidade-digitais-da-ufba-626669/"
   - title: "2° Semana de Humanidades Digitais da UFBA"
     image: "/images/CARD 2 SEMANA.jpg"
     content: "A 2ª Semana de Humanidades Digitais da Universidade Federal da Bahia (UFBA) é um evento de caráter científico, formativo e extensionista, que tem como propósito promover a integração entre ciências humanas e tecnologias digitais, com ênfase no aprendizado de linguagens de programação e técnicas de inteligência artificial, ampliando o acesso a ferramentas inovadoras. A Semana reúne mesas-redondas, oficinas e atividades voltadas à formação crítica e técnica de estudantes, pesquisadores e da sociedade civil sobre o uso ético, inovador e socialmente responsável das tecnologias."
