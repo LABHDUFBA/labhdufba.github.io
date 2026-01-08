@@ -266,6 +266,18 @@
                 href="//localhost:1313/authors/27_gabriel/"
                 />
   </url><url>
+    <loc>//localhost:1313/authors/28_lidia/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="//localhost:1313/pt/authors/28_lidia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="//localhost:1313/authors/28_lidia/"
+                />
+  </url><url>
     <loc>//localhost:1313/authors/29_raissa/</loc>
     <xhtml:link
                 rel="alternate"
@@ -278,16 +290,28 @@
                 href="//localhost:1313/authors/29_raissa/"
                 />
   </url><url>
-    <loc>//localhost:1313/authors/28_lidia/</loc>
+    <loc>//localhost:1313/authors/30_delatre/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/authors/28_lidia/"
+                href="//localhost:1313/pt/authors/30_delatre/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/authors/28_lidia/"
+                href="//localhost:1313/authors/30_delatre/"
+                />
+  </url><url>
+    <loc>//localhost:1313/authors/31_natalino/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="//localhost:1313/pt/authors/31_natalino/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="//localhost:1313/authors/31_natalino/"
                 />
   </url><url>
     <loc>//localhost:1313/</loc>

@@ -20,33 +20,33 @@
   
   "icons": [
     {
-      "src": "/images/favicon_huab2173b1a1a9c750c0c8c660ef8f996e_17011_48x48_resize_lanczos_3.png",
+      "src": "/images/favicon_hu_bd70755808668fa9.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_huab2173b1a1a9c750c0c8c660ef8f996e_17011_72x72_resize_lanczos_3.png",
+      "src": "/images/favicon_hu_2a41139288536570.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_huab2173b1a1a9c750c0c8c660ef8f996e_17011_96x96_resize_lanczos_3.png",
+      "src": "/images/favicon_hu_cebab94a19c6a8dc.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_huab2173b1a1a9c750c0c8c660ef8f996e_17011_144x144_resize_lanczos_3.png",
+      "src": "/images/favicon_hu_94ced3eceb18b6ca.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_huab2173b1a1a9c750c0c8c660ef8f996e_17011_192x192_resize_lanczos_3.png",
+      "src": "/images/favicon_hu_2b55a49ad36880d3.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/images/favicon_huab2173b1a1a9c750c0c8c660ef8f996e_17011_512x512_resize_lanczos_3.png",
+      "src": "/images/favicon_hu_b6b755877df2908a.png",
       "sizes": "512x512",
       "type": "image/png"
     }
