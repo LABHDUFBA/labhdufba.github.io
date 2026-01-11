@@ -11,6 +11,19 @@ banner:
 
 # Features
 features:
+  - title: "Digital Data Trace"
+    image: "/images/Data_Trace.jpg"
+    content: "The Digital Humanities Laboratory at the Universidade Federal da Bahia (LABHDUFBA) hosts the largest collection of digital traces in Brazil, providing a unique infrastructure for academic research on socio-technical dynamics in online platforms. 
+     <br><br>
+     The collection comprises more than 900 million YouTube videos shared on Telegram and WhatsApp, over 30,000 public WhatsApp groups, and five years of uninterrupted data collection from more than 40,000 public Telegram channels and groups. In addition, the lab conducts real-time monitoring of thousands of public Instagram profiles and the continuous tracking of over 200 active Discord servers.
+     <br><br>
+     All data are collected and maintained exclusively for scientific research purposes, offering an unprecedented foundation for investigations on digital communication, social networks, misinformation flows, and contemporary socio-political phenomena."
+
+    button:
+     enable: true
+     label: "Acess the Post"
+     link: "https://www.instagram.com/p/DOV5FDxDlbw/?img_index=1"
+
   - title: "2° Digital Humanities Week"
     image: "/images/CARD 2 SEMANA.jpg"
     content: "The 2nd Digital Humanities Week at the Federal University of Bahia (UFBA) is a scientific, educational, and outreach event aimed at promoting the integration between the humanities and digital technologies, with an emphasis on learning programming languages and artificial intelligence techniques, thereby expanding access to innovative tools. The Week brings together roundtables, workshops, and activities focused on the critical and technical training of students, researchers, and civil society on the ethical, innovative, and socially responsible use of technology."

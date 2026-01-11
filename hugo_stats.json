@@ -162,6 +162,7 @@
       "justify-center",
       "left-0",
       "left-[4px]",
+      "lg:!max-w-[800px]",
       "lg:bg-green-200",
       "lg:block",
       "lg:col-10",
