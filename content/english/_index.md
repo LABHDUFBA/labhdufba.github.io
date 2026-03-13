@@ -11,6 +11,19 @@ banner:
 
 # Features
 features:
+  - title: "Multi-Platform Ecosystems and Attacks on Health Information Integrity"
+    image: "/images/infodemia.jpg"
+    content: "In partnership with the Institute of Collective Health (ISC/UFBA) and PECS, funded by the Ministry of Health and CNPq, LABHDUFBA investigates multi-platform ecosystems of attacks on health information integrity in Brazil. The research analyzes the impacts, dissemination patterns, and mitigation strategies for disinformation, with a special focus on vaccine hesitancy and declining vaccination coverage."
+    bulletpoints:
+      - "Database with over 78 million Telegram messages, 1.2 million WhatsApp messages, and 641,000 YouTube videos"
+      - "Integrated methodology: NLP, BERTopic, machine learning, and multimodal linguistic analysis"
+      - "Mapping anti-vaccine narratives and health disinformation ecosystems"
+      - "Development of a monitoring dashboard and glossary for health professionals"
+    button:
+      enable: true
+      label: "Explore Our Research"
+      link: "/research"
+
   - title: "Digital Data Trace"
     image: "/images/Data_Trace.jpg"
     content: "The Digital Humanities Laboratory at the Universidade Federal da Bahia (LABHDUFBA) hosts the largest collection of digital traces in Brazil, providing a unique infrastructure for academic research on socio-technical dynamics in online platforms. 

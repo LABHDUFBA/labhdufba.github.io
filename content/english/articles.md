@@ -8,6 +8,22 @@ description: "LABHDUFBA publications"
 draft: false
 ---
 
+##### 2026
+
+NASCIMENTO, Leonardo F. et al. Social-RAG: A Retrieval-Augmented Generation Pipeline for Computational Social Science Research on Telegram. SocArXiv, [Preprint], Feb. 19, 2026. Available at: <https://osf.io/preprints/socarxiv/wmc2q_v1/>. Accessed: Feb. 20, 2026
+
+CESARINO, Letícia. An Ecology of Mind Approach to Far-Right Publics in Brazil. Current Anthropology, p. S000–S000, Feb. 3, 2026.
+
+CESARINO, Letícia Maria Costa da Nóbrega; NASCIMENTO, Leonardo Fernandes; FONSECA, Paulo. Democracy "Inside Out": On Far-Right Refracted Publics in Brazil. In: The Routledge Companion to Digital Media and Democracy. [S.l.]: Routledge, 2026.
+
+NOTHAFT, Raíssa J. et al. Visual and Narrative Patterns of Online Misogyny: A Computer Vision Analysis of Telegram Chats. SocArXiv, [Preprint], Feb. 14, 2026. Available at: <https://osf.io/preprints/socarxiv/wvn9e_v1/>. Accessed: Mar. 13, 2026
+
+##### 2025
+
+NEPOMUCENO, Eric Brasil. Interfaces de hemerotecas digitais em português: análise crítica e desafios para o desenvolvimento de uma nova geração de acervos históricos. Matraga - Revista do Programa de Pós-Graduação em Letras da UERJ, v. 32, n. 65, p. 325–346, May 31, 2025.
+
+CESARINO, Letícia. Crise permanente e a metapolítica das plataformas: preempção, radicalização, aceleração. Revista Brasileira de Estudos CTS, v. 0, n. 1, p. 69–87, Sep. 12, 2025.
+
 ##### 2024
 
 WEDDERBURN, Rosana Silva Moore; JESUS, Juciane Pereira de; TEIXEIRA, Graziela de Souza; NASCIMENTO, Leonardo Fernandes; CESARINO, Leticia Maria Costa da Nobrega; BARRETO, Tarssio Brito. **[Representações meméticas de “nós e eles”: humor e discurso de ódio em chats do Telegram](https://revistas.pucsp.br/index.php/aurora/article/view/66490/45721)**. **Aurora. Revista de Arte, Mídia e Política**, São Paulo, v. 17, n. 49, p. 136–173, 2024.

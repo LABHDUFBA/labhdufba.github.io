@@ -37,6 +37,22 @@ This project establishes a multi-method framework to map and analyze the multi-p
 
 {{< button label="Back to top" link="/research/" style="solid" >}}
 
+## Multi-Platform Ecosystems and Attacks on Health Information Integrity
+
+<div style="text-align: center;">
+    <img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/infodemia.jpg' alt="Multi-Platform Ecosystems and Attacks on Health Information Integrity" width="300">
+</div>
+
+This project investigates multi-platform ecosystems of attacks on health information integrity, focusing on the impacts, dissemination patterns, and mitigation strategies for disinformation in the Brazilian context. Developed in partnership between LABHDUFBA, the Institute of Collective Health (ISC/UFBA), and PECS, with funding from the Ministry of Health and CNPq (Line 1 — Axis: Infodemic Management), the research is grounded in the recognition that the algorithmic logic of digital platforms — driven by engagement and attention monetization — accelerates the spread of false and controversial content, producing infodemia and information disorder. Strategies such as "medical populism" articulate anti-politics and anti-science, undermining the integrity of scientific health knowledge.
+
+The research adopts an integrated methodological approach combining real-time surveillance and data collection with quantitative and qualitative analysis. On the quantitative side, it uses NLP text mining, STM and BERTopic algorithms, latent topic modeling, and machine learning and deep learning for automated disinformation detection. On the qualitative side, it conducts multimodal linguistic analysis (text, image, video, and audio) supported by RAG and LLMs, grounded in Grounded Theory. The database already collected includes over 78 million Telegram messages, 1.2 million WhatsApp messages, and more than 641,000 YouTube videos with 197 million comments.
+
+Partial results indicate that anti-vaccine narratives are disseminated by multiple actors — including self-declared health professionals and political figures — with dominant discourses of distrust toward public institutions and the pharmaceutical industry, defense of individual freedom, and conspiratorial framings. Covid-19 vaccination concentrated 90.4% of vaccine-related mentions in the analyzed Telegram data. Moderation, labeling, and demonetization measures show limited effectiveness, reinforcing the need for multisectoral response strategies.
+
+Products already developed include two articles submitted to international congresses (18th World Congress of Public Health 2026 and the Ibero-American Congress of Research Methodologies), one article being submitted to PLOS One, episodes of the *podISCuta* podcast, and a glossary for health professionals being developed at ISC/UFBA, with 56 terms identified from the scoping review. A seminar on health information integrity is planned for April 2026. The research is coordinated by Prof. Dr. Maria Glória Teixeira (ISC/UFBA), with meta-coordination by Profs. Marcio Natividade and Leonardo Nascimento (LABHDUFBA).
+
+{{< button label="Back to top" link="/research/" style="solid" >}}
+
 
 ## Digital History
 
