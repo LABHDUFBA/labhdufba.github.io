@@ -88,13 +88,13 @@ A script for web scraping the proceedings of the National Association of Graduat
 
 {{< button label="Learn More" link="https://github.com/LABHDUFBA/Anais-COMPOS-scraper" style="solid" >}}
 
-## Anpuh abstracts Scraper
+## Anpuh Scraper
 
 A scraper for abstracts from the National History Symposia of the National Association of History - Anpuh. It scrapes abstracts from the 27th to the 31st symposia (2013, 2015, 2017, 2019, 2021).
 
 {{< button label="Learn More" link="https://github.com/LABHDUFBA/anpuh-scraper" style="solid" >}}
 
-## Anpuh Scraper
+## Anais Anpuh
 
 A script for web scraping the proceedings of the National Association of History - Anpuh. It scrapes PDF papers from all National Symposia of Anpuh from 1963 to 2017.
 
