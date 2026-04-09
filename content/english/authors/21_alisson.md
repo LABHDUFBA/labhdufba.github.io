@@ -2,7 +2,7 @@
 title: Alisson Magalhães Soares
 weight: 21
 email: alissonmsoares@gmail.com
-image: "/images/alisson.png"
+image: "/images/alisson_400.png"
 description: 
 social:
   - name: github

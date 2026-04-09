@@ -2,7 +2,7 @@
 title: Rosana Moore
 weight: 3
 email: melzana@gmail.com 
-image: "/images/rosana.png"
+image: "/images/rosana_400.png"
 description: infos about member
 social:
   - name: lattes

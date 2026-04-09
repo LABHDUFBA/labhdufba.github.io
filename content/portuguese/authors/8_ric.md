@@ -2,7 +2,7 @@
 title: Ricardo Sodré Andrade
 weight: 8
 email: rsandrade@ufba.br
-image: "/images/ric2.jpg"
+image: "/images/ric2_400.jpg"
 description: 
 social:
   - name: Github

@@ -2,7 +2,7 @@
 title: Juciane Pereira de Jesus
 weight: 5
 email: juciane_pereira1997@outlook.com
-image: "/images/juci.jpg"
+image: "/images/juci_400.jpg"
 description: infos about member
 social:
   - name: github

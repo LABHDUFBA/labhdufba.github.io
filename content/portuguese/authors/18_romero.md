@@ -2,7 +2,7 @@
 title: Daniel Romero
 weight: 18
 email: romeromab@yahoo.com.br
-image: "/images/romero.jpg"
+image: "/images/romero_400.jpg"
 description: 
 social:
   - name: lattes

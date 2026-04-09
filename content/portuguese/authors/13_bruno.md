@@ -2,7 +2,7 @@
 title: Bruno Durães
 weight: 13
 email:
-image: "/images/bruno.jpeg"
+image: "/images/bruno_400.jpeg"
 description: infos about member
 social:
   - name: lattes

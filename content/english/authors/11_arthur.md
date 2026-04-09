@@ -2,7 +2,7 @@
 title: Ruan Arthur Lima Santos
 weight: 11
 email: arthurlimareserva@gmail.com
-image: "/images/arthur.jpg"
+image: "/images/arthur_400.jpg"
 description: infos about member
 social:
   - name: tutzlima

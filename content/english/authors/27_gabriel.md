@@ -2,7 +2,7 @@
 title: Gabriel Andrade
 weight: 27
 email: 
-image: "/images/gabriel.jpg"
+image: "/images/gabriel_400.jpg"
 description: informações sobre o membro
 social:
   - name: github

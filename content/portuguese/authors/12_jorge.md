@@ -2,7 +2,7 @@
 title: Jorge Henrique Silvestre Barbosa
 weight: 12
 email: jhsbarbosa@gmail.com
-image: "/images/jorge.jpg"
+image: "/images/jorge_400.jpg"
 description: infos about member
 social:
     - name: lattes
