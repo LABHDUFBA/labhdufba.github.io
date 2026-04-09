@@ -23,7 +23,7 @@ NASCIMENTO, L.; NOTHAFT, R. J.; SANTOS, A. L.; VIEIRA, L. M. S. B. *Report on Gl
 
 <div style="text-align: justify;">
 
-Hate Speech, Political Violence, and Gender Narratives on Telegram (2025) – This report analyzes the circulation of hate speech and political violence, with a focus on gender narratives, in public Telegram groups during the electoral period, identifying linguistic patterns and dynamics of radicalization.
+**Hate Speech, Political Violence, and Gender Narratives on Telegram (2025)** – This report analyzes the circulation of hate speech and political violence, with a focus on gender narratives, in public Telegram groups during the electoral period, identifying linguistic patterns and dynamics of radicalization.
 
 JESUS, J. P.; WEDDERBURN, R. S. M. ; NASCIMENTO, L. . Discursos de ódio, violência política e narrativas de gênero no Telegram: análise de ocorrências textuais durante o período eleitoral. 2025. (Relatório de pesquisa).
 
@@ -31,13 +31,13 @@ JESUS, J. P.; WEDDERBURN, R. S. M. ; NASCIMENTO, L. . Discursos de ódio, violê
 
 <div style="text-align: center;">
 
-[**Click to access Report on misinformation related to the floods in Rio Grande do Sul**](https://internetlab.org.br/wp-content/uploads/2025/05/MonitorA-Relatorio_2024-3.pdf)
+[**Click here to access the full report**](https://internetlab.org.br/wp-content/uploads/2025/05/MonitorA-Relatorio_2024-3.pdf)
 
 </div>
 
 <div style="text-align: justify;">
 
-From Meme to Hate: How Racism Manifests on Digital Platforms (2025) – This study investigates the spread of racist content on digital media, focusing on how memes and other visual communication forms are used to propagate racist ideologies and hate speech online.
+**From Meme to Hate: How Racism Manifests on Digital Platforms (2025)** – This study investigates the spread of racist content on digital media, focusing on how memes and other visual communication forms are used to propagate racist ideologies and hate speech online.
 
 MOCELLIM, A. D. ; BASTOS, D. S. ; MELO, D. V. V. ; GUERRA, E. ; TEIXEIRA, G. S. ; JESUS, J. P. ; NASCIMENTO, L. F. ; MORAES, L. T. T. ; CESARINO, L. M. C. N. ; CARREIRO, R. ; WEDDERBURN, R. S. M. ; SANTOS, R. A. L. ; BARRETO, T. B. . Do Meme ao Ódio: Como o racismo se manifesta nas plataformas digitais. 2025. (Relatório de pesquisa).
 
@@ -45,7 +45,7 @@ MOCELLIM, A. D. ; BASTOS, D. S. ; MELO, D. V. V. ; GUERRA, E. ; TEIXEIRA, G. S. 
 
 <div style="text-align: center;">
 
-[**Click to access Report on misinformation related to the floods in Rio Grande do Sul**](https://alafialab.org/do-meme-ao-odio-como-o-racismo-se-manifesta-nas-plataformas-digitais/)
+[**Click here to access the full report**](https://alafialab.org/do-meme-ao-odio-como-o-racismo-se-manifesta-nas-plataformas-digitais/)
 
 </div>
 

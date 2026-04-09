@@ -24,6 +24,8 @@ NEPOMUCENO, Eric Brasil. Interfaces de hemerotecas digitais em português: anál
 
 CESARINO, Letícia. Crise permanente e a metapolítica das plataformas:: preempção, radicalização, aceleração. Revista Brasileira de Estudos CTS, v. 0, n. 1, p. 69–87, 12 set. 2025. 
 
+NASCIMENTO, L. F. *et al.* **[Intankável o Bostil: racismo, misoginia e antissemitismo em chats do Telegram (2020–2023)](https://www.academia.edu/144322575/G%C3%AAnero_e_Sexualidade_na_ruptura_do_Direito_disputas_localizadas_epistemes_mobilizadas_interseccionalidades_e_poli_ticas_pu_blicas)**. In: **Gênero e sexualidade na ruptura do direito: disputas localizadas, epistemes mobilizadas, interseccionalidades e políticas públicas**. 2025.
+
 ##### 2024
 
 BRASIL, Eric. Entre a Interface De Usuário E a Produção Do Conhecimento Histórico. In: VANI, Joao Paulo et al. (Eds.). Memórias digitais. São José do Rio Preto, SP: Editora HN, 2024. p. 185–199. 
@@ -35,8 +37,6 @@ WEDDERBURN, Rosana Silva Moore; JESUS, Juciane Pereira de; TEIXEIRA, Graziela de
 JESUS, Juciane Pereira de; NASCIMENTO, Leonardo Fernandes; CESARINO, Leticia Maria Costa da Nobrega; FONSECA, Paulo de Freitas Castro; BARRETO, Tarssio Brito. **[Tradições de pensamento anticomunista: as teorias da conspiração e o modus operandi do golpismo em grupos bolsonaristas do Telegram](https://apd.org.br/anexo-tradicoes-de-pensamento-anticomunista-as-teorias-da-conspiracao-e-o-modus-operandi-do-golpismo-em-grupos-bolsonaristas-do-telegram-traditions-of-anti-communist-thought-cons/)**. **Polifonia: Revista Internacional da Academia Paulista de Direito**, n. 13, Nova Série, 2024, Outono/Inverno.
 
 NASCIMENTO, Leonardo Fernandes. **[Humanidades Digitais e Vigilância pela Democracia](https://drive.google.com/file/d/11jYi4dSKf3qigI05A1KGYv9Y9-sCvmE0/view)**. In: SANTOS JUNIOR, Jorge Luiz dos (Org.). **Nanotecnologia, Sociedade e Meio Ambiente: Convergências, Divergências e Insurgências Tecnológicas**. Curitiba: Editora CRV, 2024. p. 133-144.
-
-NASCIMENTO, L. F.; FONSECA, P.; CESARINO, L.; WEDDERBURN, R.; BARRETO, T.; JESUS, J. **["Intankáveis contra o Bostil": racismo, misoginia e antisemitismo em chats do Telegram (2020-2023)](https://cgi.br/media/docs/publicacoes/1/20240522075208/4-coletanea-artigos-tic-governanca-genero-raca-diversidade.pdf)**. In: **4ª Coletânea de Artigos - TIC, Governança da Internet, Gênero, Raça e Diversidade - Tendências e Desafios**. São Paulo: Núcleo de Informação e Coordenação do Ponto BR, 2024.
 
 SCHEREN, M. L.; RODRIGUES, V. S.; LÓPEZ ZAMORA, G. D.; CESARINO, L.; NASCIMENTO, L. F.; FONSECA, P.; BARRETO, T. **[Métodos mistos para a antropologia digital: um relato de experiência sobre a análise de grupos bolsonaristas na plataforma Telegram](https://doi.org/10.1590/1806-9983e680407)**. Horizontes Antropológicos, v. 30, p. e680407, 12 fev. 2024. 
 

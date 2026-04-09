@@ -89,13 +89,13 @@ Um script para raspagem dos anais da Associação Nacional dos Programas de Pós
 
 {{< button label="Saiba Mais" link="https://github.com/LABHDUFBA/Anais-COMPOS-scraper" style="solid" >}}
 
-## Anpuh abstracts Scraper
+## Anpuh Scraper
 
 Um raspador de resumos dos Simpósios Nacionais de História da Associação Nacional de História - Anpuh. Faz a raspagem dos resumos dos 27º ao 31º simpósios (2013, 2015, 2017, 2019, 2021).
 
 {{< button label="Saiba Mais" link="https://github.com/LABHDUFBA/anpuh-scraper" style="solid" >}}
 
-## Anpuh Scraper
+## Anais Anpuh
 
 Um script para raspagem dos anais da Associação Nacional de História - Anpuh. Faz a raspagem dos artigos em PDF de todos os Simpósios Nacionais da Anpuh de 1963 a 2017.
 

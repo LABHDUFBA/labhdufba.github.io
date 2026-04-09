@@ -69,13 +69,9 @@ A pesquisa no campo da História Digital tem sido desenvolvida em parceria diret
     </a>
 </div>
 
-Investiga o uso de métodos, modelos e infraestruturas computacionais aplicados aos arquivos, com ênfase na organização, representação, acesso e circulação de acervos arquivísticos permanentes em ambientes digitais.
+A pesquisa em Arquivologia Computacional tem como foco o uso de métodos e infraestruturas digitais aplicados aos arquivos, abrangendo descrição arquivística, bases de dados, visualização, interoperabilidade, acesso, preservação digital e inteligência artificial. O objetivo é desenvolver reflexões teóricas e experimentações práticas que contribuam para a organização, a exploração e a circulação da documentação arquivística em ambientes digitais, principalmente no âmbito de instituições arquivísticas ou outras que tenham sob custódia acervos permanentes.
 
-- Modelagem de dados arquivísticos
-- Interoperabilidade
-- Acesso e difusão
-- Infraestruturas digitais
-- Inteligência artificial aplicada a arquivos
+Entre os projetos vinculados a essa linha estão o **Archives World Map**, iniciativa aberta e colaborativa de mapeamento de instituições arquivísticas em escala internacional, e o trabalho conjunto com o projeto do software livre **Farinha**, com participação no desenvolvimento de seu módulo de inteligência artificial.
 
 {{< button label="Voltar ao topo" link="/pt/research/" style="solid" >}}
 
