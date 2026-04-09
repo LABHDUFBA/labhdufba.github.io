@@ -13,6 +13,14 @@ social:
     icon: fa fa-link
     link: https://feudo.org
 
+  - name: LinkedIn
+    icon: fa-brands fa-linkedin
+    link: https://www.linkedin.com/in/rsandrade/
+
+  - name: Instagram
+    icon: fa-brands fa-instagram
+    link: https://www.instagram.com/todosaquelesarquivos/
+
 ---
 
-Chefe do Escritório Regional Nordeste do Arquivo Nacional. Mestre em Ciência da Informação (PPGCI/UFBA) e Bacharel em Arquivologia (ICI/UFBA).
+Chefe do Escritório Regional no Nordeste do Arquivo Nacional; possui Mestrado em Ciência da Informação pelo Programa de Pós-Graduação em Ciência da Informação da UFBA (PPGCI/UFBA) e Bacharelado em Arquivologia pela UFBA; atua como Arquivista na Universidade Federal da Bahia desde 2009 (mas cedido ao Arquivo Nacional desde 2025).

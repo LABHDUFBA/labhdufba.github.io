@@ -116,6 +116,12 @@ The wiki is entirely in Portuguese, with a glossary and a list of the most commo
 
 {{< button label="Learn More" link="http://www.larhud.ibict.br/index.php?title=Página_principal" style="solid" >}}
 
+## Archives World Map
+
+Archives World Map is a collaborative geospatial platform for cataloging public archival institutions around the world. Anyone can contribute by adding institutions to the map. Contributions are reviewed before publication, and the number of registered institutions is already approaching 1,000 across the globe.
+
+{{< button label="Learn More" link="https://archivesmap.org" style="solid" >}}
+
 <div class="upcoming-tools">
     <h3>Under development</h3>
     <p>We are actively working on creating and refining new tools and features. Stay tuned for updates on the following projects:</p>

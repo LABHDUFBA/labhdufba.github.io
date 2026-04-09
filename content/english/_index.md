@@ -37,25 +37,6 @@ features:
      label: "Acess the Post"
      link: "https://www.instagram.com/p/DOV5FDxDlbw/?img_index=1"
 
-  - title: "2° Digital Humanities Week"
-    image: "/images/CARD 2 SEMANA.jpg"
-    content: "The 2nd Digital Humanities Week at the Federal University of Bahia (UFBA) is a scientific, educational, and outreach event aimed at promoting the integration between the humanities and digital technologies, with an emphasis on learning programming languages and artificial intelligence techniques, thereby expanding access to innovative tools. The Week brings together roundtables, workshops, and activities focused on the critical and technical training of students, researchers, and civil society on the ethical, innovative, and socially responsible use of technology."
-
-    button:
-     enable: true
-     label: "Click for Registration"
-     link: "https://www.even3.com.br/2-semana-de-humanidade-digitais-da-ufba-626669/"
-
-  - title: "Digital Humanities Week"
-    image: "/images/CARD 1 SEMANA.jpg"
-    content: "The event will offer a unique opportunity to become familiar with essential digital tools, aimed at both the job market and the academic environment. For more information, [*access the link*](https://tinyurl.com/semana-labhdufba) or scan the available QR code."
-
-    button:
-     enable: true
-     label: "Closed for Registration"
-     link: ""
-
-
   - title: "Data Mining for Digital Humanities"
     image: "/images/research-data-mining.png"
     content: "LABHDUFBA specializes in developing data extraction algorithms for web and digital social networks, focusing on the integration of computational skills in humanities research. This initiative aims to critically assess how digital tools shape imagination and investigations in humanities, exploring the boundaries of algorithmic logic."
@@ -93,6 +74,20 @@ features:
     button:
       enable: true
       label: "Discover History Projects"
+      link: "/research"
+
+  - title: "Computational Archival Science"
+    image: "/images/computational-archival-science.png"
+    content: "Investigates the use of computational methods, models, and infrastructures applied to archives, with emphasis on the organization, representation, access, and circulation of permanent archival collections in digital environments."
+    bulletpoints:
+      - "Archival data modeling"
+      - "Interoperability"
+      - "Access and dissemination"
+      - "Digital infrastructures"
+      - "Artificial intelligence applied to archives"
+    button:
+      enable: true
+      label: "Explore Our Research"
       link: "/research"
 
   - title: "Join the LABHDUFBA Team"

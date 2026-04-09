@@ -64,6 +64,24 @@ Research in the field of Digital History has been developed in direct partnershi
 
 {{< button label="Back to top" link="/research/" style="solid" >}}
 
+## Computational Archival Science
+
+<div style="text-align: center;">
+    <a href='/images/computational-archival-science.png' target="_blank" title="Click to view full resolution">
+        <img src='/images/computational-archival-science.png' alt="Computational Archival Science" style="width:300px;height:300px;object-fit:cover;cursor:zoom-in;">
+    </a>
+</div>
+
+Investigates the use of computational methods, models, and infrastructures applied to archives, with emphasis on the organization, representation, access, and circulation of permanent archival collections in digital environments.
+
+- Archival data modeling
+- Interoperability
+- Access and dissemination
+- Digital infrastructures
+- Artificial intelligence applied to archives
+
+{{< button label="Back to top" link="/research/" style="solid" >}}
+
 ## Ethical, Social, and Political Implications of Digital Technoscience
 
 <div style="text-align: center;">

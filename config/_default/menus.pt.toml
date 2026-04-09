@@ -60,6 +60,12 @@ url = "youtube/"
 weight = 3
 
 [[main]]
+parent = "Publicações"
+name = "Eventos"
+url = "events/"
+weight = 4
+
+[[main]]
 
 # footer menu
 [[footer]]

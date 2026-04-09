@@ -47,6 +47,18 @@ A pesquisa no campo da História Digital tem sido desenvolvida em parceria diret
 
 {{< button label="Voltar ao topo" link="/research/" style="solid" >}}
 
+## Arquivologia Computacional
+
+<div style="text-align: center;">
+    <img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/research-computacional-archival-science.png' alt="ilustração de arquivologia computacional" width="300">
+</div>
+
+A pesquisa em Arquivologia Computacional tem como foco o uso de métodos e infraestruturas digitais aplicados aos arquivos, abrangendo descrição arquivística, bases de dados, visualização, interoperabilidade, acesso, preservação digital e inteligência artificial. O objetivo é desenvolver reflexões teóricas e experimentações práticas que contribuam para a organização, a exploração e a circulação da documentação arquivística em ambientes digitais, principalmente no âmbito de instituições arquivísticas ou outras que tenham sob custódia acervos permanentes.
+
+Entre os projetos vinculados a essa linha estão o **Archives World Map**, iniciativa aberta e colaborativa de mapeamento de instituições arquivísticas em escala internacional, e o trabalho conjunto com o projeto do software livre **Farinha**, com participação no desenvolvimento de seu módulo de inteligência artificial.
+
+{{< button label="Voltar ao topo" link="/research/" style="solid" >}}
+
 ## Implicações Éticas, Sociais e Políticas da Tecno-ciência Digital
 
 <div style="text-align: center;">

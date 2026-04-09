@@ -35,24 +35,6 @@ features:
      enable: true
      label: "Acessar a publicação"
      link: "https://www.instagram.com/p/DOV5FDxDlbw/?img_index=1"
-  - title: "2° Semana de Humanidades Digitais da UFBA"
-    image: "/images/CARD 2 SEMANA.jpg"
-    content: "A 2ª Semana de Humanidades Digitais da Universidade Federal da Bahia (UFBA) é um evento de caráter científico, formativo e extensionista, que tem como propósito promover a integração entre ciências humanas e tecnologias digitais, com ênfase no aprendizado de linguagens de programação e técnicas de inteligência artificial, ampliando o acesso a ferramentas inovadoras. A Semana reúne mesas-redondas, oficinas e atividades voltadas à formação crítica e técnica de estudantes, pesquisadores e da sociedade civil sobre o uso ético, inovador e socialmente responsável das tecnologias."
-
-    button:
-     enable: true
-     label: "Clique para Inscrição"
-     link: "https://www.even3.com.br/2-semana-de-humanidade-digitais-da-ufba-626669/"
-
-  - title: "Semana de Humanidades Digitais"
-    image: "/images/CARD 1 SEMANA.jpg"
-    content: "O evento oferecerá uma oportunidade única para se familiarizar com ferramentas digitais essenciais, voltadas tanto para o mercado de trabalho quanto para o ambiente acadêmico. Para mais informações, [*acesse o link*](https://tinyurl.com/semana-labhdufba) ou escaneie o QR code disponível."
-
-    button:
-      enable: true
-      label: "Inscrições Fechadas"
-      link: ""
-
   - title: "Mineração de Dados para Humanidades Digitais"
     image: "/images/research-data-mining.png"
     content: "O LABHDUFBA é especializado no desenvolvimento de algoritmos de extração de dados para a web e redes sociais digitais, focando na integração de habilidades computacionais na pesquisa em humanidades. Esta iniciativa visa avaliar criticamente como as ferramentas digitais moldam a imaginação e as investigações nas humanidades, explorando os limites da lógica algorítmica."
@@ -90,6 +72,20 @@ features:
     button:
       enable: true
       label: "Descubra Projetos de História"
+      link: "pt/research"
+
+  - title: "Arquivologia Computacional"
+    image: "/images/computational-archival-science.png"
+    content: "Investiga o uso de métodos, modelos e infraestruturas computacionais aplicados aos arquivos, com ênfase na organização, representação, acesso e circulação de acervos arquivísticos permanentes em ambientes digitais."
+    bulletpoints:
+      - "Modelagem de dados arquivísticos"
+      - "Interoperabilidade"
+      - "Acesso e difusão"
+      - "Infraestruturas digitais"
+      - "Inteligência artificial aplicada a arquivos"
+    button:
+      enable: true
+      label: "Explore Nossa Pesquisa"
       link: "pt/research"
 
   - title: "Junte-se à Equipe do LABHDUFBA"
