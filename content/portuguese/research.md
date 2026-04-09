@@ -69,13 +69,9 @@ A pesquisa no campo da História Digital tem sido desenvolvida em parceria diret
     </a>
 </div>
 
-Investiga o uso de métodos, modelos e infraestruturas computacionais aplicados aos arquivos, com ênfase na organização, representação, acesso e circulação de acervos arquivísticos permanentes em ambientes digitais.
+Research in Computational Archival Science focuses on the use of digital methods and infrastructures applied to archives, encompassing archival description, databases, visualization, interoperability, access, digital preservation, and artificial intelligence. The goal is to develop theoretical reflections and practical experiments that contribute to the organization, exploration, and circulation of archival documentation in digital environments, particularly within archival institutions or other bodies holding permanent collections.
 
-- Modelagem de dados arquivísticos
-- Interoperabilidade
-- Acesso e difusão
-- Infraestruturas digitais
-- Inteligência artificial aplicada a arquivos
+Projects linked to this research line include the **Archives World Map**, an open and collaborative initiative for mapping archival institutions at an international scale, and joint work with the **Farinha** free software project, contributing to the development of its artificial intelligence module.
 
 {{< button label="Voltar ao topo" link="/pt/research/" style="solid" >}}
 
