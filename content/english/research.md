@@ -72,13 +72,9 @@ Research in the field of Digital History has been developed in direct partnershi
     </a>
 </div>
 
-Investigates the use of computational methods, models, and infrastructures applied to archives, with emphasis on the organization, representation, access, and circulation of permanent archival collections in digital environments.
+Research in Computational Archival Science focuses on the use of digital methods and infrastructures applied to archives, encompassing archival description, databases, visualization, interoperability, access, digital preservation, and artificial intelligence. The goal is to develop theoretical reflections and practical experiments that contribute to the organization, exploration, and circulation of archival documentation in digital environments, particularly within archival institutions or other bodies holding permanent collections.
 
-- Archival data modeling
-- Interoperability
-- Access and dissemination
-- Digital infrastructures
-- Artificial intelligence applied to archives
+Projects linked to this research line include the **Archives World Map**, an open and collaborative initiative for mapping archival institutions at an international scale, and joint work with the **Farinha** free software project, contributing to the development of its artificial intelligence module.
 
 {{< button label="Back to top" link="/research/" style="solid" >}}
 
