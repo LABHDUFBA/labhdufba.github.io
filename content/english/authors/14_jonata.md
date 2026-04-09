@@ -2,7 +2,7 @@
 title: Jonatã Bittencourt
 weight: 14
 email: jonata@ifba.edu.br
-image: "/images/jonata.png"
+image: "/images/jonata_400.png"
 description: 
 social:
   - name: github

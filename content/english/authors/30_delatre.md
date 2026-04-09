@@ -2,7 +2,7 @@
 title: Delátre Santana
 weight: 30
 email: 
-image: "/images/delatre.jpg"
+image: "/images/delatre_400.jpg"
 description: Information about the member
 social:
   - name: Instagram

@@ -2,7 +2,7 @@
 title: Ícaro Bernardes dos Santos Coutinho
 weight: 15
 email: asaicaro@gmail.com
-image: "/images/icaro.jpg"
+image: "/images/icaro_400.jpg"
 description: [Brief description about the member]
 social:
   - name: github

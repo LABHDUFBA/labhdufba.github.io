@@ -2,7 +2,7 @@
 title: Jaime Cativa
 weight: 25
 email: 
-image: "/images/jaime.jpg"
+image: "/images/jaime_400.jpg"
 description: informações sobre o membro
 social:
   - name: facebook

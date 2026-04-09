@@ -2,7 +2,7 @@
 title: Natalino Maria Nhaga
 weight: 31
 email: 
-image: "/images/natalino.jpg"
+image: "/images/natalino_400.jpg"
 description: Information about the member
 social:
   - name: Lattes

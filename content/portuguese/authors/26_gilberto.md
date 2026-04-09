@@ -2,7 +2,7 @@
 title: Gilberto Sassi
 weight: 26
 email: sassi.pereira.gilberto@gmail.com
-image: "/images/gilberto.jpg"
+image: "/images/gilberto_400.jpg"
 description: informações sobre o membro
 social:
   - name: github

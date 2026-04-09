@@ -117,6 +117,12 @@ A wiki está inteiramente em português, com um glossário e uma lista das ferra
 
 {{< button label="Saiba Mais" link="http://www.larhud.ibict.br/index.php?title=Página_principal" style="solid" >}}
 
+## Archives World Map
+
+O Archives World Map é uma plataforma colaborativa geoespacial para catalogar instituições arquivísticas públicas em todo o mundo. Qualquer pessoa pode contribuir adicionando instituições ao mapa. As contribuições são revisadas antes de serem publicadas e a quantidade de instituições cadastradas já se aproxima de 1.000, ao redor do globo.
+
+{{< button label="Saiba Mais" link="https://archivesmap.org" style="solid" >}}
+
 <div class="upcoming-tools">
     <h3>Em Desenvolvimento</h3>
     <p>Estamos ativamente trabalhando em criar e refinar novas ferramentas e funcionalidades. Fique atento para atualizações nos seguintes projetos:</p>

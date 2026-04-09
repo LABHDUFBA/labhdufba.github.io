@@ -2,7 +2,7 @@
 title: Graziela de Souza Teixeira
 weight: 9
 email: grazistx@gmail.com
-image: "/images/grazi.jpeg"
+image: "/images/grazi_400.jpeg"
 description: infos about member
 social:
   - name: bluesky

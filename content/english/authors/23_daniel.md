@@ -2,7 +2,7 @@
 title: Daniel de Sena Bastos
 weight: 23
 email: danielosena@hotmail.com | danielbastos@ufba.br
-image: "/images/daniel.jpg"
+image: "/images/daniel_400.jpg"
 description: infos about member
 social:
   - name: github

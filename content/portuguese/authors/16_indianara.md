@@ -2,7 +2,7 @@
 title: Indianara Lima Silva
 weight: 16
 email: 
-image: "/images/indianara.jpg"
+image: "/images/indianara_400.jpg"
 description: 
 social:
   - name: lattes

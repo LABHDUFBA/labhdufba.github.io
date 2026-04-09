@@ -2,7 +2,7 @@
 title: Ricardo Sodré Andrade
 weight: 8
 email: rsandrade@ufba.br
-image: "/images/ric2.jpg"
+image: "/images/ric2_400.jpg"
 description: 
 social:
   - name: Github
@@ -13,6 +13,14 @@ social:
     icon: fa fa-link
     link: https://feudo.org
 
+  - name: LinkedIn
+    icon: fa-brands fa-linkedin
+    link: https://www.linkedin.com/in/rsandrade/
+
+  - name: Instagram
+    icon: fa-brands fa-instagram
+    link: https://www.instagram.com/todosaquelesarquivos/
+
 ---
 
-Líder do Grupo de Pesquisa em Cultura, Representação e Informação Digital (CRIDI) na Universidade Federal da Bahia (UFBA); Possui Mestrado em Ciência da Informação pelo Programa de Pós-Graduação em Ciência da Informação da UFBA (PPGCI/UFBA) e Bacharelado em Arquivologia pela UFBA; Atua como Arquivista na Universidade Federal da Bahia desde 2009. Anteriormente, trabalhou como Assessor de Tecnologia no Arquivo Público da Bahia (2007-2009) e foi Bolsista de Iniciação Científica pelo PIBIC/UFBA/CNPq de 2004 a 2007.
+Chefe do Escritório Regional no Nordeste do Arquivo Nacional; possui Mestrado em Ciência da Informação pelo Programa de Pós-Graduação em Ciência da Informação da UFBA (PPGCI/UFBA) e Bacharelado em Arquivologia pela UFBA; atua como Arquivista na Universidade Federal da Bahia desde 2009 (mas cedido ao Arquivo Nacional desde 2025).

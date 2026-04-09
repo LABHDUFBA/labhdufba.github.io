@@ -2,7 +2,7 @@
 title: Jéfte Batista de Oliveira
 weight: 24
 email: jeftebatista10@gmail.com
-image: "/images/jefte.jpg"
+image: "/images/jefte_400.jpg"
 description: infos about member
 social:
   - name: linkedin

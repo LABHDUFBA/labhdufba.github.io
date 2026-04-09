@@ -2,7 +2,7 @@
 title: Letícia Cesarino
 weight: 4
 email: letcesar@gmail.com
-image: "/images/leticia.png"
+image: "/images/leticia_400.png"
 description: infos about member
 social:
   - name: twitter

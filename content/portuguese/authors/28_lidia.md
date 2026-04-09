@@ -2,7 +2,7 @@
 title: Lídia Belas
 weight: 28
 email: lidiavieirabelas@gmail.com
-image: "/images/lidia.jpg"
+image: "/images/lidia_400.jpg"
 description: 
 social:
   - name: linkedin

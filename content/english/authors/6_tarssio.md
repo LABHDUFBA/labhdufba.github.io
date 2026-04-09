@@ -2,7 +2,7 @@
 title: Tarssio Barreto
 weight: 6
 email:
-image: "/images/tarssio.jpg"
+image: "/images/tarssio_400.jpg"
 description: infos about member
 social:
   - name: github

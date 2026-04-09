@@ -2,7 +2,7 @@
 title: Raíssa Nothaft
 weight: 29
 email: 
-image: "/images/raissa.jpg"
+image: "/images/raissa_400.jpg"
 description: informações sobre o membro
 social:
   - name: Instagram

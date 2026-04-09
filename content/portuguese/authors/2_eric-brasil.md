@@ -2,7 +2,7 @@
 title: Eric Brasil
 weight: 2
 email: ericbraisln@proton.me
-image: "/images/eric-brasil.png"
+image: "/images/eric-brasil_400.png"
 description: infos about member
 social:
   - name: github

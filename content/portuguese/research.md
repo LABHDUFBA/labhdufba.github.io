@@ -61,6 +61,24 @@ A pesquisa no campo da História Digital tem sido desenvolvida em parceria diret
 
 {{< button label="Voltar ao topo" link="/research/" style="solid" >}}
 
+## Arquivologia Computacional
+
+<div style="text-align: center;">
+    <a href='/images/computational-archival-science.png' target="_blank" title="Clique para ver em resolução completa">
+        <img src='/images/computational-archival-science.png' alt="Arquivologia Computacional" style="width:300px;height:300px;object-fit:cover;cursor:zoom-in;">
+    </a>
+</div>
+
+Investiga o uso de métodos, modelos e infraestruturas computacionais aplicados aos arquivos, com ênfase na organização, representação, acesso e circulação de acervos arquivísticos permanentes em ambientes digitais.
+
+- Modelagem de dados arquivísticos
+- Interoperabilidade
+- Acesso e difusão
+- Infraestruturas digitais
+- Inteligência artificial aplicada a arquivos
+
+{{< button label="Voltar ao topo" link="/pt/research/" style="solid" >}}
+
 ## Implicações Éticas, Sociais e Políticas da Tecno-ciência Digital
 
 <div style="text-align: center;">

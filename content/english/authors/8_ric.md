@@ -2,7 +2,7 @@
 title: Ricardo Sodré Andrade
 weight: 8
 email: rsandrade@ufba.br
-image: "/images/ric2.jpg"
+image: "/images/ric2_400.jpg"
 description: 
 social:
   - name: Github
@@ -13,6 +13,14 @@ social:
     icon: fa fa-link
     link: https://feudo.org
 
+  - name: LinkedIn
+    icon: fa-brands fa-linkedin
+    link: https://www.linkedin.com/in/rsandrade/
+
+  - name: Instagram
+    icon: fa-brands fa-instagram
+    link: https://www.instagram.com/todosaquelesarquivos/
+
 ---
 
-Leader of the Research Group on Culture, Representation, and Digital Information (CRIDI) at the Federal University of Bahia (UFBA); holds a Master in Information Science from the Graduate Program in Information Science at UFBA (PPGCI/UFBA) and a degree in Archival Science from UFBA. He has been an archivist at the Federal University of Bahia since 2009. Previously, he worked as a technology advisor at the Bahia Public Archive (2007–2009) and was a scientific initiation fellow under the PIBIC/UFBA/CNPq program from 2004 to 2007.
+Head of the Northeast Regional Office of the National Archives of Brazil; holds a Master in Information Science from the Graduate Program in Information Science at UFBA (PPGCI/UFBA) and a degree in Archival Science from UFBA; archivist at the Federal University of Bahia since 2009 (seconded to the National Archives of Brazil since 2025).
