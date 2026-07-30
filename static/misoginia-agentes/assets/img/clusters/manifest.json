@@ -1,0 +1,50 @@
+[
+  {
+    "id": "meme__c02",
+    "label": "Meme",
+    "count": 61,
+    "silhouette": 0.0089,
+    "images": [
+      "assets/img/clusters/meme__c02_1.jpg",
+      "assets/img/clusters/meme__c02_2.jpg",
+      "assets/img/clusters/meme__c02_3.jpg",
+      "assets/img/clusters/meme__c02_4.jpg"
+    ]
+  },
+  {
+    "id": "print_rede_social__c08",
+    "label": "Print de rede social",
+    "count": 52,
+    "silhouette": 0.0214,
+    "images": [
+      "assets/img/clusters/print_rede_social__c08_1.jpg",
+      "assets/img/clusters/print_rede_social__c08_2.jpg",
+      "assets/img/clusters/print_rede_social__c08_3.jpg",
+      "assets/img/clusters/print_rede_social__c08_4.jpg"
+    ]
+  },
+  {
+    "id": "print_jornalistico__c07",
+    "label": "Print jornalístico",
+    "count": 46,
+    "silhouette": 0.0008,
+    "images": [
+      "assets/img/clusters/print_jornalistico__c07_1.jpg",
+      "assets/img/clusters/print_jornalistico__c07_2.jpg",
+      "assets/img/clusters/print_jornalistico__c07_3.jpg",
+      "assets/img/clusters/print_jornalistico__c07_4.jpg"
+    ]
+  },
+  {
+    "id": "card_politico__c01",
+    "label": "Card político",
+    "count": 38,
+    "silhouette": 0.0296,
+    "images": [
+      "assets/img/clusters/card_politico__c01_1.jpg",
+      "assets/img/clusters/card_politico__c01_2.jpg",
+      "assets/img/clusters/card_politico__c01_3.jpg",
+      "assets/img/clusters/card_politico__c01_4.jpg"
+    ]
+  }
+]
