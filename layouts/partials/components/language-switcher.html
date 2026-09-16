@@ -1,13 +1,18 @@
 <!-- Language Switcher — inline links (adapted from leofn.com) -->
 {{ $context := .Context }}
 {{ $currentLang := $context.Language.Lang }}
+{{ $defaultLang := $context.Site.Params.defaultContentLanguage | default "en" }}
 
 <span class="lang-switch">
   {{ range $context.Site.Languages }}
     {{ if eq .Lang $currentLang }}
       <span class="lang-current">{{ index (split .Lang "-") 0 }}</span>
     {{ else }}
-      <a href="{{ (printf "/%s/" .Lang) | relLangURL }}" title="{{ .LanguageName }}">{{ index (split .Lang "-") 0 }}</a>
+      {{ if eq .Lang $defaultLang }}
+        <a href="/" title="{{ .LanguageName }}">{{ index (split .Lang "-") 0 }}</a>
+      {{ else }}
+        <a href="/{{ .Lang }}/" title="{{ .LanguageName }}">{{ index (split .Lang "-") 0 }}</a>
+      {{ end }}
     {{ end }}
   {{ end }}
 </span>
