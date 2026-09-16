@@ -12,20 +12,93 @@ draft: false
         margin-top: -120px;
         visibility: hidden;
     }
-    .btn {
+
+    /* === Card grid === */
+    .data-cards {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 1.2rem;
+        margin: 1.5rem 0 2rem;
+    }
+    .data-card {
+        display: flex;
+        flex-direction: column;
+        background: var(--card-bg, #f8f9fa);
+        border: 1px solid var(--card-border, #dee2e6);
+        border-radius: 10px;
+        padding: 1.3rem 1.4rem;
+        text-decoration: none !important;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+        transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+    }
+    .data-card:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 6px 20px rgba(37, 99, 235, 0.18);
+        border-color: #2563eb;
+        text-decoration: none !important;
+    }
+    .data-card__tag {
         display: inline-block;
-        padding: 8px 12px;
-        margin: 5px 0;
-        background-color: black;
-        color: white;
-        text-decoration: none;
-        border-radius: 7px;
-        font-family: Arial, sans-serif;
-        font-size: 14px;
+        font-size: .72rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: .06em;
+        color: #2563eb;
+        background: rgba(37, 99, 235, 0.08);
+        border: 1px solid rgba(37, 99, 235, 0.2);
+        border-radius: 999px;
+        padding: .15rem .6rem;
+        margin-bottom: .7rem;
+        align-self: flex-start;
     }
-    .btn:hover {
-        background-color: #858585;
+    .data-card__title {
+        font-size: 1.05rem;
+        font-weight: 700;
+        margin: 0 0 .5rem;
+        line-height: 1.3;
+        color: inherit;
     }
+    .data-card__desc {
+        font-size: .88rem;
+        opacity: .75;
+        line-height: 1.6;
+        margin: 0;
+        flex-grow: 1;
+    }
+    .data-card__arrow {
+        margin-top: .8rem;
+        font-size: .85rem;
+        font-weight: 600;
+        color: #2563eb;
+    }
+
+    /* Dark mode */
+    @media (prefers-color-scheme: dark) {
+        .data-card {
+            background: #1a1a2e;
+            border-color: #333348;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+        }
+        .data-card:hover {
+            box-shadow: 0 6px 20px rgba(96, 165, 250, 0.2);
+            border-color: #60a5fa;
+        }
+        .data-card__tag {
+            color: #60a5fa;
+            background: rgba(96, 165, 250, 0.1);
+            border-color: rgba(96, 165, 250, 0.25);
+        }
+        .data-card__arrow {
+            color: #60a5fa;
+        }
+    }
+
+    .data-cards { grid-template-columns: 1fr; }
+    @media (min-width: 640px) {
+        .data-cards { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
+    }
+
+    /* === Em desenvolvimento === */
     .upcoming-tools {
         padding: 20px;
         margin-top: 20px;
@@ -35,12 +108,10 @@ draft: false
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     }
     .upcoming-tools h3 {
-        font-family: Arial, sans-serif;
         color: #f9f9f9;
         margin-bottom: 15px;
     }
     .upcoming-tools p {
-        font-family: Arial, sans-serif;
         color: #cccccc;
         margin-bottom: 20px;
     }
@@ -48,7 +119,6 @@ draft: false
         background-color: #2a2a2a;
         padding: 15px;
         border-radius: 10px;
-        font-family: Arial, sans-serif;
         color: #cccccc;
     }
     .highlight-box p {
@@ -68,60 +138,68 @@ draft: false
         }
     }
 </style>
-{{< toc >}}
 
-## Ferramentas Scielo
+Ferramentas e recursos desenvolvidos pelo LABHD-UFBA para pesquisa em Humanidades Digitais: raspagem de dados, análise de textos, e plataformas de referência.
 
-Fornece ferramentas para raspagem, organização e análise de artigos científicos do Scielo.br. O ferramentas_scielo_v2 permite a raspagem por área do conhecimento ou periódico, oferecendo opções para XML somente ou XML e PDFs. Inclui uma ferramenta para converter XMLs para CSV.
+<div class="data-cards">
 
-{{< button label="Saiba Mais" link="https://labhdufba.github.io/ferramentas_scielo_v2/" style="solid" >}}
+<a class="data-card" href="https://labhdufba.github.io/ferramentas_scielo_v2/" target="_blank" rel="noopener">
+  <span class="data-card__tag">Raspagem</span>
+  <h3 class="data-card__title">Ferramentas Scielo</h3>
+  <p class="data-card__desc">Raspagem, organização e análise de artigos científicos do Scielo.br. Raspa por área do conhecimento ou periódico, com XML e PDFs. Inclui conversor XML→CSV.</p>
+  <span class="data-card__arrow">Saiba mais →</span>
+</a>
 
-## Anped Scraper
+<a class="data-card" href="https://github.com/LABHDUFBA/anais_anped" target="_blank" rel="noopener">
+  <span class="data-card__tag">Raspagem</span>
+  <h3 class="data-card__title">Anped Scraper</h3>
+  <p class="data-card__desc">Raspagem dos anais da ANPEd (Associação Nacional de Pós-Graduação e Pesquisa em Educação). Artigos em PDF dos 38º, 39º e 40º encontros (2017, 2019, 2021).</p>
+  <span class="data-card__arrow">Saiba mais →</span>
+</a>
 
-Um script para raspagem dos anais da Associação Nacional de Pós-Graduação e Pesquisa em Educação - Anped. Faz a raspagem dos artigos em PDF dos 38º, 39º e 40º encontros nacionais (2017, 2019, 2021) para o Repositório de Humanidades Digitais.
+<a class="data-card" href="https://github.com/LABHDUFBA/Anais-COMPOS-scraper" target="_blank" rel="noopener">
+  <span class="data-card__tag">Raspagem</span>
+  <h3 class="data-card__title">COMPOS Scraper</h3>
+  <p class="data-card__desc">Raspagem dos anais da COMPÓS (Associação Nacional dos Programas de Pós-Graduação em Comunicação). Artigos em PDF de 2000 a 2020 com metadados completos.</p>
+  <span class="data-card__arrow">Saiba mais →</span>
+</a>
 
-{{< button label="Saiba Mais" link="https://github.com/LABHDUFBA/anais_anped" style="solid" >}}
+<a class="data-card" href="https://github.com/LABHDUFBA/anpuh-scraper" target="_blank" rel="noopener">
+  <span class="data-card__tag">Raspagem</span>
+  <h3 class="data-card__title">Anpuh Scraper</h3>
+  <p class="data-card__desc">Raspador de resumos dos Simpósios Nacionais de História da ANPUH. Resumos do 27º ao 31º simpósios (2013–2021).</p>
+  <span class="data-card__arrow">Saiba mais →</span>
+</a>
 
+<a class="data-card" href="https://github.com/LABHDUFBA/Anais-Anpuh" target="_blank" rel="noopener">
+  <span class="data-card__tag">Raspagem</span>
+  <h3 class="data-card__title">Anais Anpuh</h3>
+  <p class="data-card__desc">Raspagem dos anais completos da ANPUH. Artigos em PDF de todos os Simpósios Nacionais de 1963 a 2017.</p>
+  <span class="data-card__arrow">Saiba mais →</span>
+</a>
 
-## COMPOS Scraper
+<a class="data-card" href="https://ericbrasiln.github.io/pyHDB/" target="_blank" rel="noopener">
+  <span class="data-card__tag">Pesquisa</span>
+  <h3 class="data-card__title">pyHDB</h3>
+  <p class="data-card__desc">Ferramenta para pesquisa na Biblioteca Digital de Jornais Brasileiros da BNB. Documenta e registra etapas da pesquisa com precisão metodológica.</p>
+  <span class="data-card__arrow">Saiba mais →</span>
+</a>
 
-Um script para raspagem dos anais da Associação Nacional dos Programas de Pós-Graduação em Comunicação - COMPÓS. Faz a raspagem dos artigos em PDF dos encontros entre 2000 e 2020, criando um banco de dados com a edição do COMPÓS, autores, títulos e links para os PDFs.
+<a class="data-card" href="http://www.larhud.ibict.br/index.php?title=Página_principal" target="_blank" rel="noopener">
+  <span class="data-card__tag">Referência</span>
+  <h3 class="data-card__title">Wiki de Ferramentas Digitais</h3>
+  <p class="data-card__desc">Wiki colaborativa LABHD/IBICT com tutoriais e glossário de ferramentas de Humanidades Digitais em português.</p>
+  <span class="data-card__arrow">Saiba mais →</span>
+</a>
 
-{{< button label="Saiba Mais" link="https://github.com/LABHDUFBA/Anais-COMPOS-scraper" style="solid" >}}
+<a class="data-card" href="https://archivesmap.org" target="_blank" rel="noopener">
+  <span class="data-card__tag">Referência</span>
+  <h3 class="data-card__title">Archives World Map</h3>
+  <p class="data-card__desc">Plataforma colaborativa geoespacial para catalogar instituições arquivísticas públicas no mundo. Quase 1.000 instituições cadastradas.</p>
+  <span class="data-card__arrow">Saiba mais →</span>
+</a>
 
-## Anpuh Scraper
-
-Um raspador de resumos dos Simpósios Nacionais de História da Associação Nacional de História - Anpuh. Faz a raspagem dos resumos dos 27º ao 31º simpósios (2013, 2015, 2017, 2019, 2021).
-
-{{< button label="Saiba Mais" link="https://github.com/LABHDUFBA/anpuh-scraper" style="solid" >}}
-
-## Anais Anpuh
-
-Um script para raspagem dos anais da Associação Nacional de História - Anpuh. Faz a raspagem dos artigos em PDF de todos os Simpósios Nacionais da Anpuh de 1963 a 2017.
-
-{{< button label="Saiba Mais" link="https://github.com/LABHDUFBA/Anais-Anpuh" style="solid" >}}
-
-## pyHDB
-
-Uma ferramenta para auxiliar a pesquisa na Biblioteca Digital de Jornais Brasileiros da Biblioteca Nacional. Ajuda a documentar e registrar etapas da pesquisa com precisão, garantindo rigor metodológico.
-
-{{< button label="Saiba Mais" link="https://ericbrasiln.github.io/pyHDB/" style="solid" >}}
-
-## Wiki de Ferramentas Digitais
-
-Em 2018, o Laboratório em Rede de Humanidades Digitais do Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT) criou a primeira versão da wiki de ferramentas digitais. O objetivo era servir como uma base de referência e um hub de informações para a disseminação de conhecimento no ambiente digital voltado para pesquisadores da área de Ciência da Informação (interessados no tema das Humanidades Digitais) e humanidades em geral na língua portuguesa.
-
-A partir de 2020, a Wiki do Larhud agora conta com a parceria do Laboratório de Humanidades Digitais da UFBA (LABHD-UFBA), tornando-se a Wiki de tutoriais para ferramentas de humanidades digitais desses dois laboratórios!
-
-A wiki está inteiramente em português, com um glossário e uma lista das ferramentas mais comumente usadas para pesquisa em humanidades digitais.
-
-{{< button label="Saiba Mais" link="http://www.larhud.ibict.br/index.php?title=Página_principal" style="solid" >}}
-
-## Archives World Map
-
-O Archives World Map é uma plataforma colaborativa geoespacial para catalogar instituições arquivísticas públicas em todo o mundo. Qualquer pessoa pode contribuir adicionando instituições ao mapa. As contribuições são revisadas antes de serem publicadas e a quantidade de instituições cadastradas já se aproxima de 1.000, ao redor do globo.
-
-{{< button label="Saiba Mais" link="https://archivesmap.org" style="solid" >}}
+</div>
 
 <div class="upcoming-tools">
     <h3>Em Desenvolvimento</h3>
