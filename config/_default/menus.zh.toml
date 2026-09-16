@@ -1,0 +1,79 @@
+############# Chinese navigation ##############
+
+# main menu
+[[main]]
+name = "首页"
+url = "/"
+weight = 1
+
+[[main]]
+name = "关于"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "团队"
+url = "authors/"
+weight = 3
+
+[[main]]
+name = "研究"
+url = "research/"
+weight = 4
+
+[[main]]
+name = "工具"
+url = "tools/"
+weight = 5
+
+[[main]]
+name = "媒体报道"
+url = "inthenews/"
+weight = 7
+
+[[main]]
+name = "联系方式"
+url = "contact/"
+weight = 8
+
+[[main]]
+weight = 6
+name = "出版物"
+hasChildren = true
+
+[[main]]
+parent = "出版物"
+name = "论文"
+url = "articles/"
+weight = 1
+
+[[main]]
+parent = "出版物"
+name = "报告"
+url = "reports/"
+weight = 2
+
+[[main]]
+parent = "出版物"
+name = "Youtube"
+url = "youtube/"
+weight = 3
+
+[[main]]
+parent = "出版物"
+name = "活动"
+url = "events/"
+weight = 4
+
+[[main]]
+
+# footer menu
+[[footer]]
+name = "关于"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "联系方式"
+url = "contact/"
+weight = 2

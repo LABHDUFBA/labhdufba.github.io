@@ -127,10 +127,37 @@
   margin-top: 20px; /* Ajuste o valor conforme necessário */
 }
 
-/* Estilo responsivo para ícones sociais em telas menores */
-@media (max-width: 600px) {
-  .social-icons {
-    flex-direction: row;
-    gap: 15px; /* Ajuste do espaçamento */
-  }
+/* Language switcher — inline links */
+.lang-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  font-size: .82rem;
+  margin-left: .5rem;
+}
+.lang-switch a {
+  color: #6b7280 !important;
+  text-decoration: none !important;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  font-weight: 500;
+  transition: color .15s;
+}
+.lang-switch a:hover {
+  color: #16a34a !important;
+}
+.lang-current {
+  color: #16a34a !important;
+  font-weight: 700 !important;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+}
+.dark .lang-switch a {
+  color: #9ca3af !important;
+}
+.dark .lang-switch a:hover {
+  color: #4ade80 !important;
+}
+.dark .lang-current {
+  color: #4ade80 !important;
 }

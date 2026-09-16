@@ -1,0 +1,79 @@
+############# French navigation ##############
+
+# main menu
+[[main]]
+name = "Accueil"
+url = "/"
+weight = 1
+
+[[main]]
+name = "À propos"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Équipe"
+url = "authors/"
+weight = 3
+
+[[main]]
+name = "Recherche"
+url = "research/"
+weight = 4
+
+[[main]]
+name = "Outils"
+url = "tools/"
+weight = 5
+
+[[main]]
+name = "Dans les médias"
+url = "inthenews/"
+weight = 7
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 8
+
+[[main]]
+weight = 6
+name = "Publications"
+hasChildren = true
+
+[[main]]
+parent = "Publications"
+name = "Articles"
+url = "articles/"
+weight = 1
+
+[[main]]
+parent = "Publications"
+name = "Rapports"
+url = "reports/"
+weight = 2
+
+[[main]]
+parent = "Publications"
+name = "Youtube"
+url = "youtube/"
+weight = 3
+
+[[main]]
+parent = "Publications"
+name = "Événements"
+url = "events/"
+weight = 4
+
+[[main]]
+
+# footer menu
+[[footer]]
+name = "À propos"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 2

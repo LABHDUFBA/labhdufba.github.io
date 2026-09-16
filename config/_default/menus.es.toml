@@ -1,0 +1,79 @@
+############# Spanish navigation ##############
+
+# main menu
+[[main]]
+name = "Inicio"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Acerca de"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Equipo"
+url = "authors/"
+weight = 3
+
+[[main]]
+name = "Investigación"
+url = "research/"
+weight = 4
+
+[[main]]
+name = "Herramientas"
+url = "tools/"
+weight = 5
+
+[[main]]
+name = "En los medios"
+url = "inthenews/"
+weight = 7
+
+[[main]]
+name = "Contacto"
+url = "contact/"
+weight = 8
+
+[[main]]
+weight = 6
+name = "Publicaciones"
+hasChildren = true
+
+[[main]]
+parent = "Publicaciones"
+name = "Artículos"
+url = "articles/"
+weight = 1
+
+[[main]]
+parent = "Publicaciones"
+name = "Informes"
+url = "reports/"
+weight = 2
+
+[[main]]
+parent = "Publicaciones"
+name = "Youtube"
+url = "youtube/"
+weight = 3
+
+[[main]]
+parent = "Publicaciones"
+name = "Eventos"
+url = "events/"
+weight = 4
+
+[[main]]
+
+# footer menu
+[[footer]]
+name = "Acerca de"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Contacto"
+url = "contact/"
+weight = 2
