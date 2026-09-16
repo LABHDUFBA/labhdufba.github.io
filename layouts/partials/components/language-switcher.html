@@ -1,6 +1,5 @@
 <!-- Language Switcher — inline links (adapted from leofn.com) -->
 {{ $context := .Context }}
-{{ $class := .Class }}
 {{ $currentLang := $context.Language.Lang }}
 
 <span class="lang-switch">
@@ -8,7 +7,7 @@
     {{ if eq .Lang $currentLang }}
       <span class="lang-current">{{ index (split .Lang "-") 0 }}</span>
     {{ else }}
-      <a href="{{ relLangURL (printf "/") .Lang }}" title="{{ .LanguageName }}">{{ index (split .Lang "-") 0 }}</a>
+      <a href="{{ (printf "/%s/" .Lang) | relLangURL }}" title="{{ .LanguageName }}">{{ index (split .Lang "-") 0 }}</a>
     {{ end }}
   {{ end }}
 </span>
