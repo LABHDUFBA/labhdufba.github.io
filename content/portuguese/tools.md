@@ -33,8 +33,8 @@ draft: false
     }
     .data-card:hover {
         transform: translateY(-3px);
-        box-shadow: 0 6px 20px rgba(37, 99, 235, 0.18);
-        border-color: #2563eb;
+        box-shadow: 0 6px 20px rgba(22, 163, 74, 0.18);
+        border-color: #16a34a;
         text-decoration: none !important;
     }
     .data-card__tag {
@@ -43,9 +43,9 @@ draft: false
         font-weight: 700;
         text-transform: uppercase;
         letter-spacing: .06em;
-        color: #2563eb;
-        background: rgba(37, 99, 235, 0.08);
-        border: 1px solid rgba(37, 99, 235, 0.2);
+        color: #16a34a;
+        background: rgba(22, 163, 74, 0.08);
+        border: 1px solid rgba(22, 163, 74, 0.2);
         border-radius: 999px;
         padding: .15rem .6rem;
         margin-bottom: .7rem;
@@ -69,7 +69,7 @@ draft: false
         margin-top: .8rem;
         font-size: .85rem;
         font-weight: 600;
-        color: #2563eb;
+        color: #16a34a;
     }
 
     /* Dark mode */
@@ -80,16 +80,16 @@ draft: false
             box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
         }
         .data-card:hover {
-            box-shadow: 0 6px 20px rgba(96, 165, 250, 0.2);
-            border-color: #60a5fa;
+            box-shadow: 0 6px 20px rgba(74, 222, 128, 0.2);
+            border-color: #4ade80;
         }
         .data-card__tag {
-            color: #60a5fa;
-            background: rgba(96, 165, 250, 0.1);
-            border-color: rgba(96, 165, 250, 0.25);
+            color: #4ade80;
+            background: rgba(74, 222, 128, 0.1);
+            border-color: rgba(74, 222, 128, 0.25);
         }
         .data-card__arrow {
-            color: #60a5fa;
+            color: #4ade80;
         }
     }
 
