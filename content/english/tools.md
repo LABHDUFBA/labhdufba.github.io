@@ -185,13 +185,6 @@ Tools and resources developed by LABHD-UFBA for Digital Humanities research: dat
   <span class="data-card__arrow">Learn more →</span>
 </a>
 
-<a class="data-card" href="http://www.larhud.ibict.br/index.php?title=Página_principal" target="_blank" rel="noopener">
-  <span class="data-card__tag">Reference</span>
-  <h3 class="data-card__title">Digital Tools Wiki</h3>
-  <p class="data-card__desc">Collaborative wiki by LABHD/IBICT with tutorials and a glossary of Digital Humanities tools in Portuguese.</p>
-  <span class="data-card__arrow">Learn more →</span>
-</a>
-
 <a class="data-card" href="https://archivesmap.org" target="_blank" rel="noopener">
   <span class="data-card__tag">Reference</span>
   <h3 class="data-card__title">Archives World Map</h3>

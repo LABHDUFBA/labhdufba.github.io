@@ -185,13 +185,6 @@ Ferramentas e recursos desenvolvidos pelo LABHD-UFBA para pesquisa em Humanidade
   <span class="data-card__arrow">Saiba mais →</span>
 </a>
 
-<a class="data-card" href="http://www.larhud.ibict.br/index.php?title=Página_principal" target="_blank" rel="noopener">
-  <span class="data-card__tag">Referência</span>
-  <h3 class="data-card__title">Wiki de Ferramentas Digitais</h3>
-  <p class="data-card__desc">Wiki colaborativa LABHD/IBICT com tutoriais e glossário de ferramentas de Humanidades Digitais em português.</p>
-  <span class="data-card__arrow">Saiba mais →</span>
-</a>
-
 <a class="data-card" href="https://archivesmap.org" target="_blank" rel="noopener">
   <span class="data-card__tag">Referência</span>
   <h3 class="data-card__title">Archives World Map</h3>
