@@ -3,7 +3,7 @@ title: Jéfte Batista de Oliveira
 weight: 24
 email: jeftebatista10@gmail.com
 image: "/images/jefte_400.jpg"
-description: infos about member
+description: 成员信息
 social:
   - name: linkedin
     icon: fa-brands fa-linkedin
@@ -11,4 +11,4 @@ social:
 
 ---
 
-Bachelor in Social Sciences from the Federal University of Bahia (UFBA); Master in Social Sciences from the Graduate Program in Social Sciences (PPGCS/UFBA); Sociology teacher for the Department of Education of the State of Bahia.
+巴伊亚联邦大学（UFBA）社会科学学士；社会科学研究生项目（PPGCS/UFBA）社会科学硕士；巴伊亚州教育厅社会学教师。

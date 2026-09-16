@@ -1,9 +1,9 @@
 ---
-title: "Articles"
+title: "Publications"
 # meta title
-meta_title: "Articles - LABHDUFBA pub"
+meta_title: "Publications du LABHDUFBA"
 # meta description
-description: "LABHDUFBA publications"
+description: "Publications du LABHDUFBA"
 # save as draft
 draft: false
 ---

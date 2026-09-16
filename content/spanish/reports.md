@@ -1,7 +1,7 @@
 ---
-title: "Reports"
-meta_title: "Reports - LABHDUFBA pub"
-description: "LABHDUFBA publications"
+title: "Informes"
+meta_title: "Informes - publicaciones de LABHDUFBA"
+description: "Publicaciones de LABHDUFBA"
 draft: false
 ---
 
@@ -9,21 +9,21 @@ draft: false
 
 <div style="text-align: justify;">
 
-**Report on Global Warming in Telegram Groups and Channels (2025)** – This report analyzes the debate on global warming in Telegram groups and channels from July 1, 2023, to July 1, 2025, identifying key narratives and arguments, as well as disinformation dynamics.
+**Informe sobre el calentamiento global en grupos y canales de Telegram (2025)** – Este informe analiza el debate sobre el calentamiento global en grupos y canales de Telegram desde el 1 de julio de 2023 hasta el 1 de julio de 2025, identificando las principales narrativas y argumentos, así como las dinámicas de desinformación.
 
-NASCIMENTO, L.; NOTHAFT, R. J.; SANTOS, A. L.; VIEIRA, L. M. S. B. *Report on Global Warming in Telegram Groups and Channels* [Research Report]. Salvador: LABHDUFBA, 2025.
+NASCIMENTO, L.; NOTHAFT, R. J.; SANTOS, A. L.; VIEIRA, L. M. S. B. *Report on Global Warming in Telegram Groups and Channels* [Informe de investigación]. Salvador: LABHDUFBA, 2025.
 
 </div>
 
 <div style="text-align: center;">
 
-[**Click here to access the full report**](https://drive.google.com/file/d/1nom9TZT7F6KRAHEiDaf8U6yH6d73Sck9/view?usp=drive_link)
+[**Haga clic aquí para acceder al informe completo**](https://drive.google.com/file/d/1nom9TZT7F6KRAHEiDaf8U6yH6d73Sck9/view?usp=drive_link)
 
 </div>
 
 <div style="text-align: justify;">
 
-**Hate Speech, Political Violence, and Gender Narratives on Telegram (2025)** – This report analyzes the circulation of hate speech and political violence, with a focus on gender narratives, in public Telegram groups during the electoral period, identifying linguistic patterns and dynamics of radicalization.
+**Discurso de odio, violencia política y narrativas de género en Telegram (2025)** – Este informe analiza la circulación de discursos de odio y violencia política, con especial atención a las narrativas de género, en grupos públicos de Telegram durante el período electoral, identificando patrones lingüísticos y dinámicas de radicalización.
 
 JESUS, J. P.; WEDDERBURN, R. S. M. ; NASCIMENTO, L. . Discursos de ódio, violência política e narrativas de gênero no Telegram: análise de ocorrências textuais durante o período eleitoral. 2025. (Relatório de pesquisa).
 
@@ -31,13 +31,13 @@ JESUS, J. P.; WEDDERBURN, R. S. M. ; NASCIMENTO, L. . Discursos de ódio, violê
 
 <div style="text-align: center;">
 
-[**Click here to access the full report**](https://internetlab.org.br/wp-content/uploads/2025/05/MonitorA-Relatorio_2024-3.pdf)
+[**Haga clic aquí para acceder al informe completo**](https://internetlab.org.br/wp-content/uploads/2025/05/MonitorA-Relatorio_2024-3.pdf)
 
 </div>
 
 <div style="text-align: justify;">
 
-**From Meme to Hate: How Racism Manifests on Digital Platforms (2025)** – This study investigates the spread of racist content on digital media, focusing on how memes and other visual communication forms are used to propagate racist ideologies and hate speech online.
+**Del meme al odio: cómo se manifiesta el racismo en las plataformas digitales (2025)** – Este estudio investiga la difusión de contenido racista en los medios digitales, centrándose en cómo los memes y otras formas de comunicación visual se utilizan para propagar ideologías racistas y discursos de odio en línea.
 
 MOCELLIM, A. D. ; BASTOS, D. S. ; MELO, D. V. V. ; GUERRA, E. ; TEIXEIRA, G. S. ; JESUS, J. P. ; NASCIMENTO, L. F. ; MORAES, L. T. T. ; CESARINO, L. M. C. N. ; CARREIRO, R. ; WEDDERBURN, R. S. M. ; SANTOS, R. A. L. ; BARRETO, T. B. . Do Meme ao Ódio: Como o racismo se manifesta nas plataformas digitais. 2025. (Relatório de pesquisa).
 
@@ -45,7 +45,7 @@ MOCELLIM, A. D. ; BASTOS, D. S. ; MELO, D. V. V. ; GUERRA, E. ; TEIXEIRA, G. S. 
 
 <div style="text-align: center;">
 
-[**Click here to access the full report**](https://alafialab.org/do-meme-ao-odio-como-o-racismo-se-manifesta-nas-plataformas-digitais/)
+[**Haga clic aquí para acceder al informe completo**](https://alafialab.org/do-meme-ao-odio-como-o-racismo-se-manifesta-nas-plataformas-digitais/)
 
 </div>
 
@@ -53,26 +53,26 @@ MOCELLIM, A. D. ; BASTOS, D. S. ; MELO, D. V. V. ; GUERRA, E. ; TEIXEIRA, G. S. 
 
 <div style="text-align: justify;">
 
-- The report analyzes the dissemination of  disinformation and conspiracy theories related to the floods in Rio Grande do Sul within far-right groups and channels on Telegram. As a result, we present a classification of the main themes and arguments that underpin these narratives, along with a mapping of key spokespersons involved in disseminating fake news. Additionally, we examine the multiplatform ecosystem of disinformation and radicalization, highlighting the migration of content posted on Telegram to more mainstream networks such as YouTube, Instagram, and Twitter.
+- El informe analiza la difusión de desinformación y teorías de la conspiración relacionadas con las inundaciones en Rio Grande do Sul dentro de grupos y canales de extrema derecha en Telegram. Como resultado, presentamos una clasificación de los principales temas y argumentos que sustentan estas narrativas, junto con un mapeo de los principales portavoces implicados en la difusión de noticias falsas. Además, examinamos el ecosistema multiplataforma de desinformación y radicalización, destacando la migración de contenido publicado en Telegram hacia redes más convencionales como YouTube, Instagram y Twitter.
 
 </div>
 
 
 <div style="text-align: center;">
 
-[**Click to access Report on misinformation related to the floods in Rio Grande do Sul**](https://drive.google.com/file/d/1tckxBCix13I9gA_UNIW-RKpyyebZuo-Q/view?usp=sharing)
+[**Haga clic para acceder al informe sobre la desinformación relacionada con las inundaciones en Rio Grande do Sul**](https://drive.google.com/file/d/1tckxBCix13I9gA_UNIW-RKpyyebZuo-Q/view?usp=sharing)
 
 </div>
 
 <div style="text-align: justify;">
 
-- The report describes the spread of misinformation and conspiracy theories related to vaccination within extremist groups and channels on Telegram. As a result, we present a preliminary classification of themes, arguments, and spokespersons, along with the connection of content posted on Telegram to the broader multiplatform ecosystem of other networks like YouTube and Twitter.
+- El informe describe la propagación de desinformación y teorías de la conspiración relacionadas con la vacunación dentro de grupos y canales extremistas en Telegram. Como resultado, presentamos una clasificación preliminar de temas, argumentos y portavoces, junto con la conexión del contenido publicado en Telegram con el ecosistema multiplataforma más amplio de otras redes como YouTube y Twitter.
 
 </div>
 
 <div style="text-align: center;">
 
-[**Click to access Report on misinformation and conspiracy theories related to vaccination**](https://drive.google.com/file/d/1OWrhQFYah651cyMC0IfQ-Wgrc8I06xH2/view?usp=sharing)
+[**Haga clic para acceder al informe sobre desinformación y teorías de la conspiración relacionadas con la vacunación**](https://drive.google.com/file/d/1OWrhQFYah651cyMC0IfQ-Wgrc8I06xH2/view?usp=sharing)
 
 </div>
 
@@ -80,14 +80,14 @@ MOCELLIM, A. D. ; BASTOS, D. S. ; MELO, D. V. V. ; GUERRA, E. ; TEIXEIRA, G. S. 
 
 <div style="text-align: justify;">
 
-- In light of the severe attack on democracy carried out by far-right militants on **January 8, 2023**, the team conducted an analysis of some of the communications transmitted by the organizers, participants, and supporters of the coup acts, in 228 groups and 437 channels on the Telegram app.
+- Ante el grave ataque a la democracia llevado a cabo por militantes de extrema derecha el **8 de enero de 2023**, el equipo realizó un análisis de algunas de las comunicaciones transmitidas por los organizadores, participantes y simpatizantes de los actos golpistas, en 228 grupos y 437 canales de la aplicación Telegram.
 
 </div>
 
 
 <div style="text-align: center;">
 
-[**Click to access Report 04**](https://drive.google.com/file/d/19Ku5YeQY6gK4vgIm8_ODGLiijc9d2jV5/view?usp=sharing)
+[**Haga clic para acceder al Informe 04**](https://drive.google.com/file/d/19Ku5YeQY6gK4vgIm8_ODGLiijc9d2jV5/view?usp=sharing)
 
 </div>
 
@@ -96,35 +96,35 @@ MOCELLIM, A. D. ; BASTOS, D. S. ; MELO, D. V. V. ; GUERRA, E. ; TEIXEIRA, G. S. 
 
 <div style="text-align: justify;">
 
-- The purpose of the report is to highlight relevant points in the dynamics of messages from extremist groups and channels in Brazil, analyzing the broader multiplatform ecosystem that has, in Telegram, an anchor for the organized dissemination of content. The analysis covers the time span from **January to June 2022** and emphasizes the possible blocking of Telegram by a Supreme Federal Court decision.
+- El propósito del informe es destacar puntos relevantes de la dinámica de los mensajes de grupos y canales extremistas en Brasil, analizando el ecosistema multiplataforma más amplio que tiene en Telegram un punto de anclaje para la difusión organizada de contenido. El análisis abarca el período de **enero a junio de 2022** y subraya el posible bloqueo de Telegram por una decisión del Supremo Tribunal Federal.
 </div>
 
 <div style="text-align: center;">
 
-[**Click to access Report 01**](https://drive.google.com/file/d/18yztt8v4Qi4P2D_Xa-kCex2Nt4MRG9bT/view?usp=sharing)
+[**Haga clic para acceder al Informe 01**](https://drive.google.com/file/d/18yztt8v4Qi4P2D_Xa-kCex2Nt4MRG9bT/view?usp=sharing)
 
 </div>
 
 <div style="text-align: justify;">
 
-- The second report presents preliminary results of the research "Digital Democracy: Analysis of Disinformation Ecosystems on Telegram during the 2022 Brazilian Electoral Process," highlighting relevant points observed between **August 1 and September 15, 2022**. Telegram continues to be an anchor for the dissemination of disinformation on various topics, fostering political radicalization processes, and taking a leading role in this year's elections.
+- El segundo informe presenta resultados preliminares de la investigación "Democracia digital: análisis de los ecosistemas de desinformación en Telegram durante el proceso electoral brasileño de 2022", destacando puntos relevantes observados entre el **1 de agosto y el 15 de septiembre de 2022**. Telegram sigue siendo un punto de anclaje para la difusión de desinformación sobre diversos temas, fomentando procesos de radicalización política y desempeñando un papel central en las elecciones de ese año.
 
 </div>
 
 <div style="text-align: center;">
 
-[**Click to access Report 02**](https://drive.google.com/file/d/1cEjfyGhqlQ5ET_5j4hWcWPXtMiWsDZmE/view?usp=sharing)
+[**Haga clic para acceder al Informe 02**](https://drive.google.com/file/d/1cEjfyGhqlQ5ET_5j4hWcWPXtMiWsDZmE/view?usp=sharing)
 
 </div>
 
 <div style="text-align: justify;">
 
-- In this third report, we highlight analyses from **September 30 to November 15, 2022**. As pointed out in previous reports, Telegram has served as the backbone of a multiplatform ecosystem of disinformation and radicalization, and during the 2022 elections, it hosted the organization of anti-democratic movements.
+- En este tercer informe, destacamos los análisis del período comprendido entre el **30 de septiembre y el 15 de noviembre de 2022**. Como se señaló en informes anteriores, Telegram ha funcionado como la columna vertebral de un ecosistema multiplataforma de desinformación y radicalización y, durante las elecciones de 2022, albergó la organización de movimientos antidemocráticos.
 
 </div>
 
 <div style="text-align: center;">
 
-[**Click to access Report 03**](https://drive.google.com/file/d/1yYkKNbtSIfkr1Uxk9daf_zmVVGwfnEy1/view?usp=sharing)
+[**Haga clic para acceder al Informe 03**](https://drive.google.com/file/d/1yYkKNbtSIfkr1Uxk9daf_zmVVGwfnEy1/view?usp=sharing)
 
 </div>

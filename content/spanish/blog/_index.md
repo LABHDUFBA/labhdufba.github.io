@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
+title: "Entradas del blog"
 meta_title: ""
-description: "Follow our blog for the latest news and updates"
+description: "Sigue nuestro blog para conocer las últimas noticias y actualizaciones"
 ---

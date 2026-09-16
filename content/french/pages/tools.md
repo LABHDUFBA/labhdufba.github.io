@@ -1,7 +1,7 @@
 ---
-title: "Tools"
-meta_title: "LABHD Tools"
-description: "LABHD Tools"
+title: "Outils"
+meta_title: "Outils du LABHD"
+description: "Outils du LABHD"
 draft: false
 ---
 <style>
@@ -70,57 +70,57 @@ draft: false
 </style>
 {{< toc >}}
 
-## Scielo tools
+## Outils SciELO
 
-Provides tools for scraping, organizing, and analyzing scientific articles from Scielo.br. The ferramentas_scielo_v2 allows scraping by knowledge area or journal, offering options for XML only or XML and PDFs. Includes a tool to convert XMLs to CSV.
+Propose des outils permettant d’extraire, d’organiser et d’analyser des articles scientifiques de Scielo.br. Le logiciel ferramentas_scielo_v2 permet l’extraction par domaine de connaissance ou par revue, avec des options pour récupérer uniquement les fichiers XML ou les fichiers XML et PDF. Il comprend également un outil de conversion des fichiers XML en CSV.
 
-{{< button label="Learn More" link="https://labhdufba.github.io/ferramentas_scielo_v2/" style="solid" >}}
+{{< button label="En savoir plus" link="https://labhdufba.github.io/ferramentas_scielo_v2/" style="solid" >}}
 
-## Anped Scraper
+## Extracteur Anped
 
-A script for web scraping the proceedings of the National Association of Graduate Studies and Research in Education - Anped. It scrapes PDF papers from the 38th, 39th, and 40th national meetings (2017, 2019, 2021) for the Digital Humanities Repository.
+Un script d’extraction automatisée des actes de l’Association nationale des études et de la recherche de troisième cycle en éducation, Anped. Il récupère les articles au format PDF des 38e, 39e et 40e réunions nationales (2017, 2019 et 2021) pour le dépôt des humanités numériques.
 
-{{< button label="Learn More" link="https://github.com/LABHDUFBA/anais_anped" style="solid" >}}
+{{< button label="En savoir plus" link="https://github.com/LABHDUFBA/anais_anped" style="solid" >}}
 
-## COMPOS Scraper
+## Extracteur COMPOS
 
-A script for web scraping the proceedings of the National Association of Graduate Programs in Communication - COMPÓS. It scrapes PDF papers from meetings between 2000 and 2020, creating a database with COMPÓS edition, authors, titles, and PDF links.
+Un script d’extraction automatisée des actes de l’Association nationale des programmes d’études supérieures en communication, COMPÓS. Il récupère les articles au format PDF des réunions organisées entre 2000 et 2020 et crée une base de données comprenant l’édition de COMPÓS, les auteurs, les titres et les liens vers les PDF.
 
-{{< button label="Learn More" link="https://github.com/LABHDUFBA/Anais-COMPOS-scraper" style="solid" >}}
+{{< button label="En savoir plus" link="https://github.com/LABHDUFBA/Anais-COMPOS-scraper" style="solid" >}}
 
-## Anpuh abstracts Scraper
+## Extracteur de résumés Anpuh
 
-A scraper for abstracts from the National History Symposia of the National Association of History - Anpuh. It scrapes abstracts from the 27th to the 31st symposia (2013, 2015, 2017, 2019, 2021).
+Un extracteur de résumés des symposiums nationaux d’histoire de l’Association nationale d’histoire, Anpuh. Il récupère les résumés des 27e au 31e symposiums (2013, 2015, 2017, 2019 et 2021).
 
-{{< button label="Learn More" link="https://github.com/LABHDUFBA/anpuh-scraper" style="solid" >}}
+{{< button label="En savoir plus" link="https://github.com/LABHDUFBA/anpuh-scraper" style="solid" >}}
 
-## Anpuh Scraper
+## Extracteur Anpuh
 
-A script for web scraping the proceedings of the National Association of History - Anpuh. It scrapes PDF papers from all National Symposia of Anpuh from 1963 to 2017.
+Un script d’extraction automatisée des actes de l’Association nationale d’histoire, Anpuh. Il récupère les articles au format PDF de tous les symposiums nationaux de l’Anpuh, de 1963 à 2017.
 
-{{< button label="Learn More" link="https://github.com/LABHDUFBA/Anais-Anpuh" style="solid" >}}
+{{< button label="En savoir plus" link="https://github.com/LABHDUFBA/Anais-Anpuh" style="solid" >}}
 
 ## pyHDB
 
-A tool for aiding research in the Brazilian Digital Newspapers Library of the National Library. It helps document and record research stages precisely, ensuring methodological rigor.
+Un outil d’aide à la recherche dans l’Hémérothèque numérique brésilienne de la Bibliothèque nationale. Il permet de documenter et d’enregistrer avec précision les étapes de la recherche, afin d’en garantir la rigueur méthodologique.
 
-{{< button label="Learn More" link="https://ericbrasiln.github.io/pyHDB/" style="solid" >}}
+{{< button label="En savoir plus" link="https://ericbrasiln.github.io/pyHDB/" style="solid" >}}
 
-## Digital Tools Wiki
+## Wiki des outils numériques
 
-In 2018, the Networked Laboratory of Digital Humanities at the Brazilian Institute of Information in Science and Technology (IBICT) created the first version of the digital tools wiki. The goal was to serve as a reference base and information hub for the dissemination of knowledge in the digital environment aimed at researchers in the field of Information Science (interested in the topic of Digital Humanities) and humanities in general in the Portuguese language.
+En 2018, le Laboratoire en réseau des humanités numériques de l’Institut brésilien de l’information en science et technologie (IBICT) a créé la première version du wiki des outils numériques. Son objectif était de servir de base de référence et de carrefour d’information pour la diffusion de connaissances dans l’environnement numérique, à destination des chercheurs en sciences de l’information intéressés par les humanités numériques et, plus largement, des chercheurs en sciences humaines lusophones.
 
-Starting from 2020, the Larhud Wiki now has the partnership of the Digital Humanities Laboratory at UFBA (LABHD-UFBA), becoming the Wiki of tutorials for digital humanities tools from these two laboratories!
+À partir de 2020, le Wiki Larhud s’est associé au Laboratoire d’humanités numériques de l’UFBA (LABHD-UFBA), devenant le wiki de tutoriels sur les outils des humanités numériques de ces deux laboratoires.
 
-The wiki is entirely in Portuguese, with a glossary and a list of the most commonly used tools for research in digital humanities.
+Le wiki est entièrement en portugais et propose un glossaire ainsi qu’une liste des outils les plus couramment utilisés pour la recherche en humanités numériques.
 
-{{< button label="Learn More" link="http://www.larhud.ibict.br/index.php?title=Página_principal" style="solid" >}}
+{{< button label="En savoir plus" link="http://www.larhud.ibict.br/index.php?title=Página_principal" style="solid" >}}
 
 <div class="upcoming-tools">
-    <h3>Under development</h3>
-    <p>We are actively working on creating and refining new tools and features. Stay tuned for updates on the following projects:</p>
+    <h3>En cours de développement</h3>
+    <p>Nous travaillons activement à la création et à l’amélioration de nouveaux outils et de nouvelles fonctionnalités. Suivez les actualités des projets suivants :</p>
     <div class="highlight-box">
-        <p>Telegram Group Analysis</p>
-        <p>Whatsapp Group Analysis</p>
+        <p>Analyse de groupes Telegram</p>
+        <p>Analyse de groupes WhatsApp</p>
     </div>
 </div>

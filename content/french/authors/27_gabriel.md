@@ -3,7 +3,7 @@ title: Gabriel Andrade
 weight: 27
 email: 
 image: "/images/gabriel_400.jpg"
-description: informações sobre o membro
+description: informations sur le membre
 social:
   - name: github
     icon: fa-brands fa-github
@@ -17,4 +17,4 @@ social:
 
 --- 
 
-Currently, pursuing a degree in Computer Engineering at Federal University of Bahia (UFBA); I work as a Software Engineer with a large experience in Software Development using modern technologies as Python, Node, PHP, Docker and so on.
+Actuellement étudiant en ingénierie informatique à l’Université fédérale de Bahia (UFBA), il travaille comme ingénieur logiciel et possède une vaste expérience du développement logiciel avec des technologies modernes telles que Python, Node, PHP et Docker.

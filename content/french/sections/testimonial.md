@@ -1,38 +1,38 @@
 ---
 enable: true
-title: "Recent Events"
-description: "Events and conferences"
+title: "Événements récents"
+description: "Événements et conférences"
 
 testimonials:
-  - name: "Colloquium on Digital Sociabilities"
+  - name: "Colloque sur les sociabilités numériques"
     designation: "UFMG"
     avatar: "/images/UFMGcoloquiosociabilidades.PNG"
-    content: "In Panel 3, we had insightful discussions led by Leonardo Nascimento (LABHDUFBA), Marco Bastos (University of London), and Felipe Nunes (UFMG and Quaest). On December 10, 2024, the panel explored the role of Digital Humanities and the importance of collaborations in interdisciplinary research."
+    content: "Lors du panel 3, des échanges stimulants ont été menés par Leonardo Nascimento (LABHDUFBA), Marco Bastos (University of London) et Felipe Nunes (UFMG et Quaest). Le 10 décembre 2024, le panel a examiné le rôle des humanités numériques et l’importance des collaborations dans la recherche interdisciplinaire."
 
-  - name: "Latin American Seminar on Computational Social Sciences"
+  - name: "Séminaire latino-américain sur les sciences sociales computationnelles"
     designation: "IFCS-UFRJ"   
     avatar: "/images/seminariolatino.jpg"
-    content: "🌐 Our partner, LABHDUFRJ, promotes interdisciplinarity between the humanities and computational sciences at the event from December 4 to 6. LABHDUFBA participates with Eric Brasil and Leonardo Nascimento, alongside experts from Brazil, Argentina, Mexico, and Colombia, who will discuss topics such as social media analysis, the impact of algorithms, and innovative research methods."
+    content: "🌐 Notre partenaire, le LABHDUFRJ, promeut l’interdisciplinarité entre les sciences humaines et les sciences computationnelles lors de cet événement, du 4 au 6 décembre. Le LABHDUFBA y participe avec Eric Brasil et Leonardo Nascimento, aux côtés de spécialistes du Brésil, d’Argentine, du Mexique et de Colombie, qui débattront de sujets tels que l’analyse des médias sociaux, l’impact des algorithmes et les méthodes de recherche innovantes."
 
-  - name: "1st UFBA Digital Humanities Week"
-    designation: "Academic Event"
+  - name: "1re Semaine des humanités numériques de l’UFBA"
+    designation: "Événement universitaire"
     avatar: "/images/CARD 1 SEMANA.jpg"
-    content: "A unique opportunity to become familiar with essential digital tools, aimed at both the job market and the academic environment. [*Click here for event details*](https://tinyurl.com/semana-labhdufba)"
+    content: "Une occasion unique de se familiariser avec des outils numériques essentiels, destinés tant au marché du travail qu’au milieu universitaire. [*Cliquez ici pour consulter les informations sur l’événement*](https://tinyurl.com/semana-labhdufba)"
 
-  - name: "5th National Conference on ST&I"
-    designation: "National Conference on Science, Technology, and Innovation"
+  - name: "5e Conférence nationale sur la science, la technologie et l’innovation"
+    designation: "Conférence nationale sur la science, la technologie et l’innovation"
     avatar: "/images/gallery/5-cti.jpeg"
-    content: "Participation of Leonardo Nascimento in the panel **Illuminating the Digital Ocean: scientific cooperation for transparency and informational integrity**, which will take place on April 2, 2024, at 2:00 PM, at Capes in Brasília. [*Access the event details here*](https://labhdufba.github.io/publications/)"
+    content: "Participation de Leonardo Nascimento à la table ronde **Éclairer l’océan numérique : coopération scientifique pour la transparence et l’intégrité informationnelle**, qui se tiendra le 2 avril 2024 à 14 h, à la Capes, à Brasília. [*Accédez ici aux informations sur l’événement*](https://labhdufba.github.io/publications/)"
 
-  - name: "IX History Week"
+  - name: "IXe Semaine d’histoire"
     designation: "UNIFAL-MG"
     avatar: "/images/gallery/sem_hist.jpeg"
-    content: "Participation of Eric Brasil in the panel **Are we from the humanities? Technical and environmental challenges to the Historian's profession**, on April 10, 2024, at 7:00 PM"
+    content: "Participation d’Eric Brasil à la table ronde **Sommes-nous des sciences humaines ? Défis techniques et environnementaux du métier d’historien**, le 10 avril 2024 à 19 h"
 
   - name: "ICL News"
     designation: "ICL"
     avatar: "/images/avatar-sm.png"
-    content: "Participation of Professor Leonardo Nascimento in the Instituto Conhecimento Liberta livestream about **disinformation on the Telegram platform** in February 2024."
+    content: "Participation du professeur Leonardo Nascimento à une émission en direct de l’Instituto Conhecimento Liberta consacrée à la **désinformation sur la plateforme Telegram** en février 2024."
 
 # don't create a separate page
 build:

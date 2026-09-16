@@ -3,7 +3,7 @@ title: Graziela de Souza Teixeira
 weight: 9
 email: grazistx@gmail.com
 image: "/images/grazi_400.jpeg"
-description: infos about member
+description: 成员信息
 social:
   - name: bluesky
     icon: fa fa-link
@@ -15,4 +15,4 @@ social:
 
 ---
 
-Graduated in Anthropology from the Federal University of Santa Catarina (UFSC, 2025) and in Business Administration from the University of Vale do Paraíba (UNIVAP, 1998); Postgraduate degree in Accounting and Financial Administration from Fundação Armando Álvares Penteado (FAAP, 2000).
+获圣卡塔琳娜联邦大学（UFSC）人类学学位（2025年）和帕拉伊巴谷大学（UNIVAP）工商管理学位（1998年）；获 Fundação Armando Álvares Penteado（FAAP）会计与财务管理研究生学位（2000年）。

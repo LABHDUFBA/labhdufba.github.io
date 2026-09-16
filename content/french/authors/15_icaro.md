@@ -3,7 +3,7 @@ title: Ícaro Bernardes dos Santos Coutinho
 weight: 15
 email: asaicaro@gmail.com
 image: "/images/icaro_400.jpg"
-description: [Brief description about the member]
+description: [Brève description du membre]
 social:
   - name: github
     icon: fa-brands fa-github
@@ -18,4 +18,4 @@ social:
     link: https://www.linkedin.com/in/icarobsc/
 ---
 
-Data scientist with a strong focus on data analysis, modeling, and visualization; Has experience in academic research and client-oriented projects. His work spans a broad spectrum, including optimization using heuristic methods, analysis of losses in the supply chain of blood derivatives, and impact assessment of social projects, the latter being the subject of his master's project at UFBA.
+Scientifique des données, fortement axé sur l’analyse, la modélisation et la visualisation de données, il possède une expérience de la recherche universitaire et de projets orientés vers les clients. Son travail couvre un large éventail de domaines, notamment l’optimisation par méthodes heuristiques, l’analyse des pertes dans la chaîne d’approvisionnement en dérivés sanguins et l’évaluation de l’impact de projets sociaux, ce dernier sujet constituant son projet de master à l’UFBA.

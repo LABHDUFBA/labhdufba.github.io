@@ -3,7 +3,7 @@ title: Leonardo F. Nascimento
 weight: 1
 email: leofn@ufba.br
 image: "/images/leonardo-nascimento_400.png"
-description: infos about member
+description: 成员信息
 social:
   - name: github
     icon: fa-brands fa-github
@@ -22,4 +22,4 @@ social:
     link: https://leofn.com/
 ---
 
-I am a Chemical Technician, graduated in Psychology, MA in Sociology (2007), PhD in Sociology and the coordinator of the Digital Humanities Laboratory at UFBA.
+我是化学技术员，拥有心理学学位、社会学硕士学位（2007年）和社会学博士学位，现任 UFBA 数字人文实验室协调人。

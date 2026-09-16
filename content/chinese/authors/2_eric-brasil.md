@@ -3,7 +3,7 @@ title: Eric Brasil
 weight: 2
 email: ericbraisln@proton.me
 image: "/images/eric-brasil_400.png"
-description: infos about member
+description: 成员信息
 social:
   - name: github
     icon: fa-brands fa-github
@@ -31,4 +31,4 @@ social:
 
 ---
 
-Professor at the Institute of Humanities and Languages at the University for the International Integration of Afro-Brazilian Lusophony (IHLM/UNILAB); PhD (2016) and MA (2011) in History from the Federal Fluminense University; Managing Editor of Programming Historian in Portuguese.
+非裔巴西葡语国家国际一体化大学（IHLM/UNILAB）人文与语言学院教授；弗鲁米嫩塞联邦大学历史学硕士（2011年）、博士（2016年）；葡萄牙语版 Programming Historian 执行编辑。

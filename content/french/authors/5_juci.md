@@ -3,7 +3,7 @@ title: Juciane Pereira de Jesus
 weight: 5
 email: juciane_pereira1997@outlook.com
 image: "/images/juci_400.jpg"
-description: infos about member
+description: informations sur le membre
 social:
   - name: github
     icon: fa-brands fa-github
@@ -19,4 +19,4 @@ social:
 
 ---
 
-Doctoral student in Sociology at the University of São Paulo (USP); holds a degree in Social Sciences (2022) from the Federal University of Bahia (UFBA), a teaching degree in Sociology (UFBA), and a Master in Social Sciences from the Graduate Program in Social Sciences (PPGCS/UFBA). She is a researcher at the Digital Humanities Laboratory (LABHDUFBA). Her research interests include Digital Sociology, Digital Research Methods, Social Media, Health-Related Misinformation, and the Far Right in Brazil.
+Doctorante en sociologie à l’Université de São Paulo (USP), elle est diplômée en sciences sociales (2022) de l’Université fédérale de Bahia (UFBA), titulaire d’un diplôme d’enseignement en sociologie (UFBA) et d’un master en sciences sociales du programme de troisième cycle en sciences sociales (PPGCS/UFBA). Elle est chercheuse au Laboratoire des humanités numériques (LABHDUFBA). Ses intérêts de recherche comprennent la sociologie numérique, les méthodes de recherche numérique, les médias sociaux, la désinformation liée à la santé et l’extrême droite au Brésil.

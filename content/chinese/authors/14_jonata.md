@@ -19,4 +19,4 @@ social:
 
 ---
 
-I am conducting doctoral research on Innovation Policies guiding the management of actions and projects in publicly owned ICTs, focusing on a civic-democratic approach to Social Innovation. My other research interests include Sociological and Post-Colonial Perspectives in Science, Technology, and Innovation (ST&I), the role of Digital Humanities in driving innovations within publicly owned ICTs, and the interrelation between Ethics, Citizenship, and Human Rights in ST&I. Additionally, I explore the roles, uses, and meanings of Sociology in scientific production and in the development of technologies and innovations within the Federal Network of Professional and Technological Education.
+我正在开展博士研究，探讨指导公有 ICT 行动与项目管理的创新政策，重点关注社会创新的公民民主路径。我的其他研究兴趣包括科学、技术与创新（ST&I）的社会学与后殖民视角、数字人文在推动公有 ICT 创新中的作用，以及 ST&I 中伦理、公民身份与人权之间的相互关系。此外，我还研究社会学在科学产出中的角色、用途与意义，以及其在联邦职业与技术教育网络内技术和创新发展中的作用。

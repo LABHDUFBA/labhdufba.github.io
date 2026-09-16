@@ -3,7 +3,7 @@ title: Jaime Cativa
 weight: 25
 email: 
 image: "/images/jaime_400.jpg"
-description: informações sobre o membro
+description: informations sur le membre
 social:
   - name: facebook
     icon: fa-brands fa-facebook
@@ -19,4 +19,4 @@ social:
     
 --- 
 
-Student representative of the Interdisciplinary Bachelor in Humanities at the Institute of Humanities and Letters of the University for International Integration of the Afro-Brazilian Lusophony (IHLM/UNILAB). Completed teacher training in the field of History and Geography in Angola; has extensive experience in audiovisuals and information and communication technologies.
+Représentant des étudiants de la licence interdisciplinaire en sciences humaines à l’Institut des sciences humaines et des lettres de l’Université de l’intégration internationale de la lusophonie afro-brésilienne (IHLM/UNILAB). Il a suivi une formation d’enseignant en histoire et géographie en Angola et possède une vaste expérience dans l’audiovisuel ainsi que dans les technologies de l’information et de la communication.

@@ -1,30 +1,30 @@
 ---
 title: "Articles"
 # meta title
-meta_title: "Articles - publications du LABHDUFBA"
+meta_title: "Articles - LABHDUFBA pub"
 # meta description
-description: "Publications du LABHDUFBA"
+description: "LABHDUFBA publications"
 # save as draft
 draft: false
 ---
 
 ##### 2026
 
-NASCIMENTO, Leonardo F. et al. Social-RAG: A Retrieval-Augmented Generation Pipeline for Computational Social Science Research on Telegram. SocArXiv, [prépublication], 19 févr. 2026. Disponible à l’adresse suivante : <https://osf.io/preprints/socarxiv/wmc2q_v1/>. Consulté le 20 févr. 2026
+NASCIMENTO, Leonardo F. et al. Social-RAG: A Retrieval-Augmented Generation Pipeline for Computational Social Science Research on Telegram. SocArXiv, [Preprint], Feb. 19, 2026. Available at: <https://osf.io/preprints/socarxiv/wmc2q_v1/>. Accessed: Feb. 20, 2026
 
-CESARINO, Letícia. An Ecology of Mind Approach to Far-Right Publics in Brazil. Current Anthropology, p. S000–S000, 3 févr. 2026.
+CESARINO, Letícia. An Ecology of Mind Approach to Far-Right Publics in Brazil. Current Anthropology, p. S000–S000, Feb. 3, 2026.
 
-CESARINO, Letícia Maria Costa da Nóbrega; NASCIMENTO, Leonardo Fernandes; FONSECA, Paulo. Democracy "Inside Out": On Far-Right Refracted Publics in Brazil. Dans : The Routledge Companion to Digital Media and Democracy. [S.l.]: Routledge, 2026.
+CESARINO, Letícia Maria Costa da Nóbrega; NASCIMENTO, Leonardo Fernandes; FONSECA, Paulo. Democracy "Inside Out": On Far-Right Refracted Publics in Brazil. In: The Routledge Companion to Digital Media and Democracy. [S.l.]: Routledge, 2026.
 
-NOTHAFT, Raíssa J. et al. Visual and Narrative Patterns of Online Misogyny: A Computer Vision Analysis of Telegram Chats. SocArXiv, [prépublication], 14 févr. 2026. Disponible à l’adresse suivante : <https://osf.io/preprints/socarxiv/wvn9e_v1/>. Consulté le 13 mars 2026
+NOTHAFT, Raíssa J. et al. Visual and Narrative Patterns of Online Misogyny: A Computer Vision Analysis of Telegram Chats. SocArXiv, [Preprint], Feb. 14, 2026. Available at: <https://osf.io/preprints/socarxiv/wvn9e_v1/>. Accessed: Mar. 13, 2026
 
 ##### 2025
 
-NEPOMUCENO, Eric Brasil. Interfaces de hemerotecas digitais em português: análise crítica e desafios para o desenvolvimento de uma nova geração de acervos históricos. Matraga - Revista do Programa de Pós-Graduação em Letras da UERJ, v. 32, n. 65, p. 325–346, 31 mai 2025.
+NEPOMUCENO, Eric Brasil. Interfaces de hemerotecas digitais em português: análise crítica e desafios para o desenvolvimento de uma nova geração de acervos históricos. Matraga - Revista do Programa de Pós-Graduação em Letras da UERJ, v. 32, n. 65, p. 325–346, May 31, 2025.
 
-CESARINO, Letícia. Crise permanente e a metapolítica das plataformas: preempção, radicalização, aceleração. Revista Brasileira de Estudos CTS, v. 0, n. 1, p. 69–87, 12 sept. 2025.
+CESARINO, Letícia. Crise permanente e a metapolítica das plataformas: preempção, radicalização, aceleração. Revista Brasileira de Estudos CTS, v. 0, n. 1, p. 69–87, Sep. 12, 2025.
 
-NASCIMENTO, L. F. *et al.* **[Intankável o Bostil: racismo, misoginia e antissemitismo em chats do Telegram (2020–2023)](https://www.academia.edu/144322575/G%C3%AAnero_e_Sexualidade_na_ruptura_do_Direito_disputas_localizadas_epistemes_mobilizadas_interseccionalidades_e_poli_ticas_pu_blicas)**. Dans : **Gênero e sexualidade na ruptura do direito: disputas localizadas, epistemes mobilizadas, interseccionalidades e políticas públicas**. 2025.
+NASCIMENTO, L. F. *et al.* **[Intankável o Bostil: racismo, misoginia e antissemitismo em chats do Telegram (2020–2023)](https://www.academia.edu/144322575/G%C3%AAnero_e_Sexualidade_na_ruptura_do_Direito_disputas_localizadas_epistemes_mobilizadas_interseccionalidades_e_poli_ticas_pu_blicas)**. In: **Gênero e sexualidade na ruptura do direito: disputas localizadas, epistemes mobilizadas, interseccionalidades e políticas públicas**. 2025.
 
 ##### 2024
 
@@ -32,7 +32,7 @@ WEDDERBURN, Rosana Silva Moore; JESUS, Juciane Pereira de; TEIXEIRA, Graziela de
 
 JESUS, Juciane Pereira de; NASCIMENTO, Leonardo Fernandes; CESARINO, Leticia Maria Costa da Nobrega; FONSECA, Paulo de Freitas Castro; BARRETO, Tarssio Brito. **[Tradições de pensamento anticomunista: as teorias da conspiração e o modus operandi do golpismo em grupos bolsonaristas do Telegram](https://apd.org.br/anexo-tradicoes-de-pensamento-anticomunista-as-teorias-da-conspiracao-e-o-modus-operandi-do-golpismo-em-grupos-bolsonaristas-do-telegram-traditions-of-anti-communist-thought-cons/)**. **Polifonia: Revista Internacional da Academia Paulista de Direito**, n. 13, Nova Série, 2024, Outono/Inverno.
 
-NASCIMENTO, Leonardo Fernandes. **[Humanidades Digitais e Vigilância pela Democracia](https://drive.google.com/file/d/11jYi4dSKf3qigI05A1KGYv9Y9-sCvmE0/view)**. Dans : SANTOS JUNIOR, Jorge Luiz dos (Org.). **Nanotecnologia, Sociedade e Meio Ambiente: Convergências, Divergências e Insurgências Tecnológicas**. Curitiba: Editora CRV, 2024. p. 133-144.
+NASCIMENTO, Leonardo Fernandes. **[Humanidades Digitais e Vigilância pela Democracia](https://drive.google.com/file/d/11jYi4dSKf3qigI05A1KGYv9Y9-sCvmE0/view)**. In: SANTOS JUNIOR, Jorge Luiz dos (Org.). **Nanotecnologia, Sociedade e Meio Ambiente: Convergências, Divergências e Insurgências Tecnológicas**. Curitiba: Editora CRV, 2024. p. 133-144.
 
 SCHEREN, M. L.; RODRIGUES, V. S.; LÓPEZ ZAMORA, G. D.; CESARINO, L.; NASCIMENTO, L. F.; FONSECA, P.; BARRETO, T. **[Métodos mistos para a antropologia digital: um relato de experiência sobre a análise de grupos bolsonaristas na plataforma Telegram](https://doi.org/10.1590/1806-9983e680407)**. Horizontes Antropológicos, v. 30, p. e680407, 12 fev. 2024. 
 
@@ -42,7 +42,7 @@ SCHEREN, M. L.; RODRIGUES, V. S.; LÓPEZ ZAMORA, G. D.; CESARINO, L.; NASCIMENTO
 
 NASCIMENTO, L.; CESARINO, L.; FONSECA, P. **[Far-right publics on Brazilian Telegram: a mixed-methods approach to digital anthropology](https://unesdoc.unesco.org/ark:/48223/pf0000384901?fbclid=PAAaYTjUhU1xAsgLh-alU1N9HvzRTb81awgiQH0T9qenpXh2MnLbHahM8SBN8_aem_AXd6ekQU0vVsrNXUiJcN7tXeY_ANUn9_V8mus861IZmIPH4s8H5F-f8ihWLFdq86V9o)**. UNESCO, LiiV Center for Innovating Digital Anthropology (USA), 2023.
 
-NASCIMENTO, L.; BERNARDES, I. **[Monitor Alepe: Solucionando problemas de classificação com uso de inteligência artificial](https://congesp.rn.gov.br/anais/v-16/experiencias-inovadoras-na-gestao-publica/monitor-alepe-solucionando-problemas-de-classificacao-com-uso-de-inteligencia-artificial.pdf)**. Dans : **16º Congresso de Gestão Pública do Rio Grande do Norte**, 2023.
+NASCIMENTO, L.; BERNARDES, I. **[Monitor Alepe: Solucionando problemas de classificação com uso de inteligência artificial](https://congesp.rn.gov.br/anais/v-16/experiencias-inovadoras-na-gestao-publica/monitor-alepe-solucionando-problemas-de-classificacao-com-uso-de-inteligencia-artificial.pdf)**. In: **16º Congresso de Gestão Pública do Rio Grande do Norte**, 2023.
 
 BRASIL, Eric. **[Git como ferramenta metodológica em projetos de História (parte 1)](https://doi.org/10.46430/phpt0045)**. Programming Historian em português, v. 3, 2023.
 
@@ -60,7 +60,7 @@ MACÊDO, P. F. C. et al. **[Weight stigma in the COVID-19 pandemic: a scoping re
 
 NASCIMENTO, L.; CESARINO, L.; FONSECA, P.; BARRETO, T.; MUSSA, V. **[Públicos refratados: grupos de extrema-direita brasileiros na plataforma Telegram](https://revista.internetlab.org.br/wp-content/uploads/2023/01/publicos.pdf)**. Internet&Sociedade, v. 3, n. 1, p. 31-60, agosto de 2022.
 
-BRASIL, Eric; NASCIMENTO, Leonardo. **[Por uma História Social Digital: o uso do CAQDAS na pesquisa e escrita da História](https://www.amazon.com.br/História-digital-historiografia-recursos-demandas-ebook/dp/B0B5Y63944/ref=sr_1_1)**. Dans : BARROS, J. D. (Org.). **História digital: A historiografia diante dos recursos e demandas de um novo tempo**. Petrópolis: Editora Vozes, 2022.
+BRASIL, Eric; NASCIMENTO, Leonardo. **[Por uma História Social Digital: o uso do CAQDAS na pesquisa e escrita da História](https://www.amazon.com.br/História-digital-historiografia-recursos-demandas-ebook/dp/B0B5Y63944/ref=sr_1_1)**. In: BARROS, J. D. (Org.). **História digital: A historiografia diante dos recursos e demandas de um novo tempo**. Petrópolis: Editora Vozes, 2022.
 
 BRASIL, Eric. **[pyHDB - Ferramenta Heurística para a Hemeroteca Digital Brasileira: utilizando técnicas de web scraping para a pesquisa em História](https://doi.org/10.15848/hh.v15i40.1904)**. História da Historiografia: International Journal of Theory and History of Historiography, Ouro Preto, v. 15, n. 40, p. 186-217, 2022.
 
@@ -72,7 +72,7 @@ BRANDÃO, M. F.; SILVA, G. T. R. da; TEIXEIRA, G. A. da S.; NASCIMENTO, L. F.; Q
 
 NASCIMENTO, L. F.; FONSECA, P. de F. C.; JESUS, J. P. de; OLIVEIRA, J. B. de. **[Poder oracular e ecossistemas digitais de comunicação: a produção de zonas de ignorância durante a pandemia de Covid-19 no Brasil](https://revistas.unisinos.br/index.php/fronteiras/article/view/22620)**. Revista Fronteiras: estudos midiáticos, v. 23, n. 2, maio/agosto, 2021.
 
-PARANHOS, M. A. V. O. **[O ofício de sociólogo 2.0: metodologia da pesquisa na sociologia digital](https://www.sbs2021.sbsociologia.com.br/atividade/view?q=YToyOntzOjY6InBhcmFtcyI7czozNToiYToxOntzOjEyOiJJRF9BVElWSURBREUiO3M6MjoiNDYiO30iO3M6MToiaCI7czozMjoiMzFjOTFkNDAzMDBmMTQyMWE0MWRiZWM4NjQ4ZTUyYTkiO30%3D&ID_ATIVIDADE=46)**. Dans : **XX Congresso Brasileiro de Sociologia**, 2021, Belém – PA. Anais do XX Congresso Brasileiro de Sociologia, 2021.
+PARANHOS, M. A. V. O. **[O ofício de sociólogo 2.0: metodologia da pesquisa na sociologia digital](https://www.sbs2021.sbsociologia.com.br/atividade/view?q=YToyOntzOjY6InBhcmFtcyI7czozNToiYToxOntzOjEyOiJJRF9BVElWSURBREUiO3M6MjoiNDYiO30iO3M6MToiaCI7czozMjoiMzFjOTFkNDAzMDBmMTQyMWE0MWRiZWM4NjQ4ZTUyYTkiO30%3D&ID_ATIVIDADE=46)**. In: **XX Congresso Brasileiro de Sociologia**, 2021, Belém – PA. Anais do XX Congresso Brasileiro de Sociologia, 2021.
 
 ------
 
@@ -84,19 +84,19 @@ NASCIMENTO, Leonardo; CESARINO, Letícia; FONSECA, Paulo. **['Quando se está mo
 
 BRASIL, E.; NASCIMENTO, L. F. **[História Digital: reflexões a partir da hemeroteca digital brasileira e do uso de CAQDAS na reelaboração da pesquisa histórica](https://www.scielo.br/j/eh/a/XNJJWhFFzPKdkhF6cyj5BJv/?lang=pt)**. Estudos Históricos (Rio de Janeiro), v. 33, n. 69, p. 196–219, abr. 2020.
 
-RUSSI, Pedro; NASCIMENTO, Leonardo F. **[Proposta e processos metodológicos](https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/livros/livros/200824_lv_199651_midiatizacao_web.PDF#page=11)**. Dans : VIANA, André Rego (Org.). **A midiatização do refúgio no Brasil (2010-2018)**. p. 9-36, 2020.
+RUSSI, Pedro; NASCIMENTO, Leonardo F. **[Proposta e processos metodológicos](https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/livros/livros/200824_lv_199651_midiatizacao_web.PDF#page=11)**. In: VIANA, André Rego (Org.). **A midiatização do refúgio no Brasil (2010-2018)**. p. 9-36, 2020.
 
-MUSSA, Vítor. **[Indústria 4.0 e microtabalho de plataforma: uma análise da gestão digital do processo de trabalho na Amazon Mechanical Turk e seu papel na constituição das fábricas inteligentes](https://www.anpocs2020.sinteseeventos.com.br/trabalho/view?ID_TRABALHO=3347)**. Dans : **44º Encontro Anual da ANPOCS**, 2020. Anais do 44º Encontro Anual da ANPOCS [S.l: s.n.], 2020.
+MUSSA, Vítor. **[Indústria 4.0 e microtabalho de plataforma: uma análise da gestão digital do processo de trabalho na Amazon Mechanical Turk e seu papel na constituição das fábricas inteligentes](https://www.anpocs2020.sinteseeventos.com.br/trabalho/view?ID_TRABALHO=3347)**. In: **44º Encontro Anual da ANPOCS**, 2020. Anais do 44º Encontro Anual da ANPOCS [S.l: s.n.], 2020.
 
 PARANHOS, M. A. V. O.; NERY, M. S. S. **[Os usos sociais dos aplicativos de relacionamento: intersecções entre gênero, sexualidade e raça no Recôncavo Baiano](https://periodicos.ufba.br/index.php/cadgendiv/article/view/37509)**. Cadernos de Gênero e Diversidade, v. 6, n. 4, p. 200-227, 2020. DOI: https://doi.org/10.9771/cgd.v6i4.37509.
 
-PARANHOS, M. A. V. O.; NERY, M. S. S. **[De olho no boy: aplicativos de relacionamento no Recôncavo Baiano](https://ufrb.edu.br/editora/titulos-publicados)**. Dans : FERREIRA, Maria Inês; MAIA, Suzana Moura; WEISHEIMER, Nilson (Orgs.). **Estudos em identidades, desigualdades e desenvolvimento**. 1ª ed., v. 14, p. 75-95. Cruz das Almas: EDUFRB, 2020.
+PARANHOS, M. A. V. O.; NERY, M. S. S. **[De olho no boy: aplicativos de relacionamento no Recôncavo Baiano](https://ufrb.edu.br/editora/titulos-publicados)**. In: FERREIRA, Maria Inês; MAIA, Suzana Moura; WEISHEIMER, Nilson (Orgs.). **Estudos em identidades, desigualdades e desenvolvimento**. 1ª ed., v. 14, p. 75-95. Cruz das Almas: EDUFRB, 2020.
 
 ------
 
 ##### 2018
 
-NASCIMENTO, Leonardo. **[O uso do ATLAS. ti na pesquisa em Ciências Sociais: aspectos metodológicos e epistemológicos](https://www.researchgate.net/profile/Paulo-Cesar-Alves/publication/329629698_Novas_fronteiras_metodologicas_nas_ciencias_sociais/links/628fe8eb6886635d5ca5df7a/Novas-fronteiras-metodologicas-nas-ciencias-sociais.pdf#page=239)**. Dans : NASCIMENTO, Leonardo; ALVES, Paulo Cesar (Orgs.). **Novas fronteiras metodológicas nas ciências sociais**. EDUFBA, 2018. p. 239-264.
+NASCIMENTO, Leonardo. **[O uso do ATLAS. ti na pesquisa em Ciências Sociais: aspectos metodológicos e epistemológicos](https://www.researchgate.net/profile/Paulo-Cesar-Alves/publication/329629698_Novas_fronteiras_metodologicas_nas_ciencias_sociais/links/628fe8eb6886635d5ca5df7a/Novas-fronteiras-metodologicas-nas-ciencias-sociais.pdf#page=239)**. In: NASCIMENTO, Leonardo; ALVES, Paulo Cesar (Orgs.). **Novas fronteiras metodológicas nas ciências sociais**. EDUFBA, 2018. p. 239-264.
 
 NASCIMENTO, Leonardo; ALVES, Paulo Cesar (Orgs.). **[Novas fronteiras metodológicas nas ciências sociais](https://www.researchgate.net/publication/329629698_Novas_fronteiras_metodologicas_nas_ciencias_sociais)**. EDUFBA, 2018.
 
@@ -106,7 +106,7 @@ NASCIMENTO, L.; ALECRIM, M.; OLIVEIRA, J.; OLIVEIRA, M.; COSTA, S. **[“Não fa
 
 ##### 2017
 
-NASCIMENTO, L. **[Combinando webscraping em R e ATLAS.ti na pesquisa em ciências sociais: as possibilidades e desafios da sociologia digital](https://www.researchgate.net/publication/317343570_Combinando_webscraping_em_R_e_ATLASti_na_pesquisa_em_ciencias_sociais_as_possibilidades_e_desafios_da_sociologia_digital)**. Dans : **18º Congresso Brasileiro de Sociologia**, 2017.
+NASCIMENTO, L. **[Combinando webscraping em R e ATLAS.ti na pesquisa em ciências sociais: as possibilidades e desafios da sociologia digital](https://www.researchgate.net/publication/317343570_Combinando_webscraping_em_R_e_ATLASti_na_pesquisa_em_ciencias_sociais_as_possibilidades_e_desafios_da_sociologia_digital)**. In: **18º Congresso Brasileiro de Sociologia**, 2017.
 
 ------
 

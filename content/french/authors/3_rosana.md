@@ -3,11 +3,11 @@ title: Rosana Moore
 weight: 3
 email: melzana@gmail.com 
 image: "/images/rosana_400.png"
-description: infos about member
+description: informations sur le membre
 social:
   - name: lattes
     icon: fa-regular fa-user
     link: http://lattes.cnpq.br/2546352728913607
 ---
 
-Rosana Silva Chagas, currently Rosana Silva Moore Wedderburn, holds a PhD in Sociology (2019) and a Master in Sociology (2012) from the Postgraduate Program at the Institute of Social and Political Studies (IESP) of the State University of Rio de Janeiro (UERJ). She holds a degree in Sociology from the Federal University of Bahia (2007). Her experience is in the field of Sociology, with emphasis on racial relations, urban sociology, and criminology, focusing mainly on violence, genocide, homicides, and racial inequalities.
+Rosana Silva Chagas, aujourd’hui Rosana Silva Moore Wedderburn, est docteure en sociologie (2019) et titulaire d’un master en sociologie (2012) du programme de troisième cycle de l’Institut d’études sociales et politiques (IESP) de l’Université d’État de Rio de Janeiro (UERJ). Elle est diplômée en sociologie de l’Université fédérale de Bahia (2007). Son expérience relève du domaine de la sociologie, avec un accent sur les relations raciales, la sociologie urbaine et la criminologie, et porte principalement sur la violence, le génocide, les homicides et les inégalités raciales.

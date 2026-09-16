@@ -1,7 +1,7 @@
 ---
-title: "Research"
+title: "Recherche"
 meta_title: ""
-description: "Page with ongoing research"
+description: "Page consacrée aux recherches en cours"
 draft: false
 ---
 
@@ -17,53 +17,53 @@ draft: false
 
 {{< toc >}}
 
-## Data Mining for Digital Humanities
+## Fouille de données pour les humanités numériques
 
 <div style="text-align: center;">
-    <img src="/images/research-data-mining.png" alt="ilustration of data mining for digital humanities" width="300">
+    <img src="/images/research-data-mining.png" alt="illustration de la fouille de données pour les humanités numériques" width="300">
 </div>
 
-The acquisition of computational skills in research practice across various fields of the humanities is one of the pillars of what is being called Digital Humanities. Currently, a multitude of digital tools are available that assist in the extraction and assembly of databases, in the analysis and interpretation of this material, and finally, in the organization and dissemination of results. LABHDUFBA develops data extraction algorithms for the web and digital social networks. Furthermore, it aims to provide critical reflection on how these digital tools may represent new ways of structuring imagination and investigations in different humanities fields, requiring us to evaluate 'how far it is possible to think' within the logics that structure these algorithms.
+L’acquisition de compétences computationnelles dans les pratiques de recherche de différents domaines des sciences humaines constitue l’un des piliers de ce que l’on appelle les humanités numériques. Aujourd’hui, une multitude d’outils numériques permettent d’extraire et de constituer des bases de données, d’analyser et d’interpréter ces matériaux, puis d’organiser et de diffuser les résultats. Le LABHDUFBA développe des algorithmes d’extraction de données pour le web et les réseaux sociaux numériques. Il entend également proposer une réflexion critique sur la manière dont ces outils numériques peuvent représenter de nouvelles façons de structurer l’imagination et les investigations dans différents domaines des sciences humaines, ce qui nous oblige à évaluer « jusqu’où il est possible de penser » dans les logiques qui structurent ces algorithmes.
 
 
-## Analysis of Multi-Platform Ecosystems of Disinformation and Radicalization through Telegram
+## Analyse des écosystèmes multiplateformes de désinformation et de radicalisation par l’intermédiaire de Telegram
 
 <div style="text-align: center;">
-    <img src="/images/telegram.jpg" alt="Telegram Project" width="300">
+    <img src="/images/telegram.jpg" alt="Projet Telegram" width="300">
 </div>
 
 
-This project establishes a multi-method framework to map and analyze the multi-platform ecosystem of political extremism networks through the Telegram app. It monitors computational propaganda activities, coordinated influence operations, and hate speech (misogyny, racism, LGBTQIA+phobia) using corpus linguistics (CL), natural language processing (NLP), discourse analysis, and online ethnography.
+Ce projet met en place un cadre multiméthode pour cartographier et analyser l’écosystème multiplateforme des réseaux d’extrémisme politique au moyen de l’application Telegram. Il suit les activités de propagande computationnelle, les opérations d’influence coordonnées et les discours de haine (misogynie, racisme, LGBTQIA+phobie) à l’aide de la linguistique de corpus, du traitement automatique du langage naturel (TALN), de l’analyse du discours et de l’ethnographie en ligne.
 
-{{< button label="Back to top" link="/research/" style="solid" >}}
+{{< button label="Retour en haut" link="/research/" style="solid" >}}
 
 
-## Digital History
+## Histoire numérique
 
 <div style="text-align: center;">
-    <img src="/images/research-digital-history.png" alt="ilustration of digital history" width="300">
+    <img src="/images/research-digital-history.png" alt="illustration de l’histoire numérique" width="300">
 </div>
 
-Research in the field of Digital History has been developed in direct partnership between LABHDUFBA and the undergraduate History program of the University for International Integration of Afro-Brazilian Lusophony, Malês campus. We aim to develop empirical research and theoretical discussions based on digitized documentary collections archived in online repositories. The goal is to produce methodological reflections through the use of digital tools that enable new historiographical approaches and the construction of new historical problems for research, teaching, and writing. These reflections seek to directly engage with debates on race, racism, and rights in the Americas. Currently, we work together on the assessment, creation, and enhancement of research tools for historical research, especially R and Python scripts for internet data scraping (web scraping).
+La recherche dans le domaine de l’histoire numérique est développée dans le cadre d’un partenariat direct entre le LABHDUFBA et la licence d’histoire de l’Université de l’intégration internationale de la lusophonie afro-brésilienne, campus des Malês. Nous visons à développer des recherches empiriques et des discussions théoriques fondées sur des collections documentaires numérisées, archivées dans des dépôts en ligne. L’objectif est de produire des réflexions méthodologiques à partir de l’utilisation d’outils numériques qui permettent de nouvelles approches historiographiques et la construction de nouveaux problèmes historiques pour la recherche, l’enseignement et l’écriture. Ces réflexions cherchent à s’inscrire directement dans les débats sur la race, le racisme et les droits dans les Amériques. Nous travaillons actuellement à l’évaluation, à la création et à l’amélioration d’outils de recherche historique, notamment de scripts R et Python destinés à l’extraction de données sur Internet (web scraping).
 
-{{< button label="Back to top" link="/research/" style="solid" >}}
+{{< button label="Retour en haut" link="/research/" style="solid" >}}
 
-## Ethical, Social, and Political Implications of Digital Technoscience
+## Implications éthiques, sociales et politiques de la technoscience numérique
 
 <div style="text-align: center;">
-    <img src="/images/sts.jpg" alt="Ilustration of digital history" width="300">
+    <img src="/images/sts.jpg" alt="Illustration de l’histoire numérique" width="300">
 </div>
 
-Understanding the ethical, social, and political implications of new digital practices has become an urgent mission of the social sciences in contemporary times. Through the integration of conceptual and methodological frameworks from Digital Humanities and Studies on Science, Technology, and Society (STS), our team seeks to generate reflections that contribute to understanding the co-production between Digital Technoscience and social, political, and cultural transformations in Brazil. Digital Technoscience, in our conception, refers not only to the practices and knowledge embedded in the complex networks of hardware, software, and humans involved in the production of knowledge about computing and digital technology but also to the entanglement of these networks with various dimensions of social life. Through digital ethnographies and the use of mixed methods of quantitative and qualitative analysis of web-scraped data, LABHDUFBA conducts case studies that support reflections on the co-production between the digital order and social life, as well as on the opportunities and risks involved with innovations in digital platforms. Currently, research has focused on dimensions such as: post-truth and digital populism, digital activism and democracy, regulation, and data accountability.
+Comprendre les implications éthiques, sociales et politiques des nouvelles pratiques numériques est devenu une mission urgente pour les sciences sociales contemporaines. En intégrant des cadres conceptuels et méthodologiques issus des humanités numériques et des études sur les sciences, les technologies et la société (STS), notre équipe cherche à élaborer des réflexions contribuant à la compréhension de la coproduction entre la technoscience numérique et les transformations sociales, politiques et culturelles au Brésil. Dans notre conception, la technoscience numérique désigne non seulement les pratiques et les savoirs inscrits dans les réseaux complexes de matériels, de logiciels et de personnes participant à la production de connaissances sur l’informatique et les technologies numériques, mais aussi l’enchevêtrement de ces réseaux avec les diverses dimensions de la vie sociale. À travers des ethnographies numériques et des méthodes mixtes d’analyse quantitative et qualitative de données extraites du web, le LABHDUFBA mène des études de cas qui nourrissent la réflexion sur la coproduction entre l’ordre numérique et la vie sociale, ainsi que sur les opportunités et les risques liés aux innovations des plateformes numériques. Les recherches actuelles portent notamment sur la post-vérité et le populisme numérique, l’activisme numérique et la démocratie, la régulation et la responsabilité en matière de données.
 
-{{< button label="Back to top" link="/research/" style="solid" >}}
+{{< button label="Retour en haut" link="/research/" style="solid" >}}
 
-## The Economy of Affectionate Exchanges: Market, Socialities, and Digital Media
+## L’économie des échanges affectifs : marché, sociabilités et médias numériques
 
 <div style="text-align: center;">
-    <img src="/images/affect.jpg" alt="The Economy of Affectionate Exchanges" width="300">
+    <img src="/images/affect.jpg" alt="L’économie des échanges affectifs" width="300">
 </div>
 
-The dominance of affective relationships surrounding the constitution of a symbolic social field, coupled with the analysis of recent shifts in relation to structures and practices, brought about by the advent of new digital media, particularly in the migration from old websites to contemporary dating apps. As lines are drawn on the development and promotion of these new affective-sexual dynamics, empirical investigation stems from the conception of consumption established through technological mediation, as well as the consequent transformation of users into commodities available within this affective market, primarily through online services. The emergence of the proposed sociological debate revolves around the incessant production of digital data by users and developing companies, through the articulation between networked social actors and these devices, as new relational spaces, as well as at the intersection between various changes in the realm of affectivity and gender and sexuality relations.
+La prédominance des relations affectives dans la constitution d’un champ social symbolique, associée à l’analyse des transformations récentes des structures et des pratiques induites par l’avènement des nouveaux médias numériques, se manifeste notamment dans la migration des anciens sites web vers les applications de rencontre contemporaines. À mesure que se dessinent le développement et la promotion de ces nouvelles dynamiques affectives et sexuelles, l’enquête empirique s’appuie sur la conception de la consommation établie par la médiation technologique, ainsi que sur la transformation qui en résulte des utilisateurs en marchandises disponibles sur ce marché affectif, principalement par l’intermédiaire de services en ligne. Le débat sociologique proposé porte sur la production incessante de données numériques par les utilisateurs et les entreprises de développement, sur l’articulation entre les acteurs sociaux en réseau et ces dispositifs en tant que nouveaux espaces relationnels, ainsi que sur l’intersection entre les diverses transformations de l’affectivité et des rapports de genre et de sexualité.
 
-{{< button label="Back to top" link="/research/" style="solid" >}}
+{{< button label="Retour en haut" link="/research/" style="solid" >}}

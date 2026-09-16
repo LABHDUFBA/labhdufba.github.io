@@ -3,7 +3,7 @@ title: Enzo Coelho
 weight: 30
 email: 
 image: "/images/enzo_coelho400.jpg"
-description: informações sobre o membro
+description: 成员信息
 social:
   - name: lattes
     icon: fa-regular fa-user
@@ -11,4 +11,4 @@ social:
 
 --- 
 
-Master’s student in Social Sciences at the Federal University of Bahia; holds a degree in History from the Federal University of Bahia. Research interests include: digital social networks; Instagram; online culture; contemporary capitalism.
+巴伊亚联邦大学社会科学硕士研究生；拥有巴伊亚联邦大学历史学学位。研究兴趣包括：数字社会网络、Instagram、网络文化与当代资本主义。

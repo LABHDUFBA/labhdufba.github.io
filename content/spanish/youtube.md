@@ -1,7 +1,7 @@
 ---
 title: "YouTube"
-meta_title: "LABHD Youtube Channel"
-description: "Youtube Videos"
+meta_title: "Canal de YouTube de LABHD"
+description: "Videos de YouTube"
 draft: false
 ---
 
@@ -34,7 +34,7 @@ draft: false
 <div class="videos-container">
     <div class="video-item">
         <div class="event-details">LABHD UFBA - 2020/10/5</div>
-        <strong>Join us at the LABHDUFBA!</strong>
+        <strong>¡Únete a LABHDUFBA!</strong>
         {{< youtube I3zhQIbJ73o >}}
     </div>
     <div class="video-item">

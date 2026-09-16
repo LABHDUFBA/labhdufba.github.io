@@ -3,7 +3,7 @@ title: Tarssio Barreto
 weight: 6
 email:
 image: "/images/tarssio_400.jpg"
-description: infos about member
+description: 成员信息
 social:
   - name: github
     icon: fa-brands fa-github
@@ -19,4 +19,4 @@ social:
 
 ---
 
-Graduated in Sanitary and Environmental Engineering with a Master in Environment, Water, and Sanitation; currently develops data-driven products at BIT Analytics. Has a strong interest in partnerships for innovation and the development of data-oriented products. Also considers himself a data activist and is open to projects with institutes and foundations addressing socio-environmental issues. Personally, is passionate about the 7-string guitar and is dedicated to learning it.
+获卫生与环境工程学位及环境、水与卫生硕士学位；目前在 BIT Analytics 开发数据驱动型产品。他对创新合作与数据导向产品开发抱有浓厚兴趣，也自认为是一名数据倡导者，并愿意参与与研究所及基金会合作、应对社会环境议题的项目。个人方面，他热爱七弦吉他，并致力于学习演奏。

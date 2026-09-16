@@ -1,68 +1,68 @@
 ---
-title: "Elements"
+title: "元素"
 # meta title
 meta_title: ""
 # meta description
-description: "This is meta description"
+description: "这是元描述"
 # save as draft
 draft: false
 ---
 
 {{< toc >}}
 
-Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
+以下展示标题的示例。您可按照下列 Markdown 规则使用标题：例如，使用 `#` 表示一级标题，使用 `######` 表示六级标题。
 
-# Heading 1
+# 一级标题
 
-## Heading 2
+## 二级标题
 
-### Heading 3
+### 三级标题
 
-#### Heading 4
+#### 四级标题
 
-##### Heading 5
+##### 五级标题
 
-###### Heading 6
-
-<hr>
-
-### Emphasis
-
-The emphasis, aka italics, with _asterisks_ or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
-
-The combined emphasis with **asterisks and _underscores_**.
-
-Strike through uses two tildes. ~~Scratch this.~~
+###### 六级标题
 
 <hr>
 
-### Button
+### 强调
+
+强调，即斜体，可使用 _asterisks_ 或 _underscores_。
+
+强强调，即粗体，可使用 **asterisks** 或 **underscores**。
+
+组合强调可使用 **asterisks 和 _underscores_**。
+
+删除线使用两个波浪号。~~删除此内容。~~
+
+<hr>
+
+### 按钮
 
 {{< button label="Button" link="/" style="solid" >}}
 
 <hr>
 
-### Link
+### 链接
 
-[I'm an inline-style link](https://www.google.com)
+[我是一个内嵌式链接](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[我是一个带标题的内嵌式链接](https://www.google.com "Google's Homepage")
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+[我是一个参考式链接][Arbitrary case-insensitive reference text]
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[我是一个指向仓库文件的相对引用](../blob/master/LICENSE)
 
-[You can use numbers for reference-style link definitions][1]
+[可使用数字定义参考式链接][1]
 
-Or leave it empty and use the [link text itself].
+也可以留空并使用 [链接文本本身][link text itself]。
 
-URLs and URLs in angle brackets will automatically get turned into links.
-<http://www.example.com> or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
+URL 及尖括号中的 URL 将自动转换为链接。
+<http://www.example.com> 或 <http://www.example.com>，有时也包括
+example.com（但在 Github 上并非如此）。
 
-Some text to show that the reference links can follow later.
+以下文字用于说明参考链接可以在后文定义。
 
 [arbitrary case-insensitive reference text]: https://www.themefisher.com
 [1]: https://gethugothemes.com
@@ -70,58 +70,58 @@ Some text to show that the reference links can follow later.
 
 <hr>
 
-### Paragraph
+### 段落
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
 
 <hr>
 
-### Ordered List
+### 有序列表
 
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-<hr>
-
-### Unordered List
-
-- List item
-- List item
-- List item
-- List item
-- List item
+1. 列表项
+2. 列表项
+3. 列表项
+4. 列表项
+5. 列表项
 
 <hr>
 
-### Notice
+### 无序列表
+
+- 列表项
+- 列表项
+- 列表项
+- 列表项
+- 列表项
+
+<hr>
+
+### 提示信息
 
 {{< notice "note" >}}
-This is a simple note.
+这是一条简要说明。
 {{< /notice >}}
 
 {{< notice "tip" >}}
-This is a simple tip.
+这是一条简要提示。
 {{< /notice >}}
 
 {{< notice "info" >}}
-This is a simple info.
+这是一条简要信息。
 {{< /notice >}}
 
 {{< notice "warning" >}}
-This is a simple warning.
+这是一条简要警告。
 {{< /notice >}}
 
 <hr>
 
-### Tab
+### 选项卡
 
 {{< tabs >}}
 {{< tab "Tab 1" >}}
 
-#### Hey There, I am a tab
+#### 您好，我是一个选项卡
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -129,7 +129,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 {{< tab "Tab 2" >}}
 
-#### I wanna talk about the assassination attempt
+#### 我想谈谈那次刺杀未遂事件
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -139,7 +139,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 {{< tab "Tab 3" >}}
 
-#### We know you’re dealing in stolen ore
+#### 我们知道你在交易被盗矿石
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -150,7 +150,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 <hr>
 
-### Accordions
+### 折叠面板
 
 {{< accordion "Why should you need to do this?" >}}
 
@@ -178,9 +178,9 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 <hr>
 
-### Code and Syntax Highlighting
+### 代码与语法高亮
 
-This is an `Inline code` sample.
+这是一个 `Inline code` 示例。
 
 ```javascript
 var s = "JavaScript syntax highlighting";
@@ -194,46 +194,46 @@ print s
 
 <hr>
 
-### Blockquote
+### 引用块
 
-> Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once.
+> 您到这里是为了某件具体事情，还是仅仅为了泛泛地抨击 Riker？当您加速至最高曲速时，曾在瞬间同时出现在两个地点。
 
 <hr>
 
-### Tables
+### 表格
 
-| Tables        |      Are      |  Cool |
+| 表格        |      很      |  酷 |
 | ------------- | :-----------: | ----: |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      |   centered    |   $12 |
-| zebra stripes |   are neat    |    $1 |
+| 第 3 列      | 右对齐 | $1600 |
+| 第 2 列      |   居中    |   $12 |
+| 斑马纹 |   整齐    |    $1 |
 
 <hr>
 
-### Image
+### 图像
 
 {{< image src="images/image-placeholder.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 <hr>
 
-### Gallery
+### 图库
 
 {{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 <hr>
 
-### Slider
+### 幻灯片
 
 {{< slider dir="images/gallery" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 <hr>
 
-### Youtube video
+### YouTube 视频
 
 {{< youtube ResipmZmpDU >}}
 
 <hr>
 
-### Custom video
+### 自定义视频
 
 {{< video src="https://www.w3schools.com/html/mov_bbb.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}

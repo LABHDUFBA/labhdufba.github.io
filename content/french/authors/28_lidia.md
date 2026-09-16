@@ -13,4 +13,4 @@ social:
     link: http://lattes.cnpq.br/5758630474226047
 ---
 
-Currently pursuing a degree in Social Sciences at the Federal University of Bahia (UFBA), with a focus on Digital Anthropology, Internet Disinformation, and the political articulations of the Far Right. Her main field of study involves the mechanisms of circulation of narratives and conflicts in digital environments. As a personal interest, she is dedicated to observing online gaming communities, especially the forms of interaction and identity construction that emerge in these spaces.
+Actuellement étudiante en sciences sociales à l’Université fédérale de Bahia (UFBA), elle s’intéresse à l’anthropologie numérique, à la désinformation sur Internet et aux articulations politiques de l’extrême droite. Son principal domaine d’étude porte sur les mécanismes de circulation des récits et des conflits dans les environnements numériques. À titre d’intérêt personnel, elle observe les communautés de jeux en ligne, en particulier les formes d’interaction et de construction identitaire qui émergent dans ces espaces.

@@ -1,3 +1,3 @@
 ---
-title: "Team"
+title: "团队"
 ---

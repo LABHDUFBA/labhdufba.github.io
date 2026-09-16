@@ -3,7 +3,7 @@ title: Daniel de Sena Bastos
 weight: 23
 email: danielosena@hotmail.com | danielbastos@ufba.br
 image: "/images/daniel_400.jpg"
-description: infos about member
+description: informations sur le membre
 social:
   - name: github
     icon: fa-brands fa-github
@@ -14,4 +14,4 @@ social:
     link: https://www.linkedin.com/in/daniel-bastos-0055861b3
 ---
 
-Undergraduate in Science, Technology, and Innovation.
+Étudiant en licence de science, technologie et innovation.

@@ -3,11 +3,11 @@ title: Natalino Maria Nhaga
 weight: 31
 email: 
 image: "/images/natalino_400.jpg"
-description: Information about the member
+description: Información sobre el integrante
 social:
   - name: Lattes
     icon: fa-regular fa-user
     link: http://lattes.cnpq.br/6888156765702092
 ---
 
-Undergraduate student in the Interdisciplinary Bachelor in Humanities at the University of International Integration of Afro-Brazilian Lusophony (Unilab); Bachelor in Computer Engineering from the Nova Esperanca Polytechnic Institute (IPNOVE) and in Information Technology and Business Management from the Institute of Technology and Management (ITG), both in Guinea Bissau. Develops academic interests in the fields of information technology and the humanities, with a focus on information security, data science, and contemporary technologies.
+Estudiante de grado de la Licenciatura Interdisciplinaria en Humanidades de la Universidad de la Integración Internacional de la Lusofonía Afrobrasileña (UNILAB); licenciado en Ingeniería Informática por el Instituto Politécnico Nova Esperança (IPNOVE) y en Tecnologías de la Información y Gestión Empresarial por el Instituto de Tecnología y Gestión (ITG), ambos en Guinea-Bisáu. Desarrolla intereses académicos en los campos de las tecnologías de la información y las humanidades, con enfoque en seguridad de la información, ciencia de datos y tecnologías contemporáneas.

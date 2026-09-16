@@ -22,4 +22,4 @@ social:
     link: https://bsky.app/profile/alissonmasoares.bsky.social
 ---
 
-Bachelor in Social Sciences, specialist in the History of Science, Master and PhD in Sociology at UFMG, Postdoctoral research in Political Science at UFPE. Currently interested in disinformation, conspiracy theories, computational social sciences, text analysis and mining, and natural language processing.
+Licencié en sciences sociales, spécialiste de l’histoire des sciences, titulaire d’un master et d’un doctorat en sociologie à l’UFMG, avec une recherche postdoctorale en science politique à l’UFPE. Il s’intéresse actuellement à la désinformation, aux théories du complot, aux sciences sociales computationnelles, à l’analyse et à la fouille de textes, ainsi qu’au traitement automatique du langage naturel.

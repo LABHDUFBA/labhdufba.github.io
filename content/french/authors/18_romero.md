@@ -10,4 +10,4 @@ social:
     link: http://lattes.cnpq.br/6908390678539380
 ---
 
-Holds a Master in Sociology and a degree in Social Sciences from Universidade Estadual de Campinas (1996); has experience in the field of Sociology, with emphasis on the Fundamentals of Sociology, and currently serves as Professor of Sociology in higher education at Instituto Federal da Bahia in Salvador.
+Titulaire d’un master en sociologie et d’une licence en sciences sociales de l’Universidade Estadual de Campinas (1996), il possède une expérience dans le domaine de la sociologie, avec un accent sur les fondements de la sociologie. Il est actuellement professeur de sociologie dans l’enseignement supérieur à l’Instituto Federal da Bahia, à Salvador.

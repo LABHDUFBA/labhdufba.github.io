@@ -1,7 +1,7 @@
 ---
 title: "YouTube"
-meta_title: "LABHD Youtube Channel"
-description: "Youtube Videos"
+meta_title: "LABHD Youtube 频道"
+description: "Youtube 视频"
 draft: false
 ---
 
@@ -34,17 +34,17 @@ draft: false
 <div class="videos-container">
     <div class="video-item">
         <div class="event-details">LABHD UFBA - 2020/10/5</div>
-        <strong>Join us at the LABHDUFBA!</strong>
+        <strong>加入 LABHDUFBA！</strong>
         {{< youtube I3zhQIbJ73o >}}
     </div>
     <div class="video-item">
         <div class="event-details">CAPES - 2024/04/2</div>
-        <strong>Conferência Livre: Ciência no Combate à Desinformação</strong>
+        <strong>开放会议：科学与反虚假信息斗争</strong>
         {{< youtube _q43rtkUgrA >}}
     </div>
     <div class="video-item">
         <div class="event-details">Programming Historian - 2023/01/27</div>
-        <strong>Programming Historian em português</strong>
+        <strong>葡萄牙语版 Programming Historian</strong>
         {{< youtube 5M1KX6AeLbQ >}}
     </div>
 </div>
@@ -54,17 +54,17 @@ draft: false
 <div class="videos-container">
     <div class="video-item">
         <div class="event-details">Jornal da Cidade (Metro1) - 2022/12/20</div>
-        <strong>Jornal da Cidade - Dra. Gilda Fucs e Leonardo Nascimento</strong>
+        <strong>Jornal da Cidade：Gilda Fucs 博士与 Leonardo Nascimento</strong>
         {{< youtube FqeW1BxIiR0 >}}
     </div>
     <div class="video-item">
         <div class="event-details">SBHC - 2022/09/8</div>
-        <strong>História da Ciência e da Tecnologia em tempos digitais</strong>
+        <strong>数字时代的科学与技术史</strong>
         {{< youtube 91l9LVIFjbo >}}
     </div>
     <div class="video-item">
         <div class="event-details">FGV - 2022/05/20</div>
-        <strong>Criação, manutenção e divulgação de projetos de História em meios digitais</strong>
+        <strong>数字媒介中历史项目的创建、维护与传播</strong>
         {{< youtube aJvjkSBETBw >}}
     </div>
 </div>
@@ -74,17 +74,17 @@ draft: false
 <div class="videos-container">
     <div class="video-item">
         <div class="event-details">LAHMED UFRN - 2022/05/17</div>
-        <strong>Hemeroteca Digital Brasileira e a pesquisa histórica</strong>
+        <strong>巴西数字报刊馆与历史研究</strong>
         {{< youtube Uu3I9_a2knc >}}
     </div>
     <div class="video-item">
         <div class="event-details">TV UFBA - 2021/12/6</div>
-        <strong>Plataformização Da Sociedade, Métodos Digitais E Ciência De Dados - Um Olhar Interdisciplinar</strong>
+        <strong>社会的平台化、数字方法与数据科学：跨学科视角</strong>
         {{< youtube j7SCssD3vag >}}
     </div>
     <div class="video-item">
         <div class="event-details">FGV - 2021/09/16</div>
-        <strong>Sociologia digital em debate</strong>
+        <strong>数字社会学讨论</strong>
         {{< youtube TayHfR72FmQ >}}
     </div>
 </div>
@@ -94,17 +94,17 @@ draft: false
 <div class="videos-container">
     <div class="video-item">
         <div class="event-details">Digital Humanities Hub - Lancaster University - 2024/06/10</div>
-        <strong>Digital Humanities Hangouts</strong>
+        <strong>数字人文交流会</strong>
         {{< youtube S3rRPRfisBk >}}
     </div>
     <div class="video-item">
         <div class="event-details">UNIFAL-MG - 2020/10/8</div>
-        <strong>Inteligência Artificial e Humanidades</strong>
+        <strong>人工智能与人文学科</strong>
         {{< youtube kW26mFyH6vk >}}
     </div>
     <div class="video-item">
         <div class="event-details">IFCHdaUFRGS - 2018/07/29</div>
-        <strong>Criatividade metodológica para desenhos de pesquisa originais e relevantes</strong>
+        <strong>面向原创且重要研究设计的方法论创造力</strong>
         {{< youtube EliIFp-oa9w >}}
     </div>
 </div>

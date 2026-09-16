@@ -23,4 +23,4 @@ social:
 
 ---
 
-Head of the Northeast Regional Office of the National Archives of Brazil; holds a Master in Information Science from the Graduate Program in Information Science at UFBA (PPGCI/UFBA) and a degree in Archival Science from UFBA; archivist at the Federal University of Bahia since 2009 (seconded to the National Archives of Brazil since 2025).
+Jefe de la Oficina Regional Nordeste del Archivo Nacional de Brasil; magíster en Ciencia de la Información por el Programa de Posgrado en Ciencia de la Información de la UFBA (PPGCI/UFBA) y graduado en Archivología por la UFBA; archivista de la Universidad Federal de Bahía desde 2009 (adscrito al Archivo Nacional de Brasil desde 2025).

@@ -1,7 +1,7 @@
 ---
 title: "YouTube"
-meta_title: "LABHD Youtube Channel"
-description: "Youtube Videos"
+meta_title: "Chaîne YouTube du LABHD"
+description: "Vidéos YouTube"
 draft: false
 ---
 
@@ -34,7 +34,7 @@ draft: false
 <div class="videos-container">
     <div class="video-item">
         <div class="event-details">LABHD UFBA - 2020/10/5</div>
-        <strong>Join us at the LABHDUFBA!</strong>
+        <strong>Rejoignez-nous au LABHDUFBA !</strong>
         {{< youtube I3zhQIbJ73o >}}
     </div>
     <div class="video-item">
@@ -44,7 +44,7 @@ draft: false
     </div>
     <div class="video-item">
         <div class="event-details">Programming Historian - 2023/01/27</div>
-        <strong>Programming Historian em português</strong>
+        <strong>Programming Historian en portugais</strong>
         {{< youtube 5M1KX6AeLbQ >}}
     </div>
 </div>
@@ -54,7 +54,7 @@ draft: false
 <div class="videos-container">
     <div class="video-item">
         <div class="event-details">Jornal da Cidade (Metro1) - 2022/12/20</div>
-        <strong>Jornal da Cidade - Dra. Gilda Fucs e Leonardo Nascimento</strong>
+        <strong>Jornal da Cidade - Dre Gilda Fucs et Leonardo Nascimento</strong>
         {{< youtube FqeW1BxIiR0 >}}
     </div>
     <div class="video-item">

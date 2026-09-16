@@ -1,68 +1,68 @@
 ---
-title: "Elements"
+title: "Elementos"
 # meta title
 meta_title: ""
 # meta description
-description: "This is meta description"
+description: "Esta es una meta descripción"
 # save as draft
 draft: false
 ---
 
 {{< toc >}}
 
-Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
+Aquí tienes un ejemplo de encabezados. Puedes usar estos encabezados siguiendo las reglas de Markdown. Por ejemplo: utiliza `#` para el encabezado 1 y `######` para el encabezado 6.
 
-# Heading 1
+# Encabezado 1
 
-## Heading 2
+## Encabezado 2
 
-### Heading 3
+### Encabezado 3
 
-#### Heading 4
+#### Encabezado 4
 
-##### Heading 5
+##### Encabezado 5
 
-###### Heading 6
-
-<hr>
-
-### Emphasis
-
-The emphasis, aka italics, with _asterisks_ or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
-
-The combined emphasis with **asterisks and _underscores_**.
-
-Strike through uses two tildes. ~~Scratch this.~~
+###### Encabezado 6
 
 <hr>
 
-### Button
+### Énfasis
+
+El énfasis, también conocido como cursiva, con _asteriscos_ o _guiones bajos_.
+
+Énfasis fuerte, también conocido como negrita, con **asteriscos** o **guiones bajos**.
+
+El énfasis combinado con **asteriscos y _guiones bajos_**.
+
+El tachado utiliza dos virgulillas. ~~Tacha esto.~~
+
+<hr>
+
+### Botón
 
 {{< button label="Button" link="/" style="solid" >}}
 
 <hr>
 
-### Link
+### Enlace
 
-[I'm an inline-style link](https://www.google.com)
+[Soy un enlace de estilo integrado](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Soy un enlace de estilo integrado con título](https://www.google.com "Página de inicio de Google")
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+[Soy un enlace de estilo de referencia][Arbitrary case-insensitive reference text]
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[Soy una referencia relativa a un archivo del repositorio](../blob/master/LICENSE)
 
-[You can use numbers for reference-style link definitions][1]
+[Puedes usar números para las definiciones de enlaces de estilo de referencia][1]
 
-Or leave it empty and use the [link text itself].
+O déjalo vacío y usa el [texto del enlace].
 
-URLs and URLs in angle brackets will automatically get turned into links.
-<http://www.example.com> or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
+Las URL y las URL entre corchetes angulares se convertirán automáticamente en enlaces.
+<http://www.example.com> o <http://www.example.com> y, a veces,
+example.com (pero no en Github, por ejemplo).
 
-Some text to show that the reference links can follow later.
+Un texto para mostrar que los enlaces de referencia pueden aparecer más adelante.
 
 [arbitrary case-insensitive reference text]: https://www.themefisher.com
 [1]: https://gethugothemes.com
@@ -70,58 +70,58 @@ Some text to show that the reference links can follow later.
 
 <hr>
 
-### Paragraph
+### Párrafo
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
 
 <hr>
 
-### Ordered List
+### Lista ordenada
 
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-<hr>
-
-### Unordered List
-
-- List item
-- List item
-- List item
-- List item
-- List item
+1. Elemento de lista
+2. Elemento de lista
+3. Elemento de lista
+4. Elemento de lista
+5. Elemento de lista
 
 <hr>
 
-### Notice
+### Lista sin ordenar
+
+- Elemento de lista
+- Elemento de lista
+- Elemento de lista
+- Elemento de lista
+- Elemento de lista
+
+<hr>
+
+### Aviso
 
 {{< notice "note" >}}
-This is a simple note.
+Esta es una nota sencilla.
 {{< /notice >}}
 
 {{< notice "tip" >}}
-This is a simple tip.
+Este es un consejo sencillo.
 {{< /notice >}}
 
 {{< notice "info" >}}
-This is a simple info.
+Esta es una información sencilla.
 {{< /notice >}}
 
 {{< notice "warning" >}}
-This is a simple warning.
+Esta es una advertencia sencilla.
 {{< /notice >}}
 
 <hr>
 
-### Tab
+### Pestaña
 
 {{< tabs >}}
 {{< tab "Tab 1" >}}
 
-#### Hey There, I am a tab
+#### Hola, estoy en una pestaña
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -129,7 +129,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 {{< tab "Tab 2" >}}
 
-#### I wanna talk about the assassination attempt
+#### Quiero hablar sobre el intento de asesinato
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -139,7 +139,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 {{< tab "Tab 3" >}}
 
-#### We know you’re dealing in stolen ore
+#### Sabemos que traficas con mineral robado
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -150,7 +150,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 <hr>
 
-### Accordions
+### Acordeones
 
 {{< accordion "Why should you need to do this?" >}}
 
@@ -178,9 +178,9 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 <hr>
 
-### Code and Syntax Highlighting
+### Código y resaltado de sintaxis
 
-This is an `Inline code` sample.
+Este es un ejemplo de `Inline code`.
 
 ```javascript
 var s = "JavaScript syntax highlighting";
@@ -194,46 +194,46 @@ print s
 
 <hr>
 
-### Blockquote
+### Cita en bloque
 
-> Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once.
+> ¿Viniste por algo en particular o solo para criticar a Riker? Y, al acelerar a máxima velocidad de curvatura, apareciste durante un instante en dos lugares a la vez.
 
 <hr>
 
-### Tables
+### Tablas
 
-| Tables        |      Are      |  Cool |
+| Tablas        |      Son      |  Geniales |
 | ------------- | :-----------: | ----: |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      |   centered    |   $12 |
-| zebra stripes |   are neat    |    $1 |
+| la col. 3 está | alineada a la derecha | $1600 |
+| la col. 2 está |   centrada    |   $12 |
+| rayas de cebra |   son elegantes    |    $1 |
 
 <hr>
 
-### Image
+### Imagen
 
 {{< image src="images/image-placeholder.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 <hr>
 
-### Gallery
+### Galería
 
 {{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 <hr>
 
-### Slider
+### Carrusel
 
 {{< slider dir="images/gallery" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 <hr>
 
-### Youtube video
+### Vídeo de YouTube
 
 {{< youtube ResipmZmpDU >}}
 
 <hr>
 
-### Custom video
+### Vídeo personalizado
 
 {{< video src="https://www.w3schools.com/html/mov_bbb.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}

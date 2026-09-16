@@ -3,7 +3,7 @@ title: Letícia Cesarino
 weight: 4
 email: letcesar@gmail.com
 image: "/images/leticia_400.png"
-description: infos about member
+description: informations sur le membre
 social:
   - name: twitter
     icon: fa-brands fa-twitter
@@ -14,4 +14,4 @@ social:
     link: https://linkedin.com/leticia-cesarino-4b51062a/
 ---
 
-Professor and researcher at UFSC, she graduated in Social Sciences from UFMG in 2003 and completed her Master\'s in Social Anthropology at UNB in 2006; Obtained her PhD in Anthropology from UC Berkeley in 2013, conducting field research in Brazil, Mali, Ghana, and Burkina Faso. Specializing in social studies of science and technology, with a recent focus on digital anthropology, she co-coordinates a project on disinformation on Telegram in partnership with the Digital Humanities Laboratory at UFBA and InternetLab. Additionally, she writes for *Carta Capital* and *Jacobin Brasil*.
+Professeure et chercheuse à l’UFSC, elle est diplômée en sciences sociales de l’UFMG en 2003 et a obtenu un master en anthropologie sociale à l’UNB en 2006. Elle a obtenu son doctorat en anthropologie à UC Berkeley en 2013, en menant des recherches de terrain au Brésil, au Mali, au Ghana et au Burkina Faso. Spécialisée dans les études sociales des sciences et des technologies, avec un intérêt récent pour l’anthropologie numérique, elle co-coordonne un projet sur la désinformation sur Telegram en partenariat avec le Laboratoire des humanités numériques de l’UFBA et InternetLab. Elle écrit également pour *Carta Capital* et *Jacobin Brasil*.

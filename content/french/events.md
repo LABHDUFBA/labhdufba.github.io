@@ -1,24 +1,24 @@
 ---
-title: "Events"
-meta_title: "LABHDUFBA Events"
-description: "LABHDUFBA Events"
+title: "Événements"
+meta_title: "Événements du LABHDUFBA"
+description: "Événements du LABHDUFBA"
 draft: false
 ---
 
-## 2nd Digital Humanities Week at UFBA
+## 2e Semaine des humanités numériques à l’UFBA
 
 <div style="text-align: center;">
-    <img src='/images/CARD 2 SEMANA.jpg' alt="2nd Digital Humanities Week at UFBA" style="max-width:400px;height:auto;">
+    <img src='/images/CARD 2 SEMANA.jpg' alt="2e Semaine des humanités numériques à l’UFBA" style="max-width:400px;height:auto;">
 </div>
 
-The 2nd Digital Humanities Week at the Federal University of Bahia (UFBA) is a scientific, educational, and outreach event aimed at promoting the integration between the humanities and digital technologies, with an emphasis on learning programming languages and artificial intelligence techniques, thereby expanding access to innovative tools. The Week brings together roundtables, workshops, and activities focused on the critical and technical training of students, researchers, and civil society on the ethical, innovative, and socially responsible use of technology.
+La 2e Semaine des humanités numériques de l’Université fédérale de Bahia (UFBA) est une manifestation scientifique, éducative et de vulgarisation qui vise à favoriser l’intégration entre les sciences humaines et les technologies numériques. Elle met l’accent sur l’apprentissage de langages de programmation et de techniques d’intelligence artificielle, afin d’élargir l’accès à des outils innovants. La Semaine réunit des tables rondes, des ateliers et des activités consacrés à la formation critique et technique des étudiants, des chercheurs et de la société civile à un usage éthique, innovant et socialement responsable des technologies.
 
 ---
 
-## Digital Humanities Week at UFBA
+## Semaine des humanités numériques à l’UFBA
 
 <div style="text-align: center;">
-    <img src='/images/CARD 1 SEMANA.jpg' alt="Digital Humanities Week at UFBA" style="max-width:400px;height:auto;">
+    <img src='/images/CARD 1 SEMANA.jpg' alt="Semaine des humanités numériques à l’UFBA" style="max-width:400px;height:auto;">
 </div>
 
-The event offered a unique opportunity to become familiar with essential digital tools, aimed at both the job market and the academic environment. For more information, [*access the link*](https://tinyurl.com/semana-labhdufba).
+Cet événement a offert une occasion unique de se familiariser avec des outils numériques essentiels, destinés tant au marché du travail qu’au milieu universitaire. Pour plus d’informations, [*consultez le lien*](https://tinyurl.com/semana-labhdufba).
