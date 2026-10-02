@@ -129,12 +129,31 @@
 
 /* Language switcher — inline links */
 .lang-switch {
-  display: inline-flex;
+  display: none;
   align-items: center;
   gap: .4rem;
   font-size: .82rem;
   margin-left: .5rem;
   margin-right: .5rem;
+}
+
+.lang-switch-mobile {
+  display: inline-block;
+}
+
+@media (min-width: 1024px) {
+  .lang-switch {
+    display: inline-flex;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+    gap: .5rem;
+    margin-left: .75rem;
+    margin-right: .75rem;
+  }
+
+  .lang-switch-mobile {
+    display: none;
+  }
 }
 .lang-switch a {
   color: #6b7280 !important;
@@ -161,4 +180,94 @@
 }
 .dark .lang-current {
   color: #4ade80 !important;
+}
+
+@media (min-width: 1024px) {
+  .header > nav {
+    flex-wrap: nowrap;
+  }
+
+  #nav-menu {
+    flex: 1 1 auto;
+    min-width: 0;
+    white-space: nowrap;
+  }
+
+  .header > nav > div:last-child {
+    flex: 0 0 auto;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+  }
+}
+
+.former-members {
+  border-top: 1px solid rgba(107, 114, 128, .35);
+  padding-top: 3rem;
+}
+
+.former-member-card img {
+  filter: grayscale(100%);
+}
+
+/* Desktop header: keep logo, menu and actions on a single row in every language. */
+@media (min-width: 1024px) {
+  .header > nav.navbar {
+    display: grid !important;
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    align-items: center;
+    column-gap: .75rem;
+    flex-wrap: nowrap;
+  }
+
+  .header > nav.navbar > div.order-0 {
+    grid-column: 1;
+  }
+
+  .header > nav.navbar #nav-menu {
+    grid-column: 2;
+    min-width: 0;
+    width: auto;
+    overflow-x: auto;
+    overflow-y: hidden;
+    justify-content: flex-end;
+    white-space: nowrap;
+    scrollbar-width: none;
+  }
+
+  .header > nav.navbar #nav-menu::-webkit-scrollbar {
+    display: none;
+  }
+
+  .header > nav.navbar > div:last-child {
+    grid-column: 3;
+    flex: 0 0 auto;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+  }
+}
+
+
+/* Medium desktop widths: languages take priority over the optional search shortcut. */
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .header [data-target="search-modal"] {
+    display: none !important;
+  }
+}
+
+
+/* French navigation needs a denser rhythm so Ã€ propos stays fully visible. */
+html[lang="fr"] .header > nav.navbar {
+  column-gap: .35rem;
+}
+
+@media (min-width: 1024px) {
+  html[lang="fr"] .header > nav.navbar #nav-menu {
+    gap: .28rem;
+  }
+
+  html[lang="fr"] .header > nav.navbar #nav-menu .nav-link {
+    padding-left: .3rem;
+    padding-right: .3rem;
+    font-size: .92em;
+  }
 }

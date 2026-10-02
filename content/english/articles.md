@@ -1,4 +1,4 @@
----
+﻿---
 title: "Articles"
 # meta title
 meta_title: "Articles - LABHDUFBA pub"
@@ -28,17 +28,24 @@ NASCIMENTO, L. F. *et al.* **[Intankável o Bostil: racismo, misoginia e antisse
 
 ##### 2024
 
-WEDDERBURN, Rosana Silva Moore; JESUS, Juciane Pereira de; TEIXEIRA, Graziela de Souza; NASCIMENTO, Leonardo Fernandes; CESARINO, Leticia Maria Costa da Nobrega; BARRETO, Tarssio Brito. **[Representações meméticas de “nós e eles”: humor e discurso de ódio em chats do Telegram](https://revistas.pucsp.br/index.php/aurora/article/view/66490/45721)**. **Aurora. Revista de Arte, Mídia e Política**, São Paulo, v. 17, n. 49, p. 136–173, 2024.
+##### 2024
+
+WEDDERBURN, Rosana Silva Moore; JESUS, Juciane Pereira de; TEIXEIRA, Graziela de Souza; NASCIMENTO, Leonardo Fernandes; CESARINO, Leticia Maria Costa da Nobrega; BARRETO, Tarssio Brito. **[Representações meméticas de "nós e eles": humor e discurso de ódio em chats do Telegram](https://revistas.pucsp.br/index.php/aurora/article/view/66490/45721)**. **Aurora. Revista de Arte, Mídia e Política**, São Paulo, v. 17, n. 49, p. 136–173, 2024.
 
 JESUS, Juciane Pereira de; NASCIMENTO, Leonardo Fernandes; CESARINO, Leticia Maria Costa da Nobrega; FONSECA, Paulo de Freitas Castro; BARRETO, Tarssio Brito. **[Tradições de pensamento anticomunista: as teorias da conspiração e o modus operandi do golpismo em grupos bolsonaristas do Telegram](https://apd.org.br/anexo-tradicoes-de-pensamento-anticomunista-as-teorias-da-conspiracao-e-o-modus-operandi-do-golpismo-em-grupos-bolsonaristas-do-telegram-traditions-of-anti-communist-thought-cons/)**. **Polifonia: Revista Internacional da Academia Paulista de Direito**, n. 13, Nova Série, 2024, Outono/Inverno.
 
 NASCIMENTO, Leonardo Fernandes. **[Humanidades Digitais e Vigilância pela Democracia](https://drive.google.com/file/d/11jYi4dSKf3qigI05A1KGYv9Y9-sCvmE0/view)**. In: SANTOS JUNIOR, Jorge Luiz dos (Org.). **Nanotecnologia, Sociedade e Meio Ambiente: Convergências, Divergências e Insurgências Tecnológicas**. Curitiba: Editora CRV, 2024. p. 133-144.
 
-SCHEREN, M. L.; RODRIGUES, V. S.; LÓPEZ ZAMORA, G. D.; CESARINO, L.; NASCIMENTO, L. F.; FONSECA, P.; BARRETO, T. **[Métodos mistos para a antropologia digital: um relato de experiência sobre a análise de grupos bolsonaristas na plataforma Telegram](https://doi.org/10.1590/1806-9983e680407)**. Horizontes Antropológicos, v. 30, p. e680407, 12 fev. 2024. 
+SCHEREN, M. L.; RODRIGUES, V. S.; LÓPEZ ZAMORA, G. D.; CESARINO, L.; NASCIMENTO, L. F.; FONSECA, P.; BARRETO, T. **[Métodos mistos para a antropologia digital: um relato de experiência sobre a análise de grupos bolsonaristas na plataforma Telegram](https://doi.org/10.1590/1806-9983e680407)**. Horizontes Antropológicos, v. 30, p. e680407, 12 fev. 2024.
+
+BRASIL, Eric. **Interfaces de interfaces de usuário e a produção do conhecimento histórico**. In: VANI, Joao Paulo et al. (Eds.). Memórias digitais. São José do Rio Preto, SP: Editora HN, 2024. p. 185–199.
+
+BRASIL, Eric; VALVERDE, Priscila; VELOSO, Ana Carolina. **Desafios e expectativas da prática da história na Era Digital: percepções de docentes de história nas instituições de ensino superior na Bahia**. Boletim do Tempo Presente, v. 13, n. 2, p. 140–171, 17 set. 2024.
 
 ---
 
-##### 2023
+
+---##### 2023
 
 NASCIMENTO, L.; CESARINO, L.; FONSECA, P. **[Far-right publics on Brazilian Telegram: a mixed-methods approach to digital anthropology](https://unesdoc.unesco.org/ark:/48223/pf0000384901?fbclid=PAAaYTjUhU1xAsgLh-alU1N9HvzRTb81awgiQH0T9qenpXh2MnLbHahM8SBN8_aem_AXd6ekQU0vVsrNXUiJcN7tXeY_ANUn9_V8mus861IZmIPH4s8H5F-f8ihWLFdq86V9o)**. UNESCO, LiiV Center for Innovating Digital Anthropology (USA), 2023.
 
@@ -117,5 +124,3 @@ NASCIMENTO, L. **[A Sociologia Digital: um desafio para o século XXI](https://w
 ALVES, Paulo Cesar; NASCIMENTO, Leonardo; CORREIA, Maria. **[Health and Traditional Fishing in All Saints Bay, Brazil](https://www.researchgate.net/publication/300442303_Health_and_Traditional_Fishing_in_All_Saints_Bay_Brazil)**. International Journal of Advances in Social Science and Humanities, v. 4, 2016.
 
 NASCIMENTO, L. **[O caso Uber no Brasil: um ensaio de sociologia digital](https://www.crolar.org/index.php/crolar/article/view/253/pdf)**. CROLAR: Critical Reviews in Latin American Research, v. 5, p. 1, 2016.
-
-

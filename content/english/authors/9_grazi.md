@@ -15,4 +15,4 @@ social:
 
 ---
 
-Graduated in Anthropology from the Federal University of Santa Catarina (UFSC, 2025) and in Business Administration from the University of Vale do Paraíba (UNIVAP, 1998); Postgraduate degree in Accounting and Financial Administration from Fundação Armando Álvares Penteado (FAAP, 2000).
+Master’s student in Social Anthropology at the Federal University of Santa Catarina (UFSC). She holds a degree in Anthropology from UFSC, completed in 2025, and a degree in Business Administration from the University of Vale do Paraíba (UNIVAP), completed in 1998. She also completed a postgraduate specialization in Accounting and Financial Administration at Fundação Armando Álvares Penteado (FAAP) in 2000.

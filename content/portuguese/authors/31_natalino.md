@@ -1,4 +1,6 @@
----
+﻿---
+former: true
+former_weight: 10
 title: Natalino Maria Nhaga
 weight: 31
 email: 

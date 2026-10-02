@@ -1,18 +1,31 @@
-<!-- Language Switcher — inline links (adapted from leofn.com) -->
+<!-- Desktop: full inline language list. Mobile: compact selector. -->
 {{ $context := .Context }}
+{{ $class := .Class }}
 {{ $currentLang := $context.Language.Lang }}
 {{ $defaultLang := $context.Site.Params.defaultContentLanguage | default "en" }}
 
-<span class="lang-switch">
+<span class="lang-switch" aria-label="Language selection">
   {{ range $context.Site.Languages }}
     {{ if eq .Lang $currentLang }}
       <span class="lang-current">{{ index (split .Lang "-") 0 }}</span>
+    {{ else if eq .Lang $defaultLang }}
+      <a href="/" title="{{ .LanguageName }}">{{ index (split .Lang "-") 0 }}</a>
     {{ else }}
-      {{ if eq .Lang $defaultLang }}
-        <a href="/" title="{{ .LanguageName }}">{{ index (split .Lang "-") 0 }}</a>
-      {{ else }}
-        <a href="/{{ .Lang }}/" title="{{ .LanguageName }}">{{ index (split .Lang "-") 0 }}</a>
-      {{ end }}
+      <a href="/{{ .Lang }}/" title="{{ .LanguageName }}">{{ index (split .Lang "-") 0 }}</a>
     {{ end }}
   {{ end }}
 </span>
+
+{{ $pageLang := $context.Lang }}
+{{ $base := urls.Parse site.Home.Permalink }}
+{{ $siteLanguages := site.Home.AllTranslations }}
+{{ $pageLink := replace (replace $context.RelPermalink (add $pageLang "/") "") $base.Path "/" }}
+{{ if $context.IsTranslated }}
+  <select class="lang-switch-mobile {{ $class }}" aria-label="Language selection" onchange="location = this.value">
+    {{ range $siteLanguages }}
+      <option value="{{ replace (add .RelPermalink $pageLink) `//` `/` }}" {{ if eq (string $pageLang) (string .Language) }}selected{{ end }}>
+        {{ .Language.LanguageName }}
+      </option>
+    {{ end }}
+  </select>
+{{ end }}

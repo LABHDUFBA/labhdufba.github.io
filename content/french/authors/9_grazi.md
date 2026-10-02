@@ -15,4 +15,4 @@ social:
 
 ---
 
-Diplômée en anthropologie de l’Université fédérale de Santa Catarina (UFSC, 2025) et en administration des entreprises de l’Université de Vale do Paraíba (UNIVAP, 1998), elle est également titulaire d’un diplôme de troisième cycle en comptabilité et administration financière de la Fundação Armando Álvares Penteado (FAAP, 2000).
+Masterante en anthropologie sociale à l’Université fédérale de Santa Catarina (UFSC). Elle est diplômée en anthropologie de l’UFSC, en 2025, et en administration des entreprises de l’Université de Vale do Paraíba (UNIVAP), en 1998. Elle a également suivi une spécialisation de troisième cycle en administration comptable et financière à la Fundação Armando Álvares Penteado (FAAP), achevée en 2000.

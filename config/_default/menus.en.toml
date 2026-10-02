@@ -65,8 +65,6 @@ name = "Events"
 url = "events/"
 weight = 4
 
-[[main]]
-
 # footer menu
 [[footer]]
 name = "About"
