@@ -1,0 +1,32 @@
+<div class="{{ if .Params.former }}former-member-card {{ end }}bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center">
+  {{ $params := .Params }}
+  {{ $image := $params.image }}
+
+  {{ if $image }}
+    {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mx-auto mb-6 rounded" "size" "120x120") }}
+  {{ else if $params.email }}
+    <img
+      class="mx-auto mb-6 rounded"
+      alt="{{ .Title }}"
+      height="120"
+      width="120"
+      src="https://www.gravatar.com/avatar/{{ md5 $params.email }}?s=128&pg&d=identicon" />
+  {{ end }}
+
+  <div class="author-buttons mb-4">
+    <a href="{{ .RelPermalink }}" class="author-button mb-3">{{ .Title }}</a>
+
+    <div class="social-icons mt-2">
+      {{ range $params.social }}
+        <a href="{{ .link | safeURL }}" target="_blank" rel="noopener nofollow" class="social-button">
+          <i class="{{ .icon }}"></i>
+        </a>
+      {{ end }}
+    </div>
+  </div>
+
+  <p class="author-summary mt-4">
+    {{ $summary := .Content | plainify }}
+    {{ replaceRE `(?s)^([^\.]+\.).*` "$1" $summary }}
+  </p>
+</div>
