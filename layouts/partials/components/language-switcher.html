@@ -6,10 +6,12 @@
 
 <span class="lang-switch" aria-label="Language selection">
   {{ range $translations }}
-    {{ if eq .Language.Lang $currentLang }}
-      <span class="lang-current">{{ index (split .Language.Lang "-") 0 }}</span>
-    {{ else }}
-      <a href="{{ .RelPermalink }}" title="{{ .Language.LanguageName }}">{{ index (split .Language.Lang "-") 0 }}</a>
+    {{ if ne .Language.Lang "all" }}
+      {{ if eq .Language.Lang $currentLang }}
+        <span class="lang-current">{{ index (split .Language.Lang "-") 0 }}</span>
+      {{ else }}
+        <a href="{{ .RelPermalink }}" title="{{ .Language.LanguageName }}">{{ index (split .Language.Lang "-") 0 }}</a>
+      {{ end }}
     {{ end }}
   {{ end }}
 </span>
@@ -17,7 +19,9 @@
 {{ if gt (len $translations) 1 }}
   <select class="lang-switch-mobile {{ $class }}" aria-label="Language selection" onchange="location=this.value">
     {{ range $translations }}
-      <option value="{{ .RelPermalink }}" {{ if eq .Language.Lang $currentLang }}selected{{ end }}>{{ .Language.LanguageName }}</option>
+      {{ if ne .Language.Lang "all" }}
+        <option value="{{ .RelPermalink }}" {{ if eq .Language.Lang $currentLang }}selected{{ end }}>{{ .Language.LanguageName }}</option>
+      {{ end }}
     {{ end }}
   </select>
 {{ end }}
