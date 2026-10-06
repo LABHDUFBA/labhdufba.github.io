@@ -5,13 +5,14 @@ email: danielosena@hotmail.com | danielbastos@ufba.br
 image: "/images/daniel_400.jpg"
 description: 成员信息
 social:
+  - name: email
+    icon: fa-solid fa-envelope
+    link: mailto:danielosena@hotmail.com
   - name: github
     icon: fa-brands fa-github
     link: https://github.com/kvotheprime
-
   - name: linkedin
     icon: fa-brands fa-linkedin
     link: https://www.linkedin.com/in/daniel-bastos-0055861b3
 ---
-
 科学、技术与创新专业本科生。

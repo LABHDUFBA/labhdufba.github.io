@@ -2,7 +2,7 @@
 title: "我们是 UFBA 数字人文实验室"
 meta_title: "关于我们"
 description: "LABHDUFBA 简介"
-image: "/images/banner-labhd.png"
+image: "/images/labhd.png"
 #image_width: 1500
 #image_height: 1500
 draft: false

@@ -39,6 +39,7 @@ weight = 8
 [[main]]
 weight = 6
 name = "出版物"
+url = "publications/"
 hasChildren = true
 
 [[main]]

@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "Ecosistemas multiplataforma y ataques a la integridad de la información en salud"
-    image: "/images/infodemia.jpg"
+    image: "/images/multi-platform-ecosystems.jpg"
     content: "En colaboración con el Instituto de Salud Colectiva (ISC/UFBA) y PECS, con financiación del Ministerio de Salud y del CNPq, LABHDUFBA investiga ecosistemas multiplataforma de ataques a la integridad de la información en salud en Brasil. La investigación analiza los impactos, los patrones de difusión y las estrategias de mitigación de la desinformación, con especial atención a la reticencia frente a las vacunas y a la disminución de la cobertura de vacunación."
     bulletpoints:
       - "Base de datos con más de 78 millones de mensajes de Telegram, 1,2 millones de mensajes de WhatsApp y 641.000 videos de YouTube"

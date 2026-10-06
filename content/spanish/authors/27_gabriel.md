@@ -14,7 +14,6 @@ social:
   - name: bluesky
     icon: fa fa-link
     link: https://bsky.app/profile/gabriel-andrade.bsky.social
-
 --- 
 
 Actualmente cursa Ingeniería de Computación en la Universidad Federal de Bahía (UFBA); trabaja como ingeniero de software y cuenta con amplia experiencia en desarrollo de software con tecnologías modernas como Python, Node, PHP, Docker y otras.

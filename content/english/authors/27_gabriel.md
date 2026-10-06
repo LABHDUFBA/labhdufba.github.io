@@ -14,7 +14,6 @@ social:
   - name: bluesky
     icon: fa fa-link
     link: https://bsky.app/profile/gabriel-andrade.bsky.social
-
 --- 
 
 Currently, pursuing a degree in Computer Engineering at Federal University of Bahia (UFBA); I work as a Software Engineer with a large experience in Software Development using modern technologies as Python, Node, PHP, Docker and so on.

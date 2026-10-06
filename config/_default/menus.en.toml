@@ -39,6 +39,7 @@ weight = 8
 [[main]]
 weight = 6
 name = "Publications"
+url = "publications/"
 hasChildren = true
 
 [[main]]

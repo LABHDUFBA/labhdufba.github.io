@@ -1,0 +1,46 @@
+<footer class="bg-theme-light dark:bg-darkmode-theme-light">
+  <div class="container">
+    <div class="row items-center py-10">
+      <div class="lg:col-3 mb-8 text-center lg:mb-0 lg:text-left"><a class="navbar-brand inline-block" href="{{ site.Home.RelPermalink }}">{{ partial "logo" }}</a></div>
+      <div class="lg:col-6 mb-8 text-center lg:mb-0"><ul>{{ range site.Menus.footer }}<li class="m-3 inline-block"><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>{{ end }}</ul></div>
+      <div class="lg:col-3 mb-8 text-center lg:mb-0 lg:text-right"><ul class="social-icons">{{ range site.Data.social.main }}<li><a target="_blank" aria-label="{{ .name }}" rel="nofollow noopener" href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>{{ end }}</ul></div>
+    </div>
+  </div>
+  {{ $labels := dict "pt" "Parceiros" "en" "Partners" "fr" "Partenaires" "es" "Socios" "zh" "合作伙伴" }}
+  {{ $addresses := dict "pt" "CIEDs — edifício de pesquisa e extensão universitária, Pavilhão de Unidades de São Lázaro, Faculdade de Filosofia e Ciências Humanas (FFCH), Universidade Federal da Bahia (UFBA)." "en" "CIEDs — the university research and extension building in the São Lázaro Units Pavilion, Faculty of Philosophy and Human Sciences (FFCH), Federal University of Bahia (UFBA)." "fr" "CIEDs — bâtiment de recherche et d’extension universitaire du Pavillon des unités de São Lázaro, Faculté de philosophie et de sciences humaines (FFCH), Université fédérale de Bahia (UFBA)." "es" "CIEDs — edificio de investigación y extensión universitaria del Pabellón de Unidades de São Lázaro, Facultad de Filosofía y Ciencias Humanas (FFCH), Universidad Federal de Bahía (UFBA)." "zh" "CIEDs——位于圣拉萨罗单元楼群的大学研究与推广大楼，隶属巴伊亚联邦大学（UFBA）哲学与人文科学学院（FFCH）。" }}
+  {{ $cnpq := resources.Get "images/cnpq.png" }}
+  {{ $internetlab := resources.Get "images/internetlab.png" }}
+  {{ $openai := resources.Get "images/openai.png" }}
+  {{ $labhdufop := resources.Get "images/labhdufop.png" }}
+  {{ $labhdufrj := resources.Get "images/labhdufrj.png" }}
+  {{ $labhdufsc := resources.Get "images/labhdufsc.png" }}
+  <div class="border-border dark:border-darkmode-border border-t py-7">
+    <div class="text-light dark:text-darkmode-light container text-center">
+      <p>{{ index $labels .Lang | default "Partners" }}</p>
+      <div class="partner-logos" aria-label="{{ index $labels .Lang | default "Partners" }}">
+        <a href="https://www.cnpq.br/" target="_blank" rel="noopener"><img src="{{ $cnpq.RelPermalink }}" alt="CNPq"></a>
+        <a href="https://internetlab.org.br/" target="_blank" rel="noopener"><img src="{{ $internetlab.RelPermalink }}" alt="InternetLab"></a>
+        <a href="https://openai.com/" target="_blank" rel="noopener"><img src="{{ $openai.RelPermalink }}" alt="OpenAI"></a>
+        <a href="https://labhdufop.github.io/" target="_blank" rel="noopener"><img src="{{ $labhdufop.RelPermalink }}" alt="LABHDUFOP"></a>
+        <a href="https://labhdufrj.github.io/" target="_blank" rel="noopener"><img src="{{ $labhdufrj.RelPermalink }}" alt="LABHDUFRJ"></a>
+        <a href="https://labhdufsc.com.br/" target="_blank" rel="noopener"><img src="{{ $labhdufsc.RelPermalink }}" alt="LABHDUFSC"></a>
+      </div>
+      <p>{{ index $addresses .Lang | default (index $addresses "en") }}<br>2024</p>
+    </div>
+  </div>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var labels = ['Publicações', 'Publications', 'Publicaciones', '出版物'];
+      document.querySelectorAll('.nav-dropdown > .nav-link').forEach(function (item) {
+        if (labels.indexOf(item.textContent.trim()) === -1) return;
+        item.style.cursor = 'pointer';
+        item.addEventListener('click', function (event) {
+          if (window.innerWidth < 1024) {
+            event.preventDefault();
+            item.parentElement.classList.toggle('is-open');
+          }
+        });
+      });
+    });
+  </script>
+</footer>

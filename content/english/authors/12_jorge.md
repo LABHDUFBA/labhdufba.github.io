@@ -5,6 +5,9 @@ email: jhsbarbosa@gmail.com
 image: "/images/jorge_400.jpg"
 description: infos about member
 social:
+    - name: email
+      icon: fa-solid fa-envelope
+      link: mailto:jhsbarbosa@gmail.com
     - name: lattes
       icon: fa fa-info-circle
       link: http://lattes.cnpq.br/1661372950139188

@@ -1,31 +1,23 @@
-<!-- Desktop: full inline language list. Mobile: compact selector. -->
+<!-- Language links preserve the current translated page. -->
 {{ $context := .Context }}
 {{ $class := .Class }}
 {{ $currentLang := $context.Language.Lang }}
-{{ $defaultLang := $context.Site.Params.defaultContentLanguage | default "en" }}
+{{ $translations := $context.AllTranslations }}
 
 <span class="lang-switch" aria-label="Language selection">
-  {{ range $context.Site.Languages }}
-    {{ if eq .Lang $currentLang }}
-      <span class="lang-current">{{ index (split .Lang "-") 0 }}</span>
-    {{ else if eq .Lang $defaultLang }}
-      <a href="/" title="{{ .LanguageName }}">{{ index (split .Lang "-") 0 }}</a>
+  {{ range $translations }}
+    {{ if eq .Language.Lang $currentLang }}
+      <span class="lang-current">{{ index (split .Language.Lang "-") 0 }}</span>
     {{ else }}
-      <a href="/{{ .Lang }}/" title="{{ .LanguageName }}">{{ index (split .Lang "-") 0 }}</a>
+      <a href="{{ .RelPermalink }}" title="{{ .Language.LanguageName }}">{{ index (split .Language.Lang "-") 0 }}</a>
     {{ end }}
   {{ end }}
 </span>
 
-{{ $pageLang := $context.Lang }}
-{{ $base := urls.Parse site.Home.Permalink }}
-{{ $siteLanguages := site.Home.AllTranslations }}
-{{ $pageLink := replace (replace $context.RelPermalink (add $pageLang "/") "") $base.Path "/" }}
-{{ if $context.IsTranslated }}
-  <select class="lang-switch-mobile {{ $class }}" aria-label="Language selection" onchange="location = this.value">
-    {{ range $siteLanguages }}
-      <option value="{{ replace (add .RelPermalink $pageLink) `//` `/` }}" {{ if eq (string $pageLang) (string .Language) }}selected{{ end }}>
-        {{ .Language.LanguageName }}
-      </option>
+{{ if gt (len $translations) 1 }}
+  <select class="lang-switch-mobile {{ $class }}" aria-label="Language selection" onchange="location=this.value">
+    {{ range $translations }}
+      <option value="{{ .RelPermalink }}" {{ if eq .Language.Lang $currentLang }}selected{{ end }}>{{ .Language.LanguageName }}</option>
     {{ end }}
   </select>
 {{ end }}

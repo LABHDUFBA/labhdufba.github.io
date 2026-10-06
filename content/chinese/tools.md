@@ -139,7 +139,7 @@ draft: false
     }
 </style>
 
-LABHD-UFBA 为数字人文研究开发的工具与资源，包括数据抓取、文本分析和参考平台。
+LABHDUFBA 为数字人文研究开发的工具与资源，包括数据抓取、文本分析和参考平台。
 
 <div class="data-cards">
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cristian S. Privat
 weight: 31
 image: "/images/cristian-privat.jpg"
@@ -18,4 +18,4 @@ social:
     link: "https://www.linkedin.com/in/cristian-privat/"
 ---
 
-Profissional de Tecnologia da InformaÃ§Ã£o com 20 anos de experiÃªncia, atuando como Arquiteto de SoluÃ§Ãµes, Gerente de Projetos e LÃ­der de Tecnologia em ambientes complexos e multidisciplinares. Possui experiÃªncia em arquitetura e integraÃ§Ã£o de sistemas, gestÃ£o de projetos, lideranÃ§a de equipes, melhoria de processos, computaÃ§Ã£o em nuvem, seguranÃ§a da informaÃ§Ã£o, anÃ¡lise de riscos e governanÃ§a de TI.
+Profissional de Tecnologia da Informação com 20 anos de experiência; Arquiteto de Soluções, Gerente de Projetos e Líder de Tecnologia, com atuação em ambientes complexos e multidisciplinares. Possui experiência em arquitetura e integração de sistemas, gestão de projetos, liderança de equipes, melhoria de processos, computação em nuvem, segurança da informação, análise de riscos e governança de TI.

@@ -139,7 +139,7 @@ draft: false
     }
 </style>
 
-Outils et ressources développés par LABHD-UFBA pour la recherche en Humanités numériques : collecte de données, analyse de textes et plateformes de référence.
+Outils et ressources développés par LABHDUFBA pour la recherche en Humanités numériques : collecte de données, analyse de textes et plateformes de référence.
 
 <div class="data-cards">
 

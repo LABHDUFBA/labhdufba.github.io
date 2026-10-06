@@ -39,7 +39,7 @@ Este projeto estabelece uma estrutura multimétodo para mapear e analisar o ecos
 ## Ecossistemas Multiplataforma e Ataques à Integridade da Informação em Saúde
 
 <div style="text-align: center;">
-    <img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/infodemia.jpg' alt="Ecossistemas Multiplataforma e Ataques à Integridade da Informação em Saúde" width="300">
+    <img src='/images/multi-platform-ecosystems.jpg' alt="Ecossistemas Multiplataforma e Ataques à Integridade da Informação em Saúde" width="300">
 </div>
 
 Este projeto investiga os ecossistemas multiplataforma de ataques à integridade da informação em saúde, com foco nos impactos, padrões de disseminação e estratégias de mitigação da desinformação no contexto brasileiro. Desenvolvido em parceria entre o LABHDUFBA, o Instituto de Saúde Coletiva (ISC/UFBA) e o PECS, com financiamento do Ministério da Saúde e do CNPq (Linha 1 — Eixo: Gestão da Infodemia), a pesquisa parte do reconhecimento de que a lógica algorítmica das plataformas digitais — orientada pelo engajamento e pela monetização da atenção — favorece a circulação acelerada de conteúdos falsos e polêmicos, produzindo infodemia e desordem informacional. Estratégias como o "populismo médico" articulam antipolítica e anticiência, comprometendo a integridade do conhecimento científico em saúde.

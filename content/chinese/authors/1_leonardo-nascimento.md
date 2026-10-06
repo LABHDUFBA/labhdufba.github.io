@@ -5,18 +5,15 @@ email: leofn@ufba.br
 image: "/images/leonardo-nascimento_400.png"
 description: 成员信息
 social:
-  - name: github
-    icon: fa-brands fa-github
-    link: https://github.com/leofn
-
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com/leofn3
-    
   - name: lattes
     icon: fa-regular fa-user
     link: http://lattes.cnpq.br/7141811368487014
-    
+  - name: github
+    icon: fa-brands fa-github
+    link: https://github.com/leofn
+  - name: twitter
+    icon: fa-brands fa-twitter
+    link: https://twitter.com/leofn3
   - name: link
     icon: fa fa-link
     link: https://leofn.com/

@@ -139,7 +139,7 @@ draft: false
     }
 </style>
 
-Herramientas y recursos desarrollados por LABHD-UFBA para la investigación en Humanidades Digitales: extracción de datos, análisis de texto y plataformas de referencia.
+Herramientas y recursos desarrollados por LABHDUFBA para la investigación en Humanidades Digitales: extracción de datos, análisis de texto y plataformas de referencia.
 
 <div class="data-cards">
 

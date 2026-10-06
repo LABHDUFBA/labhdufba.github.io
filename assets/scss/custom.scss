@@ -255,16 +255,16 @@
 
 
 /* French navigation needs a denser rhythm so Ã€ propos stays fully visible. */
-html[lang="fr"] .header > nav.navbar {
+html[lang|="fr"] .header > nav.navbar {
   column-gap: .35rem;
 }
 
 @media (min-width: 1024px) {
-  html[lang="fr"] .header > nav.navbar #nav-menu {
+  html[lang|="fr"] .header > nav.navbar #nav-menu {
     gap: .28rem;
   }
 
-  html[lang="fr"] .header > nav.navbar #nav-menu .nav-link {
+  html[lang|="fr"] .header > nav.navbar #nav-menu .nav-link {
     padding-left: .3rem;
     padding-right: .3rem;
     font-size: .92em;
@@ -355,31 +355,31 @@ html.dark .partner-logos img {
 /* Non-English desktop header density: compact navigation without changing English. */
 @media (min-width: 1024px) {
   /* Deliberately ultra-compact at the user's request; English remains untouched. */
-  html:not([lang="en"]) .header > nav.navbar #nav-menu {
+  html:not([lang|="en"]) .header > nav.navbar #nav-menu {
     gap: .05rem;
   }
-  html:not([lang="en"]) .header > nav.navbar #nav-menu .nav-link {
+  html:not([lang|="en"]) .header > nav.navbar #nav-menu .nav-link {
     padding-left: .08rem;
     padding-right: .08rem;
   }
 
   /* No grid gutter: search sits immediately after Contact/Contacto. */
-  html:not([lang="en"]) .header > nav.navbar {
+  html:not([lang|="en"]) .header > nav.navbar {
     column-gap: 0;
   }
 
   /* Keep the same ultra-compact rhythm for French, overriding its earlier local rule. */
-  html[lang="fr"] .header > nav.navbar #nav-menu {
+  html[lang|="fr"] .header > nav.navbar #nav-menu {
     gap: .05rem;
   }
-  html[lang="fr"] .header > nav.navbar {
+  html[lang|="fr"] .header > nav.navbar {
     column-gap: 0;
   }
 }
 
 /* English-only: give Contact and the search button more separation. */
 @media (min-width: 1024px) {
-  html[lang="en"] .header > nav.navbar {
+  html[lang|="en"] .header > nav.navbar {
     column-gap: 2rem;
   }
 }

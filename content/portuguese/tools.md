@@ -139,7 +139,7 @@ draft: false
     }
 </style>
 
-Ferramentas e recursos desenvolvidos pelo LABHD-UFBA para pesquisa em Humanidades Digitais: raspagem de dados, análise de textos, e plataformas de referência.
+Ferramentas e recursos desenvolvidos pelo LABHDUFBA para pesquisa em Humanidades Digitais: raspagem de dados, análise de textos, e plataformas de referência.
 
 <div class="data-cards">
 
@@ -198,7 +198,7 @@ Ferramentas e recursos desenvolvidos pelo LABHD-UFBA para pesquisa em Humanidade
     <h3>Em Desenvolvimento</h3>
     <p>Estamos ativamente trabalhando em criar e refinar novas ferramentas e funcionalidades. Fique atento para atualizações nos seguintes projetos:</p>
     <div class="highlight-box">
-        <p>Análise de Grupos do Telegram (em desenvolvimento)</p>
-        <p>Análise de Grupos do Whatsapp (em desenvolvimento)</p>
+        <p>Análise de Grupos do Telegram </p>
+        <p>Análise de Grupos do Whatsapp </p>
     </div>
 </div>

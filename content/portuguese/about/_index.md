@@ -2,7 +2,7 @@
 title: "Somos o Laboratório de Humanidades Digitais da UFBA"
 meta_title: "Sobre"
 description: "Informações sobre o LABHDUFBA"
-image: "/images/banner-labhd.png"
+image: "/images/labhd.png"
 #image_width: 1500
 #image_height: 1500
 draft: false

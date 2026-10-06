@@ -12,7 +12,7 @@ draft: false
 
 JESUS, Juciane Pereira de. Resgatar bons valores, ideias e sentimentos no coração dos brasileiros: o Brasil Paralelo e seu projeto de contrarrevolução cultural. 2024. 178 f. Dissertação (Mestrado em Ciências Sociais) – Universidade Federal da Bahia, Salvador, 2024.
 
-NASCIMENTO, L. F. ; FONSECA, P. F. C. ; CESARINO, L. M. C. N. ; WEDDERBURN, R. S. M. ; BARRETO, T. B. ; JESUS, J. P. . ?INTANKÁVEIS CONTRA O BOSTIL?: RACISMO, MISOGINIA E ANTISSEMITISMO EM CHATS DO TELEGRAM (2020-2023). CGI.br, v. 4Âª, p. https://cgi.br/-151-198, 2024.
+NASCIMENTO, L. F. ; FONSECA, P. F. C. ; CESARINO, L. M. C. N. ; WEDDERBURN, R. S. M. ; BARRETO, T. B. ; JESUS, J. P. . ?INTANKÁVEIS CONTRA O BOSTIL?: RACISMO, MISOGINIA E ANTISSEMITISMO EM CHATS DO TELEGRAM (2020-2023). CGI.br, v. 4ª, p. https://cgi.br/-151-198, 2024.
 
 JESUS, J. P.; NASCIMENTO, L. F. ; CESARINO, L. M. C. N. ; FONSECA, P. F. C. ; BARRETO, T. B. . TRADIÇÕES DE PENSAMENTO ANTICOMUNISTA: AS TEORIAS DA CONSPIRAÇÃO E O MODUS OPERANDI DO GOLPISMO EM GRUPOS BOLSONARISTAS DO TELEGRAM. Polifonia, v. 13, p. https://apd.org-474-503, 2024.
 
