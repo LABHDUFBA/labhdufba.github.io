@@ -14,7 +14,6 @@ social:
   - name: bluesky
     icon: fa fa-link
     link: https://bsky.app/profile/gabriel-andrade.bsky.social
-
 --- 
 
 Actuellement étudiant en ingénierie informatique à l’Université fédérale de Bahia (UFBA), il travaille comme ingénieur logiciel et possède une vaste expérience du développement logiciel avec des technologies modernes telles que Python, Node, PHP et Docker.

@@ -2,11 +2,6 @@
 
 # main menu
 [[main]]
-name = "Inicio"
-url = "/"
-weight = 1
-
-[[main]]
 name = "Acerca de"
 url = "about/"
 weight = 2
@@ -39,6 +34,7 @@ weight = 8
 [[main]]
 weight = 6
 name = "Publicaciones"
+url = "publications/"
 hasChildren = true
 
 [[main]]

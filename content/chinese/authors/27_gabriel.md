@@ -14,7 +14,6 @@ social:
   - name: bluesky
     icon: fa fa-link
     link: https://bsky.app/profile/gabriel-andrade.bsky.social
-
 --- 
 
 目前正在巴伊亚联邦大学（UFBA）攻读计算机工程学位；作为软件工程师，拥有使用Python、Node、PHP、Docker等现代技术进行软件开发的丰富经验。

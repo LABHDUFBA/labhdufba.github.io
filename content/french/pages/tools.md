@@ -110,7 +110,7 @@ Un outil d’aide à la recherche dans l’Hémérothèque numérique brésilien
 
 En 2018, le Laboratoire en réseau des humanités numériques de l’Institut brésilien de l’information en science et technologie (IBICT) a créé la première version du wiki des outils numériques. Son objectif était de servir de base de référence et de carrefour d’information pour la diffusion de connaissances dans l’environnement numérique, à destination des chercheurs en sciences de l’information intéressés par les humanités numériques et, plus largement, des chercheurs en sciences humaines lusophones.
 
-À partir de 2020, le Wiki Larhud s’est associé au Laboratoire d’humanités numériques de l’UFBA (LABHD-UFBA), devenant le wiki de tutoriels sur les outils des humanités numériques de ces deux laboratoires.
+À partir de 2020, le Wiki Larhud s’est associé au Laboratoire d’humanités numériques de l’UFBA (LABHDUFBA), devenant le wiki de tutoriels sur les outils des humanités numériques de ces deux laboratoires.
 
 Le wiki est entièrement en portugais et propose un glossaire ainsi qu’une liste des outils les plus couramment utilisés pour la recherche en humanités numériques.
 

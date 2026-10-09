@@ -111,7 +111,7 @@ Uma ferramenta para auxiliar a pesquisa na Biblioteca Digital de Jornais Brasile
 
 Em 2018, o Laboratório em Rede de Humanidades Digitais do Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT) criou a primeira versão da wiki de ferramentas digitais. O objetivo era servir como uma base de referência e um hub de informações para a disseminação de conhecimento no ambiente digital voltado para pesquisadores da área de Ciência da Informação (interessados no tema das Humanidades Digitais) e humanidades em geral na língua portuguesa.
 
-A partir de 2020, a Wiki do Larhud agora conta com a parceria do Laboratório de Humanidades Digitais da UFBA (LABHD-UFBA), tornando-se a Wiki de tutoriais para ferramentas de humanidades digitais desses dois laboratórios!
+A partir de 2020, a Wiki do Larhud agora conta com a parceria do Laboratório de Humanidades Digitais da UFBA (LABHDUFBA), tornando-se a Wiki de tutoriais para ferramentas de humanidades digitais desses dois laboratórios!
 
 A wiki está inteiramente em português, com um glossário e uma lista das ferramentas mais comumente usadas para pesquisa em humanidades digitais.
 

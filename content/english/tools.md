@@ -139,7 +139,7 @@ draft: false
     }
 </style>
 
-Tools and resources developed by LABHD-UFBA for Digital Humanities research: data scraping, text analysis, and reference platforms.
+Tools and resources developed by LABHDUFBA for Digital Humanities research: data scraping, text analysis, and reference platforms.
 
 <div class="data-cards">
 

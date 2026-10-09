@@ -40,7 +40,7 @@ draft: false
 ## 多平台生态系统与对健康信息完整性的攻击
 
 <div style="text-align: center;">
-    <img src='https://raw.githubusercontent.com/LABHDUFBA/labhdufba.github.io/main/assets/images/infodemia.jpg' alt="多平台生态系统与对健康信息完整性的攻击" width="300">
+    <img src='/images/multi-platform-ecosystems.jpg' alt="多平台生态系统与对健康信息完整性的攻击" width="300">
 </div>
 
 该项目研究针对健康信息完整性的多平台攻击生态系统，重点关注巴西语境中虚假信息的影响、传播模式和缓解策略。该研究由 LABHDUFBA、集体健康研究所（ISC/UFBA）和 PECS 合作开展，并得到卫生部和 CNPq（第 1 条线，轴线：信息疫情管理）的资助。研究基于如下认识：数字平台由参与度和注意力变现驱动的算法逻辑，加速了虚假和争议性内容的传播，导致信息疫情和信息失序。“医疗民粹主义”等策略将反政治和反科学相结合，损害科学健康知识的完整性。

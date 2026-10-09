@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "多平台生态系统与对健康信息完整性的攻击"
-    image: "/images/infodemia.jpg"
+    image: "/images/multi-platform-ecosystems.jpg"
     content: "LABHDUFBA 与集体健康研究所（ISC/UFBA）及 PECS 合作，在卫生部和 CNPq 的资助下，研究巴西针对健康信息完整性的多平台攻击生态系统。该研究分析虚假信息的影响、传播模式及缓解策略，尤其关注疫苗犹豫和疫苗接种覆盖率下降。"
     bulletpoints:
       - "包含超过 7,800 万条 Telegram 消息、120 万条 WhatsApp 消息和 64.1 万个 YouTube 视频的数据库"

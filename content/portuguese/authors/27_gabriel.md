@@ -14,7 +14,6 @@ social:
   - name: bluesky
     icon: fa fa-link
     link: https://bsky.app/profile/gabriel-andrade.bsky.social
-
 --- 
 
 Graduando em Engenharia de Computação pela Universidade Federal da Bahia (UFBA); Atuo como Engenheiro de Software e possuo experiência em desenvolvimento de sistemas web e de scripts utilizando tecnologias como Python, Node, PHP, Docker, entre outras.

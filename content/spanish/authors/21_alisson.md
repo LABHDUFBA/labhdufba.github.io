@@ -8,18 +8,15 @@ social:
   - name: github
     icon: fa-brands fa-github
     link: https://github.com/SoaresAlisson/
-    
-  - name: twitter 
-    icon: fa-brands fa-twitter
-    link: https://twitter.com/alissonmasoares
-    
-  - name: mastodon 
-    icon: fa-brands fa-mastodon 
-    link: https://fosstodon.org/@alissonmasoares
-    
   - name: bluesky
     icon: fa fa-link
     link: https://bsky.app/profile/alissonmasoares.bsky.social
+  - name: mastodon 
+    icon: fa-brands fa-mastodon 
+    link: https://fosstodon.org/@alissonmasoares
+  - name: twitter 
+    icon: fa-brands fa-twitter
+    link: https://twitter.com/alissonmasoares
 ---
 
 Licenciado en Ciencias Sociales, especialista en Historia de la Ciencia, magíster y doctor en Sociología por la UFMG, con investigación posdoctoral en Ciencia Política por la UFPE. Actualmente se interesa por la desinformación, las teorías de la conspiración, las ciencias sociales computacionales, el análisis y la minería de textos, y el procesamiento del lenguaje natural.

@@ -110,7 +110,7 @@ Una herramienta para apoyar la investigación en la Hemeroteca Digital Brasileñ
 
 En 2018, el Laboratorio en Red de Humanidades Digitales del Instituto Brasileño de Información en Ciencia y Tecnología (IBICT) creó la primera versión de la wiki de herramientas digitales. El objetivo era servir como base de referencia y centro de información para la difusión del conocimiento en el entorno digital, dirigido a investigadores del campo de las Ciencias de la Información, interesados en el tema de las Humanidades Digitales, y de las humanidades en general en lengua portuguesa.
 
-A partir de 2020, la Wiki Larhud cuenta con la colaboración del Laboratorio de Humanidades Digitales de la UFBA (LABHD-UFBA), y se convirtió en la wiki de tutoriales sobre herramientas de humanidades digitales de estos dos laboratorios.
+A partir de 2020, la Wiki Larhud cuenta con la colaboración del Laboratorio de Humanidades Digitales de la UFBA (LABHDUFBA), y se convirtió en la wiki de tutoriales sobre herramientas de humanidades digitales de estos dos laboratorios.
 
 La wiki está íntegramente en portugués e incluye un glosario y una lista de las herramientas más utilizadas para la investigación en humanidades digitales.
 

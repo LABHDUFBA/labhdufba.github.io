@@ -1,8 +1,8 @@
-﻿---
-title: Tuboi Bernardo ChaÃºque
+---
+title: Tuboi Bernardo Chaúque
 weight: 33
 image: "/images/tuboi-bernardo-chauque.jpg"
-description: "Bolsista PIBIT â€” UNILAB, Campus dos MalÃªs"
+description: "Bolsista PIBIT — UNILAB, Campus dos Malês"
 social:
   - name: email
     icon: fa-solid fa-envelope
@@ -18,4 +18,4 @@ social:
     link: "https://www.linkedin.com/in/tuboichauque"
 ---
 
-Graduando em RelaÃ§Ãµes Internacionais pela UNILAB, Campus dos MalÃªs, com interesse em InteligÃªncia Artificial, GeopolÃ­tica Digital e Desenvolvimento SustentÃ¡vel. Dedica-se ao estudo das interseÃ§Ãµes entre InteligÃªncia Artificial, GeopolÃ­tica Digital e Desenvolvimento SustentÃ¡vel, com especial interesse em governanÃ§a global, regulaÃ§Ã£o de dados e transformaÃ§Ãµes contemporÃ¢neas da ordem internacional.
+Graduando em Relações Internacionais pela UNILAB, Campus dos Malês, com interesse em Inteligência Artificial, Geopolítica Digital e Desenvolvimento Sustentável. Dedica-se ao estudo das interseções entre Inteligência Artificial, Geopolítica Digital e Desenvolvimento Sustentável, com especial interesse em governança global, regulação de dados e transformações contemporâneas da ordem internacional.

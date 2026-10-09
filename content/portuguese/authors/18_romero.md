@@ -5,9 +5,11 @@ email: romeromab@yahoo.com.br
 image: "/images/romero_400.jpg"
 description: 
 social:
+  - name: email
+    icon: fa-solid fa-envelope
+    link: mailto:romeromab@yahoo.com.br
   - name: lattes
     icon: fa-regular fa-user
     link: http://lattes.cnpq.br/6908390678539380
 ---
-
 Possui Mestrado em Sociologia e Bacharelado em Ciências Sociais pela Universidade Estadual de Campinas (1996); tem experiência na área de Sociologia, com ênfase nos Fundamentos da Sociologia. Atualmente, atua como Professor de Sociologia no ensino superior no Instituto Federal da Bahia em Salvador.
