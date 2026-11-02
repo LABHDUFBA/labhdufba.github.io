@@ -5,6 +5,23 @@ description: "Publicaciones de LABHDUFBA"
 draft: false
 ---
 
+
+##### 2026
+
+<div style="text-align: justify;">
+
+**Activismo digital, coordinación del compromiso e imaginarios algorítmicos en el canal de WhatsApp EXÉRCITO DO LULA (2026)** – Este informe analiza la dinámica del canal de WhatsApp EXÉRCITO DO LULA en la ventana del 5 al 25 de octubre de 2026 (segunda vuelta de la elección presidencial), a partir de 1.278 publicaciones, de las cuales 1.018 unidades fueron íntegramente codificadas. El estudio documenta repertorios de coordinación del compromiso (hashtags sincronizados, concentración temporal de interacciones, rotación entre páginas), imaginarios algorítmicos movilizados por los propios operadores del canal y las fronteras entre coordinación política legítima y comportamiento coordinado inauténtico. Datos, código e informes en cuatro idiomas disponibles en depósito abierto.
+
+NASCIMENTO, L.; BRASIL, E.; SODRÉ, R. A.; CESARINO, L.; KALIL, I.; BELAS, L. Ativismo digital, coordenação de engajamento e imaginários algorítmicos no canal de WhatsApp EXÉRCITO DO LULA [Informe técnico-científico]. Salvador: LABHDUFBA, 2026.
+
+</div>
+
+<div style="text-align: center;">
+
+[**Haga clic para acceder al informe completo**](https://github.com/LABHDUFBA/exercito-do-lula)
+
+</div>
+
 ##### 2025
 
 <div style="text-align: justify;">
