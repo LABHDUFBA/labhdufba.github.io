@@ -12,13 +12,13 @@ draft: false
 
 **Activismo digital, coordinación del compromiso e imaginarios algorítmicos en el canal de WhatsApp EXÉRCITO DO LULA (2026)** – Este informe analiza la dinámica del canal de WhatsApp EXÉRCITO DO LULA en la ventana del 5 al 25 de octubre de 2026 (segunda vuelta de la elección presidencial), a partir de 1.278 publicaciones, de las cuales 1.018 unidades fueron íntegramente codificadas. El estudio documenta repertorios de coordinación del compromiso (hashtags sincronizados, concentración temporal de interacciones, rotación entre páginas), imaginarios algorítmicos movilizados por los propios operadores del canal y las fronteras entre coordinación política legítima y comportamiento coordinado inauténtico. Datos, código e informes en cuatro idiomas disponibles en depósito abierto.
 
-NASCIMENTO, L.; BRASIL, E.; SODRÉ, R. A.; CESARINO, L.; KALIL, I.; BARRETO, T.; BELAS, L. Ativismo digital, coordenação de engajamento e imaginários algorítmicos no canal de WhatsApp EXÉRCITO DO LULA [Informe técnico-científico]. Salvador: LABHDUFBA, 2026. DOI: 10.5281/zenodo.23883859.
+NASCIMENTO, L.; BRASIL, E.; SODRÉ, R. A.; CESARINO, L.; KALIL, I.; BARRETO, T.; BELAS, L. Ativismo digital, coordenação de engajamento e imaginários algorítmicos no canal de WhatsApp EXÉRCITO DO LULA [Informe técnico-científico]. Salvador: LABHDUFBA, 2026. DOI: 10.5281/zenodo.23883858.
 
 </div>
 
 <div style="text-align: center;">
 
-[**Haga clic para acceder al informe completo**](https://github.com/LABHDUFBA/exercito-do-lula) · [**Datos con DOI (Zenodo)**](https://zenodo.org/records/23883859)
+[**📄 Informe PDF (español)**](https://zenodo.org/records/23890548/files/relatorios/exercito_lula_informe_es.pdf?download=1) · [**📊 Datos con DOI (Zenodo)**](https://zenodo.org/doi/10.5281/zenodo.23883858) · [**💻 Repositorio (GitHub)**](https://github.com/LABHDUFBA/exercito-do-lula)
 
 </div>
 
